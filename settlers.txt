@@ -161,6 +161,8 @@ Nothing complex, you will very likely finish this while doing normal atlas progr
 - [.ggg]Alva Missions x 30
 
 Red Maps but no tier requirement, spec into them on the Atlas and you can get 100% chance or simply use their Scarabs.
+
+None of these are hard but you probably want to sync it with Magnificent Mastery so you progress faster.
 </div>
 
 # 12 Refined Reagents
@@ -271,25 +273,49 @@ All map areas need to be at least T14 for level 81.
 
 # 17 Sublime Starlight
 <div id="ch-17" markdown="1">
-## Easy
+## Normal
 ### Buyable
 [.ggg]Use the following Runes in Runesmith Crafting.
 - [.ggg]Sun Rune
+	- [.com]Any basic recipe
 - [.ggg]Bound Rune
+	- [.com]Any basic recipe
 - [.ggg]Life Rune
+	- [.com]Any basic recipe
 - [.ggg]War Rune
+	- [.com]Adds (7–9) to (14–16) Chaos Damage
+		- [.com] Also uses Life Rune
 - [.ggg]River Rune
+	- [.com]Adds (7–9) to (14–16) Cold Damage
 - [.ggg]Bounty Rune
+	- [.com](10–15)% chance to Impale on Spell Hit
+		- [.com]Also uses War and Bound
 - [.ggg]Journey Rune
+	- [.com](10–15)% chance to Impale on Spell Hit
+		- [.com]Also uses War and Bound
 - [.ggg]Mountain Rune
+	- [.com]Gain (2–4) Rage on Melee Hit
+		-[.com]Also uses War and Bounty
 - [.ggg]Time Rune
+	- [.com]Around 3 Divines at time of writing
+	- [.com]Curse Enemies with Punishment on Hit
+		- [.com]Also uses Journey and Sun
 - [.ggg]Power Rune
+	- [.com]Around 8 Divines at time of writing
+	- [.com]+(50–75)% chance to Suppress Spell Damage while your Off Hand is empty		
+		- [.com]Also uses River and Life
+		
 
 You will need to upgrade your Runesmithing Facility in order to unlock actually using these.
 
 Runes are listed in order of rarity and all runes can be traded for or bought on the Currency Market.
 
 To get them naturally, send ships to Kalguuran ports to get Runes back, they are goods agnostic and will simply be rewarded based on the overall value of your shipments.
+
+It's recommended to start with the most expensive crafts, they often use lower tier runes which covers multiple requirements.
+
+This is a pretty expensive challenge, the last couple of crafts being much of the weight and running into 10+ Divines currently.
+
 </div>
 
 # 18 Achieve Ascension
@@ -383,11 +409,15 @@ Synthesis Maps give around 15,000 gold regularly on completion and can be incorp
 
 Olmec's Sanctum gives around 5,000 gold and can be finished in around 2 minutes on a character with good movement speed and high DPS
 
+T17s will in general give you a lot but are T17s.
+
 Don't deposit it in chunks if you have facilities running or they will consume it.
 
 Be aware that workers assigned to Ore and Bar production will automatically swap to pending tasks! 
 
 For example if you have 10,000 Orichalcum Ore and everyone is assigned to Bismuth Bars they will swap to making Orichalcum Bars after they run out of Bismuth.
+
+Rarity can increase all sources of gold so you might want to have an Item Rarity Culling Strike set up for something like the Admiral.
 </div>
 
 # 23 Remarkable Realms
