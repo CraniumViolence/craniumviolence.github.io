@@ -746,6 +746,12 @@ There's not a lot of these encounters so this might be tricky, especially if you
 - [.ggg]Ziggurat
 
 Straight forward enough, requires a fairly strong build but can be bought from other players and you can roll the maps to your strengths.
+
+250% basically requires you to run some of the worst mods, this might require you to have a dedicated bosser just to nuke the bosses even if you can clear the juiced map.
+
+12% Item Quantity can be found in the middle of the Atlas Tree.
+
+Each unique Atziri Fragment adds 5% Item Quantity while each unique Uber Atziri fragment adds 10% Item Quantity to maps.
 </div>
 
 # 39 Ultimate Usurpers
