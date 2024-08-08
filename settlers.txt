@@ -217,6 +217,8 @@ Incredibly straight forward, the crafting bench counting makes it more likely yo
 [.ggg]Defeat 500 Map Bosses.
 
 Historically maps with multiple bosses such as City Square have counted as multiple of these. There's also a lot of ways to add more Map Bosses in general with scarabs, shouldn't be too grindy but is probably still around 100 maps for most people.
+
+This also counts all bosses within Atziri, meaning you get credit for 6 bosses within that encounter.
 </div>
 
 # 15 Potent Pantheon
