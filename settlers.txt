@@ -565,7 +565,7 @@ You will likely want to double down on Scarabs and an Atlas Tree to complete any
 
 Four Scarabs makes it a bit expensive but there's a lot of cheap scarabs and as long as you can run T16s it shouldn't be too bad. T17s are likely to always count for this.
 
-You can use the Atlas's Item Quantity nodes to make it easier and basically allow alch and go with the extra +% Item Quantity from there and the Map Device itself.
+You can use the Atlas's Item Quantity and Modifier effect nodes to make it easier and basically allow alch and go with the extra +% Item Quantity from there and the Map Device itself.
 </div>
 
 # 30 Arduous Atlas
@@ -749,11 +749,19 @@ There's not a lot of these encounters so this might be tricky, especially if you
 
 Straight forward enough, requires a fairly strong build but can be bought from other players and you can roll the maps to your strengths.
 
+The Tier 17s which drop in your maps are dependant on what maps you are running, check [The PoeWiki Tier 17 Map Page](https://www.poewiki.net/wiki/Tier_17_map) for information on the maps.
+
+Scarab of Stability can give you extra portals for each of these.
+
 250% basically requires you to run some of the worst mods, this might require you to have a dedicated bosser just to nuke the bosses even if you can clear the juiced map.
+
+Map Modifier Effect nodes increase the quantity granted by individual nodes, this gets rounded down before summing up so you will want to be 
 
 12% Item Quantity can be found in the middle of the Atlas Tree.
 
 Each unique Atziri Fragment adds 5% Item Quantity while each unique Uber Atziri fragment adds 10% Item Quantity to maps.
+
+8% Item Quantity is found on the map device.
 </div>
 
 # 39 Ultimate Usurpers
@@ -806,15 +814,17 @@ As a baseline serious considerations should be made for:
 - Grinding Gear Goals
 	- It's not too bad, but it is a lot of grind that you might be doing naturally.
 - Ultimate Usurpers
-	- Uber Bosses are Uber Bosses, not all builds can do them and they can be expensive to even access. If you don't want to buy completions these might be an obvious skip.
+	- Uber Bosses are Uber Bosses, not all builds can do them and they can be expensive to even access. If you don't want to buy completions these might be an obvious skip
 - Challenging Competitors
-	- The spawns are fairly rare overall and it's unlikely you will get many attempts at them over the league.
+	- The spawns are fairly rare overall and it's unlikely you will get many attempts at them over the league
 - Inciting Invitations
-	- Invitations aren't something everyone actively runs and if you do not want to do cycles or buy them you might be best served skipping this.
+	- Invitations aren't something everyone actively runs and if you do not want to do cycles or buy them you might be best served skipping this
 - Magnificent Mastery
-	- If you don't like the content it is completely viable to skip it this league as most of the challenges aren't too bad.
+	- If you don't like the content it is completely viable to skip it this league as most of the challenges aren't too bad
 - Divined Destiny
 	- This is somewhat RNG dependant and you might not actually see parts of it when coming close to finishing the other challenges
+- Nightmarish Nemeses
+	- 250% item quant is rather a lot of utterly miserable modifiers in most cases, if you aren't a build designed to clear the content this will not be something you can feasibly clear 
 	
 Most of the challenges are fairly mapping oriented this time so you will actively want to be mapping just to advance the league mechanic and get numbers moving up.
 
