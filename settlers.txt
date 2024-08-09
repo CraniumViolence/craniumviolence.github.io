@@ -550,13 +550,13 @@ Harbinger in Breach, Breachlord during Shrine, Blight Boss while Delirious are t
 ## Easy
 [.ggg]Complete one of the following Master Mission encounters.
 - [.ggg]Reach Depth Level 400 in your Azurite Mine
-	- [.com]Sulphite Scarabs and forcing Niko in maps gives a lot of fast Sulphite
+	- [.com]`Sulphite Scarabs` and forcing Niko in maps gives a lot of fast Sulphite
 	- [.com]Your build needs to be able to handle 400 depth which isn't a given on most builds
 - [.ggg]Capture Red Beasts x 400	
 	- [.com]`Bestiary Scarab of the Herd` adds 5 Red Beasts and up to two can be added to each map
 	- [.com]`Big Game` on the Atlas Tree can convert Yellow Beasts into Red Beasts and the nodes before it add 2 extra Yellow Beasts
 - [.ggg]Complete Betrayal Safehouses x 40
-	- [.com]Intelligence Gathering on the Atlas Tree can make this happen passively over time
+	- [.com]`Intelligence Gathering` on the Atlas Tree can make this happen passively over time
 	- [.com]`Betrayal Scarab of Intelligence` increases intelligence 150% for targets in a map
 - [.ggg]Upgrade Incursion rooms to Tier 3 x 200
 	- [.com]`Artefacts of the Vaal`, `Contested Development` and `Resource Reallocation` maximise incursion upgrade chances
