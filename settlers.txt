@@ -690,6 +690,49 @@ You probably should skip the mirror, just a suggestion.
 A total of around 60 invites rolled on the lower end, this isn't particularly hard but is a lot of content due to the nature of how invitations work.
 
 You can buy clears and you can buy invitations outright for non-maven encounters.
+
+All explicitly named invitations count for this:
+- Writhing Invitation
+	- The Infinite Hunger
+- Polaric Invitation
+	- The Black Star
+- Incandescent Invitation
+	- The Searing Exarch
+- Screaming Invitation
+	- The Eater of Worlds
+- Maven's Invitation: The Atlas
+	- 10 Atlas Bosses
+- Maven's Invitation: The Feared
+	- Cortex
+	- Chayula
+	- Uber Atziri
+	- The Shaper
+	- The Elder
+- Maven's Invitation: The Forgotten
+    - Rewritten Distant Memory
+    - Augmented Distant Memory
+    - Altered Distant Memory
+    - Twisted Distant Memory
+- Maven's Invitation: The Formed
+    - Lair of the Hydra Map
+    - Maze of the Minotaur Map
+    - Forge of the Phoenix Map
+    - Pit of the Chimera Map
+- Maven's Invitation: The Hidden
+	- Uul-Netol's Breachstone
+    - Xoph's Breachstone
+    - Tul's Breachstone
+    - Esh's Breachstone
+- Maven's Invitation: The Twisted
+	- The Purifier
+	- The Constrictor
+	- The Enslaver
+	- The Eradicator
+- Maven's Invitation: The Elderslayers
+	- Al-Hezmin, the Hunter
+	- Baran, the Crusader
+	- Drox, the Warlord
+	- Veritania, the Redeemer
 </div>
 
 # 36 Realised Realms
