@@ -540,6 +540,7 @@ Harbinger in Breach, Breachlord during Shrine, Blight Boss while Delirious are t
 	- [.com]The final tier of the Disenchanter facility unlocks these, you will need a fair amount of gold and items disenchanted before you unlock this
 - [.ggg]Claim rewards from Maps successfully completed by your Atlas Runners x 150
 	- [.com]Map Runners are expensive and prone to dying so this might take quite a while, you can run a bunch at once and queue them up after upgrading at least
+	- [.com]You can run white maps and still have it count for this without issue
 - [.ggg]Use the Recombinator, resulting in an item which is Item Level 75 or higher x 15
 	- [.com]Needs dust but is otherwise pretty easy and you can just use actual junk items to get this done
 </div>
@@ -549,9 +550,18 @@ Harbinger in Breach, Breachlord during Shrine, Blight Boss while Delirious are t
 ## Easy
 [.ggg]Complete one of the following Master Mission encounters.
 - [.ggg]Reach Depth Level 400 in your Azurite Mine
-- [.ggg]Capture Red Beasts x 400
+	- [.com]Sulphite Scarabs and forcing Niko in maps gives a lot of fast Sulphite
+	- [.com]Your build needs to be able to handle 400 depth which isn't a given on most builds
+- [.ggg]Capture Red Beasts x 400	
+	- [.com]`Bestiary Scarab of the Herd` adds 5 Red Beasts and up to two can be added to each map
+	- [.com]`Big Game` on the Atlas Tree can convert Yellow Beasts into Red Beasts and the nodes before it add 2 extra Yellow Beasts
 - [.ggg]Complete Betrayal Safehouses x 40
+	- [.com]Intelligence Gathering on the Atlas Tree can make this happen passively over time
+	- [.com]`Betrayal Scarab of Intelligence` increases intelligence 150% for targets in a map
 - [.ggg]Upgrade Incursion rooms to Tier 3 x 200
+	- [.com]`Artefacts of the Vaal`, `Contested Development` and `Resource Reallocation` maximise incursion upgrade chances
+	- [.com]The rooms `Locus of Corruption` and `Doryani's Institute` can be valuable
+	- [.com]You can use an `Incursion Scarab of Timelines` on any temple that has valuable rooms at any rank to get potentially multiple copies of the temple with them at level 3 (will not help towards challenge)
 
 Can be slow but shouldn't be too hard outside of the Delve one. A single completion is required so this is pretty easy overall.
 
