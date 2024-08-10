@@ -812,15 +812,22 @@ The Tier 17s which drop in your maps are dependant on what maps you are running,
 
 Scarab of Stability can give you extra portals for each of these.
 
-250% basically requires you to run some of the worst mods, this might require you to have a dedicated bosser just to nuke the bosses even if you can clear the juiced map.
-
-Map Modifier Effect nodes increase the quantity granted by individual nodes, this gets rounded down before summing up so you will want to be 
-
 12% Item Quantity can be found in the middle of the Atlas Tree.
+
+250% basically requires you to run some of the worst mods, this might require you to have a dedicated bosser just to nuke the bosses even if you can clear the juiced map.
 
 Each unique Atziri Fragment adds 5% Item Quantity while each unique Uber Atziri fragment adds 10% Item Quantity to maps.
 
 8% Item Quantity is found on the map device.
+
+Map Modifier Effect nodes increase the quantity granted by individual nodes, this gets rounded down before summing up so assume you need a bit more than 130% quality to naturally end up at 250%
+	- Small passives grant 62% increased
+	- `Mounting Modifiers` grants 2% per modifier on your map, this is always 16% for a T17
+	- `Chiselled Perfection` grants 3% per 5% map quality which will be 12%
+	- With all of the above you will end up with around 90% increased
+
+Running a full Uber Atziri set and one extra Atziri fragment you should aim for around 100% quantity while having increased effect.
+
 </div>
 
 # 39 Ultimate Usurpers
