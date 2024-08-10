@@ -825,14 +825,23 @@ Each unique Atziri Fragment adds 5% Item Quantity while each unique Uber Atziri 
 ### Buyable
 [.ggg]Defeat any four of the following Pinnacle Boss Encounters while the area is level 85.
 - [.ggg]Sirus, Awakener of Worlds in Eye of the Storm
+	- [.com]Uses `Awakening Fragment` and is moderately priced
 - [.ggg]The Elder in The Shaper's Realm
+	- [.com]Uses `Decaying Fragment` and is moderately priced
 - [.ggg]The Maven in Absence of Mercy and Empathy
+	- [.com]Uses `Reality Fragment` and is very expensive
 - [.ggg]The Searing Exarch in Absence of Patience and Wisdom
+	- [.com]Uses `Blazing Fragment` and is moderately priced
 - [.ggg]The Eater of Worlds in Absence of Symmetry and Harmony
+	- [.com]Uses `Devouring Fragment` and is expensive
 - [.ggg]High Templar Venarius in Cortex
+	- [.com]Uses `Synthesising Fragment` and is relatively cheap
 - [.ggg]The Shaper in The Shaper's Realm
+	- [.com]Uses `Cosmic Fragment` and is not too expensive
 
 This is four of the seven uber boss variants, if you have a bosser this should be fine otherwise you can buy the clears.
+
+All of the fights have lingering damage over time that lasts the entire fight which makes high DPS crucial if you want to have leeway in your execution. The longer the fight the worse the arena and the more likely you are to fail.
 </div>
 
 # 40 Gear Grinding Goals
@@ -848,15 +857,17 @@ This is four of the seven uber boss variants, if you have a bosser this should b
 	- [.com]T15 Beachheads
 - [.ggg]Cleanse Darkshrines in the Endgame Labyrinth x 300
 	- [.com]You can get multiple of these a run, it would be monotonous but you can go for them on a day where there's a very early one and simply reset
+	- [.com]Typically you can expect this to equate to 100 labs on average if you get a decent layout
 - [.ggg]Activate Eldritch Altars or defeat Witnessed Map Bosses  x 400
 	- [.com]Straight forward normal mapping rewards, all types of content count so you'll likely always make passive progress on this if you are mapping
 - [.ggg]Defeat Level 83 or higher Rare monsters with at least 4 modifiers x 250
-	- [.com]Horned Scarab of Nemeses will help with this as they can be rather rare naturally
+	- [.com]Horned Scarab of Nemeses will help with this as they can be rather rare naturally but it is pretty likely to happen over time by itself
 - [.ggg]Complete Tier 17 maps x 50
 	- [.com]Straight forward, rebalanced T17s should make this more widely doable but it can still be very hard for a lot of builds
+	- [.com]Of note is that this is simply 'complete', with no further conditions. You can use the `Scarab of Bisection` to neuter T17s pretty heavily
 - [.ggg]Claim rewards from Rare, Tier 14 or higher Maps successfully completed by your Atlas Runners x 200
-	- [.com]This needs a lot of spare maps, gold and real time, not fully certain of how bad or easy this one is yet
-	
+	- [.com]This needs a lot of spare maps, gold and real time
+	- [.com]The biggest gold and timesink will be getting map runners that do not actually die in T14s or upwards, with a bunch of level 10s this can be as little as 1% chance
 
 If you aren't doing lab runs, Darkshrines is a very obvious skip choice. 
 
