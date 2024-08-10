@@ -768,6 +768,7 @@ Simply buy 10 of the cheapest chisels and you are done. You can also claim a sta
 [.ggg]Defeat Settlers of Kalguur Boss encounters while the area is level 83 in any four of the specified ways.
 - [.ggg]Admiral Valerius without being hit by Anchor Smash
 	- [.com]He shouts 'Sink!' and spawns a giant Anchor to Smash you
+	- [.com]it has a fairly obvious telegraph but it lasts deceptively long so be sure to stay out of it until it's completely disappeared
 - [.ggg]Admiral Valerius without being affected by more than 5 stacks of Soaked to the Bone
 	- [.com]Water based attacks inflict this but the waves which push you do not
 	- [.com]You can blink past waves if you do not have any space to manoeuvre around them
@@ -779,7 +780,7 @@ Simply buy 10 of the cheapest chisels and you are done. You can also claim a sta
 	- [.com]The boss spawns multiple rock pillars in the area and the fires a laser which can be blocked by said rock pillars
 	- [.com]The pillars will shatter over time so you should have a blink skill to move behind double layered or simply multiple pillars in a row
 	- [.com]With enough DPS you can completely skip all three Verisium Laser phases, if you over damage him during a phase he will do the falling rocks attack and move on without doing a laser
-	- [.com]You can log out the second you see this phase start or whenever he enters an invulnerability phase to cheese this	
+	- [.com]You can log out the second you see this phase start or whenever he enters an invulnerability phase to cheese this, this obviously requires spare portals to re-enter the map!
 
 Two of these require you to engage with the league mechanic a fair amount.
 
@@ -871,6 +872,9 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 - [.ggg]Claim rewards from Rare, Tier 14 or higher Maps successfully completed by your Atlas Runners x 200
 	- [.com]This needs a lot of spare maps, gold and real time
 	- [.com]The biggest gold and timesink will be getting map runners that do not actually die in T14s or upwards, with a bunch of level 10s this can be as little as 1% chance
+	- [.com]Conjecturally, running 1x Lv10, 2x Lv9, 2x Lv8 and 1x Lv7 have 1% chance of dying on less harsh T16 rares which is the lowest it can go
+	- [.com]You can regal maps to keep them easy to count for this, guaranteeing 100% completion still requires a lot of high level mappers
+	
 
 If you aren't doing lab runs, Darkshrines is a very obvious skip choice. 
 
