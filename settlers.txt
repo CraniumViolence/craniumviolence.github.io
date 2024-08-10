@@ -770,6 +770,7 @@ Simply buy 10 of the cheapest chisels and you are done. You can also claim a sta
 	- [.com]He shouts 'Sink!' and spawns a giant Anchor to Smash you
 - [.ggg]Admiral Valerius without being affected by more than 5 stacks of Soaked to the Bone
 	- [.com]Water based attacks inflict this but the waves which push you do not
+	- [.com]You can blink past waves if you do not have any space to manoeuvre around them
 - [.ggg]Sasan, the Bandit Lord without being hit by Circle of Flame
 - [.ggg]Sasan, the Bandit Lord without being hit by Hail of Arrows
 - [.ggg]The Black Knight without being hit by any falling rocks
@@ -777,6 +778,8 @@ Simply buy 10 of the cheapest chisels and you are done. You can also claim a sta
 - [.ggg]The Black Knight without being affected by Verisium Laser
 	- [.com]The boss spawns multiple rock pillars in the area and the fires a laser which can be blocked by said rock pillars
 	- [.com]The pillars will shatter over time so you should have a blink skill to move behind double layered or simply multiple pillars in a row
+	- [.com]With enough DPS you can completely skip all three Verisium Laser phases, if you over damage him during a phase he will do the falling rocks attack and move on without doing a laser
+	- [.com]You can log out the second you see this phase start or whenever he enters an invulnerability phase to cheese this	
 
 Two of these require you to engage with the league mechanic a fair amount.
 
@@ -912,3 +915,5 @@ At 36 challenge completion you can unlock the Kingsmarch Portal.
 [PoeDB](https://poedb.tw/us/) for easily accessible information on pretty much everything about the game.
 
 [PoeWiki](https://www.poewiki.net/wiki/) for some general information.
+
+Reddit user *lightning__* for the Black Knight cheesing information and *wrightosaur* for bringing it to my attention.
