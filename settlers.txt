@@ -655,7 +655,7 @@ As mentioned elsewhere, for gold you can spam basic deliveries to spawn Admiral 
 	- [.com]This is caused by the spinning spears in the arena and deals damage over time
 	- [.com]Caused both by their spinning and their thrust animation
 - [.ggg]Izaro in the Empowered Endgame Labyrinth without being hit by Ornamental Cascade
-	- [.com]Likely the green cascade attack, this needs to be done in a lab opened with one of Tribute, Gift or Dedication to the Goddess
+	- [.com]This is Izaro's Golden Sunder attack, it's fairly fast to come out and so true melee might struggle
 - [.ggg]The Syndicate Mastermind without taking any damage from their sculpture
 	- [.com]Catarina's sculpture fires beams that rotate clockwise, these speed up as the fight goes on, easiest if you can blitz her or survive in her DOT in the corners
 - [.ggg]Aul, the Crystal King after destroying all of the Crystalline Cocoons
@@ -663,7 +663,9 @@ As mentioned elsewhere, for gold you can spam basic deliveries to spawn Admiral 
 	- [.com]There are 8 Cocoons around the arena, Aul's spectral shield charge clones can break these which leave a permanent DoT where htey are destroyed
 	- [.com]Not avoidance oriented so any build that can survive while Aul creates the clones (probably needing him to do it twice) should be able to do it
 
-The conditions aren't too hard, this should be fairly easy ias long as you have a build that can do the bosses while staying mobile. 
+The conditions aren't too hard, this should be fairly easy ias long as you have a build that can do the bosses while staying mobile.
+
+Obviously DPS is king here outside of Aul as it simply means you have notably less time in which you can make mistakes.
 </div>
 
 # 34 Extravagent Equipment
@@ -835,7 +837,7 @@ This is four of the seven uber boss variants, if you have a bosser this should b
 
 # 40 Gear Grinding Goals
 <div id="ch-40" markdown="1">
-## Very Hard
+## Hard
 ### Grind Heavy
 [.ggg]Complete any four of these encounters the specified number of times.
 - [.ggg]Reach Level 100
@@ -854,6 +856,7 @@ This is four of the seven uber boss variants, if you have a bosser this should b
 	- [.com]Straight forward, rebalanced T17s should make this more widely doable but it can still be very hard for a lot of builds
 - [.ggg]Claim rewards from Rare, Tier 14 or higher Maps successfully completed by your Atlas Runners x 200
 	- [.com]This needs a lot of spare maps, gold and real time, not fully certain of how bad or easy this one is yet
+	
 
 If you aren't doing lab runs, Darkshrines is a very obvious skip choice. 
 
@@ -865,7 +868,7 @@ What you skip (if anything) will come down to what characters you want to build 
 
 As a baseline serious considerations should be made for:
 - Grinding Gear Goals
-	- It's not too bad, but it is a lot of grind that you might be doing naturally.
+	- It's not too bad, but it is a lot of grind that you might not be doing naturally.
 - Ultimate Usurpers
 	- Uber Bosses are Uber Bosses, not all builds can do them and they can be expensive to even access. If you don't want to buy completions these might be an obvious skip
 - Challenging Competitors
