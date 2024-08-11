@@ -302,15 +302,15 @@ All map areas need to be at least T14 for level 81.
 		- [.com]Also uses War and Bound
 - [.ggg]Mountain Rune
 	- [.com]Gain (2–4) Rage on Melee Hit
-	- [.com]Also uses War and Bounty
+		- [.com]Also uses War and Bounty
 - [.ggg]Time Rune
-	- [.com]Around 3 Divines at time of writing
 	- [.com]Curse Enemies with Punishment on Hit
 		- [.com]Also uses Journey and Sun
+		- [.com]Around 3 Divines at time of writing
 - [.ggg]Power Rune
-	- [.com]Around 8 Divines at time of writing
 	- [.com]+(50–75)% chance to Suppress Spell Damage while your Off Hand is empty		
 		- [.com]Also uses River and Life
+		- [.com]Around 8 Divines at time of writing
 		
 You will need to upgrade your Runesmithing Facility in order to unlock actually using these, this itself uses one of each rune including the very expensive Power Rune.
 
