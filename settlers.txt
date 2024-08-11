@@ -5,7 +5,9 @@ Please get in touch through [Github](https://github.com/CraniumViolence/craniumv
 
 The guide is still actively developing. It'll be worked on over the course of the first days to completion. Pull requests etc. are welcome if you wish to contribute!
 
-This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include complex instructions for a lot of aspects such as explaining what a mechanic is (with the obvious exception of current league or new mechanics getting more attention).
+This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include complex instructions for a lot of aspects such as explaining what a mechanic is (with the obvious exception of current league or new mechanics getting more attention). 
+
+None of the difficulties are SSF oriented because you know exactly what you signed up for playing SSF, if people want things flagged as bad for SSF for whatever reason just shout at me on the links above.
 
 # 1 Beginner's Basics
 <div id="ch-1" markdown="1">
@@ -209,6 +211,8 @@ The food and bars are in order of rarity and progression.
 - [.ggg]Divine Orb
 
 Incredibly straight forward, the crafting bench counting makes it more likely you can use them on something useful for yourself or potentially others to recoup some cost.
+
+You can also use Tiny's Trial from Betrayal with him in Transportation or Research to get Divine Orb and Exalted Orb done. Research also gives an Annulment. 
 </div>
 
 # 14 Overwhelming Opposition
@@ -267,6 +271,7 @@ Pretty straight forward, Divine Vessels are much rarer than you might expect so 
 - [.ggg]All Rituals in Maps with at least one Blood-filled Vessel applied x 15
 	- [.com]You can get Ritual Splinters while doing rituals which turn into Ritual Vessels, these can be used on finished rituals to make into a Blood-filled Vessel
 	- [.com]The vessels are used in the map device to add them to rituals, you can use up to five at a time now
+	- [.com]Dying does not grant credit for these as it is not a completion.
 
 Shouldn't be terribly hard, obvious low stress options are Blighted Maps, Abyssal Depths, Logbooks and Breachstones. A lot of options can be purchased as slot services.
 
@@ -275,7 +280,7 @@ All map areas need to be at least T14 for level 81.
 
 # 17 Sublime Starlight
 <div id="ch-17" markdown="1">
-## Normal
+## Hard
 ### Buyable
 [.ggg]Use the following Runes in Runesmith Crafting.
 - [.ggg]Sun Rune
@@ -307,8 +312,7 @@ All map areas need to be at least T14 for level 81.
 	- [.com]+(50–75)% chance to Suppress Spell Damage while your Off Hand is empty		
 		- [.com]Also uses River and Life
 		
-
-You will need to upgrade your Runesmithing Facility in order to unlock actually using these.
+You will need to upgrade your Runesmithing Facility in order to unlock actually using these, this itself uses one of each rune including the very expensive Power Rune.
 
 Runes are listed in order of rarity and all runes can be traded for or bought on the Currency Market.
 
@@ -496,7 +500,7 @@ Overall very simple with the only friction being that you will potentially need 
 # 26 Cross Contamination
 <div id="ch-26" markdown="1">
 ## Easy
-[.com]Complete any four of the following past league content encounters.
+[.ggg]Complete any four of the following past league content encounters.
 - [.ggg]Defeat a Harbinger while you are in a Breach
 	- [.com]Any harbinger, so you can use all sources of them without issue
 	- [.com]**Heavy Breach** extends Breach encounters.
@@ -517,6 +521,7 @@ Overall very simple with the only friction being that you will potentially need 
 - [.ggg]Defeat a Delirium or Beyond Boss while in the Sacred Grove
 	- [.com]A bit RNG, stacking beyond and delirium at the same time probably gets you the best hopes
 	- [.com]You can use a Delirium Orb to force delirium for the entire map
+	- [.com]`Delirium Scarab of Neuroses` forces boss spawns, you can spam them in maps with 100% harvest chance and just rush to the harvest grove to see if ther's a boss
 - [.ggg]Defeat a Syndicate Member that is Possessed
 	- [.com]Force Jun using scarabs
 	- [.com]Stack as many tormented spirits in a map as you can with the Atlas and Scarabs
@@ -536,6 +541,7 @@ Harbinger in Breach, Breachlord during Shrine, Blight Boss while Delirious are t
 - [.ggg]Complete Port Quotas x 30
 	- [.com]All shipments have real time aspects to them so you probably want to get started on these sooner rather than later
 	- [.com]Swapping between settlements to keep requirements lower is likely sensible
+	- [.com]This goes up pretty significantly as you progress the game, if you didn't start early expect to do a lot of maps
 - [.ggg]Disenchant Unique items x 30
 	- [.com]The final tier of the Disenchanter facility unlocks these, you will need a fair amount of gold and items disenchanted before you unlock this
 - [.ggg]Claim rewards from Maps successfully completed by your Atlas Runners x 150
@@ -648,12 +654,13 @@ As mentioned elsewhere, for gold you can spam basic deliveries to spawn Admiral 
 [.ggg]Defeat any three of the following bosses in the specified ways while the area is level 83.
 - [.ggg]The King in the Mists without taking damage from Ritual of Meditation or Ritual of Dance
 	- [.com]It's the same as it was in Affliction
-	- [.com]Red means stop
-	- [.com]Purple means move
+	- [.com]Ritual of Dance is Red and means keep moving
+	- [.com]Ritual of Meditation is Purple and means stay still
 - [.ggg]Lycia, Herald of the Scourge without being affected by Heretic's Ire
 	- [.com]Sanctum final boss, obvious skip if you don't do Sanctum
 	- [.com]This is caused by the spinning spears in the arena and deals damage over time
 	- [.com]Caused both by their spinning and their thrust animation
+	- [.com]Only needs a Level 80 sanctum as each completed floor increases monster level
 - [.ggg]Izaro in the Empowered Endgame Labyrinth without being hit by Ornamental Cascade
 	- [.com]This is Izaro's Golden Sunder attack, it's fairly fast to come out and so true melee might struggle
 - [.ggg]The Syndicate Mastermind without taking any damage from their sculpture
@@ -663,9 +670,11 @@ As mentioned elsewhere, for gold you can spam basic deliveries to spawn Admiral 
 	- [.com]There are 8 Cocoons around the arena, Aul's spectral shield charge clones can break these which leave a permanent DoT where htey are destroyed
 	- [.com]Not avoidance oriented so any build that can survive while Aul creates the clones (probably needing him to do it twice) should be able to do it
 
-The conditions aren't too hard, this should be fairly easy ias long as you have a build that can do the bosses while staying mobile.
+The conditions aren't too hard, this should be fairly easy as long as you have a build that can do the bosses while staying mobile.
 
 Obviously DPS is king here outside of Aul as it simply means you have notably less time in which you can make mistakes.
+
+Aul is notable in that you can infinitely try as long as you have sulphite and don't complete the encounter, you can also get a taxi to an easy Aul from global, trade or a discord (a taxi is simply another player running you to the Aul fight and logging out, this stops their Aul being completed but still allows for challenge completion. Be aware that this does not drop loot for the player completing the boss after the host leaves.). 
 </div>
 
 # 34 Extravagent Equipment
@@ -773,7 +782,10 @@ Simply buy 10 of the cheapest chisels and you are done. You can also claim a sta
 	- [.com]Water based attacks inflict this but the waves which push you do not
 	- [.com]You can blink past waves if you do not have any space to manoeuvre around them
 - [.ggg]Sasan, the Bandit Lord without being hit by Circle of Flame
+	- [.com]The boss creates a large flame circle with a fairly obvious telegraph, get out of it ASAP and you should be fine
+	- [.com]A blink skill is recommended simply to guarantee you can escape as soon as possible
 - [.ggg]Sasan, the Bandit Lord without being hit by Hail of Arrows
+	- [.com]A series of small orange circles will appear and chase you around the arena, stay mobile avoiding these to complete the challenge
 - [.ggg]The Black Knight without being hit by any falling rocks
 	- [.com]The rocks have obvious telegraphs showing where they will fall during an intermissino phase
 - [.ggg]The Black Knight without being affected by Verisium Laser
@@ -791,6 +803,7 @@ Two of these require you to engage with the league mechanic a fair amount.
 	- Assign a mediocre helmsman to your three ships and simply send them to Riben Fell with around 1,000 value in crops and dust
 	- You will regularly get small amounts of runes which can be valuable and have seemingly the same chance as any other shipment to get the Admiral spawn
 - Sasan appears to ransom your Map Runners while they are active
+	- Sasan is fairly rare, you will likely be able to finish the other two far easier due to simply having a higher volume of attempts
 
 There's not a lot of these encounters so this might be tricky, especially if you have too low DPS to just obliterate bosses.
 </div>
@@ -816,7 +829,7 @@ Scarab of Stability can give you extra portals for each of these.
 
 250% basically requires you to run some of the worst mods, this might require you to have a dedicated bosser just to nuke the bosses even if you can clear the juiced map.
 
-Each unique Atziri Fragment adds 5% Item Quantity while each unique Uber Atziri fragment adds 10% Item Quantity to maps.
+Each unique Atziri Fragment adds 5% Item Quantity while each unique Uber Atziri fragment adds 10% Item Quantity to maps. You can also use Elder, Shaper, Conqueror and Uber Elder fragments but this is obviously ill advised as they will run notably more than the various Atziri Fragments.
 
 8% Item Quantity is found on the map device.
 
@@ -866,6 +879,7 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 	- [.com]Pure Chayula and other higher end Breachstones
 	- [.com]Coward's Trial
 	- [.com]T15 Beachheads
+	- [.com]`Orb of Amelioration` stops you losing all your XP on dying, but only once per area
 - [.ggg]Cleanse Darkshrines in the Endgame Labyrinth x 300
 	- [.com]You can get multiple of these a run, it would be monotonous but you can go for them on a day where there's a very early one and simply reset
 	- [.com]Typically you can expect this to equate to 100 labs on average if you get a decent layout
@@ -906,6 +920,10 @@ As a baseline serious considerations should be made for:
 	- This is somewhat RNG dependant and you might not actually see parts of it when coming close to finishing the other challenges
 - Nightmarish Nemeses
 	- 250% item quant is rather a lot of utterly miserable modifiers in most cases, if you aren't a build designed to clear the content this will not be something you can feasibly clear 
+- Sublime Starlight
+	- While not actually mechanically hard it's a large amount of divines to dump into a single challenge
+- Ambitious Assignments
+	- Quotas for this one scale pretty harshly over time, if you started Kingsmarch late you might not even get the more 'free' ones
 	
 Most of the challenges are fairly mapping oriented this time so you will actively want to be mapping just to advance the league mechanic and get numbers moving up.
 
