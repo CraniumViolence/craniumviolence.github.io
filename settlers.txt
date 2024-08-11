@@ -561,6 +561,7 @@ Harbinger in Breach, Breachlord during Shrine, Blight Boss while Delirious are t
 - [.ggg]Capture Red Beasts x 400	
 	- [.com]`Bestiary Scarab of the Herd` adds 5 Red Beasts and up to two can be added to each map
 	- [.com]`Big Game` on the Atlas Tree can convert Yellow Beasts into Red Beasts and the nodes before it add 2 extra Yellow Beasts
+	- [.com]Duplicating scarabs duplicate the captured beast, they are not an extra capture per monster
 - [.ggg]Complete Betrayal Safehouses x 40
 	- [.com]`Intelligence Gathering` on the Atlas Tree can make this happen passively over time
 	- [.com]`Betrayal Scarab of Intelligence` increases intelligence 150% for targets in a map
