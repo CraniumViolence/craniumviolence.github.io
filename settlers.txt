@@ -295,17 +295,17 @@ All map areas need to be at least T14 for level 81.
 - [.ggg]River Rune
 	- [.com]Adds (7–9) to (14–16) Cold Damage
 - [.ggg]Bounty Rune
-	- [.com](10–15)% chance to Impale on Spell Hit
-		- [.com]Also uses War and Bound
+	- [.com]\(10–15\)% chance to Impale on Spell Hit
+		- [.com]Also uses War and Bound Runes
 - [.ggg]Journey Rune
-	- [.com](10–15)% chance to Impale on Spell Hit
-		- [.com]Also uses War and Bound
+	- [.com]\(10–15\)% chance to Impale on Spell Hit
+		- [.com]Also uses War and Bound Runes
 - [.ggg]Mountain Rune
-	- [.com]Gain (2–4) Rage on Melee Hit
-		- [.com]Also uses War and Bounty
+	- [.com]Gain \(2–4\) Rage on Melee Hit
+		- [.com]Also uses War and Bounty Runes
 - [.ggg]Time Rune
 	- [.com]Curse Enemies with Punishment on Hit
-		- [.com]Also uses Journey and Sun
+		- [.com]Also uses Journey and Sun Runes
 		- [.com]Around 3 Divines at time of writing
 - [.ggg]Power Rune
 	- [.com]+(50–75)% chance to Suppress Spell Damage while your Off Hand is empty		
@@ -543,6 +543,7 @@ Harbinger in Breach, Breachlord during Shrine, Blight Boss while Delirious are t
 	- [.com]All shipments have real time aspects to them so you probably want to get started on these sooner rather than later
 	- [.com]Swapping between settlements to keep requirements lower is likely sensible
 	- [.com]This goes up pretty significantly as you progress the game, if you didn't start early expect to do a lot of maps
+	- [.com]Quotas are tied to the town level, using a low level character to send shipments or complete quotas does not affect anything
 - [.ggg]Disenchant Unique items x 30
 	- [.com]The final tier of the Disenchanter facility unlocks these, you will need a fair amount of gold and items disenchanted before you unlock this
 - [.ggg]Claim rewards from Maps successfully completed by your Atlas Runners x 150
