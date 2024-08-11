@@ -718,46 +718,61 @@ You can buy clears and you can buy invitations outright for non-maven encounters
 
 All explicitly named invitations count for this:
 - Writhing Invitation
+	- Cheap, likely profitable
 	- The Infinite Hunger
 - Polaric Invitation
+	- Cheap
 	- The Black Star
 - Incandescent Invitation
+	- Moderate cost, low profit chance
 	- The Searing Exarch
 - Screaming Invitation
+	- Moderate cost, low profit chance
 	- The Eater of Worlds
 - Maven's Invitation: The Atlas
+	- Mildly tedious but can be combined with The Elderslayers using Destructive Play, likely to end up rather profitable as a paired grind especially if you also run Sirus
 	- 10 Atlas Bosses
 - Maven's Invitation: The Feared
+	- Convoluted for a chained grind, prints maven invites and pairs well with running base Uber Elder
 	- Cortex
 	- Chayula
 	- Uber Atziri
+		- Needs reflect immunity
 	- The Shaper
 	- The Elder
 - Maven's Invitation: The Forgotten
+	- Very good gold returns for time investment, decent chance of Cortex and a very low chance of jackpot rings
     - Rewritten Distant Memory
     - Augmented Distant Memory
     - Altered Distant Memory
     - Twisted Distant Memory
 - Maven's Invitation: The Formed
+	- Shaper sets mostly cover the cost of the run and Mavens generated will be pure profit
     - Lair of the Hydra Map
     - Maze of the Minotaur Map
     - Forge of the Phoenix Map
     - Pit of the Chimera Map
+		- Can be rather annoying
 - Maven's Invitation: The Hidden
 	- Uul-Netol's Breachstone
     - Xoph's Breachstone
     - Tul's Breachstone
     - Esh's Breachstone
 - Maven's Invitation: The Twisted
+	- Selling the fragments will easily cover the cost of the maps, you can alternatively run them to fish for Watcher's Eyes to ID or sell
+	- Obviously has the issue of watching the Elder murder original map bosses every time
 	- The Purifier
 	- The Constrictor
 	- The Enslaver
 	- The Eradicator
 - Maven's Invitation: The Elderslayers
+	- Can be combined with The Atlas using Destructive Play, likely to end up rather profitable as a paired grind especially if you also run Sirus
 	- Al-Hezmin, the Hunter
 	- Baran, the Crusader
 	- Drox, the Warlord
 	- Veritania, the Redeemer
+
+As long as you have a build to do these you will likely always generate a decent profit finishing this up, otherwise you can simply run Writhing and Polarics for the fastest, cheapest completion.
 </div>
 
 # 36 Realised Realms
@@ -772,7 +787,7 @@ All explicitly named invitations count for this:
 	
 Chisels are literal in being 'use', you do not need to run the maps you chisel. 
 
-Simply buy 10 of the cheapest chisels and you are done. You can also claim a stack of random chisels fro mKirac's Vault Pass which can give you a 20 stack of a random Maven Chisel type.
+Simply buy 10 of the cheapest chisels and you are done. You can also claim a stack of random chisels from Kirac's Vault Pass which can give you a 20 stack of a random Maven Chisel type.
 </div>
 
 # 37 Challenging Competitors
@@ -791,7 +806,7 @@ Simply buy 10 of the cheapest chisels and you are done. You can also claim a sta
 - [.ggg]Sasan, the Bandit Lord without being hit by Hail of Arrows
 	- [.com]A series of small orange circles will appear and chase you around the arena, stay mobile avoiding these to complete the challenge
 - [.ggg]The Black Knight without being hit by any falling rocks
-	- [.com]The rocks have obvious telegraphs showing where they will fall during an intermissino phase
+	- [.com]The rocks have obvious telegraphs showing where they will fall during an intermission phase
 - [.ggg]The Black Knight without being affected by Verisium Laser
 	- [.com]The boss spawns multiple rock pillars in the area and the fires a laser which can be blocked by said rock pillars
 	- [.com]The pillars will shatter over time so you should have a blink skill to move behind double layered or simply multiple pillars in a row
@@ -818,10 +833,18 @@ There's not a lot of these encounters so this might be tricky, especially if you
 ### Buyable
 [.ggg]Complete each of the following Tier 17 Maps while they have at least 250% Item Quantity.
 - [.ggg]Sanctuary
+	- [.com]Uber Lycia, from Sanctum
+	- [.com]Spawns a Beyond boss during her circular red waves phase
 - [.ggg]Citadel
+	- [.com]Uber Uhtred, from Expedition
+	- [.com]Spawns other Expedition bosses during fight
 - [.ggg]Fortress
+	- [.com]Uber Unbreakable, from Heist
+	- [.com]No frills, most straight forward of these bosses
 - [.ggg]Abomination
+	- [.com]Uber Depraved Trinity, from Act 9
 - [.ggg]Ziggurat
+	- [.com]Uber Catarina, from Betrayal but changed up a fair amount and spawning Abyss Liches
 
 Straight forward enough, requires a fairly strong build but can be bought from other players and you can roll the maps to your strengths.
 
@@ -845,6 +868,7 @@ Map Modifier Effect nodes increase the quantity granted by individual nodes, thi
 
 Running a full Uber Atziri set and one extra Atziri fragment you should aim for around 100% quantity while having increased effect.
 
+You will almost certainly always want to avoid Area of Effect and Speed modifiers if you want manageable bosses on a non-immortal character.
 </div>
 
 # 39 Ultimate Usurpers
