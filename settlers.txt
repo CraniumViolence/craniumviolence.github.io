@@ -321,7 +321,6 @@ To get them naturally, send ships to Kalguuran ports to get Runes back, they are
 It's recommended to start with the most expensive crafts, they often use lower tier runes which covers multiple requirements.
 
 This is a pretty expensive challenge, the last couple of crafts being much of the weight and running into 10+ Divines currently.
-
 </div>
 
 # 18 Achieve Ascension
@@ -344,6 +343,8 @@ Functionally free, simply progressing to the endgame gets you this.
 - [.ggg]Turn in sets of Divination Cards x 50
 - [.ggg]Complete Rare Tier 11 or higher Maps with at least one Divination Scarab applied x 25
 - [.ggg]Scry a Map
+	- [.com] The Nameless Seer can put the Divination Cards of the map you are currently in onto one of your choice.
+	- [.com] Anecdotally, the Nameless Seer seems to have weighted spawns by how 'good' the divination cards are. If you want this done fast, don't run Defiled Cathedral or something with a T0 unique or high rarity card.
 
 The turn ins are for any set and the scarabs are for any red maps making those very easy to complete.
 
