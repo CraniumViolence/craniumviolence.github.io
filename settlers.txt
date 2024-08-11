@@ -302,7 +302,7 @@ All map areas need to be at least T14 for level 81.
 		- [.com]Also uses War and Bound
 - [.ggg]Mountain Rune
 	- [.com]Gain (2–4) Rage on Melee Hit
-		-[.com]Also uses War and Bounty
+	- [.com]Also uses War and Bounty
 - [.ggg]Time Rune
 	- [.com]Around 3 Divines at time of writing
 	- [.com]Curse Enemies with Punishment on Hit
