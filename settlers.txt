@@ -291,7 +291,7 @@ All map areas need to be at least T14 for level 81.
 	- [.com]Any basic recipe
 - [.ggg]War Rune
 	- [.com]Adds (7–9) to (14–16) Chaos Damage
-		- [.com] Also uses Life Rune
+		- [.com]Also uses Life Rune
 - [.ggg]River Rune
 	- [.com]Adds (7–9) to (14–16) Cold Damage
 - [.ggg]Bounty Rune
@@ -342,9 +342,10 @@ Functionally free, simply progressing to the endgame gets you this.
 - [.ggg]Open Diviners Strongboxes x 5
 - [.ggg]Turn in sets of Divination Cards x 50
 - [.ggg]Complete Rare Tier 11 or higher Maps with at least one Divination Scarab applied x 25
+	- [.com]Notable in that it's 'at least one' meaning it's 25 maps even if you put 5 scarabs onto each
 - [.ggg]Scry a Map
-	- [.com] The Nameless Seer can put the Divination Cards of the map you are currently in onto one of your choice.
-	- [.com] Anecdotally, the Nameless Seer seems to have weighted spawns by how 'good' the divination cards are. If you want this done fast, don't run Defiled Cathedral or something with a T0 unique or high rarity card.
+	- [.com]The Nameless Seer can put the Divination Cards of the map you are currently in onto one of your choice.
+	- [.com]Anecdotally, the Nameless Seer seems to have weighted spawns by how 'good' the divination cards are. If you want this done fast, don't run Defiled Cathedral or something with a T0 unique or high rarity card.
 
 The turn ins are for any set and the scarabs are for any red maps making those very easy to complete.
 
@@ -824,6 +825,7 @@ Two of these require you to engage with the league mechanic a fair amount.
 	- You will regularly get small amounts of runes which can be valuable and have seemingly the same chance as any other shipment to get the Admiral spawn
 - Sasan appears to ransom your Map Runners while they are active
 	- Sasan is fairly rare, you will likely be able to finish the other two far easier due to simply having a higher volume of attempts
+	- It is very likely that Sasan can only appear if your Map Runners are running Tier 16 maps
 
 There's not a lot of these encounters so this might be tricky, especially if you have too low DPS to just obliterate bosses.
 </div>
@@ -924,6 +926,7 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 	- [.com]The biggest gold and timesink will be getting map runners that do not actually die in T14s or upwards, with a bunch of level 10s this can be as little as 1% chance
 	- [.com]Conjecturally, running 1x Lv10, 2x Lv9, 2x Lv8 and 1x Lv7 have 1% chance of dying on less harsh T16 rares which is the lowest it can go
 	- [.com]You can regal maps to keep them easy to count for this, guaranteeing 100% completion still requires a lot of high level mappers
+	- [.com]Item Quantity directly scales how likely mappers are to complete things, even chiselling increases failure chance
 	
 
 If you aren't doing lab runs, Darkshrines is a very obvious skip choice. 
