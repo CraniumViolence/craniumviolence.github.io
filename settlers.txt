@@ -948,6 +948,9 @@ As a baseline serious considerations should be made for:
 	- While not actually mechanically hard it's a large amount of divines to dump into a single challenge
 - Ambitious Assignments
 	- Quotas for this one scale pretty harshly over time, if you started Kingsmarch late you might not even get the more 'free' ones
+	- Be aware that for any Ore quotas you can send Bars which divide the totals by five, a 50,000 quota is actually only 10,000 bars
+		- Ore converts into Bars at a 1:1 ratio, you should *never* send raw ore to a port for this
+		- 10,000 bars is still around 10 maps with the ore type but it is no where near as bad as 50,000 bars
 	
 Most of the challenges are fairly mapping oriented this time so you will actively want to be mapping just to advance the league mechanic and get numbers moving up.
 
