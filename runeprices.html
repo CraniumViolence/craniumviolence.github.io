@@ -49,11 +49,11 @@
 	#navigation{position:fixed;left:var(--sidebar-left);top:0px;height:100vh;display:var(--sidebar-display);max-height:100vh;overflow-y:scroll;background:rgb(40,40,40);padding-right:10px;width:336px;transition:all 0.2s linear;}
 	#toggle{position:fixed;left:var(--toggle-left);top:5px;cursor:pointer;transition: all 0.2s linear;font-size:30px;padding-bottom: 20px;color:#ffff00;text-shadow: 2px 2px 4px rgb(0, 0, 0, 1);z-index:9999;}
 	#toggle:hover{color:#FFE28B}
-	
+
 	#togglecomplete{position:fixed;right:5px;top:5px;cursor:pointer;z-index:9999;font-size:75%;}
 	#togglecomplete:hover{color:#FFE28B}
 	.ggg{color:#E7B477;}
-	.com{color:rgb(230,230,210);}	
+	.com{color:rgb(230,230,210);}
 	.div{color:rgb(200,200,180);}
 	.div:before{content:"Card: ";color:rgb(230,230,210)}
 	li{line-height:120%;}
@@ -72,7 +72,8 @@
 	td,th{width:10%;}
 	td{font-size:70%;text-align:center;}
 	td span{color:#e0a752;}
-	th input{width:98%;}
+	td span.adj{color:#99e052;}
+	th input{width:98%;background:none;border:1px solid gray;color:white;}
 	</style>
 	</head>
 <body>
@@ -94,8 +95,8 @@
 			<option value="Time">Time</option>
 			<option value="Power">Power</option>
 		</select>
-		
-		<button onclick="setPrices()">Update with prices entered below</button>
+
+		<button onclick="setPrices()">Update prices with values from tables</button>
 		</th></tr>
 		<tr>
 			<th>Sun</th>
@@ -122,7 +123,38 @@
 			<th><input data-rune="10" type="number" value="0" max="2000" min="0"/></th>
 		</tr>
 	</table>
+		<p style="text-align:center;">If you want to see prices relative to how many runes you currently have you can enter your inventory of runes in the table below and press the update button. This will add an extra line with adjusted prices to each cost and quantity cell.
+		<br/>Please keep in mind that these values <i>are not currently saved</i> so you will need to keep the page open or re-enter them later.</p>
 	
+		<table id="runetable">
+		<tr><th colspan=10><button onclick="setPrices()">Update prices with values from tables</button></th></tr>
+		<tr>
+			<th>Sun</th>
+			<th>Bound</th>
+			<th>Life</th>
+			<th>War</th>
+			<th>River</th>
+			<th>Bounty</th>
+			<th>Journey</th>
+			<th>Mountain</th>
+			<th>Time</th>
+			<th>Power</th>
+		</tr>
+		<tr>
+			<th><input data-held="1" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-held="2" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-held="3" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-held="4" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-held="5" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-held="6" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-held="7" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-held="8" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-held="9" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-held="10" type="number" value="0" max="2000" min="0"/></th>
+		</tr>
+	</table>
+
+
 	</div>
 	<script>
 		// ideally set up an action or something to pull these from poe.ninja instead
@@ -132,7 +164,10 @@
 		var runeNames = [ 
 			"Sun", "Bound", "Life", "War", "River", "Bounty", "Journey", "Mountain", "Time", "Power",
 		] 
-		
+		var heldRunes = [ 
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+		]
+
 		var recipes = [
 			{name:"Adds (8–10) to (15–18) Fire Damage",r0:1, q0:1, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
 			{name:"Adds (14–20) to (29–33) Fire Damage",r0:1, q0:1, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
@@ -298,7 +333,7 @@
 			{name:"5% increased Quantity of Gold Dropped by Slain Enemies",r0:10, q0:20, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
 		]
 		// set prices
-		function setInitialPrices(){		
+		function setInitialPrices(){
 			runePrices.forEach(function (value, i) {
 				$('input[data-rune="' + +(i+1) +'"]').val(value);
 			});
@@ -306,44 +341,92 @@
 		function setPrices(){
 			for (let x = 1; x <= 10; x++){
 				runePrices[x-1] = $('input[data-rune="' + x + '"]').val();
-				$("#runetable tr:nth-child(n+4)").remove();
-				setRecipes();
+				heldRunes[x-1] = $('input[data-held="' + x + '"]').val();
 			}
+			$("#runetable tr:nth-child(n+4)").remove();
+			setRecipes();
 		}
 		function setRecipes(){
 			recipes.forEach(function (recipe) {
-			
+
 				let recipeName = "<td colspan=5>" + recipe.name + "</td>";
 				let rune0 = "";
 				let rune1 = "";
 				let rune2 = "";
 				let rune3 = "";
 				let runeTotal = 0;
+				let runeTotalHeld = 0;
 				if (recipe.r0 != 0){
-					rune0 = "<td>" + runeNames[recipe.r0-1] + " x" + recipe.q0 + "<br/><span>" + runePrices[recipe.r0-1] * recipe.q0 + "c</span></td>";
+					rune0 = "<td>" + runeNames[recipe.r0-1] + " x" + recipe.q0 + "<br/><span>" + runePrices[recipe.r0-1] * recipe.q0 + "c</span>";
 					runeTotal += runePrices[recipe.r0-1] * recipe.q0;
+
+					let held = +heldRunes[recipe.r0-1];
+					let needed = recipe.q0;
+					if(held > 0) { 
+						if (held > needed) { needed = 0 } else { needed = needed - held }
+						let cost = runePrices[recipe.r0-1] * needed;
+						rune0 +=  "<br/><span class=\"adj\">" + cost + "c</span>"
+						runeTotalHeld += cost;
+					}
+					rune0 += "</td>"
 				} else {
 					rune0 = "<td>-</td>"
 				}
 				if (recipe.r1 != 0){
-					rune1 = "<td>" + runeNames[recipe.r1-1] + " x" + recipe.q1 + "<br/><span>" + runePrices[recipe.r1-1] * recipe.q1 + "c</span></td>";
+					rune1 = "<td>" + runeNames[recipe.r1-1] + " x" + recipe.q1 + "<br/><span>" + runePrices[recipe.r1-1] * recipe.q1 + "c</span>";
 					runeTotal += runePrices[recipe.r1-1] * recipe.q1;
+					
+					let held = +heldRunes[recipe.r1-1];
+					let needed = recipe.q1;
+					if(held > 0) { 
+						if (held > needed) { needed = 0 } else { needed = needed - held }
+						let cost = runePrices[recipe.r1-1] * needed;
+						rune1 +=  "<br/><span class=\"adj\">" + cost + "c</span>"
+						runeTotalHeld += cost;
+					}
+					rune1 += "</td>"
+					
 				} else {
 					rune1 = "<td>-</td>"
 				}
 				if (recipe.r2 != 0){
-					rune2 = "<td>" + runeNames[recipe.r2-1] + " x" + recipe.q2+ "<br/><span>" + runePrices[recipe.r2-1] * recipe.q2 + "c</span></td>";
+					rune2 = "<td>" + runeNames[recipe.r2-1] + " x" + recipe.q2+ "<br/><span>" + runePrices[recipe.r2-1] * recipe.q2 + "c</span>";
 					runeTotal += runePrices[recipe.r2-1] * recipe.q2;
+					
+					
+					let held = +heldRunes[recipe.r2-1];
+					let needed = recipe.q2;
+					if(held > 0) { 
+						if (held > needed) { needed = 0 } else { needed = needed - held }
+						let cost = runePrices[recipe.r2-1] * needed;
+						rune2 +=  "<br/><span class=\"adj\">" + cost + "c</span>"
+						runeTotalHeld += cost;
+					}
+					rune2 += "</td>"
 				} else {
 					rune2 = "<td>-</td>"
 				}
 				if (recipe.r3 != 0){
 					rune3 = "<td>" + runeNames[recipe.r3-1] + " x" + recipe.q3 + "<br/><span>" + runePrices[recipe.r3] * recipe.q3 + "c</span></td>";
 					runeTotal += runePrices[recipe.r2-1] * recipe.q2;
+					
+					let held = +heldRunes[recipe.r3-1];
+					let needed = recipe.q3;
+					if(held > 0) { 
+						if (held > needed) { needed = 0 } else { needed = needed - held }
+						let cost = runePrices[recipe.r3-1] * needed;
+						rune3 +=  "<br/><span class=\"adj\">" + cost + "c</span>"
+						runeTotalHeld += cost;
+					}
+					rune3 += "</td>"
 				} else {
 					rune3 = "<td>-</td>"
 				}
-				runeTotal = "<td>Total<br/><span>" + runeTotal + "c</span></td>"; 
+				runeTotal = "<td>Total<br/><span>" + runeTotal + "c</span>"; 
+				if(runeTotalHeld != 0) {
+					runeTotal += "<br/><span class=\"adj\">" + runeTotalHeld + "c</span>"
+				}
+				runeTotal += "</td>";
 				$("#runetable").append("<tr>" + recipeName + rune0 + rune1 + rune2 + rune3 + runeTotal + "</tr>");
 			});
 		}
@@ -352,7 +435,7 @@
 			$("tr:nth-child(n+4)").hide();
 			runeType = $("#runeType").val();
 			if (runeType == "All") {
-				$("tr").show();			
+				$("tr").show();
 			} else {
 				$("tr td:nth-child(2):contains('" + runeType + "')").parent().show();
 			}
@@ -360,8 +443,8 @@
 		setInitialPrices();
 		setRecipes();
 		searchMods()
-		
-		
+
+
 	</script>
 	<div id="footer">
 	<a href="https://craniumviolence.github.io">Settlers Challenge Guide</a></a>
