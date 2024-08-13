@@ -60,7 +60,7 @@
 	.complete{position:absolute;right:0;top:0;cursor:hand;cursor:pointer;width:48px;height:48px;}
 	div[data-complete="no"]{color:red;}
 	div[data-complete="yes"]{color:rgb(0,240,0);}
-	table{width:100%;margin:auto;border-collapse:collapse;border:2px solid black;}
+	table{width:100%;margin:10px auto;border-collapse:collapse;border:2px solid black;}
 	th{background-color:black;color:white;text-align:center;}
 	td{border:1px solid black;}
 	td:nth-child(n+1){width:80px;}
@@ -77,6 +77,8 @@
 	</head>
 <body>
 	<div id="contents">
+	<h1>Runecrafting Pricing Tool</h1>
+	<p style="text-align:center;">The table below allows you to calculate the effective cost of a runecrafting recipe, all individual runes are broken down and summed in a final column. The prices are manually updated for now because I'm lazy but you can change them by simply altering the values they possess and pressing update.</p>
 	<table id="runetable">
 		<tr><th colspan=10>
 		<select id="runeType">
