@@ -296,6 +296,12 @@ All map areas need to be at least T14 for level 81.
 
 To find the price of any of the above recipes please visit [my Runecrafting Pricing page](https://craniumviolence.github.io/runeprices.html), it allows you to enter the prices that you can get for each rune and calculates all recipe prices dynamically.
 
+The best options in general if you don't want to calculate are:
+	- +\(50–75\)% chance to Suppress Spell Damage while your Off Hand is empty
+	- Curse Enemies with Punishment on Hit
+	- Gain \(2–4\) Rage on Melee Hit
+	- These three recipes use *all runes except Bound* which has dirt cheap options and runs around 18 divines
+
 You will need to upgrade your Runesmithing Facility in order to unlock actually using these, this itself uses one of each rune including the very expensive Power Rune.
 
 Runes are listed in order of rarity and all runes can be traded for or bought on the Currency Market.
@@ -304,7 +310,9 @@ To get them naturally, send ships to Kalguuran ports to get Runes back, they are
 
 It's recommended to start with the most expensive crafts, they often use lower tier runes which covers multiple requirements.
 
-This is a pretty expensive challenge, the last couple of crafts being much of the weight and running into 10+ Divines currently.
+This is a pretty expensive challenge, the last couple of crafts being much of the weight and running around 18 divines currently.
+
+
 </div>
 
 # 18 Achieve Ascension
