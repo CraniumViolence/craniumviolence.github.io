@@ -284,34 +284,18 @@ All map areas need to be at least T14 for level 81.
 ### Buyable
 [.ggg]Use the following Runes in Runesmith Crafting.
 - [.ggg]Sun Rune
-	- [.com]Any basic recipe
 - [.ggg]Bound Rune
-	- [.com]Any basic recipe
 - [.ggg]Life Rune
-	- [.com]Any basic recipe
 - [.ggg]War Rune
-	- [.com]Adds (7–9) to (14–16) Chaos Damage
-		- [.com]Also uses Life Rune
 - [.ggg]River Rune
-	- [.com]Adds (7–9) to (14–16) Cold Damage
 - [.ggg]Bounty Rune
-	- [.com]\(10–15\)% chance to Impale on Spell Hit
-		- [.com]Also uses War and Bound Runes
 - [.ggg]Journey Rune
-	- [.com]\(10–15\)% chance to Impale on Spell Hit
-		- [.com]Also uses War and Bound Runes
 - [.ggg]Mountain Rune
-	- [.com]Gain \(2–4\) Rage on Melee Hit
-		- [.com]Also uses War and Bounty Runes
 - [.ggg]Time Rune
-	- [.com]Curse Enemies with Punishment on Hit
-		- [.com]Also uses Journey and Sun Runes
-		- [.com]Around 3 Divines at time of writing
 - [.ggg]Power Rune
-	- [.com]+(50–75)% chance to Suppress Spell Damage while your Off Hand is empty		
-		- [.com]Also uses River and Life
-		- [.com]Around 8 Divines at time of writing
-		
+
+To find the price of any of the above recipes please visit [my Runecrafting Pricing page](https://craniumviolence.github.io/runeprices.html), it allows you to enter the prices that you can get for each rune and calculates all recipe prices dynamically.
+
 You will need to upgrade your Runesmithing Facility in order to unlock actually using these, this itself uses one of each rune including the very expensive Power Rune.
 
 Runes are listed in order of rarity and all runes can be traded for or bought on the Currency Market.
