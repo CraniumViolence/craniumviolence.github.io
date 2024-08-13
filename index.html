@@ -46,6 +46,7 @@
 	h3[id^="partiallybuyable"],h3[id^="buyable"],h3[id^="luckbased"]{color:#00C6D8;font-size:75%;margin:2px 0px;}
 	em img,li img{max-height:18px;margin-bottom:-3px;}
 	#footer{position: fixed;left:0;bottom:0;height:30px;width:100%;text-align:center;background:#292929;border-top:1px solid black;padding-top:5px;}
+	#footer img { margin-bottom:-3px;}
 	#navigation{position:fixed;left:var(--sidebar-left);top:0px;height:100vh;display:var(--sidebar-display);max-height:100vh;overflow-y:scroll;background:rgb(40,40,40);padding-right:10px;width:336px;transition:all 0.2s linear;}
 	#toggle{position:fixed;left:var(--toggle-left);top:5px;cursor:pointer;transition: all 0.2s linear;font-size:30px;padding-bottom: 20px;color:#ffff00;text-shadow: 2px 2px 4px rgb(0, 0, 0, 1);z-index:9999;}
 	#toggle:hover{color:#FFE28B}
@@ -78,7 +79,7 @@
 	<div id="contents"></div>
 	<div id="disclaimer">No data is saved server side, all interaction is saved only locally on your PC. You may <a href="#" onclick="clearLocalStorage()">Click Here</a> to completely reset everything.</div>
 	<div id="footer">
-	<a href="#" onclick="GetLeague('settlers');return false;">Settlers Guide</a> | 	<a href="#" onclick="GetLeague('necropolis');return false;">Necropolis Guide</a> | 	<a href="#" onclick="GetLeague('affliction');return false;">Affliction Guide</a> | <a href="https://craniumviolence.github.io/runeprices.html">Runecrafting Prices</a></a>
+	<a href="#" onclick="GetLeague('settlers');return false;">Settlers Guide</a> | 	<a href="#" onclick="GetLeague('necropolis');return false;">Necropolis Guide</a> | 	<a href="#" onclick="GetLeague('affliction');return false;">Affliction Guide</a> | <a href="https://craniumviolence.github.io/runeprices.html">Runecrafting Prices</a> <img src="./img/new.png"/></a>
 	</div>
 	<script>
 		function GetLeague(league){		
