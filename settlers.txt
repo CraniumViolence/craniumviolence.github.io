@@ -589,6 +589,8 @@ You can use the Atlas's Item Quantity and Modifier effect nodes to make it easie
 [.ggg]Complete maps with a total of 4,000 explicit modifiers.
 
 It's a lot of modifiers, 500 pure 8 mod maps. It has no tier requirements so you can just blast whatever you can do fastest alch and go though.
+
+It's a valid option to completely ignore this and simply boss rush on a map like Mesa or City Square when you have finished everything else to complete the tail end of the grind.
 </div>
 
 # 31 Monstrous Memories
@@ -847,21 +849,25 @@ The Tier 17s which drop in your maps are dependant on what maps you are running,
 
 Scarab of Stability can give you extra portals for each of these.
 
-12% Item Quantity can be found in the middle of the Atlas Tree.
-
-250% basically requires you to run some of the worst mods, this might require you to have a dedicated bosser just to nuke the bosses even if you can clear the juiced map.
-
-Each unique Atziri Fragment adds 5% Item Quantity while each unique Uber Atziri fragment adds 10% Item Quantity to maps. You can also use Elder, Shaper, Conqueror and Uber Elder fragments but this is obviously ill advised as they will run notably more than the various Atziri Fragments.
+12% and 3% Item Quantity can be found in the middle of the Atlas Tree for a total of 15%.
 
 8% Item Quantity is found on the map device.
 
-Map Modifier Effect nodes increase the quantity granted by individual nodes, this gets rounded down before summing up so assume you need a bit more than 130% quality to naturally end up at 250%
-	- Small passives grant 62% increased
-	- `Mounting Modifiers` grants 2% per modifier on your map, this is always 16% for a T17
-	- `Chiselled Perfection` grants 3% per 5% map quality which will be 12%
-	- With all of the above you will end up with around 90% increased
+250% basically requires you to run some of the worst mods, this might require you to have a dedicated bosser just to nuke the bosses even if you can clear the juiced map.
 
-Running a full Uber Atziri set and one extra Atziri fragment you should aim for around 100% quantity while having increased effect.
+Each unique Atziri Fragment adds 5% Item Quantity while each unique Uber Atziri fragment adds 10% Item Quantity to maps.
+	- Shaper and Elder Fragments from guardians also add 5% Quantity
+	- Uber Elder and Sirus Fragments also add 10% Item Quantity
+	- These are likely to run more than their equivalents
+	
+Map Modifier Effect nodes increase the quantity granted by individual nodes, this gets rounded down before summing up so assume you need a bit more than 140% quality to naturally end up at 250%
+	- Small passives grant 62% increased modifier effect
+	- `Mounting Modifiers` grants 2% increased modifier effect per modifier on your map, this is always 12-16% for a T17
+	- `Chiselled Perfection` grants 3% increased modifier effect per 5% map quality which will be 12% 
+		- Remember that T17s no longer naturally have 20% quality, you will need to add it yourself with chisels!
+	- With all of the above you will end up with around 86-90% increased modifier effect
+
+Running a full Uber Atziri set and one extra Atziri fragment (or one Sirus fragment to be safer or cheaper) you should aim for around 110% quantity while having increased effect.
 
 You will almost certainly always want to avoid Area of Effect and Speed modifiers if you want manageable bosses on a non-immortal character.
 </div>
