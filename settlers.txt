@@ -335,6 +335,7 @@ Functionally free, simply progressing to the endgame gets you this.
 - [.ggg]Turn in sets of Divination Cards x 50
 - [.ggg]Complete Rare Tier 11 or higher Maps with at least one Divination Scarab applied x 25
 	- [.com]Notable in that it's 'at least one' meaning it's 25 maps even if you put 5 scarabs onto each
+	- [.com]Also don't overlook the 'rare' part, you can't run these at normal rarity
 - [.ggg]Scry a Map
 	- [.com]The Nameless Seer can put the Divination Cards of the map you are currently in onto one of your choice.
 	- [.com]Anecdotally, the Nameless Seer seems to have weighted spawns by how 'good' the divination cards are. If you want this done fast, don't run Defiled Cathedral or something with a T0 unique or high rarity card.
