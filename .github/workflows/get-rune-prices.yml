@@ -1,0 +1,26 @@
+name: Update poe.ninja rune prices automatically
+on:
+  # every three hours, manually from workflows and on pushes
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+  push:
+  
+jobs:
+  build:
+    name: run ./go/main.go and get runes
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+      # run go and write out json file
+      - uses: actions/setup-go@v5
+        with:
+          cache-dependency-path: 'go/go.sum'
+          go-version-file: 'go/go.mod'
+      - run: go run go/main.go Settlers KalguuranRune ../test.json
+      # automatically commits
+      - uses: stefanzweifel/git-auto-commit-action@v5

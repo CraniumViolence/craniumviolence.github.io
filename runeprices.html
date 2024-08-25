@@ -74,13 +74,15 @@
 	td span{color:#e0a752;}
 	td span.adj{color:#99e052;}
 	th input{width:98%;background:none;border:1px solid gray;color:white;}
+	#update-time{color:#99e052;}
 	</style>
 	</head>
 <body>
 	<div id="contents">
 	<h1>Runecrafting Pricing Tool</h1>
-	<p style="text-align:center;">The table below allows you to calculate the effective cost of a runecrafting recipe, all individual runes are broken down and summed in a final column. The prices are manually updated for now based around a moderate mark up on poe.ninja but you can change them by simply altering the values they possess and pressing update.
-	<br/>Prices updated 22nd August 2024</p>
+	<p style="text-align:center;">The table below allows you to calculate the effective cost of a runecrafting recipe, all individual runes are broken down and summed in a final column.
+	<br/>Prices are automatically updated to reflect <a href="https://poe.ninja">poe.ninja</a> every three hours, rounded up to nearest whole chaos value. You can change prices by simply altering the values they possess and pressing update.
+	<br/>Last updated <span id="update-time">-</span>.</p>
 	<table id="runetable">
 		<tr><th colspan=10>
 		<select id="runeType">
@@ -159,9 +161,10 @@
 
 	</div>
 	<script>
+	
 		// ideally set up an action or something to pull these from poe.ninja instead
 		var runePrices = [
-			1, 		2, 		2, 		3, 		5, 		3, 		8, 		32, 		130, 	1100,
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
 		];
 		var runeNames = [ 
 			"Sun", "Bound", "Life", "War", "River", "Bounty", "Journey", "Mountain", "Time", "Power",
@@ -169,7 +172,7 @@
 		var heldRunes = [ 
 			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
 		]
-
+		
 		var recipes = [
 			{name:"Adds (8–10) to (15–18) Fire Damage",r0:1, q0:1, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
 			{name:"Adds (14–20) to (29–33) Fire Damage",r0:1, q0:1, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
@@ -348,9 +351,9 @@
 			$("#runetable tr:nth-child(n+4)").remove();
 			setRecipes();
 		}
+		
 		function setRecipes(){
 			recipes.forEach(function (recipe) {
-
 				let recipeName = "<td colspan=5>" + recipe.name + "</td>";
 				let rune0 = "";
 				let rune1 = "";
@@ -433,7 +436,7 @@
 			});
 			searchMods();
 		}
-		$('#runeType').change(searchMods);
+		
 		function searchMods(){
 			$("tr:nth-child(n+4)").hide();
 			runeType = $("#runeType").val();
@@ -443,11 +446,21 @@
 				$("tr td:nth-child(2):contains('" + runeType + "')").parent().show();
 			}
 		}
-		setInitialPrices();
-		setRecipes();
-		searchMods()
-
-
+		$('#runeType').change(searchMods);
+		
+		function getJSONPrices(){		
+			$.getJSON( "./poe-ninja-kalguuran-runs.json", function(data) {
+				$.each(data.lines, function() {
+					let idx = runeNames.indexOf(this.baseType.replace(" Rune", ""));
+					runePrices[idx] = Math.ceil(this.chaosValue);
+				})
+				$("#update-time").text(new Date(data.modified * 1000).toLocaleString().replace(',',''));
+				setInitialPrices();
+				setRecipes();
+				searchMods();
+			});
+		}
+		getJSONPrices();
 	</script>
 	<div id="footer">
 	<a href="https://craniumviolence.github.io">Settlers Challenge Guide</a></a>
