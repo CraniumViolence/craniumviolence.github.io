@@ -21,6 +21,6 @@ jobs:
         with:
           cache-dependency-path: 'go/go.sum'
           go-version-file: 'go/go.mod'
-      - run: go run go/main.go Settlers KalguuranRune ../test.json
+      - run: go run go/main.go Settlers KalguuranRune ../poe-ninja-kalguuran-runes.json
       # automatically commits
       - uses: stefanzweifel/git-auto-commit-action@v5

@@ -449,7 +449,7 @@
 		$('#runeType').change(searchMods);
 		
 		function getJSONPrices(){		
-			$.getJSON( "./poe-ninja-kalguuran-runs.json", function(data) {
+			$.getJSON( "./poe-ninja-kalguuran-runes.json", function(data) {
 				$.each(data.lines, function() {
 					let idx = runeNames.indexOf(this.baseType.replace(" Rune", ""));
 					runePrices[idx] = Math.ceil(this.chaosValue);
