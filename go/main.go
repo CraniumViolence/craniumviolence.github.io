@@ -5,7 +5,23 @@ import (
 	"io"
 	"net/http"
 	"os"
+	"time"
+
+	"go.uber.org/zap"
 )
+
+var (
+	league    = "Settlers"
+	ZapLogger *zap.Logger
+)
+
+func init() {
+	var err error
+	ZapLogger, err = zap.NewDevelopment()
+	if err != nil {
+		ZapLogger.Named("Init").Fatal("Failed to create ZapLogger")
+	}
+}
 
 const (
 	EndpointTypeCurrency int = iota
@@ -64,11 +80,16 @@ var APIEndpoints = map[string]APIEndpoint{
 }
 
 func main() {
+	ZapLogger.Info("Main running")
 	var leagueName, endPointName, outputFile string
 	if len(os.Args) == 4 {
 		leagueName = os.Args[1]
 		endPointName = os.Args[2]
 		outputFile = os.Args[3]
+		ZapLogger.Info("got arguments",
+			zap.String("leagueName", leagueName),
+			zap.String("endPointName", endPointName),
+			zap.String("outputFile", outputFile))
 	} else {
 		panic("missing arguments")
 	}
@@ -80,8 +101,9 @@ func main() {
 	}
 	output := doJSONRequest(leagueName, endPointDetails.EndpointURL)
 
-	// write returned json
-	os.WriteFile(outputFile, output, 0644)
+	ZapLogger.Info("got json response", zap.Int("jsonLength", len(output)))
+	// write returned json, removing first { and adding a modified date as a unix timestamp for ease
+	os.WriteFile(outputFile, append([]byte(fmt.Sprintf("{\"modified\":%d,", time.Now().Unix())), output[1:]...), 0644)
 }
 
 func doJSONRequest(league string, endpoint string) []byte {
