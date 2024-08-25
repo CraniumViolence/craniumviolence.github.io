@@ -294,13 +294,17 @@ All map areas need to be at least T14 for level 81.
 - [.ggg]Time Rune
 - [.ggg]Power Rune
 
-To find the price of any of the above recipes please visit [my Runecrafting Pricing page](https://craniumviolence.github.io/runeprices.html), it allows you to enter the prices that you can get for each rune and calculates all recipe prices dynamically.
+To find the price of any of the above recipes please visit [my Runecrafting Pricing page](https://craniumviolence.github.io/runeprices.html), it has prices that automatically update to reflect poe.ninja's economy monitoring and will give the best overview possible of costs on a per rune basis.
 
 The best options in general if you don't want to calculate are:
 	- +\(50–75\)% chance to Suppress Spell Damage while your Off Hand is empty
 	- Curse Enemies with Punishment on Hit
+		- All Curse Enemies with X on Hit options are similarly priced
 	- Gain \(2–4\) Rage on Melee Hit
-	- These three recipes use *all runes except Bound* which has dirt cheap options and runs around 18 divines
+		- If you are using the +2 Meters to Weapon Range option you can skip this as you will already have used mountain Runes
+	- These three recipes use *all runes except Bound* which has dirt cheap options and runs around 26 divines
+	- An alternative for Power Runes is +2 Meters to Weapon Range
+		- With Power Runes soaring the option using only 2x has become a lot more competitive
 
 You will need to upgrade your Runesmithing Facility in order to unlock actually using these, this itself uses one of each rune including the very expensive Power Rune.
 
@@ -310,7 +314,7 @@ To get them naturally, send ships to Kalguuran ports to get Runes back, they are
 
 It's recommended to start with the most expensive crafts, they often use lower tier runes which covers multiple requirements.
 
-This is a pretty expensive challenge, the last couple of crafts being much of the weight and running around 18 divines currently.
+This is a pretty expensive challenge, the last couple of crafts being much of the weight and running around 26 divines currently.
 
 
 </div>
