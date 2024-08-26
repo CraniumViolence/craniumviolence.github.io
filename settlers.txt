@@ -541,14 +541,19 @@ Harbinger in Breach, Breachlord during Shrine, Blight Boss while Delirious are t
 	- [.com]All shipments have real time aspects to them so you probably want to get started on these sooner rather than later
 	- [.com]Swapping between settlements to keep requirements lower is likely sensible
 	- [.com]This goes up pretty significantly as you progress the game, if you didn't start early expect to do a lot of maps
-	- [.com]Quotas are tied to the town level, using a low level character to send shipments or complete quotas does not affect anything
+	- [.com]At highest end this can be many hundreds of maps depending on quotas rolled, you can see below for a 'cheesy' method to bypass that entirely
+	- [.com]Quotas are tied to shipping level, using a low level character to send shipments or complete quotas does not affect quantities requested
 - [.ggg]Disenchant Unique items x 30
 	- [.com]The final tier of the Disenchanter facility unlocks these, you will need a fair amount of gold and items disenchanted before you unlock this
 - [.ggg]Claim rewards from Maps successfully completed by your Atlas Runners x 150
-	- [.com]Map Runners are expensive and prone to dying so this might take quite a while, you can run a bunch at once and queue them up after upgrading at least
-	- [.com]You can run white maps and still have it count for this without issue
+	- [.com]Map Runners are expensive and prone to dying so this might take quite a while before upgrading, you can run a bunch at once and queue them up after upgrading
+	- [.com]You can have them run white Tier 1 maps and still have it count for this without issue making it mostly just a mild gold sink
 - [.ggg]Use the Recombinator, resulting in an item which is Item Level 75 or higher x 15
 	- [.com]Needs dust but is otherwise pretty easy and you can just use actual junk items to get this done
+	
+To make quotas easy you can create a character in a league you haven't played. If you are SC you can create a SC SSF character and you can simply play in the campaign completing quotas while *never* levelling up shipping. This will guarantee you can complete around three quotas every two hours.
+
+League, League SSF, League Hardcore and League Hardcore SSF all have separate progression, as would private leagues. Ruthless has separate challenges and is not an option for this.
 </div>
 
 # 28 Magnificent Mastery
