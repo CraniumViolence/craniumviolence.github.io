@@ -608,7 +608,7 @@ It's a valid option to completely ignore this and simply boss rush on a map like
 ## Easy
 [.ggg]Defeat 100 Rare monsters with at least 3 Modifiers in Atlas Memories.
 
-It's a decent amount of memories, none of them force extra modifiers on rares as far as I'm aware so it's just doing a lot of them.
+It's a decent amount of memories, Kiracs Memory of the Pantheon is your best bet since it adds shrines that are guarded by pantheon touched monsters that are always (or practically always) at least three mod rares. Pair this will rolling the maps for `20-30% increased number of Rare Monsters` for maximum returns.
 
 This was bugged initially to count all monsters, if you were lucky enough to finish it before they fixed it you can skip memories entirely this patch cycle for challenges.
 </div>
@@ -984,8 +984,12 @@ At 34 challenge completion you can unlock the Verisium Knight Unique Finisher Ef
 At 36 challenge completion you can unlock the Kingsmarch Portal.
 
 # Credits
+
+
 [PoeDB](https://poedb.tw/us/) for easily accessible information on pretty much everything about the game.
 
 [PoeWiki](https://www.poewiki.net/wiki/) for some general information.
 
 Reddit user *lightning__* for the Black Knight cheesing information and *wrightosaur* for bringing it to my attention.
+
+Reddit user *Luminsnce* for bringing kirac's pantheon memory to my attention and suggesting rolling it to add increased rare monsters.
