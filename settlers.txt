@@ -677,7 +677,7 @@ As mentioned elsewhere, for gold you can spam basic deliveries to spawn Admiral 
 	- [.com]Catarina's sculpture fires beams that rotate clockwise, these speed up as the fight goes on, easiest if you can blitz her or survive in her DOT in the corners
 - [.ggg]Aul, the Crystal King after destroying all of the Crystalline Cocoons
 	- [.com]Delve boss, obvious skip if you don't want to do any Delving
-	- [.com]There are 8 Cocoons around the arena, Aul's spectral shield charge clones can break these which leave a permanent DoT where htey are destroyed
+	- [.com]There are 8 Cocoons around the arena, Aul's spectral shield charge clones can break these which leave a permanent DoT where they are destroyed
 	- [.com]Not avoidance oriented so any build that can survive while Aul creates the clones (probably needing him to do it twice) should be able to do it
 
 The conditions aren't too hard, this should be fairly easy as long as you have a build that can do the bosses while staying mobile.
