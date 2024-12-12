@@ -35,7 +35,7 @@
 	h2{color:#DADADA;text-align:center;margin:4px 0px;}
 	h3{color:#875516;text-align:center;margin:4px 0px;}
 	body{color:rgb(230,230,210);margin: 0 0 20px;padding-bottom:20px;}
-	#contents{margin:auto;max-width:800px;}
+	#contents{margin:auto;max-width:800px;padding-top:25px;}
 	#disclaimer{margin:80px auto 10px;max-width:800px;font-size:75%;}
 	h2[id^="veryeasy"]{color:#00DA00}
 	h2[id^="easy"]{color:#56C256}
@@ -47,11 +47,11 @@
 	em img,li img{max-height:18px;margin-bottom:-3px;}
 	#footer{position: fixed;left:0;bottom:0;height:30px;width:100%;text-align:center;background:#292929;border-top:1px solid black;padding-top:5px;}
 	#footer img { margin-bottom:-3px;}
-	#navigation{position:fixed;left:var(--sidebar-left);top:0px;height:100vh;display:var(--sidebar-display);max-height:100vh;overflow-y:scroll;background:rgb(40,40,40);padding-right:10px;width:336px;transition:all 0.2s linear;}
-	#toggle{position:fixed;left:var(--toggle-left);top:5px;cursor:pointer;transition: all 0.2s linear;font-size:30px;padding-bottom: 20px;color:#ffff00;text-shadow: 2px 2px 4px rgb(0, 0, 0, 1);z-index:9999;}
+	#navigation{position:fixed;left:var(--sidebar-left);top:0px;padding-top:15px;height:100vh;display:var(--sidebar-display);max-height:100vh;overflow-y:scroll;background:rgb(40,40,40);padding-right:10px;width:336px;transition:all 0.2s linear;padding-bottom:25px;}
+	#toggle{position:fixed;left:var(--toggle-left);top:25px;cursor:pointer;transition: all 0.2s linear;font-size:30px;padding-bottom: 20px;color:#ffff00;text-shadow: 2px 2px 4px rgb(0, 0, 0, 1);z-index:9999;}
 	#toggle:hover{color:#FFE28B}
 	
-	#togglecomplete{position:fixed;right:5px;top:5px;cursor:pointer;z-index:9999;font-size:75%;}
+	#togglecomplete{position:fixed;right:5px;top:25px;cursor:pointer;z-index:9999;font-size:75%;}
 	#togglecomplete:hover{color:#FFE28B}
 	.ggg{color:#E7B477;}
 	.com{color:rgb(230,230,210);}	
@@ -70,9 +70,11 @@
 	td:empty{background-color:black;}
 	tr:hover td{background-color:rgb(0,60,60)}
 	code{color:#89bad2;}
+	#topbanner{text-align: center; background: #292929; border-bottom: 1px solid black; padding-bottom: 5px; z-index: 9999; position: fixed; top: 0px; left: 0px; width: 100vw;}
 	</style>
 	</head>
 <body>
+	<div id="topbanner">Looking for a Path of Exile 2 Loot Filter? <a href="https://poe.fist.moe/">Try this one out</a>.</div>
 	<div id="toggle" onclick="switchSidebar()">☰</div>
 	<div id="togglecomplete" onclick="hideCompleted()"></div>
 	<div id="navigation"></div>
