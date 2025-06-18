@@ -429,7 +429,7 @@ Just basic chores for the new Kingsmarch.
 
 # 22 Equipped Elites
 <div id="ch-22" markdown="22">
-## Easy
+## Normal
 [.ggg]Fill all Equipment slots of Mercenaries with the same type of Equipment with any five of the following Equipment Types.
 - [.ggg]Unique
 	- [.com]Easy
@@ -444,6 +444,7 @@ Just basic chores for the new Kingsmarch.
 - [.ggg]Synthesized
 	- [.com]Dumb
 - [.ggg]Crafted
+	- [.com]Literally just any item with a crafted modifier, scour, transmute and alt random items so they have a spare affix and then craft a random low cost thing onto them
 	- [.com]Very easy
 - [.ggg]Split
 	- [.com]Very dumb
@@ -453,6 +454,10 @@ You can take these items back after you give them to the mercenary so you don't 
 Don't dismiss them without taking the items off, though.
 
 In spite of it stating 'Mercenaries' **you only need to equip the items on one**, a single set of uniques on a single mercenary will get you progress towards the challenge.
+
+Buying junk items off trade for the 'dumb' categories is recommended. 
+
+For self-farming I would recommend manually setting up a filter. You can run strongboxes for mirrored equipment and hope for synthesised from elsewhere.
 </div>
 
 # 23 Remarkable Realms
