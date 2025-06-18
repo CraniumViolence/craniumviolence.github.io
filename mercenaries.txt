@@ -462,18 +462,34 @@ Simply use 20 of 27 different scarab types. You can use 3-5 per map making this 
 <div id="ch-26" markdown="26">
 [.ggg]Complete any four of the following past league content encounters.
 - [.ggg]Defeat a Delirium Boss that is Possessed
-	- [.com]TODO
+	- [.com]Delirium Scarab of Neuroses will force spawn the bosses
+	- [.com]Torment Scarabs can force extra tormented spirits
+	- [.com]There is a ritual that spawns Tormented Spirits
+	- [.com]Shore Map has a boss that spawns spirits at 50% and 25% HP respectively
 - [.ggg]Defeat a Legion General while Delirious
     - **Unending Nightmare** will stop Fog ever dissipating
     - Any **Players are Delirious** map has permanent fog (1x Delirium Orb)
+	- `Legion Scarab of Command` forces generals in a Legion (which can be forced with the normal `Legion Scarab`)
 - [.ggg]Defeat an Essence Monster while affected by a Tempest
-	- [.com]TODO
+	- [.com]`Scarab of Radiant Storms` spawns tempests
+	- [.com]The Corrupting Tempest special modifier spawns what it says
+	- [.com]Simply either burst down an essence monster after you get a tempest on you or predamage it then get the tempest before finishing it (culling can help)
 - [.ggg]Defeat a Beyond Boss while in a Breach
+	- [.com]**Scarabs** can add additional Breaches.
+		- [.com]You can use up to four in separate slots
+	- [.com]The atlas tree adds a lot of options for breaches
+	- [.com]`Beyond Scarab of the Invasion` and `Beyond Scarab of Haemophilia` paired with Beyond nodes on the atlas increase your chance of beyond bosses a lot
+	- [.com]`Vaal Portal` might work for the condition but I've never had this confirmed for these challenges
 - [.ggg]Defeat a Blight Boss while affected by a Shrine
 	- [.com]Simply run maps with blight and shrines and kill a boss completely when you have tagged the shrine
 - [.ggg]Complete a Ore Deposit Encounter while Delirious
+	- [.com]`Kalguuran Scarabs` force ore, you can also increase spawn rates with the atlas tree
     - [.com]**Unending Nightmare** will stop Fog ever dissipating
-    - [.com]Any **Players are Delirious** map has permanent fog (1x Delirium Orb)	
+    - [.com]Any **Players are Delirious** map has permanent fog (1x Delirium Orb)
+	
+In terms of recommendations I'd definitely go with Essence, Legion General, Blight Boss and Ore Deposit as all of these mechanics can be very easily forced to interact. 
+
+It's even entirely possible you could get all four of these on a single map in one go.
 </div>
 
 # 27 Assisted Atlas
@@ -481,6 +497,7 @@ Simply use 20 of 27 different scarab types. You can use 3-5 per map making this 
 [.ggg]Complete a collective 750 Tiers of Maps while you have an Active Mercenary.
 
 It's grinding out maps, there's no limit on the tier of maps so all should count towards it fine.
+
 It's 47 raw T16 maps but unless you never hire mercenaries in maps you'll not actually need that many of them.
 </div>
 
@@ -503,6 +520,8 @@ It's 47 raw T16 maps but unless you never hire mercenaries in maps you'll not ac
 - [.ggg]Defeat the Vaal Omnitect in Level 75 or higher Areas x40
 	- [.com]Farm temples using Alva nodes or buy `Chronicle of Atzoatl` at the required Level 75 or higher
 	- [.com]Simply filter to having the temple apex open and you can ignore everything else
+	
+Nothing remarkable, I'd probably go with Syndicate Mastermind as it's honestly not too expensive and it's got profit potential while also being drastically quicker than the others. A delve taxi would probably be the actual fastest.
 </div>
 
 # 29 Elated Exaltation
@@ -802,8 +821,9 @@ Shockingly lenient in a lot of ways for a GGG, this might be one of the only tim
 
 # Challenges to Skip
 What you skip (if anything) will come down to what characters you want to build and how willing you are to buy challenge completion over clearing them yourself.
+
 As a baseline serious considerations should be made for:
-	- Endgame Enigmas
+- Endgame Enigmas
 
 # Unlocks
 This league is a return to a full armour set. 
