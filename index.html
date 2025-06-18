@@ -53,8 +53,10 @@
 	
 	#togglecomplete{position:fixed;right:5px;top:25px;cursor:pointer;z-index:9999;font-size:75%;}
 	#togglecomplete:hover{color:#FFE28B}
-	.ggg{color:#E7B477;}
-	.com{color:rgb(230,230,210);}	
+	.ggg,.gggpad{color:#E7B477;}
+	.gggpad{margin-bottom:8px;}
+	.com,.compad{color:rgb(230,230,210);}	
+	.compad{margin-bottom:8px;}
 	.div{color:rgb(200,200,180);}
 	.div:before{content:"Card: ";color:rgb(230,230,210)}
 	li{line-height:120%;}
@@ -70,6 +72,9 @@
 	td:empty{background-color:black;}
 	tr:hover td{background-color:rgb(0,60,60)}
 	code{color:#89bad2;}
+	code.str{color:#D02316;}
+	code.dex{color:#33C744;}
+	code.int{color:#2A94AE;}
 	#topbanner{text-align: center; background: #292929; border-bottom: 1px solid black; padding-bottom: 5px; z-index: 9999; position: fixed; top: 0px; left: 0px; width: 100vw;}
 	</style>
 	</head>
@@ -206,7 +211,7 @@
 		}
 		function clearLocalStorage(){
 			localStorage.clear();
-			 location.reload();
+			location.reload();
 		}
 		$(document).on('click', '.complete', function() {
 			let i = $(this).attr("data-challenge");

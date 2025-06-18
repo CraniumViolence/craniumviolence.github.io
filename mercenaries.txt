@@ -12,6 +12,7 @@ This is genuinely maybe the easiest 40 they've ever had. It's made up for by the
 
 # 1 Beginner's Basics
 <div id="ch-1" markdown="1">
+## Very Easy
 [.ggg]Complete each of the following tasks.
 - [.ggg]Use an Orb of Alteration
 - [.ggg]Allocate a Passive Mastery
@@ -24,6 +25,7 @@ Literally free.
 </div>
 
 # 2 Merciful Mercenaries
+## Very Easy
 <div id="ch-2" markdown="2">
 [.ggg]Complete each of the following Mercenaries of Trarthus encounters.
 - [.ggg]Take an Item from a Mercenary
@@ -36,6 +38,7 @@ You can immediately take items by holding control and clicking the item or item 
 </div>
 
 # 3 Peddler's Produce I
+## Very Easy
 <div id="ch-3" markdown="3">
 [.ggg]Complete vendor recipes to receive each of the following items. A vendor recipe is when you trade a specific combination of items to a vendor, not when you buy items from their purchase screen.
 - [.ggg]Life or Mana Flask
@@ -46,14 +49,27 @@ You can immediately take items by holding control and clicking the item or item 
 	- [.com]Vendor an Iron Ring and any colour of gem
 - [.ggg]Orb of Chance
 	- [.com]Vendor two items with **identical names**
-	- [.com]The trade site allows you to search by item name, even if it's not exposed obviously
-		- [.com]Simply type something like `Brood Road` into the search to get identically named items to buy
-		- [.com]Searching by simply an item class with rarity set to rare will get you easy item names to copy
+		- [.com]The trade site allows you to search by item name, even if it's not exposed obviously
+			- [.com]Simply type something like `Brood Road` into the search to get identically named items to buy
+			- [.com]Searching by simply an item class with rarity set to rare will get you easy item names to copy
+	- [.com]Vendor a full set of rare items with at least one item below item level 60
+		- [.com]1x `Helmet`
+		- [.com]1x `Body Armour`
+		- [.com]1x `Gloves`
+		- [.com]1x `Boots`
+		- [.com]1x `Two Handed Weapon` or 2x `One Handed Weapon`
+		- [.com]1x `Amulet`
+		- [.com]1x `Belt`
+		- [.com]2x `Rings`
+	- [.com]Vendor a set of the exact same item in Normal, Magic, Rare and Unique rarities
 		
-Bog standard vendor recipes, the `Orb of Chance` recipe is slightly exotic for a change.
+Bog standard vendor recipes, the `Orb of Chance` recipe is slightly exotic for a change. 
+
+You can still just do the chaos recipe version though which is a bit more boring than the pair and straight flush options.
 </div>
 
 # 4 Act Adversaries I
+## Very Easy
 <div id="ch-4" markdown="4">
 [.ggg]Defeat each of the following Act Bosses.
 - [.ggg]Act 1: Merveil, the Twisted
@@ -66,6 +82,7 @@ Complete the first five acts.
 </div>
 
 # 5 Quisitive Quandaries
+## Very Easy
 <div id="ch-5" markdown="5">
 [.ggg]Complete each of the following Quests.
 - [.ggg]The Marooned Mariner
@@ -76,6 +93,7 @@ Complete the first five acts.
 - [.ggg]The Dweller of the Deep
 	- [.com] Act 1, passive point quest
 	- [.com] The Dweller of the Deep is in the Act 1 area Flooded Depths accessed from The Submerged Passage
+	- [.com] Broken at the start of the league, you should be able to use `/recheck_achievements` in chat when it's fixed
 - [.ggg]The Way Forward
 	- [.com] Act 2, passive point quest
 	- [.com] Kill Captain Arteri in the Western Forest and use his Thaumetic Seal to unlock the Prisoner's Gate
@@ -103,6 +121,7 @@ Standard progression quests you will probably already be doing by default.
 </div>
 
 # 6 Helpful Hirelings
+## Very Easy
 <div id="ch-6" markdown="6">
 [.ggg]Complete each of the following Mercenaries of Trarthus encounters.
 - [.ggg]Hire Mercenaries x5
@@ -114,6 +133,7 @@ Straight forward, the unique can be gotten off an Infamous Mercenary very easily
 </div>
 
 # 7 Act Adversaries II
+## Very Easy
 <div id="ch-7" markdown="7">
 [.ggg]Defeat each of the following Act Bosses.
 - [.ggg]Act 6: Tsoagoth, The Brine King
@@ -126,6 +146,7 @@ Standard progression quests you will probably already be doing by default.
 </div>
 
 # 8 Pantheon Prowess
+## Very Easy
 <div id="ch-8" markdown="8">
 [.ggg]Complete each of the following Pantheon God Quests.
 - [.ggg]The Father of War
@@ -141,6 +162,7 @@ Standard progression quests you will probably already be doing by default.
 </div>
 
 # 9 Atlas Augmentations
+## Very Easy
 <div id="ch-9" markdown="9">
 [.ggg]Complete any three of the following League Mechanic encounters the specified number of times.
 - [.ggg]Defeat Monsters with Essence x30
@@ -151,12 +173,13 @@ Standard progression quests you will probably already be doing by default.
 - [.ggg]Defeat Rogue Exiles x30
 - [.ggg]Defeat Rare Beyond Monsters x30
 
-Absolutely nothing special about these, you'll very likely complete them simply playing.
+Absolutely nothing special about these, you'll very likely complete them simply playing. No area level requirements at all make them especially easy.
 
 You can use scarabs, the map device and Kirac missions to speed things up.
 </div>
 
 # 10 Mighty Mechanics
+## Very Easy
 <div id="ch-10" markdown="10">
 [.ggg]Complete any five of the following League Mechanic encounters the specified number of times.
 - [.ggg]Complete Breaches x30
@@ -179,6 +202,7 @@ Ultimatum looks worse than it is but you are not likely to finish 200 if you are
 </div>
 
 # 11 Familiar Friends
+## Easy
 <div id="ch-11" markdown="11">
 [.ggg]Complete any two of the following Master Mission encounters in Red or Purple Tier Maps the specified number of times.
 - [.ggg]Niko Missions x30
@@ -186,12 +210,15 @@ Ultimatum looks worse than it is but you are not likely to finish 200 if you are
 - [.ggg]Jun Missions x30
 - [.ggg]Alva Missions x30
 
+Red Maps but no tier requirement, spec into them on the Atlas and you can get 100% chance or simply use their Scarabs.
+
 You can use scarabs, the map device and Kirac missions to speed things up.
 
-All of these can be decent profit.
+All of these can be decent profit, Alva and Einhar being the most immediately profitable with Jun and Niko needing you to more deeply engage with their mechanics.
 </div>
 
 # 12 Combat Camaraderie
+## Easy
 <div id="ch-12" markdown="12">
 [.ggg]Defeat 200 Rare or Unique Monsters while you have an Active Mercenary in Level 75 or higher areas.
 
@@ -199,6 +226,8 @@ Very straight forward, Level 75 is mid way through yellow maps so it's not too m
 </div>
 
 # 13 Vitriolic Vaal
+## Easy
+### Buyable
 <div id="ch-13" markdown="13">
 [.ggg]Defeat Atziri, Queen of the Vaal in the Alluring Abyss.
 
@@ -207,9 +236,12 @@ This is Uber Atziri.
 The biggest thing to know is that she has reflect and that while splitting into four clones one of them carries an even stronger reflect mirror which can easily lead to accidental deaths.
 
 You can buy a carry easily enough if you aren't feeling up to it.
+
+It's very strange this is just here by itself in 2025, I'm not sure what GGG were thinking with this one.
 </div>
 
 # 14 Beloved Benches
+## Very Easy
 <div id="ch-14" markdown="14">
 [.ggg]Unlock any 60 Crafting Bench Recipes from Map Areas.
 
@@ -219,6 +251,7 @@ The crafting bench has an 'undiscovered' section that covers where any missing r
 </div>
 
 # 15 Memorable Missions
+## Normal
 <div id="ch-15" markdown="15">
 [.ggg]Complete any six of the following Kirac Atlas Missions.
 - [.ggg]Defeat the Breachlord
@@ -238,10 +271,14 @@ These are the new-old Kirac red tier missions, they're basically pulled over fro
 
 Get Kirac mission nodes and the nodes for dropping scouting reports to enable rerolling of his missions to look for these.
 
-Primal Cystcaller also exists for Beastcrafting to get more missions.
+`Primal Cystcaller` also exists for Beastcrafting to get more missions.
+
+Buying these might also be viable if people are selling them, you'll likely need to engage with a discord server for this though.
 </div>
 
 # 16 Unreal Undertakings
+## Normal
+### Buyable
 <div id="ch-16" markdown="16">
 [.ggg]Complete any four of the following encounters where the area level is 81 or higher.
 - [.ggg]Breachstones x5
@@ -277,13 +314,18 @@ Primal Cystcaller also exists for Beastcrafting to get more missions.
 	- [.com]Use filled ones as a map fragment when opening a portal to add the monsters to rituals
 	- [.com]This is a fairly big undertaking compared to some of the others, you cannot fill vessels from rituals that used vessels making this a lot more than 30 in most cases
 - [.ggg]Defeat Settler Bosses x3
-	- [.com]Set up your mappers and sailors and leave them running as much as possible to get bosses to spawn
-	- [.com]Set up your atlas to add ore to maps so you have better chances of starfall crater
-	- [.com]Not sure how bad this will be after settlers, the mappers boss basically didn't exist that league for me personally
+	- [.com]The Black Knight appears in Starfall Crater found randomly in maps
+		- [.com]Likely needs ore present within a map to be available but it could just be in any map regardless
+	- [.com]Admiral Valerius appears if your boats are taken by pirates
+		- [.com]Sending out lots of shortest trip boats was a good bet for this in Settlers, might still be the same here
+	- [.com]Sasan appears to ransom your Map Runners while they are active
+		- [.com]Was exceptionally rare in Settlers
+
 Level 81 means you will need to run tier 14 or higher maps.
 </div>
 
 # 17 Signature Specialisations 
+## Normal
 <div id="ch-17" markdown="17">
 [.ggg]Claim any five items from Mercenaries of the following Equipment Types while they have an "Infamous" or "of Infamy" Mercenary-Specific Modifier on them.
 - [.ggg]Body Armour
@@ -296,12 +338,15 @@ Level 81 means you will need to run tier 14 or higher maps.
 - [.ggg]Boots
 - [.ggg]Belt
 
-Awkward as there's no real way to search the mercenary items and they aren't highlighted. Simply hover over items while holding down alt.
+Somewhat awkward as there's no real way to search the mercenary items and they aren't highlighted by default. Simply hover over items while holding down alt.
 
 [PoeDB](https://poedb.tw/us/Infamous_Modifiers#Infamous) naturally has a full list of the modifiers.
+
+This might be pushed to 'hard' depending on how rare they really are.
 </div>
 
 # 18 Achieve Ascension
+## Easy
 <div id="ch-18" markdown="18">
 [.ggg]Use the Ascendancy Device in each of the following Labyrinths.
 - [.ggg]The Labyrinth
@@ -315,22 +360,26 @@ Standard player progression, it's not the enriched version so it's simply a norm
 </div>
 
 # 19 Divined Destiny
+## Easy
+### Buyable
 <div id="ch-19" markdown="19">
 [.ggg]Complete any three of the following Divination Card tasks.
 - [.ggg]Open Stacked Decks x50
 - [.ggg]Turn in sets of Divination Cards with a stack size of at least 10 x5
 - [.ggg]Scry a Map
+	- [.com]The Nameless Seer can appear in maps and gives you a random unique item and  the option to put the current map's divination cards onto a single other map replacing the originals
 	- [.com]You will find the Nameless Seer more often in maps with bad divination cards, don't run something with an apothecary expecting this to be simple
 - [.ggg]Turn in a set of Divination card that rewards a Two-implicit Unique item
 	- [.com]Faustus should in theory make this easier to accomplish
-		- ![][div-card] Duality (2 stack)
-		- ![][div-card] Further Invention (4 stack)
-		- ![][div-card] Costly Curio (6 stack)
+		- [.com]`Duality` (2 stack)
+		- [.com]`Further Invention` (4 stack)
+		- [.com]`Costly Curio` (6 stack)
 
 Normal divination related challenges, stack decks are very common in Blighted Maps.
 </div>
 
 # 20 Peddler's Produce II
+## Very Easy
 <div id="ch-20" markdown="20">
 [.ggg]Complete vendor recipes to receive each of the following items. A vendor recipe is when you trade a specific combination of items to a vendor, not when you buy items from their purchase screen.
 - [.ggg]Orb of Fusing
@@ -338,14 +387,14 @@ Normal divination related challenges, stack decks are very common in Blighted Ma
 - [.ggg]Exalted Shard
 	- [.com]Vendor a `full set of influence matching equipment` either IDed or otherwise
 		- [.com]Influence should be of a single type, i.e. every item below with shaper influence
-		- [.com]1x Helmet
-		- [.com]1x Body Armour
-		- [.com]1x Gloves
-		- [.com]1x Boots
-		- [.com]1x Two Handed Weapon or 2x One Handed Weapon
-		- [.com]1x Amulet
-		- [.com]1x Belt
-		- [.com]2x Rings		
+		- [.com]1x `Helmet`
+		- [.com]1x `Body Armour`
+		- [.com]1x `Gloves`
+		- [.com]1x `Boots`
+		- [.com]1x `Two Handed Weapon` or 2x `One Handed Weapon`
+		- [.com]1x `Amulet`
+		- [.com]1x `Belt`
+		- [.com]2x `Rings`
 - [.ggg]Unique Item
 	- [PoeWiki listing for all of these](https://www.poewiki.net/wiki/Vendor_recipe_system#Unique_items) 
 - [.ggg]Item with Influence
@@ -357,10 +406,12 @@ More standard vendor recipes.
 </div>
 
 # 21 Striving Settlements
+# Normal
 <div id="ch-21" markdown="21">
 [.ggg]Complete any four of the following Settlers of Kalguur tasks.
 - [.ggg]Complete Port Quotas x10
-	- [.com]This needed cheese last league, I'd be sceptical of it being any better
+	- [.com]This needed cheese last league, I'd be sceptical of it being any better in 3.26
+	- [.com]It seems the worst option even if it's been made better simply by virtue of timers and chance of failure
 - [.ggg]Disenchant Unique items x30
 	- [.com]Very straight forward, throw uniques into disenchanting
 - [.ggg]Claim rewards from Maps successfully completed by your Atlas Runners x50
@@ -373,9 +424,12 @@ More standard vendor recipes.
 	- [.com]Not too bad to get, you can bias towards Verisium with new atlas nodes and 2,500 is less than it sounds like
 
 Just basic chores for the new Kingsmarch.
+
+
 </div>
 
 # 22 Equipped Elites
+## Easy
 <div id="ch-22" markdown="22">
 [.ggg]Fill all Equipment slots of Mercenaries with the same type of Equipment with any five of the following Equipment Types.
 - [.ggg]Unique
@@ -401,13 +455,17 @@ Don't dismiss them without taking the items off, though.
 </div>
 
 # 23 Remarkable Realms
+## Easy
 <div id="ch-23" markdown="23">
 [.ggg]Complete 40 Unique Maps.
 
-In a strange change, this is just raw quantity. You can use Kirac for these and there's a scouting report for unique maps as well as divination cards for them.
+In a strange change, this is just raw numerical quantity of maps ran instead of doing all of them. 
+
+You can use Kirac for these and there's a scouting report for unique maps as well as divination cards for them.
 </div>
 
 # 24 Sanctified Scarabs
+## Easy
 <div id="ch-24" markdown="24">
 [.ggg]Complete Maps with any 20 of the following Scarab types while they are at least Tier 14 and 80% Item Quantity.
 - [.ggg]Abyss
@@ -442,6 +500,7 @@ Simply use 20 of 27 different scarab types. You can use 3-5 per map making this 
 </div>
 
 # 25 Glorious Gemstones
+## Normal
 <div id="ch-25" markdown="25">
 [.ggg]Complete any three of the following Gem tasks.
 - [.ggg]Corrupt a gem to become either level 21 or 23% quality
@@ -459,6 +518,8 @@ Simply use 20 of 27 different scarab types. You can use 3-5 per map making this 
 </div>
 
 # 26 Cross Contamination
+## Normal
+### Buyable
 <div id="ch-26" markdown="26">
 [.ggg]Complete any four of the following past league content encounters.
 - [.ggg]Defeat a Delirium Boss that is Possessed
@@ -467,9 +528,9 @@ Simply use 20 of 27 different scarab types. You can use 3-5 per map making this 
 	- [.com]There is a ritual that spawns Tormented Spirits
 	- [.com]Shore Map has a boss that spawns spirits at 50% and 25% HP respectively
 - [.ggg]Defeat a Legion General while Delirious
-    - **Unending Nightmare** will stop Fog ever dissipating
-    - Any **Players are Delirious** map has permanent fog (1x Delirium Orb)
-	- `Legion Scarab of Command` forces generals in a Legion (which can be forced with the normal `Legion Scarab`)
+    - [.com]**Unending Nightmare** will stop Fog ever dissipating
+    - [.com]Any **Players are Delirious** map has permanent fog (1x Delirium Orb)
+	- [.com]`Legion Scarab of Command` forces generals in a Legion (which can be forced with the normal `Legion Scarab`)
 - [.ggg]Defeat an Essence Monster while affected by a Tempest
 	- [.com]`Scarab of Radiant Storms` spawns tempests
 	- [.com]The Corrupting Tempest special modifier spawns what it says
@@ -493,6 +554,7 @@ It's even entirely possible you could get all four of these on a single map in o
 </div>
 
 # 27 Assisted Atlas
+## Normal
 <div id="ch-27" markdown="27">
 [.ggg]Complete a collective 750 Tiers of Maps while you have an Active Mercenary.
 
@@ -502,6 +564,8 @@ It's 47 raw T16 maps but unless you never hire mercenaries in maps you'll not ac
 </div>
 
 # 28 Formidable Fights
+## Normal
+### Buyable
 <div id="ch-28" markdown="28">
 [.ggg]Complete one of the following Master Mission encounters the specified number of times.
 - [.ggg]Defeat Delve Bosses in Level 75 or higher Areas x3
@@ -525,6 +589,7 @@ Nothing remarkable, I'd probably go with Syndicate Mastermind as it's honestly n
 </div>
 
 # 29 Elated Exaltation
+## Normal
 <div id="ch-29" markdown="29">
 [.ggg]Use any seven of the following Exalted Orb Currencies.
 - [.ggg]Exalted Orb
@@ -542,16 +607,20 @@ Simply a currency dump [poe.nina](https://poe.ninja/economy/mercenaries/currency
 </div>
 
 # 30 Maniacal Magnitudes
+## Normal
+### Grind Heavy
 <div id="ch-30" markdown="30">
 [.ggg]Complete Maps with a total of 60,000% Item Quantity from modifiers and additional sources, such as Sacrifice Fragments. This does not include any quantity bonuses from your items or party.
 
 You can get 30% quantity from the Atlas Tree, 8% from the Map Device, 5% from each part of a Sacrifice Fragment Set and 10% from each part of a Mortal Fragment Set.
-Map Modifier Effect will also increase Item Quantity associated with modifiers.
-You can expect a several hundred maps regardless of how you stack this.
 
+Map Modifier Effect will also increase Item Quantity associated with modifiers.
+
+You can expect a several hundred maps regardless of how you stack this. While more grind heavy than anything in GGG this is still relatively mild as far as grind scales go.
 </div>
 
 # 31 Recollections Realised
+## Normal
 <div id="ch-31" markdown="31">
 [.ggg]Complete each of the following Types of Map the specified number of times while they are at least Rare.
 - [.ggg]Originator Memory Influenced Maps x50
@@ -567,42 +636,47 @@ You can target the memory chains you want using the new memory nodes at the top 
 </div>
 
 # 32 Infamous Instigators
+## Normal
 <div id="ch-32" markdown="32">
 [.ggg]Defeat any 15 of the following Infamous Mercenaries in level 78 or higher areas.
-- [.ggg]Stormhand [.com](Int)
-- [.ggg]Frosthand [.com](Int)
-- [.ggg]Withertouch [.com](Int)
-- [.ggg]Reanimator [.com](Int)
-- [.ggg]Cruel Mistress [.com](Int)
-- [.ggg]Blade Ambusher [.com](Dex/Int)
-- [.ggg]Shock Ambusher [.com](Dex/Int)
-- [.ggg]Bladecaster [.com](Dex/Int)
-- [.ggg]Bladebitter [.com](Dex/Int)
-- [.ggg]Eruptor [.com](Str)
-- [.ggg]Ripper  [.com](Str)
-- [.ggg]Earthshaker  [.com](Str)
-- [.ggg]Striker  [.com](Str)
-- [.ggg]Sanguimancer [.com](Str/Dex/Int)
-- [.ggg]Kineticist [.com](Str/Dex/Int)
-- [.ggg]Warpriest [.com](Str/Int)
-- [.ggg]Fallen Reverend [.com](Str/Int)
-- [.ggg]Storming Zealot [.com](Str/Int)
-- [.ggg]Toxicologist [.com](Dex)
-- [.ggg]Sniper [.com](Dex)
-- [.ggg]Flamequiver [.com](Dex)
-- [.ggg]Manyshot [.com](Dex)
-- [.ggg]Bastion [.com](Str/Dex)
-- [.ggg]Bloodletter [.com](Str/Dex)
-- [.ggg]Swiftblade [.com](Str/Dex)
-- [.ggg]Combatant [.com](Str/Dex)
+- [.ggg]Stormhand (<code class="int">Int</code>)
+- [.ggg]Frosthand (<code class="int">Int</code>)
+- [.ggg]Withertouch (<code class="int">Int</code>)
+- [.ggg]Reanimator (<code class="int">Int</code>)
+- [.gggpad]Cruel Mistress (<code class="int">Int</code>)
+- [.ggg]Blade Ambusher (<code class="dex">Dex</code>/<code class="int">Int</code>)
+- [.ggg]Shock Ambusher (<code class="dex">Dex</code>/<code class="int">Int</code>)
+- [.ggg]Bladecaster (<code class="dex">Dex</code>/<code class="int">Int</code>)
+- [.gggpad]Bladebitter (<code class="dex">Dex</code>/<code class="int">Int</code>)
+- [.ggg]Eruptor (<code class="str">Str</code>)
+- [.ggg]Ripper  (<code class="str">Str</code>)
+- [.ggg]Earthshaker  (<code class="str">Str</code>)
+- [.gggpad]Striker  (<code class="str">Str</code>)
+- [.ggg]Sanguimancer (<code class="str">Str</code>/<code class="dex">Dex</code>/<code class="int">Int</code>)
+- [.gggpad]Kineticist (<code class="str">Str</code>/<code class="dex">Dex</code>/<code class="int">Int</code>)
+- [.ggg]Warpriest (<code class="str">Str</code>/<code class="int">Int</code>)
+- [.ggg]Fallen Reverend (<code class="str">Str</code>/<code class="int">Int</code>)
+- [.gggpad]Storming Zealot (<code class="str">Str</code>/<code class="int">Int</code>)
+- [.ggg]Toxicologist (<code class="dex">Dex</code>)
+- [.ggg]Sniper (<code class="dex">Dex</code>)
+- [.ggg]Flamequiver (<code class="dex">Dex</code>)
+- [.gggpad]Manyshot (<code class="dex">Dex</code>)
+- [.ggg]Bastion (<code class="str">Str</code>/<code class="dex">Dex</code>)
+- [.ggg]Bloodletter (<code class="str">Str</code>/<code class="dex">Dex</code>)
+- [.ggg]Swiftblade (<code class="str">Str</code>/<code class="dex">Dex</code>)
+- [.ggg]Combatant (<code class="str">Str</code>/<code class="dex">Dex</code>)
 
 At the time of writing mercenaries are pretty cracked, level 78 is any tier 11 or higher map.
+
 You can run these white to avoid the mercenaries being completely insane but you will likely want a build that can off screen to reliably get them all right now.
+
 There's not really anything specific you can do to make them more likely outside of hiring them and exiling the ones of types you have already done.
 
+I don't think this is a rare enough occurrence to justify 'hard', but time will tell.
 </div>
 
 # 33 Eldritch Expedition
+## Normal
 <div id="ch-33" markdown="33">
 [.ggg]Complete each of the following Altar Encounters.
 - [.ggg]Activate Eldritch Altars x333
@@ -615,6 +689,7 @@ Pretty straight forward map grind challenge, expect to average around 100+ maps 
 </div>
 
 # 34 Revered Return
+## Normal
 <div id="ch-34" markdown="34">
 [.ggg]Complete any four of the following Originator Influence challenges.
 - [.ggg]Use Orbs of Rememberance x5
@@ -630,7 +705,7 @@ Pretty straight forward map grind challenge, expect to average around 100+ maps 
 	- [.com]You should get a couple hundred of these a map so simply getting the requirements for the other originator challenges will cover them
 - [.ggg]Consume Memory Strands on Equipment x2000
 	- [.com]Using the orbs above will consume memory strands as will modifying equipment with strands on them in general
-	- [.com]You can just alt spam random piecse to rapidly consume them
+	- [.com]You can just alt or chaos spam random pieces to rapidly consume strands, this can get you decent items to recombine if nothing else
 
 The new originator influenced maps give items with Memory Strands on them, the new equipment types interact with these to add a 'buffed' crafting budget.
 
@@ -638,6 +713,8 @@ Because of the four requirement you will have to just dump currency, check [poe.
 </div>
 
 # 35 Strenuous Summons
+## Normal
+### Buyable
 <div id="ch-35" markdown="35">
 [.ggg]Complete a total of 250 Modifiers on Invitations.
 
@@ -707,6 +784,8 @@ As long as you have a build to do these you will likely always generate a decent
 </div>
 
 # 36 Remembrance Repressed
+## Normal
+### Buyable
 <div id="ch-36" markdown="36">
 [.ggg]Defeat any four of the following Endgame Memory Bosses in the specified ways.
 - [.ggg]The Deceitful God without being affected by Divine Beam
@@ -729,14 +808,16 @@ As long as you have a build to do these you will likely always generate a decent
 	- [.com]They are exactly what they sound like, stay moving while you fight him and you should be fine
 	
 These are all new bosses, the first three are very easy to burst down since you can run them as white with minimal issue.
+
 You are guaranteed one of these bosses from memory threads and there are new nodes at the top of the atlas tree to influence which bosses you get.
 </div>
 
 # 37 Pinnacles Paired
+## Normal
+### Buyable
 <div id="ch-37" markdown="37">
 [.ggg]Defeat the following Pinnacle Boss Encounters while you have an Active Mercenary.
 - [.ggg]The Shaper
-	- [.com]Normal shaper
 	- [.com]`Fragment of the Hydra`
 	- [.com]`Fragment of the Chimera`
 	- [.com]`Fragment of the Phoenix`
@@ -761,15 +842,23 @@ You are guaranteed one of these bosses from memory threads and there are new nod
 	- [.com]`Cortex`
 
 These are a bit awkward but you can simply **leave your mercenary in reserve** get the boss nearly dead and then log out and **invite the mercenary back** in order to get them to join you at the end of the fight.
+
 You can obviously also pay for kills and simply have your mercenary active when you enter the instance for credit.
 </div>
 
 # 38 Endgame Enigmas
+## Normal
+### Buyable
 <div id="ch-38" markdown="38">
 [.ggg]Complete 30 Tier 17 Maps.
+	- [.com]Of note is that this is simply 'complete', with no further conditions. You can use the `Scarab of Bisection` and `Scarab of Stability` to neuter T17s pretty heavily and add extra portals.
+
+Tier 17s are imposing but the changed mods from last league combined with scarab abuse makes them no where near as bad as they could be. Avoid increased modifier effect on your atlas if you suspect you'll have trouble with mods.
 </div>
 
 # 39 Powerful Pursuits
+## Hard
+### Buyable
 <div id="ch-39" markdown="39">
 [.ggg]Defeat any four of the following Pinnacle Boss Encounters while the area is level 85.
 - [.ggg]Sirus, Awakener of Worlds in Eye of the Storm
@@ -793,6 +882,8 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 </div>
 
 # 40 Grinding Gear Goals
+## Normal
+### Grind Heavy
 <div id="ch-40" markdown="40">
 [.ggg]Complete any four of these encounters the specified number of times.
 - [.ggg]Reach Level 100	
@@ -803,8 +894,9 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 	- [.com]`Orb of Amelioration` stops you losing all your XP on dying, but only once per area
 - [.ggg]Use the Divine Font in the Endgame Labyrinth x75
 	- [.com]You can get multiple of these a run from darkshrines
-	- [.com]`Gift to the Goddess` allows you to use the divine font multiple times
-	- [.com]Expect in the region of 60 normal labs if you get dark shrines
+	- [.com]`Gift to the Goddess` allows you to use the divine font multiple times in a single run
+		- [.com](I'm assuming these count towards the total in spite of technically being a tier above the Endgame Labyrinth)
+	- [.com]Expect in the region of 60 normal labs if you get darkshrines
 - [.ggg]Complete Shaper, Elder, Conqueror or Memory Guardian Maps with at least 80% Item Quantity x50
 	- [.com]You can use the Atlas's Item Quantity and Modifier effect nodes to make it easier and basically allow alch and go with the extra +% Item Quantity from there and the Map Device itself.
 	- [.com]You can get 30% quantity from the Atlas Tree, 8% from the Map Device, 5% from each part of a Sacrifice Fragment Set and 10% from each part of a Mortal Fragment Set.
@@ -816,6 +908,8 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 	- [.com]This is thirty uber bosses, if you are going to do that you already know without needing this site
 
 Shockingly lenient in a lot of ways for a GGG, this might be one of the only times I'd actually recommend it as a reasonable choice for 36.
+
+Skipping Level 100 and 30x Uber Bosses are very obvious choices for most people.
 </div>
 
 
@@ -824,6 +918,9 @@ What you skip (if anything) will come down to what characters you want to build 
 
 As a baseline serious considerations should be made for:
 - Endgame Enigmas
+- Grinding Gear Goals
+
+The challenges are mostly fairly easy this time around so really the skips are dealer's choice
 
 # Unlocks
 This league is a return to a full armour set. 
