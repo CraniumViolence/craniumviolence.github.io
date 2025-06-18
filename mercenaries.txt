@@ -451,6 +451,8 @@ Just basic chores for the new Kingsmarch.
 You can take these items back after you give them to the mercenary so you don't need it to be any specifically disposable goods. 
 
 Don't dismiss them without taking the items off, though.
+
+In spite of it stating 'Mercenaries' **you only need to equip the items on one**, a single set of uniques on a single mercenary will get you progress towards the challenge.
 </div>
 
 # 23 Remarkable Realms
