@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<!--
+	░░░░█─────────────█──▀──
+	░░░░▓█───────▄▄▀▀█──────
+	░░░░▒░█────▄█▒░░▄░█─────
+	░░░░░░░▀▄─▄▀▒▀▀▀▄▄▀──DO─
+	░░░░░░░░░█▒░░░░▄▀────IT──
+	▒▒▒░░░░▄▀▒░░░░▄▀───FOR──
+	▓▓▓▓▒░█▒░░░░░█▄───BILLY──
+	█████▀▒░░░░░█░▀▄────────
+	█████▒▒░░░▒█░░░▀▄───────
+	███▓▓▒▒▒▀▀▀█▄░░░░█──────
+	▓██▓▒▒▒▒▒▒▒▒▒█░░░░█─────
+	▓▓█▓▒▒▒▒▒▒▓▒▒█░░░░░█────
+	░▒▒▀▀▄▄▄▄█▄▄▀░░░░░░░█─
+	-->
+	<META NAME="ROBOTS" CONTENT="noarchive">
+	<meta name="Description" content="Path of Exile Challenge Guide">
+	<meta name="Keywords" content="path of exile, challenge guide">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script> 
+	<script src="./js/showdown.min.js"></script>
+	<title>Path of Exile Settlers of Kalguur Challenge Guide</title>
+	<link rel="shortcut icon" href="./img/favicon.png">
+	<style>
+	:root{--toggle-left:340px;--sidebar-left:0px;}
+	[data-sidebar="visible"]{--toggle-left:4px;--sidebar-left: -336px;}
+	*{font-family:Verdana,Arial,Helvetica,sans-serif;box-sizing: border-box;}
+	html{background:#363636;text-shadow: 2px 2px 1px rgba(0,0,0,0.75);}
+	a,a:visited{color:#EE983C;text-decoration:none;}
+	a:hover{color:#FDB12D;}
+	h1{color:#E7B477;text-align:center;border-left:5px solid #C2A965;border-right:5px solid #C2A965;border-top:1px solid #C2A965;border-bottom:1px solid #C2A965;background-color:#5d1515;margin-bottom:0px;padding:5px;position:relative;}
+	h2{color:#DADADA;text-align:center;margin:4px 0px;}
+	h3{color:#875516;text-align:center;margin:4px 0px;}
+	body{color:rgb(230,230,210);margin: 0 0 20px;padding-bottom:20px;}
+	#contents{margin:auto;max-width:90vw;}
+	#disclaimer{margin:80px auto 10px;max-width:800px;font-size:75%;}
+	h2[id^="veryeasy"]{color:#00DA00}
+	h2[id^="easy"]{color:#56C256}
+	h2[id^="average"]{color:#A5B2C2}
+	h2[id^="hard"]{color:#D96865}
+	h2[id^="veryhard"]{color:#D81400}
+	h3[id^="grindheavy"]{color:#00C6D8;font-size:75%;}
+	h3[id^="partiallybuyable"],h3[id^="buyable"],h3[id^="luckbased"]{color:#00C6D8;font-size:75%;margin:2px 0px;}
+	em img,li img{max-height:18px;margin-bottom:-3px;}
+	#footer{position: fixed;left:0;bottom:0;height:30px;width:100%;text-align:center;background:#292929;border-top:1px solid black;padding-top:5px;}
+	#navigation{position:fixed;left:var(--sidebar-left);top:0px;height:100vh;display:var(--sidebar-display);max-height:100vh;overflow-y:scroll;background:rgb(40,40,40);padding-right:10px;width:336px;transition:all 0.2s linear;}
+	#toggle{position:fixed;left:var(--toggle-left);top:5px;cursor:pointer;transition: all 0.2s linear;font-size:30px;padding-bottom: 20px;color:#ffff00;text-shadow: 2px 2px 4px rgb(0, 0, 0, 1);z-index:9999;}
+	#toggle:hover{color:#FFE28B}
+
+	#togglecomplete{position:fixed;right:5px;top:5px;cursor:pointer;z-index:9999;font-size:75%;}
+	#togglecomplete:hover{color:#FFE28B}
+	.ggg{color:#E7B477;}
+	.com{color:rgb(230,230,210);}
+	.div{color:rgb(200,200,180);}
+	.div:before{content:"Card: ";color:rgb(230,230,210)}
+	li{line-height:120%;}
+	.complete{position:absolute;right:0;top:0;cursor:hand;cursor:pointer;width:48px;height:48px;}
+	div[data-complete="no"]{color:red;}
+	div[data-complete="yes"]{color:rgb(0,240,0);}
+	table{width:100%;margin:10px auto;border-collapse:collapse;border:2px solid black;}
+	th{background-color:black;color:white;text-align:center;}
+	td{border:1px solid black;}
+	td:nth-child(n+1){width:80px;}
+	td:first-child{width:120px;background-color:rgba(0,0,0,0.2);border-right:2px solid black;}
+	td:last-child{border-left:2px solid black;}
+	td:empty{background-color:black;}
+	tr:hover td{background-color:rgb(0,60,60)}
+	code{color:#89bad2;}
+	td,th{width:10%;}
+	td{font-size:70%;text-align:center;}
+	td span{color:#e0a752;}
+	td span.adj{color:#99e052;}
+	th input{width:98%;background:none;border:1px solid gray;color:white;}
+	#update-time{color:#99e052;}
+	</style>
+	</head>
+<body>
+	<div id="contents">
+	<h1>Runecrafting Pricing Tool</h1>
+	<p style="text-align:center;">The table below allows you to calculate the effective cost of a runecrafting recipe, all individual runes are broken down and summed in a final column.
+	<br/>Prices were previously automatically updated to reflect <a href="https://poe.ninja">poe.ninja</a> every three hours, but have been frozen so I don't forget to do it later.
+	<br/>Prices frozen on <span id="update-time">-</span>.</p>
+	<table id="runetable">
+		<tr><th colspan=10>
+		<select id="runeType">
+			<option value="All">All Runes</option>
+			<option value="Sun">Sun</option>
+			<option value="Bound">Bound</option>
+			<option value="Life">Life</option>
+			<option value="War">War</option>
+			<option value="River">River</option>
+			<option value="Bounty">Bounty</option>
+			<option value="Journey">Journey</option>
+			<option value="Mountain">Mountain</option>
+			<option value="Time">Time</option>
+			<option value="Power">Power</option>
+		</select>
+
+		<button onclick="setPrices()">Update prices with values from tables</button>
+		</th></tr>
+		<tr>
+			<th>Sun</th>
+			<th>Bound</th>
+			<th>Life</th>
+			<th>War</th>
+			<th>River</th>
+			<th>Bounty</th>
+			<th>Journey</th>
+			<th>Mountain</th>
+			<th>Time</th>
+			<th>Power</th>
+		</tr>
+		<tr>
+			<th><input data-rune="1" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-rune="2" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-rune="3" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-rune="4" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-rune="5" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-rune="6" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-rune="7" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-rune="8" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-rune="9" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-rune="10" type="number" value="0" max="2000" min="0"/></th>
+		</tr>
+	</table>
+		<p style="text-align:center;">If you want to see prices relative to how many runes you currently have you can enter your inventory of runes in the table below and press the update button. This will add an extra line with adjusted prices to each cost and quantity cell.
+		<br/>Please keep in mind that these values <i>are not currently saved</i> so you will need to keep the page open or re-enter them later.
+		<br/>Obviously also be aware of the fact that <i>this does not actually make the recipes cheaper</i> it's just you already have some of the value.</p>
+	
+		<table id="runetable">
+		<tr><th colspan=10><button onclick="setPrices()">Update prices with values from tables</button></th></tr>
+		<tr>
+			<th>Sun</th>
+			<th>Bound</th>
+			<th>Life</th>
+			<th>War</th>
+			<th>River</th>
+			<th>Bounty</th>
+			<th>Journey</th>
+			<th>Mountain</th>
+			<th>Time</th>
+			<th>Power</th>
+		</tr>
+		<tr>
+			<th><input data-held="1" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-held="2" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-held="3" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-held="4" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-held="5" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-held="6" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-held="7" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-held="8" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-held="9" type="number" value="0" max="2000" min="0"/></th>
+			<th><input data-held="10" type="number" value="0" max="2000" min="0"/></th>
+		</tr>
+	</table>
+
+
+	</div>
+	<script>
+	
+		// ideally set up an action or something to pull these from poe.ninja instead
+		var runePrices = [
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+		];
+		var runeNames = [ 
+			"Sun", "Bound", "Life", "War", "River", "Bounty", "Journey", "Mountain", "Time", "Power",
+		] 
+		var heldRunes = [ 
+			0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+		]
+		
+		var recipes = [
+			{name:"Adds (8–10) to (15–18) Fire Damage",r0:1, q0:1, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds (14–20) to (29–33) Fire Damage",r0:1, q0:1, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"(10–15)% chance to Ignite",r0:1, q0:1, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"(20–25)% chance to Ignite",r0:1, q0:1, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds 2 to (25–29) Lightning Damage",r0:2, q0:1, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds 3 to (46–53) Lightning Damage",r0:2, q0:1, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"(10–15)% chance to Shock",r0:2, q0:1, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"(20–25)% chance to Shock",r0:2, q0:1, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"(10–19)% increased Spell Damage",r0:3, q0:1, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"(15–29)% increased Spell Damage",r0:3, q0:1, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Minions deal (10–19)% increased Damage",r0:3, q0:1, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Minions deal (15–29)% increased Damage",r0:3, q0:1, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds (7–9) to (14–16) Cold Damage",r0:5, q0:1, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds (12–17) to (26–30) Cold Damage",r0:5, q0:1, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds (7–9) to (14–16) Chaos Damage",r0:4, q0:1, r1:3, q1:1, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds (12–17) to (26–30) Chaos Damage",r0:4, q0:1, r1:3, q1:1, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds (12–17) to (25–29) Fire Damage",r0:1, q0:8, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds (23–31) to (47–54) Fire Damage",r0:1, q0:8, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"(11–15)% increased Physical Damage",r0:4, q0:3, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Cast Level 10 Fire Burst on Hit",r0:1, q0:12, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"(20–29)% increased Spell Damage",r0:3, q0:6, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"(30–44)% increased Spell Damage",r0:3, q0:6, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Minions deal (20–29)% increased Damage",r0:3, q0:6, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Minions deal (30–44)% increased Damage",r0:3, q0:6, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds 2 to (41–48) Lightning Damage",r0:2, q0:8, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds (4–5) to (76–88) Lightning Damage",r0:2, q0:8, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Every 3 seconds, Consume a nearby Corpse to Recover (7–10)% of Life",r0:3, q0:8, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Burning Enemies you kill have a 10% chance to Explode, dealing a tenth of their maximum Life as Fire Damage",r0:1, q0:18, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Trigger Level 5 Lightning Bolt when you deal a Critical Strike",r0:2, q0:10, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds (11–15) to (23–26) Cold Damage",r0:5, q0:5, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds (21–28) to (42–48) Cold Damage",r0:5, q0:5, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"(10–15)% chance to Freeze",r0:5, q0:5, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"(20–25)% chance to Freeze",r0:5, q0:5, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Trigger Level 10 Summon Spectral Wolf on Kill",r0:3, q0:11, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"25% chance to Trigger Level 10 Summon Raging Spirit on Kill",r0:3, q0:9, r1:1, q1:5, r2:0, q2:0, r3:0, q3:0},
+			{name:"(21–25)% reduced Enemy Stun Threshold with this Weapon",r0:4, q0:8, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Grants Level 1 Envy Skill",r0:4, q0:8, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Culling Strike",r0:3, q0:12, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds (11–15) to (23–26) Chaos Damage",r0:4, q0:5, r1:3, q1:5, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds (21–28) to (42–48) Chaos Damage",r0:4, q0:5, r1:3, q1:5, r2:0, q2:0, r3:0, q3:0},
+			{name:"(7–13)% chance to gain Chaotic Might for 10 seconds on Kill",r0:4, q0:7, r1:1, q1:6, r2:0, q2:0, r3:0, q3:0},
+			{name:"(16–20)% increased Physical Damage",r0:4, q0:10, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"10% chance to Poison on Hit",r0:4, q0:10, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"10% chance to cause Bleeding on Hit",r0:4, q0:10, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Trigger Level 1 Stalking Pustule on Kill",r0:4, q0:10, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Trigger Level 10 Shock Ground on Hit",r0:2, q0:16, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"(10–15)% chance to create Chilled Ground when you Freeze an Enemy",r0:5, q0:8, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds (17–24) to (35–41) Fire Damage",r0:1, q0:55, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds (32–44) to (65–76) Fire Damage",r0:1, q0:55, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Your Minions spread Burning Ground on Death, dealing 10% of their maximum Life as Fire Damage per second",r0:3, q0:25, r1:1, q1:15, r2:0, q2:0, r3:0, q3:0},
+			{name:"(20–25)% increased Spell Critical Strike Chance",r0:3, q0:20, r1:2, q1:15, r2:0, q2:0, r3:0, q3:0},
+			{name:"(30–35)% increased Spell Critical Strike Chance",r0:3, q0:20, r1:2, q1:15, r2:0, q2:0, r3:0, q3:0},
+			{name:"You and Nearby Allies have 1 to (8–12) added Lightning Damage per Blue Socket",r0:3, q0:18, r1:2, q1:18, r2:0, q2:0, r3:0, q3:0},
+			{name:"(0.2–0.3)% of Physical Attack Damage Leeched as Life",r0:4, q0:20, r1:1, q1:30, r2:0, q2:0, r3:0, q3:0},
+			{name:"(30–39)% increased Spell Damage",r0:3, q0:45, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"(45–59)% increased Spell Damage",r0:3, q0:45, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Minions deal (30–39)% increased Damage",r0:3, q0:45, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Minions deal (45–59)% increased Damage",r0:3, q0:45, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"(20–25)% chance to create Consecrated Ground when you Shatter an Enemy",r0:5, q0:18, r1:3, q1:10, r2:0, q2:0, r3:0, q3:0},
+			{name:"Recover (1–3)% of Life on Kill",r0:6, q0:13, r1:3, q1:15, r2:1, q2:14, r3:0, q3:0},
+			{name:"Trigger Level 10 Icicle Burst when you Hit a Frozen Enemy",r0:5, q0:27, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds 3 to (57–67) Lightning Damage",r0:2, q0:55, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds (5–8) to (106–123) Lightning Damage",r0:2, q0:55, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Recover (1–3)% of Mana on Kill",r0:6, q0:13, r1:3, q1:15, r2:2, q2:14, r3:0, q3:0},
+			{name:"(0.2–0.3)% of Physical Attack Damage Leeched as Mana",r0:4, q0:20, r1:2, q1:30, r2:0, q2:0, r3:0, q3:0},
+			{name:"Gain (2–4) Rage on Melee Hit",r0:8, q0:3, r1:4, q1:5, r2:6, q2:5, r3:0, q3:0},
+			{name:"Adds (16–21) to (31–37) Chaos Damage",r0:4, q0:25, r1:3, q1:25, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds (29–40) to (58–68) Chaos Damage",r0:4, q0:25, r1:3, q1:25, r2:0, q2:0, r3:0, q3:0},
+			{name:"(6–10)% increased Cast Speed",r0:5, q0:26, r1:3, q1:22, r2:0, q2:0, r3:0, q3:0},
+			{name:"(13–18)% increased Cast Speed",r0:5, q0:26, r1:3, q1:22, r2:0, q2:0, r3:0, q3:0},
+			{name:"(21–25)% increased Physical Damage",r0:4, q0:50, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"(3–6)% increased Attack Speed",r0:5, q0:25, r1:4, q1:20, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds (16–21) to (31–37) Cold Damage",r0:5, q0:40, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"Adds (29–40) to (58–68) Cold Damage",r0:5, q0:40, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+			{name:"(5–7)% increased Critical Strike Chance",r0:4, q0:35, r1:2, q1:30, r2:0, q2:0, r3:0, q3:0},
+			{name:"When you Kill an Ignited Enemy, inflict an equivalent Ignite on each nearby Enemy",r0:1, q0:110, r1:2, q1:41, r2:0, q2:0, r3:0, q3:0},
+			{name:"Your Hits against Marked Enemy cannot be Blocked or Suppressed",r0:6, q0:20, r1:3, q1:20, r2:5, q2:20, r3:0, q3:0},
+			{name:"Enemies Killed by your Hits are destroyed",r0:6, q0:27, r1:4, q1:31, r2:0, q2:0, r3:0, q3:0},
+			{name:"(10–15)% chance to Impale on Spell Hit",r0:7, q0:12, r1:4, q1:16, r2:2, q2:22, r3:0, q3:0},
+			{name:"(20–30)% of Attack Physical Damage Converted to Fire Damage",r0:6, q0:30, r1:4, q1:27, r2:1, q2:41, r3:0, q3:0},
+			{name:"Minions deal (20–30)% increased Damage if you've Hit Recently",r0:5, q0:50, r1:1, q1:50, r2:0, q2:0, r3:0, q3:0},
+			{name:"When you Kill a Shocked Enemy, inflict an equivalent Shock on each nearby Enemy",r0:1, q0:41, r1:2, q1:110, r2:0, q2:0, r3:0, q3:0},
+			{name:"(15–25)% chance to inflict Fire Exposure on Hit",r0:7, q0:16, r1:6, q1:20, r2:1, q2:24, r3:0, q3:0},
+			{name:"(20–30)% of Attack Physical Damage Converted to Lightning Damage",r0:6, q0:30, r1:4, q1:27, r2:2, q2:41, r3:0, q3:0},
+			{name:"(15–25)% chance to inflict Lightning Exposure on Hit",r0:7, q0:16, r1:6, q1:20, r2:2, q2:24, r3:0, q3:0},
+			{name:"(20–30)% chance to Curse Enemies with Elemental Weakness on Hit",r0:1, q0:44, r1:2, q1:44, r2:5, q2:44, r3:0, q3:0},
+			{name:"(15–25)% chance to inflict Cold Exposure on Hit",r0:7, q0:16, r1:6, q1:20, r2:5, q2:24, r3:0, q3:0},
+			{name:"(20–30)% of Attack Physical Damage Converted to Cold Damage",r0:6, q0:30, r1:4, q1:27, r2:5, q2:41, r3:0, q3:0},
+			{name:"Gain (10–15)% of Cold Damage as Extra Fire Damage against Frozen Enemies",r0:5, q0:85, r1:1, q1:70, r2:0, q2:0, r3:0, q3:0},
+			{name:"(10–15)% chance to Cover Enemies in Ash on Hit",r0:6, q0:88, r1:1, q1:77, r2:0, q2:0, r3:0, q3:0},
+			{name:"(10–20)% chance to Blind Enemies on Hit with Spells",r0:8, q0:12, r1:3, q1:37, r2:0, q2:0, r3:0, q3:0},
+			{name:"+(6–8)% Chance to Block Attack Damage while Dual Wielding",r0:8, q0:12, r1:5, q1:25, r2:0, q2:0, r3:0, q3:0},
+			{name:"Gain (7–10)% of Elemental Damage as Extra Chaos Damage",r0:6, q0:55, r1:3, q1:45, r2:4, q2:55, r3:0, q3:0},
+			{name:"+10% to Maximum Effect of Shock",r0:6, q0:88, r1:2, q1:77, r2:0, q2:0, r3:0, q3:0},
+			{name:"Curse Enemies with Punishment on Hit",r0:9, q0:3, r1:7, q1:11, r2:1, q2:24, r3:0, q3:0},
+			{name:"Curse Enemies with Temporal Chains on Hit",r0:9, q0:3, r1:7, q1:11, r2:2, q2:24, r3:0, q3:0},
+			{name:"(5–10)% chance to gain an Endurance Charge on Kill",r0:9, q0:4, r1:6, q1:13, r2:1, q2:22, r3:0, q3:0},
+			{name:"Curse Enemies with Enfeeble on Hit",r0:9, q0:3, r1:7, q1:11, r2:5, q2:24, r3:0, q3:0},
+			{name:"Iron Will",r0:8, q0:15, r1:3, q1:38, r2:2, q2:38, r3:0, q3:0},
+			{name:"(5–10)% chance to gain a Power Charge on Kill",r0:9, q0:4, r1:6, q1:13, r2:2, q2:22, r3:0, q3:0},
+			{name:"(10–15)% chance to Cover Enemies in Frost on Hit",r0:6, q0:88, r1:5, q1:77, r2:0, q2:0, r3:0, q3:0},
+			{name:"(5–10)% chance to gain a Frenzy Charge on Kill",r0:9, q0:4, r1:6, q1:13, r2:5, q2:22, r3:0, q3:0},
+			{name:"Iron Grip",r0:8, q0:15, r1:3, q1:38, r2:5, q2:38, r3:0, q3:0},
+			{name:"(10–20)% chance to Aggravate Bleeding on targets you Hit with Attacks",r0:9, q0:5, r1:4, q1:18, r2:1, q2:32, r3:0, q3:0},
+			{name:"(15–25)% increased Poison Duration",r0:9, q0:5, r1:4, q1:18, r2:2, q2:32, r3:0, q3:0},
+			{name:"+1 to Level of all Fire Spell Skill Gems",r0:7, q0:75, r1:1, q1:35, r2:0, q2:0, r3:0, q3:0},
+			{name:"+1 to Level of all Lightning Spell Skill Gems",r0:7, q0:75, r1:2, q1:35, r2:0, q2:0, r3:0, q3:0},
+			{name:"+1 to Level of all Minion Skill Gems",r0:7, q0:75, r1:3, q1:35, r2:0, q2:0, r3:0, q3:0},
+			{name:"+1 to Level of all Chaos Spell Skill Gems",r0:7, q0:75, r1:4, q1:35, r2:0, q2:0, r3:0, q3:0},
+			{name:"+1 to Level of all Physical Spell Skill Gems",r0:7, q0:75, r1:4, q1:35, r2:0, q2:0, r3:0, q3:0},
+			{name:"Spells deal added Chaos Damage equal to 4% of your maximum Life",r0:7, q0:44, r1:4, q1:88, r2:3, q2:77, r3:0, q3:0},
+			{name:"+1 to Level of all Cold Spell Skill Gems",r0:7, q0:75, r1:5, q1:35, r2:0, q2:0, r3:0, q3:0},
+			{name:"Insufficient Life doesn't prevent your Melee Attacks",r0:9, q0:6, r1:1, q1:42, r2:5, q2:52, r3:0, q3:0},
+			{name:"+2 to Level of Socketed Melee Gems",r0:8, q0:37, r1:4, q1:23, r2:0, q2:0, r3:0, q3:0},
+			{name:"Gain Arcane Surge after Spending a total of 200 Life",r0:9, q0:8, r1:2, q1:55, r2:1, q2:78, r3:0, q3:0},
+			{name:"Melee Hits Fortify",r0:8, q0:37, r1:4, q1:24, r2:3, q2:32, r3:0, q3:0},
+			{name:"(7–10)% increased Rage Effect",r0:9, q0:8, r1:4, q1:75, r2:0, q2:0, r3:0, q3:0},
+			{name:"Gain Onslaught after Spending a total of 200 Mana",r0:9, q0:8, r1:2, q1:55, r2:5, q2:78, r3:0, q3:0},
+			{name:"(10–20)% chance to inflict Corrosion on Hit with Spells",r0:9, q0:11, r1:1, q1:75, r2:0, q2:0, r3:0, q3:0},
+			{name:"Exerted Attacks deal (80–100)% increased Damage",r0:9, q0:8, r1:8, q1:22, r2:0, q2:0, r3:0, q3:0},
+			{name:"100% chance to gain an additional Vaal Soul on Kill",r0:9, q0:13, r1:6, q1:15, r2:3, q2:31, r3:0, q3:0},
+			{name:"Gain Unholy Might for 4 seconds on Critical Strike",r0:9, q0:14, r1:4, q1:22, r2:3, q2:33, r3:0, q3:0},
+			{name:"Damage cannot be Reflected",r0:9, q0:11, r1:8, q1:19, r2:3, q2:11, r3:0, q3:0},
+			{name:"+(15–25)% to Damage over Time Multiplier for Ailments from Critical Strikes",r0:9, q0:15, r1:2, q1:55, r2:0, q2:0, r3:0, q3:0},
+			{name:"(20–25)% of Cold Damage Converted to Chaos Damage",r0:9, q0:15, r1:5, q1:15, r2:4, q2:45, r3:0, q3:0},
+			{name:"+1 to maximum number of Summoned Golems",r0:9, q0:16, r1:3, q1:36, r2:1, q2:52, r3:0, q3:0},
+			{name:"Point Blank",r0:8, q0:68, r1:6, q1:131, r2:1, q2:85, r3:0, q3:0},
+			{name:"Far Shot",r0:8, q0:68, r1:6, q1:131, r2:2, q2:85, r3:0, q3:0},
+			{name:"+(50–75)% chance to Suppress Spell Damage while your Off Hand is empty",r0:10, q0:3, r1:5, q1:40, r2:3, q2:50, r3:0, q3:0},
+			{name:"Mana Leech from Hits with this Weapon is Instant",r0:10, q0:3, r1:4, q1:66, r2:2, q2:77, r3:0, q3:0},
+			{name:"+2 metres to Weapon Range",r0:10, q0:2, r1:4, q1:50, r2:8, q2:40, r3:0, q3:0},
+			{name:"Battlemage",r0:10, q0:3, r1:4, q1:105, r2:3, q2:105, r3:0, q3:0},
+			{name:"Skills fire an additional Projectile",r0:8, q0:77, r1:6, q1:99, r2:5, q2:99, r3:0, q3:0},
+			{name:"Skills fire 2 additional ProjectilesProjectiles are fired in random directions",r0:8, q0:87, r1:6, q1:99, r2:3, q2:99, r3:0, q3:0},
+			{name:"Gain (30–50)% of Weapon Physical Damage as Extra Damage of each Element",r0:10, q0:4, r1:7, q1:11, r2:4, q2:11, r3:0, q3:0},
+			{name:"No Physical DamageHas (50–100)% increased Elemental Damage",r0:5, q0:500, r1:2, q1:500, r2:1, q2:500, r3:0, q3:0},
+			{name:"Shepherd of Souls",r0:10, q0:4, r1:3, q1:30, r2:7, q2:15, r3:0, q3:0},
+			{name:"Trigger Level 20 Summon Phantasm Skill when you Consume a corpse",r0:10, q0:4, r1:3, q1:40, r2:6, q2:35, r3:0, q3:0},
+			{name:"Gain Flaming, Icy or Crackling Runesurge at random for 4 seconds every 10 seconds",r0:10, q0:4, r1:1, q1:33, r2:2, q2:33, r3:5, q3:33},
+			{name:"(7–10)% increased Fire Damage per 1% Fire Resistance above 75%",r0:10, q0:4, r1:1, q1:44, r2:5, q2:55, r3:0, q3:0},
+			{name:"Chaos Damage with Hits is Lucky",r0:10, q0:4, r1:7, q1:23, r2:2, q2:29, r3:0, q3:0},
+			{name:"Trigger a Socketed Fire Spell on Hit, with a 0.25 second Cooldown",r0:10, q0:4, r1:1, q1:88, r2:4, q2:88, r3:0, q3:0},
+			{name:"Melee Strike Skills deal Splash Damage to surrounding targets",r0:10, q0:3, r1:8, q1:40, r2:1, q2:80, r3:0, q3:0},
+			{name:"Attack Critical Strikes ignore Enemy Monster Elemental Resistances",r0:10, q0:3, r1:7, q1:30, r2:8, q2:40, r3:0, q3:0},
+			{name:"Increases and Reductions to Minion Damage also affect you at 150% of their value",r0:10, q0:3, r1:3, q1:50, r2:8, q2:50, r3:0, q3:0},
+			{name:"(10–20)% chance for Bleeding inflicted with this Weapon to deal 100% more Damage",r0:8, q0:133, r1:4, q1:88, r2:6, q2:88, r3:1, q3:101},
+			{name:"(10–20)% chance for Poisons inflicted with this Weapon to deal 100% more Damage",r0:8, q0:133, r1:4, q1:88, r2:6, q2:88, r3:2, q3:101},
+			{name:"Adds 5% of your Maximum Mana as Fire Damage to Attacks with this Weapon",r0:8, q0:155, r1:1, q1:155, r2:2, q2:155, r3:0, q3:0},
+			{name:"You can apply an additional Curse",r0:10, q0:3, r1:3, q1:30, r2:9, q2:30, r3:0, q3:0},
+			{name:"Gain Elusive on Critical Strike",r0:9, q0:55, r1:5, q1:65, r2:0, q2:0, r3:0, q3:0},
+			{name:"Attacks Cost Life instead of Mana",r0:9, q0:43, r1:8, q1:55, r2:4, q2:77, r3:0, q3:0},
+			{name:"Adds 5% of your Maximum Energy Shield as Cold Damage to Attacks with this Weapon",r0:9, q0:44, r1:8, q1:66, r2:5, q2:22, r3:0, q3:0},
+			{name:"+2 to Level of all Spell Skill Gems",r0:9, q0:56, r1:7, q1:78, r2:3, q2:83, r3:0, q3:0},
+			{name:"Life Leech from Hits with this Weapon is instant",r0:10, q0:11, r1:4, q1:66, r2:1, q2:77, r3:0, q3:0},
+			{name:"Energy Shield Leech Effects from Attacks are not removed at Full Energy Shield",r0:10, q0:11, r1:4, q1:66, r2:5, q2:77, r3:0, q3:0},
+			{name:"Gain a random shrine buff every 10 seconds",r0:10, q0:13, r1:7, q1:32, r2:6, q2:64, r3:0, q3:0},
+			{name:"Socketed Vaal Skills have 100% reduced Soul Gain Prevention Duration",r0:10, q0:15, r1:3, q1:90, r2:6, q2:90, r3:0, q3:0},
+			{name:"(5–10)% chance to Restore your Ward on Hit",r0:9, q0:100, r1:3, q1:55, r2:0, q2:0, r3:0, q3:0},
+			{name:"Attack Projectiles Return to you",r0:10, q0:15, r1:6, q1:55, r2:8, q2:44, r3:0, q3:0},
+			{name:"(20–25)% chance when you Kill a Magic Monster to gain its Modifiers for 60 seconds",r0:10, q0:16, r1:6, q1:13, r2:9, q2:13, r3:0, q3:0},
+			{name:"Haunted by Tormented Spirits",r0:10, q0:13, r1:7, q1:33, r2:9, q2:33, r3:0, q3:0},
+			{name:"5% increased Quantity of Gold Dropped by Slain Enemies",r0:10, q0:20, r1:0, q1:0, r2:0, q2:0, r3:0, q3:0},
+		]
+		// set prices
+		function setInitialPrices(){
+			runePrices.forEach(function (value, i) {
+				$('input[data-rune="' + +(i+1) +'"]').val(value);
+			});
+		}
+		function setPrices(){
+			for (let x = 1; x <= 10; x++){
+				runePrices[x-1] = $('input[data-rune="' + x + '"]').val();
+				heldRunes[x-1] = $('input[data-held="' + x + '"]').val();
+			}
+			$("#runetable tr:nth-child(n+4)").remove();
+			setRecipes();
+		}
+		
+		function setRecipes(){
+			recipes.forEach(function (recipe) {
+				let recipeName = "<td colspan=5>" + recipe.name + "</td>";
+				let rune0 = "";
+				let rune1 = "";
+				let rune2 = "";
+				let rune3 = "";
+				let runeTotal = 0;
+				let runeTotalHeld = 0;
+				if (recipe.r0 != 0){
+					rune0 = "<td>" + runeNames[recipe.r0-1] + " x" + recipe.q0 + "<br/><span>" + runePrices[recipe.r0-1] * recipe.q0 + "c</span>";
+					runeTotal += runePrices[recipe.r0-1] * recipe.q0;
+
+					let held = +heldRunes[recipe.r0-1];
+					let needed = recipe.q0;
+					if(held > 0) { 
+						if (held > needed) { needed = 0 } else { needed = needed - held }
+						let cost = runePrices[recipe.r0-1] * needed;
+						rune0 +=  "<br/><span class=\"adj\">" + cost + "c</span>"
+						runeTotalHeld += cost;
+					}
+					rune0 += "</td>"
+				} else {
+					rune0 = "<td>-</td>"
+				}
+				if (recipe.r1 != 0){
+					rune1 = "<td>" + runeNames[recipe.r1-1] + " x" + recipe.q1 + "<br/><span>" + runePrices[recipe.r1-1] * recipe.q1 + "c</span>";
+					runeTotal += runePrices[recipe.r1-1] * recipe.q1;
+					
+					let held = +heldRunes[recipe.r1-1];
+					let needed = recipe.q1;
+					if(held > 0) { 
+						if (held > needed) { needed = 0 } else { needed = needed - held }
+						let cost = runePrices[recipe.r1-1] * needed;
+						rune1 +=  "<br/><span class=\"adj\">" + cost + "c</span>"
+						runeTotalHeld += cost;
+					}
+					rune1 += "</td>"
+					
+				} else {
+					rune1 = "<td>-</td>"
+				}
+				if (recipe.r2 != 0){
+					rune2 = "<td>" + runeNames[recipe.r2-1] + " x" + recipe.q2+ "<br/><span>" + runePrices[recipe.r2-1] * recipe.q2 + "c</span>";
+					runeTotal += runePrices[recipe.r2-1] * recipe.q2;
+					
+					
+					let held = +heldRunes[recipe.r2-1];
+					let needed = recipe.q2;
+					if(held > 0) { 
+						if (held > needed) { needed = 0 } else { needed = needed - held }
+						let cost = runePrices[recipe.r2-1] * needed;
+						rune2 +=  "<br/><span class=\"adj\">" + cost + "c</span>"
+						runeTotalHeld += cost;
+					}
+					rune2 += "</td>"
+				} else {
+					rune2 = "<td>-</td>"
+				}
+				if (recipe.r3 != 0){
+					rune3 = "<td>" + runeNames[recipe.r3-1] + " x" + recipe.q3 + "<br/><span>" + runePrices[recipe.r3] * recipe.q3 + "c</span></td>";
+					runeTotal += runePrices[recipe.r2-1] * recipe.q2;
+					
+					let held = +heldRunes[recipe.r3-1];
+					let needed = recipe.q3;
+					if(held > 0) { 
+						if (held > needed) { needed = 0 } else { needed = needed - held }
+						let cost = runePrices[recipe.r3-1] * needed;
+						rune3 +=  "<br/><span class=\"adj\">" + cost + "c</span>"
+						runeTotalHeld += cost;
+					}
+					rune3 += "</td>"
+				} else {
+					rune3 = "<td>-</td>"
+				}
+				runeTotal = "<td>Total<br/><span>" + runeTotal + "c</span>"; 
+				if(runeTotalHeld != 0) {
+					runeTotal += "<br/><span class=\"adj\">" + runeTotalHeld + "c</span>"
+				}
+				runeTotal += "</td>";
+				$("#runetable").append("<tr>" + recipeName + rune0 + rune1 + rune2 + rune3 + runeTotal + "</tr>");
+			});
+			searchMods();
+		}
+		
+		function searchMods(){
+			$("tr:nth-child(n+4)").hide();
+			runeType = $("#runeType").val();
+			if (runeType == "All") {
+				$("tr").show();
+			} else {
+				$("tr td:nth-child(2):contains('" + runeType + "')").parent().show();
+			}
+		}
+		$('#runeType').change(searchMods);
+		
+		function getJSONPrices(){		
+			$.getJSON( "./poe-ninja-kalguuran-runes.json", function(data) {
+				$.each(data.lines, function() {
+					let idx = runeNames.indexOf(this.baseType.replace(" Rune", ""));
+					runePrices[idx] = Math.ceil(this.chaosValue);
+				})
+				$("#update-time").text(new Date(data.modified * 1000).toLocaleString().replace(',',''));
+				setInitialPrices();
+				setRecipes();
+				searchMods();
+			});
+		}
+		getJSONPrices();
+	</script>
+	<div id="footer">
+	<a href="https://craniumviolence.github.io">Settlers Challenge Guide</a></a>
+	</div>
+</body>
+</html>

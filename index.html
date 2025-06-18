@@ -1,1 +1,241 @@
-<!doctypehtml><html lang=en><meta , , content="text/html; charset=utf-8"http-equiv=Content-Type><meta name=darkreader-lock content="no undarkening the darkness"><title>Kill the Lights</title><link , , href=jquery-ui.css rel=stylesheet><script src=jquery.min.js></script><script src=jquery-ui.min.js></script><link href="https://fonts.googleapis.com/css?family=Vesper+Libre"rel=stylesheet><style>html{background-color:#000}#float{text-align:right;position:absolute;bottom:0;right:0;padding:0 20px 10px 0}*{-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;font-family:'Vesper Libre',serif;color:#fff}.fadeText{opacity:0;transition:opacity 16s}.sexy_line{display:block;border:none;color:#fff;height:1px;background:#000;background:-webkit-gradient(radial,50% 50%,0,50% 50%,350,from(#fff),to(#000))}#post-mortem{width:65%;margin:auto}h1,p{text-align:center;line-height:1.2em}h1{font-variant:small-caps}#clickOverlay{text-align:center;font-size:120%;opacity:0;transition:opacity 16s}</style><body><style>#canvas{pointer-events:none;position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999}</style><canvas id=canvas></canvas><script>$(document).ready(function(){var t=$("#canvas")[0];if(t.width=window.innerWidth,t.height=window.innerHeight,t.getContext){var a=t.getContext("2d"),r=t.width,e=t.height;a.strokeStyle="rgba(174,194,224,0.5)",a.lineWidth=1,a.lineCap="round";for(var n=[],o=0;o<200;o++)n.push({x:Math.random()*r,y:Math.random()*e,l:1*Math.random(),xs:4*Math.random()-4+2,ys:40*Math.random()+80});for(var h=[],i=0;i<200;i++)h[i]=n[i];setInterval(function(){a.clearRect(0,0,r,e);for(var t=0;t<h.length;t++){var n=h[t];a.beginPath(),a.moveTo(n.x,n.y),a.lineTo(n.x+n.l*n.xs,n.y+n.l*n.ys),a.stroke()}!function(){for(var t=0;t<h.length;t++){var n=h[t];n.x+=n.xs,n.y+=n.ys,(n.x>r||n.y>e)&&(n.x=Math.random()*r,n.y=-20)}}()},30)}})</script><div id=clickOverlay>Click or something</div><div id=float class=fadeText><img alt=""src=weight.png style=margin:0;max-width:80%></div><div id=player style=opacity:0><audio autoplay hidden><source src=audio.mp3></audio></div><script>function showText(e,o){var t=document.getElementById(e);setTimeout(function(){t.style.opacity=1},4500*o)}function setSource(){$("#clickOverlay").hide();var e=document.querySelector("audio");e.src="audio."+(e.canPlayType("audio/mp3")?"mp3":"wav"),showText("float",1)}var audio=document.createElement("audio");function mediaPlaybackRequiresUserGesture(){return audio.play(),audio.paused}function removeBehaviorsRestrictions(){document.querySelector("audio").load(),window.removeEventListener("keydown",removeBehaviorsRestrictions),window.removeEventListener("mousedown",removeBehaviorsRestrictions),window.removeEventListener("touchstart",removeBehaviorsRestrictions),setTimeout(setSource,1e3)}function removeBehaviorsRestrictions(){document.querySelector("audio").load(),window.removeEventListener("keydown",removeBehaviorsRestrictions),window.removeEventListener("mousedown",removeBehaviorsRestrictions),window.removeEventListener("touchstart",removeBehaviorsRestrictions),setTimeout(setSource,1e3)}setTimeout(mediaPlaybackRequiresUserGesture,100),$(window).load(function(e){mediaPlaybackRequiresUserGesture()?(window.addEventListener("keydown",removeBehaviorsRestrictions),window.addEventListener("mousedown",removeBehaviorsRestrictions),window.addEventListener("touchstart",removeBehaviorsRestrictions),setTimeout(function(){document.getElementById("clickOverlay").style.opacity=1},5e3)):setSource()})</script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<!--
+	░░░░█─────────────█──▀──
+	░░░░▓█───────▄▄▀▀█──────
+	░░░░▒░█────▄█▒░░▄░█─────
+	░░░░░░░▀▄─▄▀▒▀▀▀▄▄▀──DO─
+	░░░░░░░░░█▒░░░░▄▀────IT──
+	▒▒▒░░░░▄▀▒░░░░▄▀───FOR──
+	▓▓▓▓▒░█▒░░░░░█▄───BILLY──
+	█████▀▒░░░░░█░▀▄────────
+	█████▒▒░░░▒█░░░▀▄───────
+	███▓▓▒▒▒▀▀▀█▄░░░░█──────
+	▓██▓▒▒▒▒▒▒▒▒▒█░░░░█─────
+	▓▓█▓▒▒▒▒▒▒▓▒▒█░░░░░█────
+	░▒▒▀▀▄▄▄▄█▄▄▀░░░░░░░█─
+	-->
+	<META NAME="ROBOTS" CONTENT="noarchive">
+	<meta name="Description" content="Path of Exile Challenge Guide">
+	<meta name="Keywords" content="path of exile, challenge guide">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script> 
+	<script src="./js/showdown.min.js"></script>
+	<title>Path of Exile - Mercenaries of Trarthus - Challenge Guide</title>
+	<link rel="shortcut icon" href="./img/favicon.png">
+	<style>
+	:root{--toggle-left:340px;--sidebar-left:0px;}
+	[data-sidebar="visible"]{--toggle-left:4px;--sidebar-left: -336px;}
+	*{font-family:Verdana,Arial,Helvetica,sans-serif;box-sizing: border-box;}
+	html{background:#363636;text-shadow: 2px 2px 1px rgba(0,0,0,0.75);}
+	a,a:visited{color:#EE983C;text-decoration:none;}
+	a:hover{color:#FDB12D;}
+	h1{color:#E7B477;text-align:center;border-left:5px solid #C2A965;border-right:5px solid #C2A965;border-top:1px solid #C2A965;border-bottom:1px solid #C2A965;background-color:#5d1515;margin-bottom:0px;padding:5px;position:relative;}
+	h2{color:#DADADA;text-align:center;margin:4px 0px;}
+	h3{color:#875516;text-align:center;margin:4px 0px;}
+	body{color:rgb(230,230,210);margin: 0 0 20px;padding-bottom:20px;}
+	#contents{margin:auto;max-width:800px;padding-top:25px;}
+	#disclaimer{margin:80px auto 10px;max-width:800px;font-size:75%;}
+	h2[id^="veryeasy"]{color:#00DA00}
+	h2[id^="easy"]{color:#56C256}
+	h2[id^="average"]{color:#A5B2C2}
+	h2[id^="hard"]{color:#D96865}
+	h2[id^="veryhard"]{color:#D81400}
+	h3[id^="grindheavy"]{color:#00C6D8;font-size:75%;}
+	h3[id^="partiallybuyable"],h3[id^="buyable"],h3[id^="luckbased"]{color:#00C6D8;font-size:75%;margin:2px 0px;}
+	em img,li img{max-height:18px;margin-bottom:-3px;}
+	#footer{position: fixed;left:0;bottom:0;height:30px;width:100%;text-align:center;background:#292929;border-top:1px solid black;padding-top:5px;}
+	#footer img { margin-bottom:-3px;}
+	#navigation{position:fixed;left:var(--sidebar-left);top:0px;padding-top:15px;height:100vh;display:var(--sidebar-display);max-height:100vh;overflow-y:scroll;background:rgb(40,40,40);padding-right:10px;width:336px;transition:all 0.2s linear;padding-bottom:25px;}
+	#toggle{position:fixed;left:var(--toggle-left);top:25px;cursor:pointer;transition: all 0.2s linear;font-size:30px;padding-bottom: 20px;color:#ffff00;text-shadow: 2px 2px 4px rgb(0, 0, 0, 1);z-index:9999;}
+	#toggle:hover{color:#FFE28B}
+	
+	#togglecomplete{position:fixed;right:5px;top:25px;cursor:pointer;z-index:9999;font-size:75%;}
+	#togglecomplete:hover{color:#FFE28B}
+	.ggg{color:#E7B477;}
+	.com{color:rgb(230,230,210);}	
+	.div{color:rgb(200,200,180);}
+	.div:before{content:"Card: ";color:rgb(230,230,210)}
+	li{line-height:120%;}
+	.complete{position:absolute;right:0;top:0;cursor:hand;cursor:pointer;width:48px;height:48px;}
+	div[data-complete="no"]{color:red;}
+	div[data-complete="yes"]{color:rgb(0,240,0);}
+	table{width:140%;margin-left:-20%;font-size:75%;padding:0px;border-collapse:collapse;border:2px solid black;}
+	th{background-color:black;color:white;text-align:center;}
+	td{border:1px solid black;}
+	td:nth-child(n+1){width:80px;}
+	td:first-child{width:120px;background-color:rgba(0,0,0,0.2);border-right:2px solid black;}
+	td:last-child{border-left:2px solid black;}
+	td:empty{background-color:black;}
+	tr:hover td{background-color:rgb(0,60,60)}
+	code{color:#89bad2;}
+	#topbanner{text-align: center; background: #292929; border-bottom: 1px solid black; padding-bottom: 5px; z-index: 9999; position: fixed; top: 0px; left: 0px; width: 100vw;}
+	</style>
+	</head>
+<body>
+	<div id="topbanner">This site doesn't use cookies at all. Challenge completion will be lost on clearing cache.</div>
+	<div id="toggle" onclick="switchSidebar()">☰</div>
+	<div id="togglecomplete" onclick="hideCompleted()"></div>
+	<div id="navigation"></div>
+	<div id="contents"></div>
+	<div id="disclaimer">No data is saved server side, all interaction is saved only locally on your PC. You may <a href="#" onclick="clearLocalStorage()">Click Here</a> to completely reset everything.</div>
+	<div id="footer">
+	<a href="#" onclick="GetLeague('mercenaries');return false;">Mercenaries Guide</a> | 	<a href="#" onclick="GetLeague('settlers');return false;">Settlers Guide</a> | 	<a href="#" onclick="GetLeague('necropolis');return false;">Necropolis Guide</a> | 	<a href="#" onclick="GetLeague('affliction');return false;">Affliction Guide</a> | <a href="https://craniumviolence.github.io/runeprices.html">Runecrafting Prices</a></a>
+	</div>
+	<script>
+
+		function GetLeague(league){		
+			var converter = new showdown.Converter();
+			// Declare extension
+			var customClassExt = {
+				type: 'output',
+				filter: function (text) {
+					return text
+						.replace(/<(.+)>\[\.([a-z0-9A-Z\s]+)\]/g, `<$1 class="$2">`)
+						.replace(/class="(.+)"/g, function (str) {
+							if (str.indexOf("<em>") !== -1) {
+								return str.replace(/<[/]?em>/g, '_');
+							}
+							return str;
+						});
+				}
+			};
+			// Add extension to converter
+			converter.addExtension(customClassExt);
+			
+			converter.setOption('tables', true);
+						
+			$.ajax({
+				url: league + '-toc.txt',
+				success: function(data){ document.getElementById("navigation").innerHTML = converter.makeHtml(data);}
+			});
+			
+			$.ajax({
+				url:league + '.txt',
+				success: function(data){ 
+					$("#contents").html(converter.makeHtml(data));
+					if (location.hash) {
+						let target = location.hash;				
+						if ($(target).offset() != null && $(target).offset() != 'undefined'){
+							$('html, body').animate({scrollTop: $(target).offset().top}, 'fast');
+						}
+					}
+					addCheckboxes();
+				}
+			});
+			
+
+		}	
+		function switchSidebar(e) {
+			let sidebar = localStorage.getItem("data-sidebar");
+			if (sidebar === "visible" || sidebar === null) {
+				localStorage.setItem("data-sidebar", "hidden");
+				document.documentElement.setAttribute('data-sidebar', 'hidden');
+			} else {
+				localStorage.setItem("data-sidebar", "visible");
+				document.documentElement.setAttribute('data-sidebar', 'visible');
+			}
+		}
+		
+		function getSidebar(){
+			let sidebar = localStorage.getItem("data-sidebar");
+			if (sidebar === "visible" || sidebar === null) {
+				localStorage.setItem("data-sidebar", "visible");
+				document.documentElement.setAttribute('data-sidebar', 'visible');
+			} else {
+				localStorage.setItem("data-sidebar", "hidden");
+				document.documentElement.setAttribute('data-sidebar', 'hidden');
+			}
+		}
+		
+		function checkHidden(){
+			let hideState = localStorage.getItem("data-complete-visibility");
+			if (hideState === "visible" || hideState === null) {
+				$("#togglecomplete").text("Fully Hide Complete");
+			} else {
+				$("#togglecomplete").text("Show Completed Names");			
+			}
+			
+		}
+		
+		function hideCompleted(){
+			let hideState = localStorage.getItem("data-complete-visibility");
+			if (hideState === "hidden" || hideState === null) {
+				// show all
+				$("h1").show();
+				localStorage.setItem("data-complete-visibility", "visible");		
+				$("#togglecomplete").text("Fully Hide Complete");		
+			} else if (hideState == "visible"){
+				// hide all
+				for(let x = 1; x <= 40; x++){					
+					let challenge = localStorage.getItem("data-ch-" + x);
+					if (challenge === "yes"){
+						// closest h1 because I'm dumb and lazy
+						$('div[data-challenge="' + x + '"]').closest("h1").hide();
+					}
+				}
+				localStorage.setItem("data-complete-visibility", "hidden");
+				$("#togglecomplete").text("Show Completed Names");
+			}			
+		}
+		
+		function addCheckboxes(){
+			let hideState = localStorage.getItem("data-complete-visibility");
+			let i = 0;
+			$("h1").each(function(){
+				// count from first challenge only
+				if($(this).text().startsWith("1 ")){
+					i = 1;
+				}
+				if(i != 0 && i <= 40){
+					let challenge = localStorage.getItem("data-ch-" + i);
+					if (challenge === "no" || challenge === null) {
+						localStorage.setItem("data-ch-" + i, "no");
+						$(this).append('<div class="complete" data-challenge="' + i + '" data-complete="no">&#x2717;</div>');
+					} else if (challenge === "yes") {
+						$(this).append('<div class="complete" data-challenge="' + i + '" data-complete="yes">&#x2713;</div>');
+						$("#ch-" + i).hide();
+						if (hideState === "hidden"){
+							$(this).closest("h1").hide();
+						}
+					}
+					i++;					
+				}
+			})
+		}
+		function clearLocalStorage(){
+			localStorage.clear();
+			 location.reload();
+		}
+		$(document).on('click', '.complete', function() {
+			let i = $(this).attr("data-challenge");
+			let challenge = localStorage.getItem("data-ch-" + i);
+			let hideState = localStorage.getItem("data-complete-visibility");
+			if (challenge === "yes" || challenge === null) {
+				localStorage.setItem("data-ch-" + i, "no");
+				$(this).html('&#x2717;').attr("data-complete", "no");
+				$("#ch-" + i).show();
+			} else if (challenge === "no") {
+				localStorage.setItem("data-ch-" + i, "yes");
+				$(this).html('&#x2713;').attr("data-complete", "yes");
+				$("#ch-" + i).hide();
+				if (hideState === "hidden"){
+					$(this).closest("h1").hide();
+				}
+			}
+		});
+		getSidebar();
+		checkHidden();
+		GetLeague("mercenaries");
+		
+		
+		$("h1").each(function(){
+			let id = $(this).attr("id");
+			console.log(id);
+		});
+		
+		
+	</script>
+</body>
+</html>

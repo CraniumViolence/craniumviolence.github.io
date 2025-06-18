@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<!--
+	░░░░█─────────────█──▀──
+	░░░░▓█───────▄▄▀▀█──────
+	░░░░▒░█────▄█▒░░▄░█─────
+	░░░░░░░▀▄─▄▀▒▀▀▀▄▄▀──DO─
+	░░░░░░░░░█▒░░░░▄▀────IT──
+	▒▒▒░░░░▄▀▒░░░░▄▀───FOR──
+	▓▓▓▓▒░█▒░░░░░█▄───BILLY──
+	█████▀▒░░░░░█░▀▄────────
+	█████▒▒░░░▒█░░░▀▄───────
+	███▓▓▒▒▒▀▀▀█▄░░░░█──────
+	▓██▓▒▒▒▒▒▒▒▒▒█░░░░█─────
+	▓▓█▓▒▒▒▒▒▒▓▒▒█░░░░░█────
+	░▒▒▀▀▄▄▄▄█▄▄▀░░░░░░░█─
+	-->
+	<META NAME="ROBOTS" CONTENT="noarchive">
+	<meta name="Description" content="Path of Exile Gem Vendors and Rewards">
+	<meta name="Keywords" content="path of exile, gem vendors, gem rewards">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script> 
+	<script src="./js/showdown.min.js"></script>
+	<title>Path of Exile Gem Sources</title>
+	<style>
+	p {text-align:center;margin:5px;font-size: 14px;}
+	:root{--toggle-left:340px;--sidebar-left:0px;}
+	[data-sidebar="visible"]{--toggle-left:4px;--sidebar-left: -336px;}
+	*{font-family:Verdana,Arial,Helvetica,sans-serif;box-sizing: border-box;}
+	html{background:#363636;overflow-y:scroll}
+	a,a:visited{color:#EE983C;text-decoration:none;}
+	a:hover{color:#FDB12D;}
+	h1{color:#E7B477;text-align:center;border-left:5px solid #C2A965;border-right:5px solid #C2A965;border-top:1px solid #C2A965;border-bottom:1px solid #C2A965;background-color:#5d1515;margin-bottom:0px;padding:5px;}
+	h2{color:#DADADA;text-align:center;margin:4px 0px;}
+	h3{color:#875516;text-align:center;margin:4px 0px;}
+	body{color:#E7B477;margin: 0 0 20px;padding-bottom:20px;}
+	#contents{margin:auto;width:100%;padding:10px;}
+	em img,li img{max-height:18px;margin-bottom:-3px;}
+	#footer{position: fixed;left:0;bottom:0;height:20px;width:100%;text-align:center;background:#292929;border-top:1px solid black;font-size:90%;}
+	#navigation{position:fixed;left:var(--sidebar-left);top:0px;height:100vh;display:var(--sidebar-display);max-height:100vh;overflow-y:scroll;background:rgb(40,40,40);padding-right:10px;width:336px;transition:all 0.2s linear;}
+	#toggle{position:fixed;left:var(--toggle-left);top:5px;cursor:pointer;transition: all 0.2s linear;font-size:30px;padding-bottom: 20px;color:#ffff00;text-shadow: 2px 2px 4px rgb(0, 0, 0, 1);}
+	#toggle:hover{color:#FFE28B}
+	table{width:100%;border-collapse:collapse;}
+	table img{max-height:22px;margin-bottom:-6px;margin-top:-3px;}
+	table tr th{font-size:14px;border:1px solid #2d2d2d;background-color:black;color:white;}
+	table tr th:first-child{min-width:24%;max-width:24%}
+	table tr th:nth-child(n+2){min-width:11%;max-width:11%}
+	table tr td:first-child{font-size:12px;border:1px solid #2d2d2d;background-color:rgb(32,32,32);color:#FFF;padding:3px;text-align:center;}
+	table tr td:nth-child(n+2){font-size:10px;border:1px solid #2d2d2d;background-color:rgb(32,32,32);color:#E8DA78;padding:3px;text-align:center;}
+	table tr td:nth-child(n+2).reward{ color:#78DAE8;}
+	table tr td:nth-child(n+2).offpath{ color:#DF84E0;}
+	th input{background:none;width:100%;border:none;color:white;}
+	tr:first-child { position: sticky; top: 0px; background: black;}
+	.currency{float:right;}
+	.col-red{width:20px;float:left;background-color:red;color:white;border-radius:2em;padding-left:3px;padding-right:3px;}
+	.col-green{width:20px;float:left;background-color:green;color:white;border-radius:2em;padding-left:3px;padding-right:3px;}
+	.col-blue{width:20px;float:left;background-color:blue;color:white;border-radius:2em;padding-left:3px;padding-right:3px;}
+	.col-white{width:20px;float:left;background-color:white;color:black;border-radius:2em;padding-left:3px;padding-right:3px;}
+	table tr:hover td{background-color:rgb(40,40,40)
+	</style>
+	</head>
+<body>
+	<div id="contents">
+		<p><b>Siosa</b> is found in <b>Act 3</b> and his store is available after completing <b>A Fixture of Fate</b>. He sells all purchasable pre-Act 4 gems.</p>
+		<p><b>Lilly Roth</b> is found in <b>Act 6</b> or <b>Act 10</b> and her store is available after completing <b>a single quest for her from either act</b>. She sells all purchasable gems.</p>
+		<p><b>Starting Gem</b>s are the first two gems you get on the beach. Blue indicates reward option. Orange indicates buy only. Pink indicates requiring either Siosa or Lilly.</p>
+		<table id="gems">
+			<tr><th><input id="search" type="search" autofocus="" placeholder="Search gems by name"></th><th>Witch</th><th>Shadow</th><th>Ranger</th><th>Duelist</th><th>Marauder</th><th>Templar</th><th>Scion</th>
+		</table>
+	</div>
+	<div id="footer">Other pages: <a href="./">Challenge Guide</a> | <a href="./transgems.html">Transfigured Gem Information [Outdated]</a></div>
+	<script>		
+		const gemTable = document.querySelector("#gems");
+		fetch('./js/gems.json')
+			.then((response) => response.json()).then((json) => {
+				for (var gem of json.gems) { 
+					const gemRow = document.createElement("tr")
+					let img; let col;
+					if (gem.cost == "Orb of Transmutation"){
+						img = '<img class="currency" src="./img/currency/transmutation.png" alt=""/>'
+					} else if (gem.cost == "Orb of Chance"){
+						img = '<img class="currency" src="./img/currency/chance.png" alt=""/>'
+					} else if (gem.cost == "Orb of Alteration"){
+						img = '<img class="currency" src="./img/currency/alteration.png" alt=""/>'
+					} else if (gem.cost == "Orb of Alchemy"){
+						img = '<img class="currency" src="./img/currency/alchemy.png" alt=""/>'
+					} else if (gem.cost == "Scroll of Wisdom"){
+						img = '<img class="currency" src="./img/currency/wisdom.png" alt=""/>'
+					}
+					
+					if (gem.color == "red"){
+						col = '<span class="col-' + gem.color + '">R</span>'
+					} else if (gem.color == "green"){
+						col = '<span class="col-' + gem.color + '">G</span>'
+					} else if (gem.color == "blue"){
+						col = '<span class="col-' + gem.color + '">B</span>'
+					} else if (gem.color == "white"){
+						col = '<span class="col-' + gem.color + '">W</span>'
+					}
+					console.log(col);
+					console.log(gem.name);
+					console.log(img);
+					
+					gemRow.appendChild(document.createElement("td")).innerHTML = col + " " + gem.name + " " + img;
+					for (let x = 0; x < 7; x++){
+						let td = document.createElement("td");
+						if (gem.rewards[x] != "-"){
+							td.textContent = gem.rewards[x];
+							td.className = "reward"
+						} else {
+							td.textContent = gem.vendors[x];
+							if (gem.vendors[x] == "Siosa" || gem.vendors[x] == "Lilly Roth") {
+								td.className = "offpath"
+							}
+						}
+						gemRow.appendChild(td);
+					}
+					gemTable.append(gemRow);					
+				}
+			});
+			
+			// case insensitive
+			$.expr[":"].contains = $.expr.createPseudo(function(arg) {
+				return function( elem ) {
+					return $(elem).text().toUpperCase().indexOf(arg.toUpperCase()) >= 0;
+				};
+			});
+			// delay function
+			function throttle(f, delay){
+				var timer = null;
+				return function(){
+					var context = this, args = arguments;
+					clearTimeout(timer);
+					timer = window.setTimeout(function(){
+						f.apply(context, args);
+					},
+					delay || 350);
+				};
+			}
+			
+			$("#search,#searchTags").keyup(throttle(doSearch)); 
+			$('select').blur(doSearch);
+			$('select').change(doSearch);
+			function doSearch(){
+				let term = $('#search').val();
+				if(term.length > 0){
+					// skip header row
+					$("td").parent().hide();
+					$('tr td:contains("' + term + '")').parent().show();
+				} else {
+					$("tr").show();
+				}
+			};
+			
+	</script>
+</body>
+</html>

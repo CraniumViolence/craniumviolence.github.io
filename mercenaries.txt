@@ -1,0 +1,817 @@
+## You can toggle navigation with the `☰` at the top left
+
+# Mercenaries of Trarthus Challenges
+Please get in touch through [Github](https://github.com/CraniumViolence/craniumviolence.github.io) if any information here is incorrect, absent or you simply have better strategies or information! I don't currently operate a reddit account so this is the only way to get in touch for now.
+
+This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include complex instructions for a lot of aspects such as explaining what a mechanic is (with the obvious exception of current league or new mechanics getting more attention). 
+
+Nothing on this page is SSF oriented but as previously, if people want things flagged as bad for SSF for whatever reason just shout at me on the link above.
+
+This is genuinely maybe the easiest 40 they've ever had. It's made up for by the fact if you are in Europe, Russia, Asia or use the Washington server the game is borderline unplayable and will regular destroy instances, what a treat!
+
+
+# 1 Beginner's Basics
+<div id="ch-1" markdown="1">
+[.ggg]Complete each of the following tasks.
+- [.ggg]Use an Orb of Alteration
+- [.ggg]Allocate a Passive Mastery
+- [.ggg]Equip a Magic Utility Flask
+- [.ggg]Use the Crafting Bench
+    - [.com]The Crafting Bench can be found in your personal Hideout, should you have one
+    - [.com]A first hideout can be unlocked during Act 2 by going into the Dread Thicket which is connected to the Northern Forest
+	
+Literally free.
+</div>
+
+# 2 Merciful Mercenaries
+<div id="ch-2" markdown="2">
+[.ggg]Complete each of the following Mercenaries of Trarthus encounters.
+- [.ggg]Take an Item from a Mercenary
+- [.ggg]Hire A Mercenary
+- [.ggg]Exile a Mercenary
+
+Basically free, I don't think they really need explanations.
+
+You can immediately take items by holding control and clicking the item or item rucksack.
+</div>
+
+# 3 Peddler's Produce I
+<div id="ch-3" markdown="3">
+[.ggg]Complete vendor recipes to receive each of the following items. A vendor recipe is when you trade a specific combination of items to a vendor, not when you buy items from their purchase screen.
+- [.ggg]Life or Mana Flask
+	- [.com]`Three of a single type of Life or Mana Flask` will upgrade into the next tier for this
+- [.ggg]Boots with Movement Speed
+	- [.com]Vendor a pair of `Normal Rarity Boots + Quicksilver Flask + Orb of Augmentation`
+- [.ggg]Any Ring or Amulet
+	- [.com]Vendor an Iron Ring and any colour of gem
+- [.ggg]Orb of Chance
+	- [.com]Vendor two items with **identical names**
+	- [.com]The trade site allows you to search by item name, even if it's not exposed obviously
+		- [.com]Simply type something like `Brood Road` into the search to get identically named items to buy
+		- [.com]Searching by simply an item class with rarity set to rare will get you easy item names to copy
+		
+Bog standard vendor recipes, the `Orb of Chance` recipe is slightly exotic for a change.
+</div>
+
+# 4 Act Adversaries I
+<div id="ch-4" markdown="4">
+[.ggg]Defeat each of the following Act Bosses.
+- [.ggg]Act 1: Merveil, the Twisted
+- [.ggg]Act 2: Vaal Oversoul
+- [.ggg]Act 3: Dominus, Ascendant
+- [.ggg]Act 4: Malachai, The Nightmare
+- [.ggg]Act 5: Kitava, the Insatiable
+
+Complete the first five acts.
+</div>
+
+# 5 Quisitive Quandaries
+<div id="ch-5" markdown="5">
+[.ggg]Complete each of the following Quests.
+- [.ggg]The Marooned Mariner
+	- [.com] Act 1, passive point quest
+	- [.com] Go to The Ship Graveyard and enter the The Ship Graveyard Cave
+	- [.com] Grab the Allflame at the end from a corpse
+	- [.com] Return it to Fairgraves in The Ship Graveyard 
+- [.ggg]The Dweller of the Deep
+	- [.com] Act 1, passive point quest
+	- [.com] The Dweller of the Deep is in the Act 1 area Flooded Depths accessed from The Submerged Passage
+- [.ggg]The Way Forward
+	- [.com] Act 2, passive point quest
+	- [.com] Kill Captain Arteri in the Western Forest and use his Thaumetic Seal to unlock the Prisoner's Gate
+	- [.com] Return to Bestel two acts later when you realise you never turned it in	
+- [.ggg]Through Sacred Ground
+	- [.com] Act 2, passive point quest
+	- [.com] Head through The Fellshrine Ruins and into the Crypt and get the Golden Hand(job) from level 2 and return it to Yeena
+- [.ggg]Victario's Secrets
+	- [.com] Act 3, passive point quest
+	- [.com] Collect three busts from within the sewers and return them to Hargan	
+- [.ggg]Piety's Pets
+	- [.com] Act 3, passive point quest
+	- [.com] This one isn't optional, kill Piety	
+- [.ggg]An Indomitable Spirit
+	- [.com] Act 4, passive point quest
+	- [.com] Find Deshret's Spirit in The Mines Level 2 and return to Tasuni	
+- [.ggg]In Service to Science
+	- [.com] Act 5, passive point quest
+	- [.com] Find the Miasmeter in the Control Blocks, it's at the top left of the area roughly and return it to Vilenta
+- [.ggg]Kitava's Torments
+	- [.com] Act 5, passive point quest
+	- [.com] Head into The Reliquary and get the three torments from each corner of the map and return them to Lani
+	
+Standard progression quests you will probably already be doing by default.
+</div>
+
+# 6 Helpful Hirelings
+<div id="ch-6" markdown="6">
+[.ggg]Complete each of the following Mercenaries of Trarthus encounters.
+- [.ggg]Hire Mercenaries x5
+- [.ggg]Exile Mercenaries x5
+- [.ggg]Take Items from Mercenaries  x5
+- [.ggg]Take a Unique Item from a Mercenary
+
+Straight forward, the unique can be gotten off an Infamous Mercenary very easily as they always spawn with at least one
+</div>
+
+# 7 Act Adversaries II
+<div id="ch-7" markdown="7">
+[.ggg]Defeat each of the following Act Bosses.
+- [.ggg]Act 6: Tsoagoth, The Brine King
+- [.ggg]Act 7: Arakaali, Spinner of Shadows
+- [.ggg]Act 8: Lunaris, Eternal Moon and Solaris, Eternal Sun
+- [.ggg]Act 9: The Depraved Trinity
+- [.ggg]Act 10: Kitava, the Insatiable
+
+Standard progression quests you will probably already be doing by default.
+</div>
+
+# 8 Pantheon Prowess
+<div id="ch-8" markdown="8">
+[.ggg]Complete each of the following Pantheon God Quests.
+- [.ggg]The Father of War
+- [.ggg]The Puppet Mistress
+- [.ggg]The Cloven One
+- [.ggg]The Master of a Million Faces
+- [.ggg]Queen of Despair
+- [.ggg]Reflection of Terror
+- [.ggg]The Ruler of Highgate
+- [.ggg]Queen of the Sands
+
+Standard progression quests you will probably already be doing by default.
+</div>
+
+# 9 Atlas Augmentations
+<div id="ch-9" markdown="9">
+[.ggg]Complete any three of the following League Mechanic encounters the specified number of times.
+- [.ggg]Defeat Monsters with Essence x30
+- [.ggg]Open Strongboxes x30
+- [.ggg]Activate Shrines x30
+- [.ggg]Defeat Harbingers x30
+- [.ggg]Defeat Possessed Monsters x30
+- [.ggg]Defeat Rogue Exiles x30
+- [.ggg]Defeat Rare Beyond Monsters x30
+
+Absolutely nothing special about these, you'll very likely complete them simply playing.
+
+You can use scarabs, the map device and Kirac missions to speed things up.
+</div>
+
+# 10 Mighty Mechanics
+<div id="ch-10" markdown="10">
+[.ggg]Complete any five of the following League Mechanic encounters the specified number of times.
+- [.ggg]Complete Breaches x30
+- [.ggg]Complete Abysses x30
+- [.ggg]Complete Expeditions x30
+- [.ggg]Harvest Plots x100
+- [.ggg]Complete Legion Encounters x30
+- [.ggg]Open Smuggler's Caches x30
+- [.ggg]Pass through Mirrors of Delirium x30
+- [.ggg]Complete Ultimatum Waves x200
+- [.ggg]Complete Blights x30
+- [.ggg]Complete Rituals x100
+- [.ggg]Complete Ore Deposit Encounters x60
+
+As above but with a couple more mechanics thrown in.
+
+You can use scarabs, the map device and Kirac missions to speed things up.
+
+Ultimatum looks worse than it is but you are not likely to finish 200 if you aren't choosing to do the mechanic actively.
+</div>
+
+# 11 Familiar Friends
+<div id="ch-11" markdown="11">
+[.ggg]Complete any two of the following Master Mission encounters in Red or Purple Tier Maps the specified number of times.
+- [.ggg]Niko Missions x30
+- [.ggg]Einhar Missions x30
+- [.ggg]Jun Missions x30
+- [.ggg]Alva Missions x30
+
+You can use scarabs, the map device and Kirac missions to speed things up.
+
+All of these can be decent profit.
+</div>
+
+# 12 Combat Camaraderie
+<div id="ch-12" markdown="12">
+[.ggg]Defeat 200 Rare or Unique Monsters while you have an Active Mercenary in Level 75 or higher areas.
+
+Very straight forward, Level 75 is mid way through yellow maps so it's not too much of a requirement.
+</div>
+
+# 13 Vitriolic Vaal
+<div id="ch-13" markdown="13">
+[.ggg]Defeat Atziri, Queen of the Vaal in the Alluring Abyss.
+
+This is Uber Atziri. 
+
+The biggest thing to know is that she has reflect and that while splitting into four clones one of them carries an even stronger reflect mirror which can easily lead to accidental deaths.
+
+You can buy a carry easily enough if you aren't feeling up to it.
+</div>
+
+# 14 Beloved Benches
+<div id="ch-14" markdown="14">
+[.ggg]Unlock any 60 Crafting Bench Recipes from Map Areas.
+
+There's a lot of crafing recipes now, you'll simply get this done by going through map completion for unlocking atlas points.
+
+The crafting bench has an 'undiscovered' section that covers where any missing recipes are.
+</div>
+
+# 15 Memorable Missions
+<div id="ch-15" markdown="15">
+[.ggg]Complete any six of the following Kirac Atlas Missions.
+- [.ggg]Defeat the Breachlord
+- [.ggg]Open the Unique Strongbox
+- [.ggg]Defeat the Elderslayer
+- [.ggg]Defeat the Elder's Guardian
+- [.ggg]Defeat the Shaper's Guardian
+- [.ggg]Complete the Einhar Mission
+- [.ggg]Complete the Excursions
+- [.ggg]Close all the Harbinger Portals
+- [.ggg]Activate every Pantheon Shrine
+- [.ggg]Slay the Imprisoned Exiles
+- [.ggg]Defeat all Possessed Monsters
+- [.ggg]Open all the Strongboxes
+
+These are the new-old Kirac red tier missions, they're basically pulled over from the old memory sequences into atlas missions.
+
+Get Kirac mission nodes and the nodes for dropping scouting reports to enable rerolling of his missions to look for these.
+
+Primal Cystcaller also exists for Beastcrafting to get more missions.
+</div>
+
+# 16 Unreal Undertakings
+<div id="ch-16" markdown="16">
+[.ggg]Complete any four of the following encounters where the area level is 81 or higher.
+- [.ggg]Breachstones x5
+	- [.com]All Breachstones will work outside of any weird Kirac mission outliers below normal level.
+- [.ggg]Abyssal Depths x5
+	- [.com]Do abyss with appropriate nodes selected to increase Depths chances
+- [.ggg]Logbooks with at least 10 Remnants active x5
+- [.ggg]Tier 4 Harvest Seeds x5
+	- [.com]Crop Rotation can get you Tier 4s relatively even if it's not completely consistent
+	- [.com]Scarabs exist that force Tier 4 monster spawns
+- [.ggg]Domains of Timeless Conflict with at least 25 rewards x3
+	- [.com]Can be done in a four way fairly easily, simply get the emblems
+- [.ggg]Blueprints with 4 revealed wings x5
+	- [.com]Requires engaging with Heist
+- [.ggg]Simulacrum Waves x60
+	- [.com]Simply waves, doesn't need you to complete them
+	- [.com]I would avoid attrition grinding and do something else instead
+- [.ggg]Trialmaster fights x3
+	- [.com]You can force the Trialmaster with a scarab
+	- [.com]You can and should, that is, don't grind it without doing so
+- [.ggg]Blighted or Blight Ravaged Maps x5
+	- [.com]Can be cleared on any build even with zdps because of how the systems work
+	- [.com]Clear, Sepia and Amber Oils to slow monsters and maximise your ability to build towers.
+	- [.com]Ring anoint for Meteor Burning Ground and Chilling Towers Freeze Enemies.
+	- [.com]Leave Seismic, Empowering and Ice towers at Level 3, use them in choke points and to stop things reaching the pump in general.
+	- [.com]Minions should go to Scout Towers, Fire should go to Meteor Towers.
+	- [.com]Build multiple damage types in each lane to cover immunities. Try to build towers around actual lane chokepoints.
+	- [.com]Avoid immune to stun, chance to avoid elemental ailments and cannot be slowed below base speed as modifiers.
+	- [.com]Blight ravaged is a lot harder but can still be managed with just those two ring anoints if you don't get a really, really bad layout
+- [.ggg]All Rituals in Maps with at least one Blood-filled Vessel applied x30
+	- [.com]Needs Ritual Vessels made from 100x Ritual Splinters
+	- [.com]Use them on completed rituals to fill them up
+	- [.com]Use filled ones as a map fragment when opening a portal to add the monsters to rituals
+	- [.com]This is a fairly big undertaking compared to some of the others, you cannot fill vessels from rituals that used vessels making this a lot more than 30 in most cases
+- [.ggg]Defeat Settler Bosses x3
+	- [.com]Set up your mappers and sailors and leave them running as much as possible to get bosses to spawn
+	- [.com]Set up your atlas to add ore to maps so you have better chances of starfall crater
+	- [.com]Not sure how bad this will be after settlers, the mappers boss basically didn't exist that league for me personally
+Level 81 means you will need to run tier 14 or higher maps.
+</div>
+
+# 17 Signature Specialisations 
+<div id="ch-17" markdown="17">
+[.ggg]Claim any five items from Mercenaries of the following Equipment Types while they have an "Infamous" or "of Infamy" Mercenary-Specific Modifier on them.
+- [.ggg]Body Armour
+- [.ggg]Weapon
+- [.ggg]Quiver
+- [.ggg]Helmet
+- [.ggg]Amulet
+- [.ggg]Ring
+- [.ggg]Gloves
+- [.ggg]Boots
+- [.ggg]Belt
+
+Awkward as there's no real way to search the mercenary items and they aren't highlighted. Simply hover over items while holding down alt.
+
+[PoeDB](https://poedb.tw/us/Infamous_Modifiers#Infamous) naturally has a full list of the modifiers.
+</div>
+
+# 18 Achieve Ascension
+<div id="ch-18" markdown="18">
+[.ggg]Use the Ascendancy Device in each of the following Labyrinths.
+- [.ggg]The Labyrinth
+- [.ggg]The Cruel Labyrinth
+- [.ggg]The Merciless Labyrinth
+- [.ggg]The Eternal Labyrinth
+
+Standard player progression, it's not the enriched version so it's simply a normal Offering to the Goddess labyrinth.
+
+[PoeLab](https://www.poelab.com/) covers the layouts daily with useful notes.
+</div>
+
+# 19 Divined Destiny
+<div id="ch-19" markdown="19">
+[.ggg]Complete any three of the following Divination Card tasks.
+- [.ggg]Open Stacked Decks x50
+- [.ggg]Turn in sets of Divination Cards with a stack size of at least 10 x5
+- [.ggg]Scry a Map
+	- [.com]You will find the Nameless Seer more often in maps with bad divination cards, don't run something with an apothecary expecting this to be simple
+- [.ggg]Turn in a set of Divination card that rewards a Two-implicit Unique item
+	- [.com]Faustus should in theory make this easier to accomplish
+		- ![][div-card] Duality (2 stack)
+		- ![][div-card] Further Invention (4 stack)
+		- ![][div-card] Costly Curio (6 stack)
+
+Normal divination related challenges, stack decks are very common in Blighted Maps.
+</div>
+
+# 20 Peddler's Produce II
+<div id="ch-20" markdown="20">
+[.ggg]Complete vendor recipes to receive each of the following items. A vendor recipe is when you trade a specific combination of items to a vendor, not when you buy items from their purchase screen.
+- [.ggg]Orb of Fusing
+	- [.com]Vendor a `six-link item`
+- [.ggg]Exalted Shard
+	- [.com]Vendor a `full set of influence matching equipment` either IDed or otherwise
+		- [.com]Influence should be of a single type, i.e. every item below with shaper influence
+		- [.com]1x Helmet
+		- [.com]1x Body Armour
+		- [.com]1x Gloves
+		- [.com]1x Boots
+		- [.com]1x Two Handed Weapon or 2x One Handed Weapon
+		- [.com]1x Amulet
+		- [.com]1x Belt
+		- [.com]2x Rings		
+- [.ggg]Unique Item
+	- [PoeWiki listing for all of these](https://www.poewiki.net/wiki/Vendor_recipe_system#Unique_items) 
+- [.ggg]Item with Influence
+	- Vendor an influenced amulet (not an onyx) and a gem of each colour (not white)
+	- Vendor an influenced Iron Ring and any colour gem
+	- Vendor normal rarity influenced boots with an Augmentation Orb and a Quicksilver Flask
+	
+More standard vendor recipes.
+</div>
+
+# 21 Striving Settlements
+<div id="ch-21" markdown="21">
+[.ggg]Complete any four of the following Settlers of Kalguur tasks.
+- [.ggg]Complete Port Quotas x10
+	- [.com]This needed cheese last league, I'd be sceptical of it being any better
+- [.ggg]Disenchant Unique items x30
+	- [.com]Very straight forward, throw uniques into disenchanting
+- [.ggg]Claim rewards from Maps successfully completed by your Atlas Runners x50
+	- [.com]Very straight forward, no tier requirement so you can throw white maps at level 5 mappers
+- [.ggg]Have at least 150,000 gold in the Kingsmarch Treasury at once.
+	- [.com]You can put in your gold and immediately take it out, very reasonable amount to target
+- [.ggg]Have at least 5,000 Blue Zanthimum in your Kingsmarch Stockpile at once
+	- [.com]Simply have your farmers farm the crop and you'll get it passively
+- [.ggg]Have at least 2,500 Verisium Bars in your Kingsmarch Stockpile at once
+	- [.com]Not too bad to get, you can bias towards Verisium with new atlas nodes and 2,500 is less than it sounds like
+
+Just basic chores for the new Kingsmarch.
+</div>
+
+# 22 Equipped Elites
+<div id="ch-22" markdown="22">
+[.ggg]Fill all Equipment slots of Mercenaries with the same type of Equipment with any five of the following Equipment Types.
+- [.ggg]Unique
+	- [.com]Easy
+- [.ggg]Corrupted
+	- [.com]Easy
+- [.ggg]Influenced
+	- [.com]Pretty easy
+- [.ggg]Mirrored
+	- [.com]Dumb
+- [.ggg]Fractured
+	- [.com]Dumb
+- [.ggg]Synthesized
+	- [.com]Dumb
+- [.ggg]Crafted
+	- [.com]Very easy
+- [.ggg]Split
+	- [.com]Very dumb
+
+You can take these items back after you give them to the mercenary so you don't need it to be any specifically disposable goods. 
+
+Don't dismiss them without taking the items off, though.
+</div>
+
+# 23 Remarkable Realms
+<div id="ch-23" markdown="23">
+[.ggg]Complete 40 Unique Maps.
+
+In a strange change, this is just raw quantity. You can use Kirac for these and there's a scouting report for unique maps as well as divination cards for them.
+</div>
+
+# 24 Sanctified Scarabs
+<div id="ch-24" markdown="24">
+[.ggg]Complete Maps with any 20 of the following Scarab types while they are at least Tier 14 and 80% Item Quantity.
+- [.ggg]Abyss
+- [.ggg]Ambush
+- [.ggg]Anarchy
+- [.ggg]Bestiary
+- [.ggg]Betrayal
+- [.ggg]Beyond
+- [.ggg]Blight
+- [.ggg]Breach
+- [.ggg]Cartography
+- [.ggg]Delirium
+- [.ggg]Delve
+- [.ggg]Divination
+- [.ggg]Domination
+- [.ggg]Essence
+- [.ggg]Expedition
+- [.ggg]Harbinger
+- [.ggg]Harvest
+- [.ggg]Incursion
+- [.ggg]Influence
+- [.ggg]Legion
+- [.ggg]Misc
+- [.ggg]Ritual
+- [.ggg]Settlers
+- [.ggg]Titanic
+- [.ggg]Torment
+- [.ggg]Ultimatum
+- [.ggg]Horned
+
+Simply use 20 of 27 different scarab types. You can use 3-5 per map making this very quick to knock out.
+</div>
+
+# 25 Glorious Gemstones
+<div id="ch-25" markdown="25">
+[.ggg]Complete any three of the following Gem tasks.
+- [.ggg]Corrupt a gem to become either level 21 or 23% quality
+	- [.com]Slam Vaal Orbs on Lv20 or 20% quality gems
+	- [.com]Use the Lapidary Lens for better odds (Alva Temples)
+- [.ggg]Use a Facetor's Lens to add experience to a Gem
+	- You can get these from Trade, Lab, Harvest and Tora
+- [.ggg]Have a socketed skill gem reach level 30 or 53% quality or higher
+	- Crest of Desire adds 5-8 levels and 30-50% quality to any inserted Skill Gem
+- [.ggg]Have a total of 300% quality on all socketed gems
+	- Fifteen 20% quality gems, not quite a full roster
+	- You can combine with the above to take some of the pressure off 
+	- Quality of Socketed Gems is found in the Armoury Map now and can count as 6-8% per gem
+	
+</div>
+
+# 26 Cross Contamination
+<div id="ch-26" markdown="26">
+[.ggg]Complete any four of the following past league content encounters.
+- [.ggg]Defeat a Delirium Boss that is Possessed
+	- [.com]TODO
+- [.ggg]Defeat a Legion General while Delirious
+    - **Unending Nightmare** will stop Fog ever dissipating
+    - Any **Players are Delirious** map has permanent fog (1x Delirium Orb)
+- [.ggg]Defeat an Essence Monster while affected by a Tempest
+	- [.com]TODO
+- [.ggg]Defeat a Beyond Boss while in a Breach
+- [.ggg]Defeat a Blight Boss while affected by a Shrine
+	- [.com]Simply run maps with blight and shrines and kill a boss completely when you have tagged the shrine
+- [.ggg]Complete a Ore Deposit Encounter while Delirious
+    - [.com]**Unending Nightmare** will stop Fog ever dissipating
+    - [.com]Any **Players are Delirious** map has permanent fog (1x Delirium Orb)	
+</div>
+
+# 27 Assisted Atlas
+<div id="ch-27" markdown="27">
+[.ggg]Complete a collective 750 Tiers of Maps while you have an Active Mercenary.
+
+It's grinding out maps, there's no limit on the tier of maps so all should count towards it fine.
+It's 47 raw T16 maps but unless you never hire mercenaries in maps you'll not actually need that many of them.
+</div>
+
+# 28 Formidable Fights
+<div id="ch-28" markdown="28">
+[.ggg]Complete one of the following Master Mission encounters the specified number of times.
+- [.ggg]Defeat Delve Bosses in Level 75 or higher Areas x3
+	- [.com]Delve is delve is delve, go down until you find bosses you'd probably want a specific build for it
+	- [.com]You can buy taxis for this or pay to leech kills
+		- [.com]A taxi is someone taking you to the boss and leaving, this stops their boss being consumed and allows you to kill it (you will get zero loot)
+- [.ggg]Defeat Bestiary Bosses x20
+	- [.com]You can buy beasts for this directly or pay to leech kills
+		- [.com]Craicic Spider Crab
+		- [.com]Farric Tiger Alpha
+		- [.com]Fenumal Hybrid Arachnid
+		- [.com]Saqawine Rhex
+- [.ggg]Defeat the Syndicate Mastermind x4
+	- [.com]Catarina is on a fragment now so you can ignore the entire betrayal mechanic and still 
+	- [.com]You can buy `Syndicate Medallion` for this directly or pay to leech kills
+- [.ggg]Defeat the Vaal Omnitect in Level 75 or higher Areas x40
+	- [.com]Farm temples using Alva nodes or buy `Chronicle of Atzoatl` at the required Level 75 or higher
+	- [.com]Simply filter to having the temple apex open and you can ignore everything else
+</div>
+
+# 29 Elated Exaltation
+<div id="ch-29" markdown="29">
+[.ggg]Use any seven of the following Exalted Orb Currencies.
+- [.ggg]Exalted Orb
+- [.ggg]Tainted Exalted Orb
+- [.ggg]Eldritch Exalted Orb
+- [.ggg]Veiled Exalted Orb
+- [.ggg]Warlord's Exalted Orb
+- [.ggg]Crusader's Exalted Orb
+- [.ggg]Redeemer's Exalted Orb
+- [.ggg]Hunter's Exalted Orb
+- [.ggg]Elder's Exalted Orb
+- [.ggg]Shaper's Exalted Orb
+
+Simply a currency dump [poe.nina](https://poe.ninja/economy/mercenaries/currency?name=Exalted%20Orb) has active tracking for these and you can work out which is cheapest here or in the Currency Exchange.
+</div>
+
+# 30 Maniacal Magnitudes
+<div id="ch-30" markdown="30">
+[.ggg]Complete Maps with a total of 60,000% Item Quantity from modifiers and additional sources, such as Sacrifice Fragments. This does not include any quantity bonuses from your items or party.
+
+You can get 30% quantity from the Atlas Tree, 8% from the Map Device, 5% from each part of a Sacrifice Fragment Set and 10% from each part of a Mortal Fragment Set.
+Map Modifier Effect will also increase Item Quantity associated with modifiers.
+You can expect a several hundred maps regardless of how you stack this.
+
+</div>
+
+# 31 Recollections Realised
+<div id="ch-31" markdown="31">
+[.ggg]Complete each of the following Types of Map the specified number of times while they are at least Rare.
+- [.ggg]Originator Memory Influenced Maps x50
+	- [.com]These maps roll T17 modifiers regardless of tier, you can simply transmute - alteration - regal them to get minimum difficulty
+- [.ggg]Courtyard of Wasting x4
+	- [.com]This is the Incarnation of Neglect's penultimate map
+- [.ggg]Chambers of Impurity x4
+	- [.com]This is the Incarnation of Fears's penultimate map
+- [.ggg]Theatre of Lies x4
+	- [.com]This is the Incarnation of Dread's penultimate map
+	
+You can target the memory chains you want using the new memory nodes at the top of the atlas. You'll be railroaded into one of each for just getting completions in general
+</div>
+
+# 32 Infamous Instigators
+<div id="ch-32" markdown="32">
+[.ggg]Defeat any 15 of the following Infamous Mercenaries in level 78 or higher areas.
+- [.ggg]Stormhand [.com](Int)
+- [.ggg]Frosthand [.com](Int)
+- [.ggg]Withertouch [.com](Int)
+- [.ggg]Reanimator [.com](Int)
+- [.ggg]Cruel Mistress [.com](Int)
+- [.ggg]Blade Ambusher [.com](Dex/Int)
+- [.ggg]Shock Ambusher [.com](Dex/Int)
+- [.ggg]Bladecaster [.com](Dex/Int)
+- [.ggg]Bladebitter [.com](Dex/Int)
+- [.ggg]Eruptor [.com](Str)
+- [.ggg]Ripper  [.com](Str)
+- [.ggg]Earthshaker  [.com](Str)
+- [.ggg]Striker  [.com](Str)
+- [.ggg]Sanguimancer [.com](Str/Dex/Int)
+- [.ggg]Kineticist [.com](Str/Dex/Int)
+- [.ggg]Warpriest [.com](Str/Int)
+- [.ggg]Fallen Reverend [.com](Str/Int)
+- [.ggg]Storming Zealot [.com](Str/Int)
+- [.ggg]Toxicologist [.com](Dex)
+- [.ggg]Sniper [.com](Dex)
+- [.ggg]Flamequiver [.com](Dex)
+- [.ggg]Manyshot [.com](Dex)
+- [.ggg]Bastion [.com](Str/Dex)
+- [.ggg]Bloodletter [.com](Str/Dex)
+- [.ggg]Swiftblade [.com](Str/Dex)
+- [.ggg]Combatant [.com](Str/Dex)
+
+At the time of writing mercenaries are pretty cracked, level 78 is any tier 11 or higher map.
+You can run these white to avoid the mercenaries being completely insane but you will likely want a build that can off screen to reliably get them all right now.
+There's not really anything specific you can do to make them more likely outside of hiring them and exiling the ones of types you have already done.
+
+</div>
+
+# 33 Eldritch Expedition
+<div id="ch-33" markdown="33">
+[.ggg]Complete each of the following Altar Encounters.
+- [.ggg]Activate Eldritch Altars x333
+	- [.com]Exarch and Eater altars, buff their spawn rates using their atlas clusters and simply run T14 or higher maps to spawn them
+	- [.com]Will be around 100 maps with average luck
+- [.ggg]Activate Memory Altars x33
+	- [.com]These are at the end of each step of a memory chain, you'll get three per run meaning 11 full memory chains are needed.
+
+Pretty straight forward map grind challenge, expect to average around 100+ maps for the Eldritch Altars.
+</div>
+
+# 34 Revered Return
+<div id="ch-34" markdown="34">
+[.ggg]Complete any four of the following Originator Influence challenges.
+- [.ggg]Use Orbs of Rememberance x5
+	- [.com]Moderately priced
+	- [.com]GGG can't spell Remembrance
+- [.ggg]Use Orbs of Unravelling x5
+	- [.com]Highest priced
+- [.ggg]Use Orbs of Intention x10
+	- [.com]Very cheap
+- [.ggg]Consume Petals x25000
+	- [.com]You gain petals while inside the new originator influenced maps
+	- [.com]By default you can press the F key to consume them
+	- [.com]You should get a couple hundred of these a map so simply getting the requirements for the other originator challenges will cover them
+- [.ggg]Consume Memory Strands on Equipment x2000
+	- [.com]Using the orbs above will consume memory strands as will modifying equipment with strands on them in general
+	- [.com]You can just alt spam random piecse to rapidly consume them
+
+The new originator influenced maps give items with Memory Strands on them, the new equipment types interact with these to add a 'buffed' crafting budget.
+
+Because of the four requirement you will have to just dump currency, check [poe.ninja](https://poe.ninja/economy/mercenaries/currency) and the currency exchange to work out what are the best options at the time you are completing it.
+</div>
+
+# 35 Strenuous Summons
+<div id="ch-35" markdown="35">
+[.ggg]Complete a total of 250 Modifiers on Invitations.
+
+The various invitations can be rolled magic or rare with up to eight modifiers, five or six is probably more reasonable so expect to be doing around 50 of these.
+
+A total of around 60 invites rolled on the lower end, this isn't particularly hard but is a lot of content due to the nature of how invitations work.
+
+You can buy clears and you can buy invitations outright for non-maven encounters.
+
+All explicitly named invitations count for this:
+- Writhing Invitation
+	- Cheap, likely profitable
+	- The Infinite Hunger
+- Polaric Invitation
+	- Cheap
+	- The Black Star
+- Incandescent Invitation
+	- Moderate cost, low profit chance
+	- The Searing Exarch
+- Screaming Invitation
+	- Moderate cost, low profit chance
+	- The Eater of Worlds
+- Maven's Invitation: The Atlas
+	- Mildly tedious but can be combined with The Elderslayers using Destructive Play, likely to end up rather profitable as a paired grind especially if you also run Sirus
+	- 10 Atlas Bosses
+- Maven's Invitation: The Feared
+	- Convoluted for a chained grind, prints maven invites and pairs well with running base Uber Elder
+	- Cortex
+	- Chayula
+	- Uber Atziri
+		- Needs reflect immunity
+	- The Shaper
+	- The Elder
+- Maven's Invitation: The Forgotten
+	- Very good gold returns for time investment, decent chance of Cortex and a very low chance of jackpot rings
+    - Rewritten Distant Memory
+    - Augmented Distant Memory
+    - Altered Distant Memory
+    - Twisted Distant Memory
+- Maven's Invitation: The Formed
+	- Shaper sets mostly cover the cost of the run and Mavens generated will be pure profit
+    - Lair of the Hydra Map
+    - Maze of the Minotaur Map
+    - Forge of the Phoenix Map
+    - Pit of the Chimera Map
+		- Can be rather annoying
+- Maven's Invitation: The Hidden
+	- Uul-Netol's Breachstone
+    - Xoph's Breachstone
+    - Tul's Breachstone
+    - Esh's Breachstone
+- Maven's Invitation: The Twisted
+	- Selling the fragments will easily cover the cost of the maps, you can alternatively run them to fish for Watcher's Eyes to ID or sell
+	- Obviously has the issue of watching the Elder murder original map bosses every time
+	- The Purifier
+	- The Constrictor
+	- The Enslaver
+	- The Eradicator
+- Maven's Invitation: The Elderslayers
+	- Can be combined with The Atlas using Destructive Play, likely to end up rather profitable as a paired grind especially if you also run Sirus
+	- Al-Hezmin, the Hunter
+	- Baran, the Crusader
+	- Drox, the Warlord
+	- Veritania, the Redeemer
+
+As long as you have a build to do these you will likely always generate a decent profit finishing this up, otherwise you can simply run Writhing and Polarics for the fastest, cheapest completion.
+</div>
+
+# 36 Remembrance Repressed
+<div id="ch-36" markdown="36">
+[.ggg]Defeat any four of the following Endgame Memory Bosses in the specified ways.
+- [.ggg]The Deceitful God without being affected by Divine Beam
+	- [.com]This boss is based on Innocence
+	- [.com]This is Innocence's stationary beam where he rotates to target you
+	- [.com]Incarnation of Dread thread
+- [.ggg]The Neglected Flame without being affected by Corruption of the Awakener
+	- [.com]This boss is based on Sirus
+	- [.com]This is Sirus' beam debuff
+	- [.com]Incarnation of Neglect thread
+- [.ggg]The Cardinal of Fear without being affected by Charged Net
+	- [.com]This boss is based on Cardinal Sanctus Vox
+	- [.com]He throws a net with an obvious netting pattern, avoid this
+	- [.com]Incarnation of Fear thread
+- [.ggg]Incarnation of Dread without being hit by Encircling Fire Nova
+	- [.com]I haven't fought this yet due to EU servers!
+- [.ggg]Incarnation of Fear without being affected by Anger's Intensity
+	- [.com]I haven't fought this yet due to EU servers!
+- [.ggg]Incarnation of Neglect without being hit by Falling Comets
+	- [.com]They are exactly what they sound like, stay moving while you fight him and you should be fine
+	
+These are all new bosses, the first three are very easy to burst down since you can run them as white with minimal issue.
+You are guaranteed one of these bosses from memory threads and there are new nodes at the top of the atlas tree to influence which bosses you get.
+</div>
+
+# 37 Pinnacles Paired
+<div id="ch-37" markdown="37">
+[.ggg]Defeat the following Pinnacle Boss Encounters while you have an Active Mercenary.
+- [.ggg]The Shaper
+	- [.com]Normal shaper
+	- [.com]`Fragment of the Hydra`
+	- [.com]`Fragment of the Chimera`
+	- [.com]`Fragment of the Phoenix`
+	- [.com]`Fragment of the Minotaur`
+- [.ggg]The Elder
+	- [.com]`Fragment of Purification`
+	- [.com]`Fragment of Constriction`
+	- [.com]`Fragment of Enslavement`
+	- [.com]`Fragment of Eradication`
+- [.ggg]Sirus, Awakener of Worlds
+	- [.com]`Veritania's Crest`
+	- [.com]`Drox's Crest`
+	- [.com]`Baran's Crest`
+	- [.com]`Al-Hezmin's Crest`
+- [.ggg]The Maven
+	- [.com]`The Maven's Writ`
+- [.ggg]The Eater of Worlds
+	- [.com]`Screaming Invitation`	
+- [.ggg]The Searing Exarch
+	- [.com]`Incandescent Invitation`
+- [.ggg]High Templar Venarius in Cortex
+	- [.com]`Cortex`
+
+These are a bit awkward but you can simply **leave your mercenary in reserve** get the boss nearly dead and then log out and **invite the mercenary back** in order to get them to join you at the end of the fight.
+You can obviously also pay for kills and simply have your mercenary active when you enter the instance for credit.
+</div>
+
+# 38 Endgame Enigmas
+<div id="ch-38" markdown="38">
+[.ggg]Complete 30 Tier 17 Maps.
+</div>
+
+# 39 Powerful Pursuits
+<div id="ch-39" markdown="39">
+[.ggg]Defeat any four of the following Pinnacle Boss Encounters while the area is level 85.
+- [.ggg]Sirus, Awakener of Worlds in Eye of the Storm
+	- [.com]Uses `Awakening Fragment` and is moderately priced
+- [.ggg]The Elder in The Shaper's Realm
+	- [.com]Uses `Decaying Fragment` and is moderately priced
+- [.ggg]The Maven in Absence of Mercy and Empathy
+	- [.com]Uses `Reality Fragment` and is very expensive
+- [.ggg]The Searing Exarch in Absence of Patience and Wisdom
+	- [.com]Uses `Blazing Fragment` and is moderately priced
+- [.ggg]The Eater of Worlds in Absence of Symmetry and Harmony
+	- [.com]Uses `Devouring Fragment` and is expensive
+- [.ggg]High Templar Venarius in Cortex
+	- [.com]Uses `Synthesising Fragment` and is relatively cheap
+- [.ggg]The Shaper in The Shaper's Realm
+	- [.com]Uses `Cosmic Fragment` and is not too expensive
+
+This is four of the seven uber boss variants, if you have a boss killer this should be fine, otherwise you can buy the clears.
+
+All of the fights have lingering damage over time that lasts the entire fight which makes high DPS crucial if you want to have leeway in your execution. The longer the fight the worse the arena and the more likely you are to fail.
+</div>
+
+# 40 Grinding Gear Goals
+<div id="ch-40" markdown="40">
+[.ggg]Complete any four of these encounters the specified number of times.
+- [.ggg]Reach Level 100	
+	- [.com]Buying Five Way runs
+	- [.com]Pure Chayula and other higher end Breachstones
+	- [.com]Coward's Trial
+	- [.com]T15 Beachheads
+	- [.com]`Orb of Amelioration` stops you losing all your XP on dying, but only once per area
+- [.ggg]Use the Divine Font in the Endgame Labyrinth x75
+	- [.com]You can get multiple of these a run from darkshrines
+	- [.com]`Gift to the Goddess` allows you to use the divine font multiple times
+	- [.com]Expect in the region of 60 normal labs if you get dark shrines
+- [.ggg]Complete Shaper, Elder, Conqueror or Memory Guardian Maps with at least 80% Item Quantity x50
+	- [.com]You can use the Atlas's Item Quantity and Modifier effect nodes to make it easier and basically allow alch and go with the extra +% Item Quantity from there and the Map Device itself.
+	- [.com]You can get 30% quantity from the Atlas Tree, 8% from the Map Device, 5% from each part of a Sacrifice Fragment Set and 10% from each part of a Mortal Fragment Set.
+- [.ggg]Complete collective tiers of Tier 14 or Higher Maps x1000
+	- [.com]Incredibly trivial, not even 72 maps even if you exclusively only map in T14s for some reason
+- [.ggg]Tier 14 or higher Maps completed with Mercenaries x100
+	- [.com]Incredibly trivial, simply map with mercenaries
+- [.ggg]Defeat Pinnacle bosses while the area is level 85 x30
+	- [.com]This is thirty uber bosses, if you are going to do that you already know without needing this site
+
+Shockingly lenient in a lot of ways for a GGG, this might be one of the only times I'd actually recommend it as a reasonable choice for 36.
+</div>
+
+
+# Challenges to Skip
+What you skip (if anything) will come down to what characters you want to build and how willing you are to buy challenge completion over clearing them yourself.
+As a baseline serious considerations should be made for:
+	- Endgame Enigmas
+
+# Unlocks
+This league is a return to a full armour set. 
+- At 12 challenge completion you can unlock the Watcher's Wrath Boots.
+- At 20 challenge completion you can unlock the Watcher's Wrath Gloves.
+- At 28 challenge completion you can unlock the Watcher's Wrath Body Armour.
+- At 36 challenge completion you can unlock the Watcher's Wrath Helmet.
+
+# Credits
+[PoeDB](https://poedb.tw/us/) for easily accessible information on pretty much everything about the game.
+[PoeWiki](https://www.poewiki.net/wiki/) for some general information.

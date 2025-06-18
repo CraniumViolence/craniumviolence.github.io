@@ -1,0 +1,758 @@
+## You can toggle navigation with the `☰` at the top left
+
+# Necropolis Challenges
+Please get in touch through [Github](https://github.com/CraniumViolence/craniumviolence.github.io) or on [Reddit](https://www.reddit.com/user/TrainCarMoney) if any information here is incorrect, absent or you simply have better strategies or information!
+
+This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include complex instructions for a lot of aspects such as explaining what a mechanic is.
+
+# 1 Beginner's Basics
+## Very Easy
+Complete each of the following tasks.
+- Allocate a Passive Mastery
+- Complete a Labyrinth Trial
+- Defeat an Act Boss
+- Use the Crafting Bench
+
+Free from simply completing campaign and making a normal character.
+
+# 2 Necrotic Necessity
+## Very Easy
+Complete each of the following Necropolis encounters.
+- Defeat a Monster with a Necropolis Modifier
+- Collect a Corpse
+- Craft an Item in The Necropolis
+
+Free from simply interacting with the league content.
+
+# 3 Peddler's Produce I
+## Very Easy
+Complete vendor recipes to receive each of the following items. A vendor recipe is when you trade a specific combination of items to a vendor, not when you buy items from their purchase screen.
+- Chromatic Orb
+	- Vendor a RGB linked items
+- Jeweller's Orb
+	- Vendor a Six Socket item
+- Any Hybrid Flask
+	- 1x Life Flask, 1x Mana Flask, 1x Orb of Fusing
+- Instilling or Enkindling Orb
+	- 4x Instilling Orb, 1x Trigger Gem, 1x Orb of Scouring
+	- 2x Enkindling Orb, 1x Trigger Gem, 1x Orb of Alchemy
+	
+Some standard basic vendor recipes, you'll probably not get the six socket one before maps but they are plentiful there.
+
+# 4 Act Adversaries I
+## Very Easy
+Complete each of the following encounters.
+- Act 1: Merveil, the Twisted
+- Act 2: Vaal Oversoul
+- Act 3: Dominus, Ascendant
+- Act 4: Malachai, The Nightmare
+- Act 5: Kitava, the Insatiable
+
+Free from simply completing campaign and making a normal character.
+
+# 5 Deadly Deeds
+## Very Easy
+Complete each of the following encounters.
+- Open a Breach
+- Defeat a Rare Beyond Monster
+- Defeat a Possessed Monster
+- Complete an Expedition
+
+Very easy from just interacting with the mechanics in question. 
+
+# 6 Significant Spirits
+## Very Easy
+Complete each of the following Necropolis encounters.
+- Defeat Monsters with Necropolis Modifiers x250
+- Collect Corpses x50
+
+Free from simply interacting with the league content.
+
+# 7 Act Adversaries II
+## Very Easy
+Complete each of the following encounters.
+- Act 6: Tsoagoth, The Brine King
+- Act 7: Arakaali, Spinner of Shadows
+- Act 8: Lunaris, Eternal Moon and Solaris, Eternal Sun
+- Act 9: The Depraved Trinity
+- Act 10: Kitava, the Insatiable
+
+Free from simply completing campaign and making a normal character.
+
+# 8 Regrettable Requests
+## Very Easy
+Complete each of the following quests.
+- Through Sacred Ground
+- Fallen From Grace
+- Fastis Fortuna
+- No Love for Old Ghosts
+
+These are simply the optional quests for passive refund points during the campaign.
+
+# 9 Enigmatic Essences
+## Easy
+Complete each of the following Essence encounters.
+- Defeat Monsters with Essences x60
+- Use Remnants of Corruption x30
+- Defeat a monster with at least 3 Deafening Essences
+	- Three different types
+- Defeat a Map Boss with at least 6 Essences in a Red or Purple Tier Map
+	- Avoid multi-boss and twinned maps, they will distribute the essences across the various bosses
+	- Might be six different types
+
+Pretty straight forward, you can use the atlas nodes and scarabs to increase the essences and level of them in a map.
+
+For the six essence boss you need to take the node `Crystal Resonance` which can be pretty tough the basic Essence Scarab can add up to 6 modifiers to any map and doing it in a T11 with no mods should be easier than alternatives.
+
+# 10 Abyssal Assailants
+## Easy
+Complete each of the following Abyss encounters.
+- Complete Abysses x30
+- Defeat Rare Abyssal monsters x100
+- Complete Abysses with 4 pits x10
+	- Just do Abyss, even without the '4 pits' nodes on the Atlas Tree this should be easy
+- Defeat Stygian Spires x5
+	- Various nodes and scarabs can help with this
+
+Take Abyss nodes and use scarabs. Not particularly difficult or complex.
+
+# 11 Divine Domination
+## Easy
+Complete each of the following Domination encounters.
+- Activate Shrines x100
+- Defeat Map Bosses while under the effect of a Shrine x50
+	- Run easy maps like Glacier or Ashen Woods to ensure you get this every map
+- Activate an Echoing or Divine Shrine
+	- Semi-rare, historically only procs for the person activating the shrine
+- Have 5 different Shrine effects on you at once
+	- The atlas additional shrine nodes alongside Scarabs or the Map Device make this pretty trivial
+	- The miniature shrines off Necropolis modifiers also seem to count for these
+
+Take Shrine nodes and use scarabs. Not particularly difficult or complex. 
+
+# 12 Devout Disciples
+## Easy
+Defeat Rare Monsters with any 7 of the following types of Devoted Modifiers
+- Devoted to Abberath
+- Devoted to Gruthkul
+- Devoted to Lunaris
+- Devoted to Prospero
+- Devoted to Ryslatha
+- Devoted to Solaris
+- Devoted to Tangmazu
+- Devoted to Thruldana
+- Devoted to Tsoagoth
+- Devoted to Viridi
+
+Simply doing maps will almost certainly naturally finish this.
+
+# 13 Tactful Thievery
+## Easy
+### Partially Buyable
+Complete each of the following Heist encounters.
+- Open Smuggler's Caches x60
+	- Mildly tedious, there's no scarabs and atlas doesn't actually provide 100% of the mechanic.
+	- Taking all nodes provides around 1/3rd chance of a Cache and then 1/3rd of an extra.
+	- Heist on the map device spawns a Cache but isn't terribly cheap for what it offers
+- Level a Heist Job to level 5
+- Complete Item Level 78 or higher Priceless or Precious Target Value Contracts x15
+- Complete Item Level 78 or higher Blueprints with 4 wings x5
+	- You cannot die during this process or you will not get credit towards this encounter.
+
+A lot of people hate heist, this isn't too bad but it isn't very good either. You should be able to buy clears for this but level 5 job will need a decent amount of engagement with heist.
+
+You'll also very likely have 5 FPS in the harbour, so that's nice.
+
+# 14 Heralding Harbingers
+## Easy
+### Partially Buyable
+Complete each of the following Harbinger encounters.
+- Defeat Harbingers x60
+- Use a Harbinger's Orb
+- Assemble a Harbinger Unique
+- Complete Red Tier Beachhead Maps x3
+	- These can come from Comprehensive Scouting Reports
+
+Straight forward, look up the unique fragments on the wiki and buy the Red Tier Beachheads.
+
+# 15 Rapturous Rituals
+## Easy
+### Partially Buyable
+Complete each of the following Ritual encounters.
+- Complete Rituals x100
+- Purchase a Ritual Base with Tribute
+- Spend Tribute x100000
+- Complete a single Ritual encounter with at least 6 Unique Map Bosses
+
+To get six bosses in a map without any other sources you can simply roll the Twinned Boss mod on a map such as Arena, Courtyard or Vaal Pyramid to get this challenge done.
+
+Apparently at some point since the 7th of April Blood-filled vessels were made to count towards this challenge, there was nothing in hotfixes about this specifically so if it doesn't work I'd still advise using Twinned which was the only thing that actually worked for myself and is how the challenge had to be completed in previous leagues.
+
+Rogue Exiles lured into the Ritual Circle will also count towards the six bosses requirement, get exiles on your map from the league mechanic, Atlas Tree or Scarabs and simply kite them into the circle to make this easier.
+
+# 16 Hungering Harvests
+## Normal
+### Partially Buyable
+Complete each of the following Harvest encounters.
+- Harvest Plots x100
+- Defeat Tier 4 Harvest Monsters x3
+- Spend Lifeforce x25000
+- Defeat Oshabi
+
+These are pretty rough or at least expensive historically, you can buy the kills and Oshabi. 
+
+Crop Rotation can get you Tier 4s relatively easy and makes Oshabi simple enough. 
+
+If you're buying T4s you probably should make sure one of them is also in delirium to cover the Cross Contamination challenge.
+
+# 17 Eternal Exorcising 
+## Very Easy
+Craft any 10 types of the following Equipment in The Necropolis while using at least 5 Crafting Modifiers and resulting in an item level 75 or higher item.
+- Amulet
+- Axe
+- Belt
+- Body Armour
+- Boots
+- Bow
+- Claw
+- Dagger
+- Gloves
+- Helmet
+- Mace/Sceptre
+- Quiver
+- Ring
+- Shield
+- Staff
+- Sword
+- Wand
+
+The crafting is pretty involved for good results but this is just using any 5 corpses and choosing a base type after hitting level 75 zones.
+
+# 18 Achieve Ascension
+## Very Easy
+Use the Ascendancy Device in each of the following Labyrinths.
+- The Labyrinth
+- The Cruel Labyrinth
+- The Merciless Labyrinth
+- The Eternal Labyrinth
+
+This is simply completing all labs for your normal Ascendancy points.
+
+# 19 Divined Destiny
+## Very Easy
+### Buyable
+Complete each of the following Divination Card tasks.
+- Open Stacked Decks x30
+- Complete a Tier 16 or higher Map with a Divination Scarab applied
+- Turn in a set of Divination Cards that award an Exalted or Divine orb
+	- ![divination card][div-card] The Long Con
+	- ![divination card][div-card] The Sephirot
+	- ![divination card][div-card] Alluring Bounty
+	- ![divination card][div-card] The Fortunate
+	- ![divination card][div-card] Divine Beauty
+	- ![divination card][div-card] The Saint's Treasure
+	- ![divination card][div-card] The Scout
+	- ![divination card][div-card] Abandoned Wealth
+	- ![divination card][div-card] Brother's Stash
+	- ![divination card][div-card] Brother's Gift
+	- ![divination card][div-card] The Hoarder
+- Turn in a set of Divination Cards that have a stack size of at least 10
+	- ![divination card][div-card] Prosperity
+	- ![divination card][div-card] The Arena Champion
+	- ![divination card][div-card] Time-Lost Relic
+	- ![divination card][div-card] The Journalist
+	- ![divination card][div-card] Time-Lost Relic
+	- ![divination card][div-card] The Saint's Treasure
+	- ![divination card][div-card] The Innocent
+	- ![divination card][div-card] Dying Light
+	- ![divination card][div-card] The Celestial Stone
+
+You can buy every single one of these, the sets for divines or exalts might end up skewed partially by this challenge existing too.
+
+# 20 Peddler's Produce II
+## Very Easy
+Complete vendor recipes to receive each of the following items. A vendor recipe is when you trade a specific combination of items to a vendor, not when you buy items from their purchase screen.
+- Unique Item
+	- [PoeWiki listing for all of these](https://www.poewiki.net/wiki/Vendor_recipe_system#Unique_items) 
+- Orb of Fusing
+	- Vendor a six-link item
+- Exalted Shard
+	- Vendor a full set of influence matching equipment either IDed or otherwise
+- Influenced Item
+	- Vendor an influenced amulet (not an onyx) and a gem of each colour (no white)
+	- Vendor an influenced Iron Ring and any colour gem
+	- Vendor normal rarity influenced boots with an Augmentation Orb and a Quicksilver Flask
+
+# 21 Alternate Atlases
+## Very Easy
+Unlock all three Atlas Passive Trees.
+
+The second Atlas Tree unlocks at 50 completion.
+
+The third Atlas Tree unlocks at 100 completion.
+
+# 22 Abnormal Adversaries
+## Very Easy
+Defeat Monsters affected by the following Necropolis Modifiers the specified number of times while they are level 68 or higher.
+- Servant-Haunted x50
+- Peasant-Haunted x50
+- Soldier-Haunted x50
+- Gemling-Haunted x50
+- Thaumaturgist-Haunted x50
+- Noble-Haunted x50
+- Magistrate-Haunted x50
+- Devoted x50
+
+Magistrate-Haunted enemies appear to need `Imperial Wraiths` allocated to spawn naturally, these are indicated by VII as their tier icon. Some VII tier monsters upgrade into Tier VII.
+
+# 23 Remarkable Realms
+## Easy
+Complete each of the following Unique Maps.
+- Vaults of Atziri
+    - ![divination card][div-card] Treasure Hunter
+    - ![divination card][div-card] The Wolf's Legacy
+- Maelström of Chaos
+- The Coward's Trial
+- Acton's Nightmare
+- Poorjoy's Asylum
+    - ![has divination card][div-card] The Dreamland
+- Mao Kun
+    - ![has divination card][div-card] Scholar of the Seas
+- Oba's Cursed Trove
+- Olmec's Sanctum
+- Death and Taxes
+- Whakawairua Tuahu
+- The Vinktar Square
+- Caer Blaidd, Wolfpack's Den
+- The Putrid Cloister
+    - ![has divination card][div-card] The Professor
+- Hallowed Ground
+- The Twilight Temple
+    - ![has divination card][div-card] The Twilight Moon
+- Pillars of Arun
+- Doryani's Machinarium
+
+Spamming **Singular Scouting Reports** rolls Unique Maps on Kirac, this can include higher tier maps in lower tiers resulting in very easy versions of bosses.
+
+You can also use **Comprehensive Scouting Report** that drop when using the **Planar Tactician** Atlas node which can also roll **Doryani's Machinarium** which is the most expensive unique map generally.
+
+Some Unique Maps have their own divination cards otherwise you can turn in sets of **The Encroaching Darkness** or simply buy the maps on trade.
+
+Still includes Doryani's Machinarium which can end up fairly pricey for a single throw away unique map with a bad reward pushing it slightly out of the 'Very Easy' rating.
+
+# 24 Sanctified Scarabs I
+## Easy
+Complete 200 Red or Purple Tier Maps with Scarabs applied to them.
+
+Semi-grindy, use the new tree options to max out your scarab drops. You only need one scarab per map but it's still 200 scarabs.
+
+# 25 Vigorous Virtue
+## Easy
+Complete any six of the following Gem tasks.
+- Use a Facetor's Lens to add experience to a Gem
+	- You can get these from Lab or on trade
+- Corrupt a Gem to become either level 21 or 23% Quality
+	- Slam Vaal Orbs on Lv20 or 20% quality gems
+	- Use the Lapidary Lens for better odds
+- Use the Lapidary Lens
+	- Found in Doryani's Institute, double corrupts a gem
+- Have a Socketed Skill Gem reach level 26 or higher
+	- Socket a Level 21 Movement Skill into a Bronn's Lithe or a Lv21 Skill into Voideye
+	- Crest of Desire adds 5-8 levels and 30-50% quality to any inserted Skill Gem
+- Have at least 6 support effects applying to a single skill gem at once
+	- Socket any Skill into Bitterdream with at least one extra support gem linked
+- Have a socketed Skill Gem reach 51% quality or higher
+	- Crest of Desire adds 5-8 levels and 30-50% quality to any inserted Skill Gem
+- Transform a Gem into a Transfigured Version
+	- Use the Lab font to do this, absolutely free
+- Level an Awakened Gem to level 5
+	- If you use one you will probably do this eventually 
+	- You can also buy one very close to levelling if there's one on the market
+
+Pretty easy, simply getting a couple of uniques which you can immediately resell after using them for the challenges.
+
+# 26 Cross Contamination
+## Normal
+Complete any four of the following past league content encounters.
+- Defeat a Unique Map Boss that is Possessed while in a Ritual
+	- This is literal, you need it to get Possessed while in the ritual itself
+	- There is a ritual that spawns Tormented Spirits and Scarabs for more in the wild
+	- You can do this easily by using a Shore Map and kiting the boss into a ritual, they release a tormented spirit at low HP
+		- Kiting can be awkward, try to maintain a path free of obstacles to kite him along, rocks etc. can cause him to retreat or wander off
+- Capture a Beast holding an essence
+	- As of 3.24.1 Hotfix 4 this actually works
+	- You can simply force Einhar and use an Essence Scarab of Calcification go have this happen with 100% chance
+	- Otherwise you can simply spam Essences with Einhar will eventually have it happen naturally
+- Defeat a Tier 4 Harvest Monster while Delirious
+	- Use a Delirium Orb on a map and use the Scarab for a T4 boss
+- Defeat a Rogue Exile that is possessed at least three times
+	- You can have tormented spirits possessed at least once always with Exiled Will
+	- Niko's Memory of Tormented Souls forces monsters to be possessed three times in the final phases but doesn't guarantee Rogue Exiles
+		- You can spam craft on a Strongbox to force spawn a Rogue Exile
+- Defeat a Blight Boss while in a Breach
+	- **Distilled Fungus** practically guarantees a boss in blights    
+	- **Heavy Breach** extends Breach encounters.
+    - **Scarabs** can add additional Breaches.
+		- You can use up to four in separate slots
+    - **Niko's Memory of Demonic Onslaught** worked last league for the same requirement, but you will need a natural Boss to spawn
+	- Vaal Portal might work but is expensive and I never got confirmation about it last league
+- Defeat a Stygian Spire while affected by a Shrine
+	- Use scarabs and the atlas tree to force the spawn of both and then kill a spire after it spawns
+	- This needs to be a natural spawn, you can't utilise the Allflame
+
+Stygian Spire, Beast and Unique Map Boss are a given. 
+
+# 27 Generous Gravesites
+## Normal
+Craft Equipment in The Necropolis while using any 10 of the following Crafting Modifiers resulting in an Item Level 81 or higher item.
+- Can roll Haunted Modifiers
+- Chance for corpses to not be consumed 
+- Chance to create a Split or Mirrored Copy
+- Chance to Fracture an Explicit Modifier
+- Exclusive Base Item Types
+- Has Influence
+- Increased chance for Prefix or Suffix Modifiers
+- Increased Chance of Modifers
+- Increased effect of Corpses
+- Item is Corrupted
+- Modifier Tier Rating
+- Modifiers are Scarcer
+- Reforge Socket Numbers or Links
+- Reroll Implicit or Explicit Modifier Values
+
+Just grab the rarer corpses when you are mapping in late reds and you should get corpses to do this.
+
+You can also use `Prospero's Wager` on the Atlas Tree to randomise corpses and just hope you get one of these when burying them.
+
+# 28 Masterful Monsters
+## Normal
+Defeat 50 of any Delve Boss, Syndicate Mastermind, Bestiary Boss or Vaal Omnitect.
+	- Straight forward, Bestiary Bosses and Vaal Omnitect easiest to purchase
+	- Delve Taxis are sometimes sold, this is simply someone taking you to the boss and leaving the instance
+		- This does **not** get you loot but does get you credit towards kill totals
+		- Taxi services are likely slower and more expensive than simply getting Bestiary Bosses
+	
+This is an end-game grind from previous leagues with about 1/3rd cut off to pretend it's a normal challenge instead.
+
+Note that it doesn't have a level requirement so you can simply buy any version of any boss and spam them the Bestiary Bosses being the easiest choice.
+
+# 29 Sanctified Scarabs II
+## Normal
+### Buyable
+Complete Maps with any 11 of the following Scarab Types while there are at least 3 different Scarabs of the same type applied to the map while it has at least 80% Item Quantity and is at least Tier 16.
+- Bestiary
+- Influencing
+- Harbinger
+- Abyss
+- Essence
+- Domination
+- Incursion
+- Betrayal
+- Blight
+- Breach
+- Legion
+- Cartography
+- Beyond
+- Ambush
+- Ultimatum
+- Expedition
+- Delirium
+- Misc
+
+Maps with matching sets of 3 mechanic Scarabs. 
+
+As a basic example this would be `Influencing Scarab of the Shaper` `Influencing Scarab of Hordes` and `Influencing Scarab of Conversion` in a Tier 16 map with 80% quantity.
+
+You can use the Atlas's Item Quantity nodes to make it easier and basically allow alch and go with the extra +% Item Quantity from there and the Map Device itself.
+
+Best choices will simply come down to costs at the time you're completing the challenge, most have more than three scarabs so you can just use the cheaper options even if mechanics are popular.
+
+# 30 Map Magnificence
+## Normal
+### Grind Heavy
+Reach a total of 10,000 Map Tiers completing maps.
+
+Run maps a lot. It's 625 pure T16 runs.
+
+# 31 Formidable Flashbacks
+## Normal
+Reach a total of 150 Explicit Map Modifiers from completing Atlas Memory Maps.
+	
+Around 30 maps if you just alch and go memories. 
+While several of the memories are actively profitable, you don't need to interact with the mechanics they force. Simply rushing to the map boss for a kill will count for completion purposes.
+
+# 32 Enigmatic Embers
+## Very Easy
+Complete Tier 14 or higher Rare Maps with 100 Allflame Embers of monster level 81 or higher applied. Replacing multiple packs per Map contributes more progress.
+
+Mostly just using Embers as you find them, you'll probably hit 100 before you finish up your other challenges and otherwise you can simply buy them.
+
+# 33 Aggravated Antagonists
+## Easy
+Defeat any eight of the following Bosses while they are level 83 or higher.
+- Any Beyond Boss
+	- Just do Beyond in T16s
+- Any Delve Boss
+	- Taxis can be purchased
+- Vaal Omnitect
+	- Temple of Atzoatl
+- The Syndicate Mastermind
+	- Just do Jun in T16s
+- Oshabi
+	- Sacred Blossom
+	- Needed for another challenge
+- The Trialmaster
+	- Can be forced with a scarab and thus bought
+- Lycia
+	- Final boss of a Sanctum
+- Any Expedition Boss
+	- You can buy Logbooks for this explicitly
+- Any Abyssal Lich
+	- Run Abyss in T16s and get an Abyssal Depths
+- Any Breachlord in their domain
+	- Flawless Breachstones, fairly challenging compared to normal ones
+- The Twins
+	- Heist Content, you can buy the contract
+- Any Delirium Boss
+	- Scarabs can force this, otherwise you can run Simulacrum or use Delirium Orbs
+
+This is simply killing the bosses in a T16 equivalent. Normal rarity versions should count as there's no rarity of quantity requirements.
+
+# 34 Elevated Expanses
+## Hard
+### Buyable
+Complete each of the following tasks in Tier 17 Maps.
+- Defeat Rare monsters with at least 4 Modifiers x50
+- Complete Maps x30
+- Reach a total Increased Item Quantity from completed Maps x5000
+- Complete Maps with at least 50% Pack Size x15
+	- You can use Explicit Modifier Efect on the atlas tree to buff the amount of Pack Size that is granted by modifiers.
+	- This obviously heavily buffs the actual modifiers on the map, your mileage may vary
+		- 53% comes from standard 2% nodes and the 3%s leading to notables
+		- `Chiselled Perfection` will provide 12% always as T17s are always 20% quality
+		- `Mounting Modifiers` will provide 12-16% depending on mods rolled.
+		- A rough estimate is that you'd want around 50% Modifier Effect to get most 36% or more pack size maps up to 50%.
+			- In general modifiers provide 6-8% pack size, you could look at PoeDB for exact numbers.
+		
+
+Tier 17s can only be rolled with chaos orbs and are very variable in difficulty, they are a lot more reasonable after the T16 changes but you can still very regularly brick yourself. 
+
+You can get extra Item Quantity on the Atlas but it's not very much and it will mostly come from content grind.
+
+Ideally you probably want to make a specific T17 grinding character or be prepared to spend a lot of money getting other people's random clears.
+
+A tree with nothing but Niko (Packed with Energy is a huge survivability buff), Shrines and potentially Modifier Effect or Huck will limit the difficulty of the maps further.
+
+Scarab of Stability can give you extra portals for each of these.
+
+The Tier 17s which drop in your maps are dependant on what maps you are running, check [The PoeWiki Tier 17 Map Page](https://www.poewiki.net/wiki/Tier_17_map) for information on the maps.
+
+# 35 Otherworldly Obstacles
+## Normal
+### Buyable
+Complete each of the following invitations while they have at least 70% item Quantity.
+- Screaming
+	- The Eater of Worlds
+- Incandescent
+	- The Searing Exarch
+- The Elderslayers
+	- All four of the Conquerors of the Atlas
+- The Feared
+	- Cortex, The Shaper, The Elder, Chayula, Uber Atziri
+- The Forgotten
+	- The Synthesis Bosses
+- The Formed
+	- The Shaper Guardians
+- The Hidden
+	- The Breachlords
+- The Twisted
+	- The Elder Guardians
+
+These can be pretty hard. You can't buy invitations any more so you'll need to roll them in Kirac.
+
+There's no longer Invitation nodes on the Atlas and no Atlas Quantity in general works now because of them being on Kirac.
+
+Being present for any clear of them with 70% counts fine, you don't actually need to host for the challenge.
+
+# 36 Favoured Figments
+## Easy
+### Buyable
+Unlock all Favoured Map Slots.
+- Tier 16+ map
+- Elder Guardian
+- Shaper Guardian
+- Conqueror of the Atlas
+- Sirus, Awakener of Worlds
+- Cortex
+- The Shaper
+- Uber Elder
+- The Maven
+- The Eater of Worlds
+- Maven Invitation: The Feared
+	- Chayula
+	- The Shaper
+	- The Elder
+	- Uber Atziri
+	- Cortex
+	
+You can buy most of these and should probably complete most just progressing.
+
+You can unlock the Favoured Map Slot in anyone's hideout but you will only actually get the Atlas Passive Point if you are the host and are present when the bosses die.
+
+# 37 Arimor's Apex
+## Hard
+### Grind Heavy
+Defeat 100 Rare Monsters in Tier 16 or higher Maps with at least 80% Item Quantity while they are affected by Magistrate-Haunted Modifiers.
+
+This seems like it really needs `Imperial Wraiths` allocated, these are indicated by VII icons at the bottom right of a monster's details.
+
+You can upgrade some mods to Magistrate levels but a majority of the modifiers don't go this high.
+
+You probably also want `Eternal Torment` to boost rare rates and to shuffle on each map to try and increase chances of rare Magistrates.
+
+You can somewhat easily cheese this using the Volcano Map, roll Tier 17s with enough Item Quantity (Atlas passives count) and hunt for a map with a Magistrate-Haunted Modifier that also has a pack of `Kaom's Chosen`.
+
+This pack will have the leader `Rakango` who spawns an additional rare mob near it to attack, if you distance yourself from the parent mob the new mob will spawn infinitely and every time you 'kill' it you will get credit towards this challenge. This takes it from a very long grind to being done in a couple hours.
+
+Volcano isn't strictly required, if the mobs spawn anywhere and have a rare the cheese will function identically.
+
+# 38 Unfamiliar Undertakings
+## Very Hard
+Defeat any three of the following Tier 17 Map Boss encounters in the specified ways.
+- Nightmare of Catarina without being affected by Lich's Beam
+	- Ziggurat Boss
+	- The Lich's Beam is the bouncing green beam around the edges
+	- You will need to place a portal within the centre of the arena if you will die during this as entering will immediately place you into the beam from the arena entrance
+	- Probably easiest out of the five for builds that can't instantly delete bosses, you can still get it even if you are dying a lot
+- Nightmare of Uhtred without being affected by Glimpse of Infinity
+	- Citadel Boss
+	- These are the beams that come from behind the glass at the back of his arena
+	- Pretty hard to pull off because the beams can take up the entire arena outside of small areas you can't see
+	- The beams don't stop throughout the encounter, you will have to actively avoid them even if you have infinite DPS
+- Nightmare of the Unbreakable without being affected by Magnetic Storm
+	- Fortress Boss
+	- This is functionally doing the fight hitless, all red beams, red orbs and red lightning effects inflict this status effect
+	- Probably the easiest here if you have the DPS to instantly phase or kill bosses
+- Nightmare of the Depraved Trinity without being affected by any Effluent
+	- Abomination Boss
+	- Ground Degen effects from second phase
+	- Very easy if you can burst the boss down
+	- If you can simply keep your distance or the boss off screen this can also help a lot
+- Nightmare of Lycia without being affected by Heretic's Ire
+	- Sanctuary Boss
+	- This is caused by the spinning spears in the arena and deals damage over time
+	- Caused both by their spinning and their thrust animation
+	
+This is conditionals within Tier 17 maps. The bosses are 'Uber' versions of various other bosses:
+- [Nightmare of Catarina](https://www.youtube.com/watch?v=0hoR560zKpU)
+	- A version of Catarina without totem mechanics that spawns the Abyssal Liches
+- [Nightmare of Uhtred](https://www.youtube.com/watch?v=GUxvScSmS20)
+	- Uhtred from Expedition, he spawns all other expedition bosses throughout his fight
+- [Nightmare of The Unbreakable](https://www.youtube.com/watch?v=hzNkZLfUno4)
+	- A boss from Heist, fairly straight forward and doesn't spawn adds or have phases
+- [The Depraved Trinity](https://www.youtube.com/watch?v=tPHt9tWKkAg)
+	- The Act 9 final boss but heavily remixed
+	- Doedre, Maligaro and Shavronne start inside a smallish arena and are all active at once
+	- They all regain health as the others die in the same way the Atziri Trio do
+	- They leave lingering special effects as they all die that differ by each member
+- [Nightmare of Lycia](https://www.youtube.com/watch?v=3vStQxEiZoo)
+	- Lycia from Sanctum
+	- Spawns Beyond bosses during phases
+
+Scarab of Stability can give you extra portals for each of these but will probably only help with Nightmare of Catarina.
+
+The Fragments which Tier 17s drop is biased to certain encounters based on what Tier 17 you are running, check [The PoeWiki Tier 17 Map Page](https://www.poewiki.net/wiki/Tier_17_map) for information on the maps and their fragment biases.
+
+# 39 Colossal Conditionals
+## Hard
+### Buyable
+Defeat any three of the following Pinnacle Boss Encounters while the area is level 85 in the specified ways.
+- The Shaper without being affected by the Shaper's Beam
+	- His beam is his beam
+	- This was bugged earlier in the league, I'm not sure if it was ever fixed
+- The Uber Elder while affected by Vortex ground and Eldritch Decay
+	- Stack two ground degens in one spot and stand on them while you kill him
+	- Fairly hard to set up and requires a build that doesn't care about standing in heavy degen
+	- As with Sirus you should be able to set up culling to limit the amount of time you have to spend actually in the degen spot
+- Cortex without being hit by Wormhole Slam
+	- This is his teleport move, he will teleport you and then slam a moment after, you simply need to avoid being hit by this
+- Sirus while being affected by Desolation of the Awakener
+	- This is his ground degen left after some attacks
+	- The easiest way to handle this would be to Sirus to cull range and swap to using a Culling Strike support while standing in his degen
+	- You could also make use of a pair of [Southbound](https://www.poewiki.net/wiki/Southbound) as a way to avoid killing him
+- The Searing Exarch without being affected by Cauterised Flesh
+	- The glowing tiles he leaves on the ground inflict this
+- The Eater of Worlds without beginning to drown
+	- The moving orbs that move around the area inflict this
+	- If you can burst him down fast enough this is one of the easier options
+	- The charging phase can be very awkward to complete while still dodging the balls
+- The Maven after successfully completing the Memory Game at least 5 times
+	- Maven will do extras if you take too long, survive and do at least 2 extra memory games
+	- Note it's 'successfully completing', you will not get credit if you logout
+	
+Conditionals in the Uber Pinnacles, a pretty easy skip if you don't expect your build to be up to the content. You can buy these but they are likely to be a couple of divine each.
+
+Currently the Shaper, Cortex and Sirus sets are the cheapest, these also have some of the easier challenges making them solid choices for this challenge if you want to complete them yourself.
+
+# 40 Gruelling Gauntlet Grinds
+## Hard
+### Grind Heavy
+Complete any four of these encounters the specified number of times.
+- Reach Level 100
+	- Domination Scarabs of Learning
+    - Buying Five Way runs
+    - Pure Chayula and other higher end Breachstones
+    - Coward's Trial
+    - T15 Beachheads
+- Defeat Argus in Endgame Labyrinth x100
+	- Wait for Argus to be in the first room and run 100 labs killing him and leaving
+	- You can buy Offerings or find them in Ritual very regularly
+- Complete Red Tier Maps with 8 Modifiers x50
+	- Corrupted 8 mod maps
+	- You can force these to drop with a scarab now which allows easy chaining
+- Complete Elder Guardian, Shaper Guardian or Elderslayer Maps x100
+    - **Destructive Play** alongside **Remnants of the Past** and **Conquered Conquerors** and a lot of **Map Drop Duplication** generates large amounts of these fairly easily.
+	- Some of the new Scarabs also introduce extra bosses that can drop maps too
+	- If your build is able to ignore all mods you can use Cartography Scarab of Corruption while farming these up to complete the 8 Modifiers part of the challenge simultaneously
+- Defeat Uber Pinnacle Bosses x50
+	- Fifty Uber Bosses is a lot but if you have a build for farming them this might be the easiest one here
+- Collect Corpses in Tier 16 or higher Maps x250
+	- Pretty much free if you engage with the mechanic and just click corpses
+
+For Level 100 using a Domination Scarab of Learning is a very powerful option. It's recommended to set up a full Beyond, Breach and Shrine oriented Atlas Tree while also running 2x Domination Scarab, 1x Domination Scarab of Learning and 1x Breach Scarab and using the Domination Map Device crafting option get the most XP out of each map.
+
+Having a source of Phasing is recommended as it will allow you to rush straight to the Shrines and tag them to stack your XP multiplier up before you actually kill the majority of monsters. As pack density is key here can skip any Atlas Nodes that don't directly grant pack density and go elsewhere to get more monsters in each map. Blacklisting mechanics that are awkward such as Blight or Ultimatum can also be advantageous. Ritual can be helpful as it allows you to spawn guaranteed extra monsters even if you've cleared an area out should you still have shrine buffs up.
+
+If you are aiming purely for Level 100 you probably should filter out single splinters and low value items entirely so that you don't feel inclined to wasting time picking up single item drops.
+
+If you don't have an Uber Boss farmer skipping Uber Pinnacles is a sensible choice. Level 100 is also an easy skip if you don't want to pay for it or build for reaching it.
+
+# Skipping Considerations
+If you are wanting to do these SSF, everything around Tier 17 Maps and Ubers are very inaccessible on characters not intentionally ramped up for them and drop rates are really not there in general.
+Tier 17s themselves are also realistically harder than actual Uber Bosses and while GGG advertised the new scarabs as a way to counter their difficulty you are probably not going to get enough of (or potentially any of) these to enable the challenges.
+Gruelling Gauntlet Grinds is not actually that bad this time around, even SSF.
+
+If you're on trade league I would consider skipping Elevated Expanses and Gruelling Gauntlet Grinds and buying the Conditional Tier 17 and Uber Bosses if you can afford to.
+
+# Unlocks
+The base visuals unlock at 4, 8, 12 and 16 challenges for the Gloves, Body, Helmet and Boots respectively.
+
+The Tier 2 visuals unlock at 20, 22, 24 for the Gloves, Body and Helmet. These are only slightly different.
+
+The Tier 3 visuals unlock at 26 and 28 for the Body Armour and Helmet. This adds some extra golden decorations.
+
+The last tier of Gloves unlocks at 32 which adds more golden decorations and has the effect of changing the visuals of dropped items.
+
+The last tier of the Body unlocks at 35 which adds more golden decorations and has the effect of causing a rain of rubbish on top of trade partners when trading.
+
+The last tier of the Helmet unlocks at 38 which adds more golden decorations and has the effect of changing the UI of your trade window for yourself and the trading partner when trading.
+
+
+# Credits
+Reddit user *wrightosaur* for updated information on Cross Contamination and Rapturous Rituals.
+
+[PoeDB](https://poedb.tw/us/) for easily accessible information on pretty much everything about the game.
+
+[PoeWiki](https://www.poewiki.net/wiki/) for some general information.
+
+[div-card]: ./img/DivCard.png
