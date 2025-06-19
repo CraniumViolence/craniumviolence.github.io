@@ -553,6 +553,7 @@ Simply use 20 of 27 different scarab types. You can use 3-5 per map making this 
 	- [.com]`Kalguuran Scarabs` force ore, you can also increase spawn rates with the atlas tree
     - [.com]**Unending Nightmare** will stop Fog ever dissipating
     - [.com]Any **Players are Delirious** map has permanent fog (1x Delirium Orb)
+	- [.com]This has been reported as broken as of the 19th June
 	
 In terms of recommendations I'd definitely go with Essence, Legion General, Blight Boss and Ore Deposit as all of these mechanics can be very easily forced to interact. 
 
