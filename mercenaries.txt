@@ -342,7 +342,9 @@ Somewhat awkward as there's no real way to search the mercenary items and they a
 
 [PoeDB](https://poedb.tw/us/Infamous_Modifiers#Infamous) naturally has a full list of the modifiers.
 
-The modifiers are RNG and infamous spawns aren't super common, you'll want to have a build that can nuke any Mercenary ideally so you can stay 
+The modifiers are RNG and infamous spawns aren't super common, you'll want to have a build that can nuke any Mercenary ideally so you can stay at higher renown levels - ideally `Tremendously Renowned` - which increases the odds of infamous mercenaries spawning.
+
+Renown is functionally a reputation system, not taking items, exiling or hiring mercenaries will cause renown to be lost while doing any interaction will cause it to be gained. As mentioned, you'll want to try and stay at `Tremendously Renowned` levels to maximise spawns.
 
 You can find a very [basic AHK script here](https://craniumviolence.github.io/infamous-checker.ahk) which will cause a message box to pop up if there's a potential infamous suffix or prefix if you press `ctrl-alt-c` on each item in a Merc's inventory.
 
