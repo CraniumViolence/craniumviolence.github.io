@@ -797,7 +797,7 @@ As long as you have a build to do these you will likely always generate a decent
 [.ggg]Defeat any four of the following Endgame Memory Bosses in the specified ways.
 - [.ggg]The Deceitful God without being affected by Divine Beam
 	- [.com]This boss is based on Innocence
-	- [.com]This is Innocence's stationary beam where he rotates to target you
+	- [.com]This is Innocence's stationary beam where he rotates to target you, if he's in a terrible position you can always log out and relog to abuse the grace period to avoid the beam
 	- [.com]Incarnation of Dread thread
 - [.ggg]The Neglected Flame without being affected by Corruption of the Awakener
 	- [.com]This boss is based on Sirus
@@ -808,9 +808,9 @@ As long as you have a build to do these you will likely always generate a decent
 	- [.com]He throws a net with an obvious netting pattern, avoid this
 	- [.com]Incarnation of Fear thread
 - [.ggg]Incarnation of Dread without being hit by Encircling Fire Nova
-	- [.com]I haven't fought this yet due to EU servers!
+	- [.com]In his second phase the boss will say `The Atlas is everything we see... and everything we do not.` and creates an area of effect attack that covers the arena outside of a small area around the boss, standin the circle to avoid being hit
 - [.ggg]Incarnation of Fear without being affected by Anger's Intensity
-	- [.com]I haven't fought this yet due to EU servers!
+	- [.com]The boss will say `"Overwhelming terror!` or `Consumed by fear!` and create up to three large, lingering balls that deal fire damage over time and inflict the Anger's Intensity debuff, avoid standing in these.
 - [.ggg]Incarnation of Neglect without being hit by Falling Comets
 	- [.com]They are exactly what they sound like, stay moving while you fight him and you should be fine
 	
