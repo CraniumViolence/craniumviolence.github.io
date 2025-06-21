@@ -326,6 +326,7 @@ Level 81 means you will need to run tier 14 or higher maps.
 # 17 Signature Specialisations 
 <div id="ch-17" markdown="17">
 ## Normal
+### RNG Heavy
 [.ggg]Claim any five items from Mercenaries of the following Equipment Types while they have an "Infamous" or "of Infamy" Mercenary-Specific Modifier on them.
 - [.ggg]Body Armour
 - [.ggg]Weapon
@@ -337,11 +338,17 @@ Level 81 means you will need to run tier 14 or higher maps.
 - [.ggg]Boots
 - [.ggg]Belt
 
-Somewhat awkward as there's no real way to search the mercenary items and they aren't highlighted by default. Simply hover over items while holding down alt.
+Somewhat awkward as there's no real way to search the mercenary items and they aren't highlighted by default. Simply hover over items while holding down alt and look for infamous of infamy.
 
 [PoeDB](https://poedb.tw/us/Infamous_Modifiers#Infamous) naturally has a full list of the modifiers.
 
-This might be pushed to 'hard' depending on how rare they really are.
+The modifiers are RNG and infamous spawns aren't super common, you'll want to have a build that can nuke any Mercenary ideally so you can stay 
+
+You can find a very [basic AHK script here](https://craniumviolence.github.io/infamous-checker.ahk) which will cause a message box to pop up if there's a potential infamous suffix or prefix if you press `ctrl-alt-c` on each item in a Merc's inventory.
+
+To use this get [AutoHotkey V2](https://www.autohotkey.com/) and install it and then simply double click the file. It will open an new icon in your toolbar with a green H which you can right click to close the script.
+
+Please note that this will potentially interfere with price checking items with infamous modifiers using other tools simply due to those also checking the results of ctrl-alt-c.
 </div>
 
 # 18 Achieve Ascension
@@ -673,7 +680,7 @@ You can target the memory chains you want using the new memory nodes at the top 
 - [.ggg]Swiftblade (<code class="str">Str</code>/<code class="dex">Dex</code>)
 - [.ggg]Combatant (<code class="str">Str</code>/<code class="dex">Dex</code>)
 
-At the time of writing mercenaries are pretty cracked, level 78 is any tier 11 or higher map.
+At the time of writing mercenaries are pretty cracked, level 78 is any tier 11 or higher map. At the time since writing, they're still pretty cracked, but a bit less so.
 
 You can run these white to avoid the mercenaries being completely insane but you will likely want a build that can off screen to reliably get them all right now.
 
