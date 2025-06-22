@@ -409,11 +409,11 @@ Normal divination related challenges, stack decks are very common in Blighted Ma
 		- [.com]1x `Belt`
 		- [.com]2x `Rings`
 - [.ggg]Unique Item
-	- [PoeWiki listing for all of these](https://www.poewiki.net/wiki/Vendor_recipe_system#Unique_items) 
+	- [.com]There is a [PoeWiki listing for all of these](https://www.poewiki.net/wiki/Vendor_recipe_system#Unique_items) 
 - [.ggg]Item with Influence
-	- Vendor an influenced amulet (not an onyx) and a gem of each colour (not white)
-	- Vendor an influenced Iron Ring and any colour gem
-	- Vendor normal rarity influenced boots with an Augmentation Orb and a Quicksilver Flask
+	- [.com]Vendor an influenced amulet (not an onyx) and a gem of each colour (not white)
+	- [.com]Vendor an influenced Iron Ring and any colour gem
+	- [.com]Vendor normal rarity influenced boots with an Augmentation Orb and a Quicksilver Flask
 	
 More standard vendor recipes.
 </div>
@@ -448,30 +448,34 @@ Just basic chores for the new Kingsmarch.
 - [.ggg]Unique
 	- [.com]Easy
 - [.ggg]Corrupted
-	- [.com]Easy
+	- [.com]Easy, you can even just corrupt one of the other sets of equipment you use for this
 - [.ggg]Influenced
-	- [.com]Pretty easy
+	- [.com]Pretty easy, you can pair this with the `Exalted Shard` recipe to get two progression checkmarks down
 - [.ggg]Mirrored
-	- [.com]Dumb
+	- [.com]Dumb, strongboxes are the most likely place you'd find these along with using Reflecting Mists to get rings or amulets
 - [.ggg]Fractured
-	- [.com]Dumb
+	- [.com]Normal, fractured items drop fairly regularly and you'll likely get these with gameplay volume.
 - [.ggg]Synthesized
-	- [.com]Dumb
+	- [.com]Dumb, it's basically the above but with it being notably more awkward
+	- [.com]Can be found in `Heist` or `Ritual` and potentially from other sources with specific equipment reward icons
+	- [.com]Not recommended unless you have a reason to think you will get it naturally from the content you are doing
 - [.ggg]Crafted
+	- [.com]Very easy, can be combined with influenced or fractured
 	- [.com]Literally just any item with a crafted modifier, scour, transmute and alt random items so they have a spare affix and then craft a random low cost thing onto them
-	- [.com]Very easy
 - [.ggg]Split
-	- [.com]Very dumb
+	- [.com]Very dumb, can only be created using `Fenumal Plagued Arachnid` and beastcrafting or by using a `Fractured Fossil`
+	- [.com]The actual beasts are terribly expensive overall but you can definitely finish five without doing this for far, far cheaper
 
-You can take these items back after you give them to the mercenary so you don't need it to be any specifically disposable goods. 
+You can take these items back after you give them to the mercenary, the items don't need to be specifically items you are fine with losing.
+	- This will remove the original equipment completely on the mercenary, so don't do it to one you haven't geared out manually
 
-Don't dismiss them without taking the items off, though.
+In spite of it stating 'Mercenaries' you **only need to equip the items on a single mercenary**. A single set of any type of the items on a single mercenary will get you progress towards the challenge.
 
-In spite of it stating 'Mercenaries' **you only need to equip the items on one**, a single set of uniques on a single mercenary will get you progress towards the challenge.
+Buying junk items off trade is recommended but you can self-farm easily enough but I would recommend manually setting up a filter to actually remember what you need.
+	- Bad Influenced items can be found by searching for **Has # Influences** under **Stat Filters**
+	- Bad Fractured and Synthesis items can be found easily by setting the trade filters **Synthesised Item** or **Fractured Item** settings to **Yes** under **Miscellaneous**
 
-Buying junk items off trade for the 'dumb' categories is recommended. 
-
-For self-farming I would recommend manually setting up a filter. You can run strongboxes for mirrored equipment and hope for synthesised from elsewhere.
+The pieces double up and will count for every type of item they are (i.e. Corrupted, Influenced Gloves can be used for both of those checks fine).
 </div>
 
 # 23 Remarkable Realms
@@ -482,6 +486,12 @@ For self-farming I would recommend manually setting up a filter. You can run str
 In a strange change, this is just raw numerical quantity of maps ran instead of doing all of them. 
 
 You can use Kirac for these and there's a scouting report for unique maps as well as divination cards for them.
+
+This is more Unique Maps than there actually are on the Atlas, so if you complete the full Atlas you will still need to do extras.
+
+In terms of raw speed, Pillars of Arun or Maelström of Chaos are probably good candidates that will likely be cheap.
+
+In theory the Synthesis Memory maps all count towards this as would Beachheads, but I've never actually looked to see if the number goes up yet.
 </div>
 
 # 24 Sanctified Scarabs
