@@ -3,9 +3,9 @@
 # Mercenaries of Trarthus Challenges
 Please get in touch through [Github](https://github.com/CraniumViolence/craniumviolence.github.io) if any information here is incorrect, absent or you simply have better strategies or information! 
 
-You can also get in touch on [Reddit under CraniumCarnage](https://www.reddit.com/user/CraniumCarnage/) or by simply replying in the obvious post about it.
+You can also get in touch on [Reddit under CraniumCarnage](https://www.reddit.com/user/CraniumCarnage/) or by simply replying in the obvious post about it, whenever one is allowed to exist by reddit since it keeps getting removed.
 
-This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include complex instructions for a lot of aspects such as explaining what a mechanic is (with the obvious exception of current league or new mechanics getting more attention). 
+This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include complex instructions for a lot of aspects such as explaining what each mechanic is in depth (with the obvious exception of current league or new mechanics getting more attention). 
 
 Nothing on this page is SSF oriented but as previously, if people want things flagged as bad for SSF for whatever reason just shout at me on the link above.
 
@@ -471,6 +471,8 @@ More standard vendor recipes.
 	- [.com]Not too bad to get, you can bias towards Verisium with new atlas nodes and 2,500 is less than it sounds like
 	- [.com]You can use a `Kalguuran Scarab of Refinement` to force the ore to become bars directly when you find it in maps if you want to skip smelting steps
 
+Kingsmarch is unlocked after completing Act 10 in the Epilogue **by talking to Johan**. You will **lose all ores and resources gathered if you do not talk to him** so be sure to do that. Kingsmarch can be accessed quickly by typing `/kingsmarch`.
+
 Just basic chores for the new Kingsmarch. The level 5 requirements makes hiring workers much easier than it was before and if you have Level 5 mappers they can even clear Tier 17 maps without much issue.
 </div>
 
@@ -890,7 +892,7 @@ As long as you have a build to do these you will likely always generate a decent
 	- [.com]The boss will say `"Overwhelming terror!` or `Consumed by fear!` and create up to three large, lingering balls that deal fire damage over time and inflict the Anger's Intensity debuff, avoid standing in these.
 - [.ggg]Incarnation of Neglect without being hit by Falling Comets
 	- [.com]They are exactly what they sound like, stay moving while you fight him and you should be fine
-	
+
 These are all new bosses, the first three are very easy to burst down since you can run them as white with minimal issue.
 
 As is often the case, DPS is king here as the less time they have to do anything the less chance there is of making a mistake and failing a conditional.
