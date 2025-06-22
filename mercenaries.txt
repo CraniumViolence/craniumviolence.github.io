@@ -254,21 +254,26 @@ The crafting bench has an 'undiscovered' section that covers where any missing r
 ## Normal
 [.ggg]Complete any six of the following Kirac Atlas Missions.
 - [.ggg]Defeat the Breachlord
+	- [.com] Simply use an Otherworldly Scouting Report
 - [.ggg]Open the Unique Strongbox
 - [.ggg]Defeat the Elderslayer
+	- [.com] Use Influenced Scouting Reports to get these at a higher rate
 - [.ggg]Defeat the Elder's Guardian
+	- [.com] Use Influenced Scouting Reports to get these at a higher rate
 - [.ggg]Defeat the Shaper's Guardian
+	- [.com] Use Influenced Scouting Reports to get these at a higher rate
 - [.ggg]Complete the Einhar Mission
 - [.ggg]Complete the Excursions
 - [.ggg]Close all the Harbinger Portals
 - [.ggg]Activate every Pantheon Shrine
 - [.ggg]Slay the Imprisoned Exiles
 - [.ggg]Defeat all Possessed Monsters
+	- [.com] Can fail to complete
 - [.ggg]Open all the Strongboxes
 
-These are the new-old Kirac red tier missions, they're basically pulled over from the old memory sequences into atlas missions.
+These are the new-old Kirac red tier missions, they're basically old ones with some new ones pulled over from the old memory sequences into atlas missions.
 
-Get Kirac mission nodes and the nodes for dropping scouting reports to enable rerolling of his missions to look for these.
+Get Kirac mission nodes and the nodes for dropping scouting reports to enable rerolling of his missions to look for these. Simply roll using any scouting report for the rarer ones, you should only need one of the non-standard ones total.
 
 `Primal Cystcaller` also exists for Beastcrafting to get more missions.
 
@@ -529,7 +534,9 @@ Simply use 20 of 27 different scarab types. You can use 3-5 per map making this 
 	- Fifteen 20% quality gems, not quite a full roster
 	- You can combine with the above to take some of the pressure off 
 	- Quality of Socketed Gems is found in the Armoury Map now and can count as 6-8% per gem
+	- Facetor's is probably easier if you aren't running fully quality gemmed for any reason
 	
+Normal gem related stuff, it can even be profit if you level things in your off hand to slam for Level 21 that wouldn't care about 20% quality.
 </div>
 
 # 26 Cross Contamination
@@ -632,7 +639,7 @@ You can get 30% quantity from the Atlas Tree, 8% from the Map Device, 5% from ea
 
 Map Modifier Effect will also increase Item Quantity associated with modifiers.
 
-You can expect a several hundred maps regardless of how you stack this. While more grind heavy than anything in GGG this is still relatively mild as far as grind scales go.
+You can expect a several hundred maps regardless of how you stack this. While more grind heavy than anything in GGG, this is still relatively mild as far as grind scales go.
 </div>
 
 # 31 Recollections Realised
@@ -640,15 +647,16 @@ You can expect a several hundred maps regardless of how you stack this. While mo
 ## Normal
 [.ggg]Complete each of the following Types of Map the specified number of times while they are at least Rare.
 - [.ggg]Originator Memory Influenced Maps x50
-	- [.com]These maps roll T17 modifiers regardless of tier, you can simply transmute - alteration - regal them to get minimum difficulty
 - [.ggg]Courtyard of Wasting x4
 	- [.com]This is the Incarnation of Neglect's penultimate map
 - [.ggg]Chambers of Impurity x4
 	- [.com]This is the Incarnation of Fears's penultimate map
 - [.ggg]Theatre of Lies x4
 	- [.com]This is the Incarnation of Dread's penultimate map
-	
+
 You can target the memory chains you want using the new memory nodes at the top of the atlas. You'll be railroaded into one of each for just getting completions in general
+
+All of the maps roll T17 modifiers regardless of tier, you can simply transmute - alteration - regal them to get minimum difficulty. You can also run a `Scarab of Bisection` to remove modifiers entirely paired with a `Scarab of Stability` to make it so you have extra portals for attempts.
 </div>
 
 # 32 Infamous Instigators
@@ -709,12 +717,12 @@ Pretty straight forward map grind challenge, expect to average around 100+ maps 
 ## Normal
 [.ggg]Complete any four of the following Originator Influence challenges.
 - [.ggg]Use Orbs of Rememberance x5
-	- [.com]Moderately priced
+	- [.com]Relatively expensive
 	- [.com]GGG can't spell Remembrance
 - [.ggg]Use Orbs of Unravelling x5
-	- [.com]Highest priced
+	- [.com]Relatively expensive, higher than Remembrance 
 - [.ggg]Use Orbs of Intention x10
-	- [.com]Very cheap
+	- [.com]Cheapest of the options
 - [.ggg]Consume Petals x25000
 	- [.com]You gain petals while inside the new originator influenced maps
 	- [.com]By default you can press the F key to consume them
@@ -742,10 +750,10 @@ You can buy clears and you can buy invitations outright for non-maven encounters
 
 All explicitly named invitations count for this:
 - Writhing Invitation
-	- Cheap, likely profitable
+	- Cheap, potentially profitable
 	- The Infinite Hunger
 - Polaric Invitation
-	- Cheap
+	- Cheap, unlikely to be profitable
 	- The Black Star
 - Incandescent Invitation
 	- Moderate cost, low profit chance
@@ -757,7 +765,7 @@ All explicitly named invitations count for this:
 	- Mildly tedious but can be combined with The Elderslayers using Destructive Play, likely to end up rather profitable as a paired grind especially if you also run Sirus
 	- 10 Atlas Bosses
 - Maven's Invitation: The Feared
-	- Convoluted for a chained grind, prints maven invites and pairs well with running base Uber Elder
+	- Convoluted for a chained grind, prints `The Maven's Writ` and pairs well with running base Uber Elder as it counts as both The Shaper and The Elder for the rotation
 	- Cortex
 	- Chayula
 	- Uber Atziri
@@ -765,7 +773,7 @@ All explicitly named invitations count for this:
 	- The Shaper
 	- The Elder
 - Maven's Invitation: The Forgotten
-	- Very good gold returns for time investment, decent chance of Cortex and a very low chance of jackpot rings
+	- Very good gold returns for time investment, decent chance of `Cortex` and a very low chance of jackpot rings
     - Rewritten Distant Memory
     - Augmented Distant Memory
     - Altered Distant Memory
@@ -930,13 +938,27 @@ Skipping Level 100 and 30x Uber Bosses are very obvious choices for most people.
 
 
 # Challenges to Skip
+You get the full armour set at **36/40** this time around, so you get to skip up to four different challenges.
+
 What you skip (if anything) will come down to what characters you want to build and how willing you are to buy challenge completion over clearing them yourself.
 
-As a baseline serious considerations should be made for:
-- Endgame Enigmas
-- Grinding Gear Goals
+As a baseline, I'd say serious considerations should be made for the following (in vague order of how much I'd say the skip is worth):
 
-The challenges are mostly fairly easy this time around so really the skips are dealer's choice
+- Grinding Gear Goals
+	- Even though it's very mild it's still an obvious grind heavy challenge that can be avoided
+- Powerful Pursuits
+	- Uber Bossing isn't something everyone can do nor is it something every character builds for, buying them shouldn't break the bank but is's completely viable to skip them too
+- Revered Return
+	- It's just a money sink, there's no real benefit to engaging with it in any way, at current prices it's a few divines but this might change over the league
+- Endgame Enigmas
+	- If you don't have a build that is made for T17s or you don't enjoy them this is an obvious skip
+	- This is so low because you can neuter T17s pretty heavily (and can often land rolls that won't affect your character in general). As long as you can clear the maps, you can make back the cost of entry back from fragment drops or even profit from them alone.
+- Strenuous Summons
+	- Depending on character this might be a slog and also a currency sink for very little returns
+- Maniacal Magnitudes
+	- Depending on how you play, you might be done before ever finishing this one off
+	
+Generally speaking the challenges are fairly easy this time around, the skips are truly dealer's choice depending on what you want to do in the game.
 
 # Unlocks
 This league is a return to a full armour set. 
