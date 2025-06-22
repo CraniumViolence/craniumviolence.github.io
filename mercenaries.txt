@@ -28,12 +28,13 @@ Literally free.
 ## Very Easy
 [.ggg]Complete each of the following Mercenaries of Trarthus encounters.
 - [.ggg]Take an Item from a Mercenary
+	- [.com]You can immediately take items by holding control and clicking the item or item rucksack.
 - [.ggg]Hire A Mercenary
+	- [.com]Press the `Hire` button and win against a mercenary
 - [.ggg]Exile a Mercenary
+	- [.com]Press the `Exile` button and win against a mercenary
 
 Basically free, I don't think they really need explanations.
-
-You can immediately take items by holding control and clicking the item or item rucksack.
 </div>
 
 # 3 Peddler's Produce I
@@ -128,7 +129,7 @@ Standard progression quests you will probably already be doing by default.
 - [.ggg]Take Items from Mercenaries  x5
 - [.ggg]Take a Unique Item from a Mercenary
 
-Straight forward, the unique can be gotten off an Infamous Mercenary very easily as they always spawn with at least one
+Straight forward and basically just an expansion of `Merciful Mercenaries`, unique items can be found on any Infamous Mercenary very easily, they always spawn with at least one.
 </div>
 
 # 7 Act Adversaries II
@@ -141,7 +142,7 @@ Straight forward, the unique can be gotten off an Infamous Mercenary very easily
 - [.ggg]Act 9: The Depraved Trinity
 - [.ggg]Act 10: Kitava, the Insatiable
 
-Standard progression quests you will probably already be doing by default.
+Standard progression quests you will already be doing by default if you are heading towards maps.
 </div>
 
 # 8 Pantheon Prowess
@@ -149,15 +150,30 @@ Standard progression quests you will probably already be doing by default.
 ## Very Easy
 [.ggg]Complete each of the following Pantheon God Quests.
 - [.ggg]The Father of War
+	- [.com]Act 6, Tukohama
 - [.ggg]The Puppet Mistress
+	- [.com]Act 6, Ryslatha
+	- [.com]In the area oak was, connected to The Riverways
 - [.ggg]The Cloven One
+	- [.com]Act 6, Abberath
+	- [.com]In a side area of the Prisoner's Gate area after Shavronne's Tower.
 - [.ggg]The Master of a Million Faces
+	- [.com]Act 7, Ralakesh
+	- [.com]Compulsory quest
 - [.ggg]Queen of Despair
+	- [.com]Act 7, Gruthkul
+	- [.com]Found in the Dread Thicket where you get Fireflies in a sub-area
 - [.ggg]Reflection of Terror
+	- [.com]Act 8, Yugul
+	- [.com]Found at the end of The High Gardens through The Bath House
 - [.ggg]The Ruler of Highgate
+	- [.com]Act 9, Garukhan
+	- [.com]In a side-area of The Quarry
 - [.ggg]Queen of the Sands
-
-Standard progression quests you will probably already be doing by default.
+	- [.com]Act 9, Shakari
+	- [.com]Obtain The Storm Blade in The Vastiri Desert, return to town, turn in the related quest and then return to Desert and use it on the The Oasis side area and find the boss in the area
+	
+Standard progression quests you will probably already be doing by default, several are Passive Point quests.
 </div>
 
 # 9 Atlas Augmentations
@@ -189,6 +205,7 @@ You can use scarabs, the map device and Kirac missions to speed things up.
 - [.ggg]Open Smuggler's Caches x30
 - [.ggg]Pass through Mirrors of Delirium x30
 - [.ggg]Complete Ultimatum Waves x200
+	- [.com]10 waves per actual completed ultimatum minimum means this is closer to 'Complete 20 Ultimatums' but you can also just do a couple of waves a lot of times
 - [.ggg]Complete Blights x30
 - [.ggg]Complete Rituals x100
 - [.ggg]Complete Ore Deposit Encounters x60
@@ -197,7 +214,7 @@ As above but with a couple more mechanics thrown in.
 
 You can use scarabs, the map device and Kirac missions to speed things up.
 
-Ultimatum looks worse than it is but you are not likely to finish 200 if you aren't choosing to do the mechanic actively.
+Ultimatum looks worse than it is, but you are not likely to finish 200 if you aren't choosing to do the mechanic actively.
 </div>
 
 # 11 Familiar Friends
@@ -230,13 +247,17 @@ Very straight forward, Level 75 is mid way through yellow maps so it's not too m
 ### Buyable
 [.ggg]Defeat Atziri, Queen of the Vaal in the Alluring Abyss.
 
-This is Uber Atziri. 
+This is Uber Atziri, she uses the upgraded Sacrifice Set which can be bought on Faustus easily:
+- Mortal Grief
+- Mortal Ignorance
+- Mortal Rage
+- Mortal Hope
 
 The biggest thing to know is that she has reflect and that while splitting into four clones one of them carries an even stronger reflect mirror which can easily lead to accidental deaths.
 
-You can buy a carry easily enough if you aren't feeling up to it.
+You can buy a carry easily enough if you aren't feeling up to it or you simply don't want to play aroudn the reflect at all.
 
-It's very strange this is just here by itself in 2025, I'm not sure what GGG were thinking with this one.
+[.struck]It's very strange this is just here by itself in 2025, I'm not sure what GGG were thinking with this one.
 </div>
 
 # 14 Beloved Benches
@@ -246,7 +267,7 @@ It's very strange this is just here by itself in 2025, I'm not sure what GGG wer
 
 There's a lot of crafing recipes now, you'll simply get this done by going through map completion for unlocking atlas points.
 
-The crafting bench has an 'undiscovered' section that covers where any missing recipes are.
+The crafting bench has an 'undiscovered' section that covers where any missing recipes are and the Atlas has some information on what spawns where.
 </div>
 
 # 15 Memorable Missions
@@ -275,7 +296,7 @@ These are the new-old Kirac red tier missions, they're basically old ones with s
 
 Get Kirac mission nodes and the nodes for dropping scouting reports to enable rerolling of his missions to look for these. Simply roll using any scouting report for the rarer ones, you should only need one of the non-standard ones total.
 
-`Primal Cystcaller` also exists for Beastcrafting to get more missions.
+`Primal Cystcaller` also exists for Beastcrafting to get more missions without needing to spam map clears. If you want to save missions it's advised you ignore things like Vaal Temple even if you're tempted to go into them when you see them.
 
 Buying these might also be viable if people are selling them, you'll likely need to engage with a discord server for this though.
 </div>
@@ -289,20 +310,25 @@ Buying these might also be viable if people are selling them, you'll likely need
 	- [.com]All Breachstones will work outside of any weird Kirac mission outliers below normal level.
 - [.ggg]Abyssal Depths x5
 	- [.com]Do abyss with appropriate nodes selected to increase Depths chances
+	- [.com]Despite the `Horned Scarab of Awakening` sounding good on paper, the `Imbued Abyss` map craft does not actually guarantee the spawn of an Abyssal Depth and is a waste of money over just doing more maps
 - [.ggg]Logbooks with at least 10 Remnants active x5
+	- [.com]You can simply buy these and then it's as simple as playing them normally
+	- [.com]These are just the modifiers that activate as you blow things up
 - [.ggg]Tier 4 Harvest Seeds x5
 	- [.com]Crop Rotation can get you Tier 4s relatively even if it's not completely consistent
-	- [.com]Scarabs exist that force Tier 4 monster spawns
+	- [.com]The `Harvest Scarab of Cornucopia` exists and allows you to force at least one Tier 4 monster to spawn
 - [.ggg]Domains of Timeless Conflict with at least 25 rewards x3
-	- [.com]Can be done in a four way fairly easily, simply get the emblems
+	- [.com]Can be done in a four or five-way fairly easily as long as your build is decent at clearing, simply get the emblems
+	- [.com]Buying in to a five-way rota will obviously complete this for you while also levelling you but is a lot more than simply buying the emblems if your character can handle it
 - [.ggg]Blueprints with 4 revealed wings x5
-	- [.com]Requires engaging with Heist
+	- [.com]Requires engaging with Heist as all the blueprint will require that you have levlled up your Rogues to be taken
+	- [.com](https://www.pathofexile.com/trade/search/Mercenaries/lVlbq2psV)[Very simple to search for on the trade website]. Simply look for area level of 81 and set the heist section to include four revealed wings.
 - [.ggg]Simulacrum Waves x60
 	- [.com]Simply waves, doesn't need you to complete them
-	- [.com]I would avoid attrition grinding and do something else instead
+	- [.com]I would avoid attrition grinding if you can't do at least 10 waves and do something else instead as you will ultimately just be wasting money otherwise
 - [.ggg]Trialmaster fights x3
-	- [.com]You can force the Trialmaster with a scarab
-	- [.com]You can and should, that is, don't grind it without doing so
+	- [.com]You can force the Trialmaster with a `Ultimatum Scarab of Dueling`
+	- [.com]Doing it without the scarab doesn't have particularly great rates but if you are farming catalysts for example you might not mind this
 - [.ggg]Blighted or Blight Ravaged Maps x5
 	- [.com]Can be cleared on any build even with zdps because of how the systems work
 	- [.com]Clear, Sepia and Amber Oils to slow monsters and maximise your ability to build towers.
@@ -319,7 +345,7 @@ Buying these might also be viable if people are selling them, you'll likely need
 	- [.com]This is a fairly big undertaking compared to some of the others, you cannot fill vessels from rituals that used vessels making this a lot more than 30 in most cases
 - [.ggg]Defeat Settler Bosses x3
 	- [.com]The Black Knight appears in Starfall Crater found randomly in maps
-		- [.com]Likely needs ore present within a map to be available but it could just be in any map regardless
+		- [.com]Likely needs Verisium Ore present within a map to be available but it could just be in any map regardless
 	- [.com]Admiral Valerius appears if your boats are taken by pirates
 		- [.com]Sending out lots of shortest trip boats was a good bet for this in Settlers, might still be the same here
 	- [.com]Sasan appears to ransom your Map Runners while they are active
@@ -378,17 +404,23 @@ Standard player progression, it's not the enriched version so it's simply a norm
 ### Buyable
 [.ggg]Complete any three of the following Divination Card tasks.
 - [.ggg]Open Stacked Decks x50
+	- [.com]Stacked Decks can commonly be found in Blighted Maps, Heist, Legion and by using `Diviner's Delirium Orbs` on maps
 - [.ggg]Turn in sets of Divination Cards with a stack size of at least 10 x5
+	- [.com](poe.ninja)[https://poe.ninja/economy/mercenaries/divination-cards] allows you to sort by stack size by simply pressing the Stack Size button
+	- [.com]Searching on Faustus for `card "0/[1-2][0-9]"` will give you results for every card type with a stack size of 10 or higher
+	- [.com]Searching a Divination Card stash for `"/[1-2][0-9]"` will produce any 10 stack or higher cards you already own some of
 - [.ggg]Scry a Map
-	- [.com]The Nameless Seer can appear in maps and gives you a random unique item and  the option to put the current map's divination cards onto a single other map replacing the originals
+	- [.com]The Nameless Seer can appear in T16 maps and gives you a random unique item and the option to put the current map's divination cards onto a single other map replacing the originals
 	- [.com]You will find the Nameless Seer more often in maps with bad divination cards, don't run something with an apothecary expecting this to be simple
+	- [.com]A chat notification 
 - [.ggg]Turn in a set of Divination card that rewards a Two-implicit Unique item
-	- [.com]Faustus should in theory make this easier to accomplish
-		- [.com]`Duality` (2 stack)
-		- [.com]`Further Invention` (4 stack)
-		- [.com]`Costly Curio` (6 stack)
+	- [.com]Faustus makes this easier to accomplish, you can simply search for `Two-implicit` and it will return all options that give this and from those you can choose which unique you want to try and get
+		- [.com]`The Enthusiasts` (3 stack)
+		- [.com]`The Hive of Knowledge` (6 stack)
+		- [.com]`Echoes of Love` (3 stack)
 
-Normal divination related challenges, stack decks are very common in Blighted Maps.
+Normal divination related challenges, Stacked Decks are common in Blighted Maps but if you simply open them as you drop them you will get 50 without real issue.
+
 </div>
 
 # 20 Peddler's Produce II
@@ -428,17 +460,16 @@ More standard vendor recipes.
 - [.ggg]Disenchant Unique items x30
 	- [.com]Very straight forward, throw uniques into disenchanting
 - [.ggg]Claim rewards from Maps successfully completed by your Atlas Runners x50
-	- [.com]Very straight forward, no tier requirement so you can throw white maps at level 5 mappers
+	- [.com]Very straight forward, no tier requirement so you can throw white maps at level 4-5 mappers
 - [.ggg]Have at least 150,000 gold in the Kingsmarch Treasury at once.
 	- [.com]You can put in your gold and immediately take it out, very reasonable amount to target
 - [.ggg]Have at least 5,000 Blue Zanthimum in your Kingsmarch Stockpile at once
 	- [.com]Simply have your farmers farm the crop and you'll get it passively
 - [.ggg]Have at least 2,500 Verisium Bars in your Kingsmarch Stockpile at once
 	- [.com]Not too bad to get, you can bias towards Verisium with new atlas nodes and 2,500 is less than it sounds like
+	- [.com]You can use a `Kalguuran Scarab of Refinement` to force the ore to become bars directly when you find it in maps if you want to skip smelting steps
 
-Just basic chores for the new Kingsmarch.
-
-
+Just basic chores for the new Kingsmarch. The level 5 requirements makes hiring workers much easier than it was before and if you have Level 5 mappers they can even clear Tier 17 maps without much issue.
 </div>
 
 # 22 Equipped Elites
@@ -476,6 +507,12 @@ Buying junk items off trade is recommended but you can self-farm easily enough b
 	- Bad Fractured and Synthesis items can be found easily by setting the trade filters **Synthesised Item** or **Fractured Item** settings to **Yes** under **Miscellaneous**
 
 The pieces double up and will count for every type of item they are (i.e. Corrupted, Influenced Gloves can be used for both of those checks fine).
+
+**Single stat** mercenaries can use any piece of equipment that needs their single stat.
+
+**Double stat** mercenaries can use pieces that exclusively need either of their stats (e.g. Str/Dex can use Str, Dex or Str and Dex hybrid pieces but not Str and Int hybrids)
+
+**Triple stat** mercenaries can use pieces without needing to worry about the stats on those pieces at all.
 </div>
 
 # 23 Remarkable Realms
@@ -491,7 +528,7 @@ This is more Unique Maps than there actually are on the Atlas, so if you complet
 
 In terms of raw speed, Pillars of Arun or Maelström of Chaos are probably good candidates that will likely be cheap.
 
-In theory the Synthesis Memory maps all count towards this as would Beachheads, but I've never actually looked to see if the number goes up yet.
+Synthesis Memory maps all count towards this which makes them very good candidates to finish this up as a Maven rotation is generally pretty good money. Beachheads should too.
 </div>
 
 # 24 Sanctified Scarabs
@@ -527,6 +564,8 @@ In theory the Synthesis Memory maps all count towards this as would Beachheads, 
 - [.ggg]Horned
 
 Simply use 20 of 27 different scarab types. You can use 3-5 per map making this very quick to knock out.
+
+You can unlock additional map device slots for completing a `Tier 17 Map` and by completing a `Maven 10-Way Invitation` for a total of six slots allowing for 5 scarabs which enables this to be finished in four maps total.
 </div>
 
 # 25 Glorious Gemstones
@@ -604,21 +643,25 @@ It's 47 raw T16 maps but unless you never hire mercenaries in maps you'll not ac
 - [.ggg]Defeat Delve Bosses in Level 75 or higher Areas x3
 	- [.com]Delve is delve is delve, go down until you find bosses you'd probably want a specific build for it
 	- [.com]You can buy taxis for this or pay to leech kills
-		- [.com]A taxi is someone taking you to the boss and leaving, this stops their boss being consumed and allows you to kill it (you will get zero loot)
+		- [.com]A taxi is someone taking you to the boss and leaving, this stops their boss being consumed and allows you to kill it (you will *not* get drops from the boss on kill)
 - [.ggg]Defeat Bestiary Bosses x20
-	- [.com]You can buy beasts for this directly or pay to leech kills
+	- [.com]You can buy beasts for this directly or pay to leech kills, the beasts are pretty cheap as they're not desirable bosses to run
 		- [.com]Craicic Spider Crab
 		- [.com]Farric Tiger Alpha
 		- [.com]Fenumal Hybrid Arachnid
 		- [.com]Saqawine Rhex
 - [.ggg]Defeat the Syndicate Mastermind x4
-	- [.com]Catarina is on a fragment now so you can ignore the entire betrayal mechanic and still 
+	- [.com]Catarina is on a fragment now so you can ignore the entire betrayal mechanic and still
 	- [.com]You can buy `Syndicate Medallion` for this directly or pay to leech kills
+		- [.com]Can be expensive as the cost directly correlates to that of a Veiled Exalted orb
 - [.ggg]Defeat the Vaal Omnitect in Level 75 or higher Areas x40
 	- [.com]Farm temples using Alva nodes or buy `Chronicle of Atzoatl` at the required Level 75 or higher
 	- [.com]Simply filter to having the temple apex open and you can ignore everything else
+	- [.com]40 makes it unattractive as an option. You're stuck with whatever temple layouts you can buy and considering the boss has an invulnerability phase I would avoid these
 	
-Nothing remarkable, I'd probably go with Syndicate Mastermind as it's honestly not too expensive and it's got profit potential while also being drastically quicker than the others. A delve taxi would probably be the actual fastest.
+Nothing remarkable. Syndicate Mastermind rework makes it very fast (the Leaders no longer spawn and you don't have to go into the corners any more) but the cost of it has rapidly increased so you'll be dumping in multiple divines if you don't luck out with a Veiled Exalted. 
+
+A delve taxi would probably be the actual fastest if you can find one but if you have high DPS Catarina is very close.
 </div>
 
 # 29 Elated Exaltation
@@ -629,14 +672,18 @@ Nothing remarkable, I'd probably go with Syndicate Mastermind as it's honestly n
 - [.ggg]Tainted Exalted Orb
 - [.ggg]Eldritch Exalted Orb
 - [.ggg]Veiled Exalted Orb
+	- [.com]Incredibly expensive
 - [.ggg]Warlord's Exalted Orb
+	- [.com]Expensive
 - [.ggg]Crusader's Exalted Orb
 - [.ggg]Redeemer's Exalted Orb
 - [.ggg]Hunter's Exalted Orb
+	- [.com]Expensive
 - [.ggg]Elder's Exalted Orb
 - [.ggg]Shaper's Exalted Orb
 
 Simply a currency dump [poe.nina](https://poe.ninja/economy/mercenaries/currency?name=Exalted%20Orb) has active tracking for these and you can work out which is cheapest here or in the Currency Exchange.
+
 </div>
 
 # 30 Maniacal Magnitudes
@@ -718,6 +765,7 @@ I don't think this is a rare enough occurrence to justify 'hard', but time will 
 	- [.com]Will be around 100 maps with average luck
 - [.ggg]Activate Memory Altars x33
 	- [.com]These are at the end of each step of a memory chain, you'll get three per run meaning 11 full memory chains are needed.
+		- [.com]Non-questline chains will include more maps which will allow for more completed per chain
 
 Pretty straight forward map grind challenge, expect to average around 100+ maps for the Eldritch Altars.
 </div>
