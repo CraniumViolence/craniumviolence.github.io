@@ -893,6 +893,8 @@ As long as you have a build to do these you will likely always generate a decent
 	
 These are all new bosses, the first three are very easy to burst down since you can run them as white with minimal issue.
 
+As is often the case, DPS is king here as the less time they have to do anything the less chance there is of making a mistake and failing a conditional.
+
 You are guaranteed one of these bosses from memory threads and there are new nodes at the top of the atlas tree to influence which bosses you get.
 </div>
 
@@ -923,9 +925,11 @@ You are guaranteed one of these bosses from memory threads and there are new nod
 - [.ggg]The Searing Exarch
 	- [.com]`Incandescent Invitation`
 - [.ggg]High Templar Venarius in Cortex
-	- [.com]`Cortex`
+	- [.com]`Cortex Synthesised Map`
 
 These are a bit awkward but you can simply **leave your mercenary in reserve** get the boss nearly dead and then log out and **invite the mercenary back** in order to get them to join you at the end of the fight.
+
+Mercenaries are however incredibly tanky and a level 83 one will likely happily tank the vast majority of bosses as long as you have the DPS to make sure they don't take overly long. They play Sirus like they are using cheat codes and go wandering in storms and come out just fine!
 
 You can obviously also pay for kills and simply have your mercenary active when you enter the instance for credit.
 </div>
@@ -937,7 +941,7 @@ You can obviously also pay for kills and simply have your mercenary active when 
 [.ggg]Complete 30 Tier 17 Maps.
 	- [.com]Of note is that this is simply 'complete', with no further conditions. You can use the `Scarab of Bisection` and `Scarab of Stability` to neuter T17s pretty heavily and add extra portals.
 
-Tier 17s are imposing but the changed mods from last league combined with scarab abuse makes them no where near as bad as they could be. Avoid increased modifier effect on your atlas if you suspect you'll have trouble with mods.
+Tier 17s are imposing but the changed mods from last league combined with scarab abuse makes them no where near as bad as they could be. Avoid increased modifier effect on your atlas if you suspect you'll have trouble with mods, it can easily turn a bad mod into a bricking mod.
 </div>
 
 # 39 Powerful Pursuits
