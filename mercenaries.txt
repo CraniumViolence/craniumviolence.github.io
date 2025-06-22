@@ -1,7 +1,9 @@
 ## You can toggle navigation with the `☰` at the top left
 
 # Mercenaries of Trarthus Challenges
-Please get in touch through [Github](https://github.com/CraniumViolence/craniumviolence.github.io) if any information here is incorrect, absent or you simply have better strategies or information! I don't currently operate a reddit account so this is the only way to get in touch for now.
+Please get in touch through [Github](https://github.com/CraniumViolence/craniumviolence.github.io) if any information here is incorrect, absent or you simply have better strategies or information! 
+
+You can also get in touch on [Reddit under CraniumCarnage](https://www.reddit.com/user/CraniumCarnage/) or by simply replying in the obvious post about it.
 
 This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include complex instructions for a lot of aspects such as explaining what a mechanic is (with the obvious exception of current league or new mechanics getting more attention). 
 
@@ -322,7 +324,7 @@ Buying these might also be viable if people are selling them, you'll likely need
 	- [.com]Buying in to a five-way rota will obviously complete this for you while also levelling you but is a lot more than simply buying the emblems if your character can handle it
 - [.ggg]Blueprints with 4 revealed wings x5
 	- [.com]Requires engaging with Heist as all the blueprint will require that you have levlled up your Rogues to be taken
-	- [.com](https://www.pathofexile.com/trade/search/Mercenaries/lVlbq2psV)[Very simple to search for on the trade website]. Simply look for area level of 81 and set the heist section to include four revealed wings.
+	- [.com][Very simple to search for on the trade website](https://www.pathofexile.com/trade/search/Mercenaries/lVlbq2psV). Simply look for area level of 81 and set the heist section to include four revealed wings.
 - [.ggg]Simulacrum Waves x60
 	- [.com]Simply waves, doesn't need you to complete them
 	- [.com]I would avoid attrition grinding if you can't do at least 10 waves and do something else instead as you will ultimately just be wasting money otherwise
@@ -406,7 +408,7 @@ Standard player progression, it's not the enriched version so it's simply a norm
 - [.ggg]Open Stacked Decks x50
 	- [.com]Stacked Decks can commonly be found in Blighted Maps, Heist, Legion and by using `Diviner's Delirium Orbs` on maps
 - [.ggg]Turn in sets of Divination Cards with a stack size of at least 10 x5
-	- [.com](poe.ninja)[https://poe.ninja/economy/mercenaries/divination-cards] allows you to sort by stack size by simply pressing the Stack Size button
+	- [.com][poe.ninja](https://poe.ninja/economy/mercenaries/divination-cards) allows you to sort by stack size by simply pressing the Stack Size button
 	- [.com]Searching on Faustus for `card "0/[1-2][0-9]"` will give you results for every card type with a stack size of 10 or higher
 	- [.com]Searching a Divination Card stash for `"/[1-2][0-9]"` will produce any 10 stack or higher cards you already own some of
 - [.ggg]Scry a Map
