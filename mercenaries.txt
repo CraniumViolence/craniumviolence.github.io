@@ -95,7 +95,7 @@ Complete the first five acts.
 - [.ggg]The Dweller of the Deep
 	- [.com] Act 1, passive point quest
 	- [.com] The Dweller of the Deep is in the Act 1 area Flooded Depths accessed from The Submerged Passage
-	- [.com] Broken at the start of the league, you should be able to use `/recheck_achievements` in chat when it's fixed
+	- [.com] This was broken at the start of the league, you can use `/recheck_achievements` in chat to get credit now that it's fixed without needing to do it on a new character or otherwise repeat it
 - [.ggg]The Way Forward
 	- [.com] Act 2, passive point quest
 	- [.com] Kill Captain Arteri in the Western Forest and use his Thaumetic Seal to unlock the Prisoner's Gate
@@ -620,7 +620,7 @@ Normal gem related stuff, it can even be profit if you level things in your off 
 	- [.com]`Kalguuran Scarabs` force ore, you can also increase spawn rates with the atlas tree
     - [.com]**Unending Nightmare** will stop Fog ever dissipating
     - [.com]Any **Players are Delirious** map has permanent fog (1x Delirium Orb)
-	- [.com]This has been reported as broken as of the 19th June
+	- [.com]This has been **reported as broken** as of the 19th June and has yet to be fixed!
 	
 In terms of recommendations I'd definitely go with Essence, Legion General, Blight Boss and Ore Deposit as all of these mechanics can be very easily forced to interact. 
 
@@ -909,10 +909,11 @@ You are guaranteed one of these bosses from memory threads and there are new nod
 	- [.com]`Fragment of the Phoenix`
 	- [.com]`Fragment of the Minotaur`
 - [.ggg]The Elder
-	- [.com]`Fragment of Purification`
-	- [.com]`Fragment of Constriction`
-	- [.com]`Fragment of Enslavement`
-	- [.com]`Fragment of Eradication`
+	- [.com]This is actually Uber Elder (or The Elder in the Shaper's Realm)
+	- [.com]`Fragment of Knowledge`
+	- [.com]`Fragment of Shape`
+	- [.com]`Fragment of Terror`
+	- [.com]`Fragment of Emptiness`
 - [.ggg]Sirus, Awakener of Worlds
 	- [.com]`Veritania's Crest`
 	- [.com]`Drox's Crest`
