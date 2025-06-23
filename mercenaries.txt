@@ -3,7 +3,7 @@
 # Mercenaries of Trarthus Challenges
 Please get in touch through [Github](https://github.com/CraniumViolence/craniumviolence.github.io) if any information here is incorrect, absent or you simply have better strategies or information! 
 
-You can also get in touch on [Reddit under CraniumCarnage](https://www.reddit.com/user/CraniumCarnage/) or by simply replying in the obvious post about it, whenever one is allowed to exist by reddit since it keeps getting removed.
+You can also get in touch on [Reddit under CraniumCarnage](https://www.reddit.com/user/CraniumCarnage/) or by simply replying in the [obvious post about it](https://www.reddit.com/r/pathofexile/comments/1lhxtoo/mercenaries_full_challenge_guide/).
 
 This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include complex instructions for a lot of aspects such as explaining what each mechanic is in depth (with the obvious exception of current league or new mechanics getting more attention). 
 
@@ -51,9 +51,10 @@ Basically free, I don't think they really need explanations.
 	- [.com]Vendor an Iron Ring and any colour of gem
 - [.ggg]Orb of Chance
 	- [.com]Vendor two items with **identical names**
-		- [.com]The trade site allows you to search by item name, even if it's not exposed obviously
+		- [.com]The trade site allows you to search by item name, even if it's not exposed in an obvious manner
 			- [.com]Simply type something like `Brood Road` into the search to get identically named items to buy
 			- [.com]Searching by simply an item class with rarity set to rare will get you easy item names to copy
+		- [.com]If you simply get a rare item out of a strongbox which creates mirrored items you will have a second copy with an identical name
 	- [.com]Vendor a full set of rare items with at least one item below item level 60
 		- [.com]1x `Helmet`
 		- [.com]1x `Body Armour`
@@ -444,17 +445,22 @@ Normal divination related challenges, Stacked Decks are common in Blighted Maps 
 		- [.com]2x `Rings`
 - [.ggg]Unique Item
 	- [.com]There is a [PoeWiki listing for all of these](https://www.poewiki.net/wiki/Vendor_recipe_system#Unique_items) 
+	- [.com]You can vendor three of any non-corrupted Unique Item in order to get a fresh copy back with new rolls
 - [.ggg]Item with Influence
 	- [.com]Vendor an influenced amulet (not an onyx) and a gem of each colour (not white)
 	- [.com]Vendor an influenced Iron Ring and any colour gem
 	- [.com]Vendor normal rarity influenced boots with an Augmentation Orb and a Quicksilver Flask
+	- [.com]Vendor any Normal Rarity Influenced Weapon, Rustic Sash and a Whetstone
+		- [.com]Only the weapon needs to be influenced, adds Increased Physical Damage to weapon types which can have the mod
+	- [.com]Vendor any Normal Rarity Influenced Weapon, Chain Belt and a Whetstone
+		- [.com]Only the weapon needs to be influenced, adds Increased Spell Damage to weapon types which can have the mod
 	
-More standard vendor recipes.
+More standard vendor recipes. Both of the 
 </div>
 
 # 21 Striving Settlements
 <div id="ch-21" markdown="21">
-# Normal
+## Normal
 [.ggg]Complete any four of the following Settlers of Kalguur tasks.
 - [.ggg]Complete Port Quotas x10
 	- [.com]This needed cheese last league, I'd be sceptical of it being any better in 3.26
@@ -509,6 +515,7 @@ In spite of it stating 'Mercenaries' you **only need to equip the items on a sin
 Buying junk items off trade is recommended but you can self-farm easily enough but I would recommend manually setting up a filter to actually remember what you need.
 	- Bad Influenced items can be found by searching for **Has # Influences** under **Stat Filters**
 	- Bad Fractured and Synthesis items can be found easily by setting the trade filters **Synthesised Item** or **Fractured Item** settings to **Yes** under **Miscellaneous**
+	- Mirrored items can drop from strongboxes
 
 The pieces double up and will count for every type of item they are (i.e. Corrupted, Influenced Gloves can be used for both of those checks fine).
 
@@ -582,7 +589,16 @@ You can unlock additional map device slots for completing a `Tier 17 Map` and by
 - [.ggg]Use a Facetor's Lens to add experience to a Gem
 	- You can get these from Trade, Lab, Harvest and Tora
 - [.ggg]Have a socketed skill gem reach level 30 or 53% quality or higher
-	- Crest of Desire adds 5-8 levels and 30-50% quality to any inserted Skill Gem
+	- `Crest of Desire` adds 5-8 levels and 30-50% quality to any inserted Skill Gem
+	- `Replica Voideye` adds 30% quality and will reach 53% with a 23% quality gem
+	- `Dialla's Malefaction` adds 30% quality to any gems in green sockets
+	- Level 30 is needs multiple items combined but it's possible you have the items lying around for it
+		- [.com]Cold Iron Point adds +3 to level of physical gems, you can use two for +6
+		- [.com]Voideye grants +5 levels
+		- [.com]`Dialla's Malefaction` can grant +2 levels with red sockets
+		- [.com]`Empower` is +1-3 levels or higher
+		- [.com]`Bronn's Lithe` grants +5 levels to socketed movement gems
+		- [.com]Corruption can be up to +3 levels for a chest piece for certain gem types
 - [.ggg]Have a total of 300% quality on all socketed gems
 	- Fifteen 20% quality gems, not quite a full roster
 	- You can combine with the above to take some of the pressure off 
@@ -686,7 +702,14 @@ A delve taxi would probably be the actual fastest if you can find one but if you
 - [.ggg]Elder's Exalted Orb
 - [.ggg]Shaper's Exalted Orb
 
-Simply a currency dump [poe.nina](https://poe.ninja/economy/mercenaries/currency?name=Exalted%20Orb) has active tracking for these and you can work out which is cheapest here or in the Currency Exchange.
+You have two options on completing this, either dumping currency directly (or simply using it over the course of the league) or using the new Betryal Crafting Benches.
+
+For the currency dump option, [poe.nina](https://poe.ninja/economy/mercenaries/currency?name=Exalted%20Orb) has active tracking for these and you can work out which is cheapest there or on the Currency Exchange.
+
+For Betrayal you will need to look up a guide on how to best manage your members and aim for:
+- Aisling in Fortification for `Veiled Exalted Orb` usage
+- Elreon in Research for `Tainted Exalted Orb` usage
+- Haku in Research for `Influence Exalted Orb` usages
 
 </div>
 
@@ -696,11 +719,17 @@ Simply a currency dump [poe.nina](https://poe.ninja/economy/mercenaries/currency
 ### Grind Heavy
 [.ggg]Complete Maps with a total of 60,000% Item Quantity from modifiers and additional sources, such as Sacrifice Fragments. This does not include any quantity bonuses from your items or party.
 
-You can get 30% quantity from the Atlas Tree, 8% from the Map Device, 5% from each part of a Sacrifice Fragment Set and 10% from each part of a Mortal Fragment Set.
+You can get 15% quantity from the Atlas Tree, 8% from the Map Device, 5% from each part of a Sacrifice Fragment Set and 10% from each part of a Mortal Fragment Set.
 
 Map Modifier Effect will also increase Item Quantity associated with modifiers.
 
+Using up to five `Cartography Scarab of Risk` will add additional modifiers to your maps which will also add quantity and be affected by modifier effect.
+
 You can expect a several hundred maps regardless of how you stack this. While more grind heavy than anything in GGG, this is still relatively mild as far as grind scales go.
+
+If you want to blast it out you can run low tier 8-mod maps with all of the above combined. 
+
+Completing a map is simply killing the boss so if you buy a map like `Mesa` in bulk you can also rapidly rush to the center to kill the boss as soon as possible.
 </div>
 
 # 31 Recollections Realised
@@ -990,7 +1019,7 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 	- [.com]Expect in the region of 60 normal labs if you get darkshrines
 - [.ggg]Complete Shaper, Elder, Conqueror or Memory Guardian Maps with at least 80% Item Quantity x50
 	- [.com]You can use the Atlas's Item Quantity and Modifier effect nodes to make it easier and basically allow alch and go with the extra +% Item Quantity from there and the Map Device itself.
-	- [.com]You can get 30% quantity from the Atlas Tree, 8% from the Map Device, 5% from each part of a Sacrifice Fragment Set and 10% from each part of a Mortal Fragment Set.
+	- [.com]You can get 15% quantity from the Atlas Tree, 8% from the Map Device, 5% from each part of a Sacrifice Fragment Set and 10% from each part of a Mortal Fragment Set.
 - [.ggg]Complete collective tiers of Tier 14 or Higher Maps x1000
 	- [.com]Incredibly trivial, not even 72 maps even if you exclusively only map in T14s for some reason
 - [.ggg]Tier 14 or higher Maps completed with Mercenaries x100
@@ -1037,3 +1066,5 @@ This league is a return to a full armour set.
 # Credits
 [PoeDB](https://poedb.tw/us/) for easily accessible information on pretty much everything about the game.
 [PoeWiki](https://www.poewiki.net/wiki/) for some general information.
+Reddit user [_Chambs_](https://www.reddit.com/user/_Chambs_/) for the information about the new Betrayal Exalted Crafting being an option for Elated Exaltation.
+Redit user [tarrasqueSorcerer](https://www.reddit.com/user/tarrasqueSorcerer/) for information on extra crafting options
