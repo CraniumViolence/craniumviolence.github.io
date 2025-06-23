@@ -541,7 +541,9 @@ This is more Unique Maps than there actually are on the Atlas, so if you complet
 
 In terms of raw speed, Pillars of Arun or Maelström of Chaos are probably good candidates that will likely be cheap.
 
-Synthesis Memory maps all count towards this which makes them very good candidates to finish this up as they can be Maven witnessed to complete The Forgotten which is generally pretty good money (and can be ran magic or rare for progress towards Strenuous Summons). Beachheads should too.
+Synthesis Memory maps all count towards this which makes them very good candidates to finish this up as they can be Maven witnessed to complete The Forgotten which is generally pretty good money (and can be ran magic or rare for progress towards Strenuous Summons). 
+
+Other unique maps such as `Beachhead` also will as will `Untainted Paradise`, despite them not being on the atlas proper.
 </div>
 
 # 24 Sanctified Scarabs
@@ -627,7 +629,8 @@ Normal gem related stuff, it can even be profit if you level things in your off 
 - [.ggg]Defeat an Essence Monster while affected by a Tempest
 	- [.com]`Scarab of Radiant Storms` spawns tempests
 	- [.com]The Corrupting Tempest special modifier spawns what it says
-	- [.com]Simply either burst down an essence monster after you get a tempest on you or predamage it then get the tempest before finishing it (culling can help)
+		- [.com]You will need to take `Shaping the Skies` on the atlas tree to get these Map Crafts, you only get 3% per completed map and there's multiple options so it's recommended you use the Scarab over this option
+	- [.com]Simply either burst down an essence monster after you get a tempest on you or pre-damage it then get the tempest before finishing it (culling can help)
 - [.ggg]Defeat a Beyond Boss while in a Breach
 	- [.com]**Scarabs** can add additional Breaches.
 		- [.com]You can use up to four in separate slots
@@ -1015,10 +1018,10 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 	- [.com]T15 Beachheads
 	- [.com]`Orb of Amelioration` stops you losing all your XP on dying, but only once per area
 - [.ggg]Use the Divine Font in the Endgame Labyrinth x75
-	- [.com]You can get multiple of these a run from darkshrines
+	- [.com]You can get multiple of these a run from darkshrines and as it's the Endgame Labyrinth you always get a baseline two uses
 	- [.com]`Gift to the Goddess` allows you to use the divine font multiple times in a single run
 		- [.com](I'm assuming these count towards the total in spite of technically being a tier above the Endgame Labyrinth)
-	- [.com]Expect in the region of 60 normal labs if you get darkshrines
+	- [.com]Expect in the region of 30 normal labs if you get darkshrines
 - [.ggg]Complete Shaper, Elder, Conqueror or Memory Guardian Maps with at least 80% Item Quantity x50
 	- [.com]You can use the Atlas's Item Quantity and Modifier effect nodes to make it easier and basically allow alch and go with the extra +% Item Quantity from there and the Map Device itself.
 	- [.com]You can get 15% quantity from the Atlas Tree, 8% from the Map Device, 5% from each part of a Sacrifice Fragment Set and 10% from each part of a Mortal Fragment Set.
@@ -1070,3 +1073,4 @@ This league is a return to a full armour set.
 [PoeWiki](https://www.poewiki.net/wiki/) for some general information.
 Reddit user [_Chambs_](https://www.reddit.com/user/_Chambs_/) for the information about the new Betrayal Exalted Crafting being an option for Elated Exaltation.
 Redit user [tarrasqueSorcerer](https://www.reddit.com/user/tarrasqueSorcerer/) for information on extra crafting options
+Reddit user [Rossmallo](https://www.reddit.com/user/Rossmallo/) for information on untainted paradise counting for unique clears
