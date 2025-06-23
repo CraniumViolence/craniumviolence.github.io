@@ -258,7 +258,7 @@ This is Uber Atziri, she uses the upgraded Sacrifice Set which can be bought on 
 
 The biggest thing to know is that she has reflect and that while splitting into four clones one of them carries an even stronger reflect mirror which can easily lead to accidental deaths.
 
-You can buy a carry easily enough if you aren't feeling up to it or you simply don't want to play aroudn the reflect at all.
+You can buy a carry easily enough if you aren't feeling up to it or you simply don't want to play around the reflect at all.
 
 [.struck]It's very strange this is just here by itself in 2025, I'm not sure what GGG were thinking with this one.
 </div>
@@ -268,7 +268,7 @@ You can buy a carry easily enough if you aren't feeling up to it or you simply d
 ## Very Easy
 [.ggg]Unlock any 60 Crafting Bench Recipes from Map Areas.
 
-There's a lot of crafing recipes now, you'll simply get this done by going through map completion for unlocking atlas points.
+There's a lot of crafting recipes now, you'll simply get this done by going through map completion for unlocking atlas points.
 
 The crafting bench has an 'undiscovered' section that covers where any missing recipes are and the Atlas has some information on what spawns where.
 </div>
@@ -324,7 +324,7 @@ Buying these might also be viable if people are selling them, you'll likely need
 	- [.com]Can be done in a four or five-way fairly easily as long as your build is decent at clearing, simply get the emblems
 	- [.com]Buying in to a five-way rota will obviously complete this for you while also levelling you but is a lot more than simply buying the emblems if your character can handle it
 - [.ggg]Blueprints with 4 revealed wings x5
-	- [.com]Requires engaging with Heist as all the blueprint will require that you have levlled up your Rogues to be taken
+	- [.com]Requires engaging with Heist as all the blueprint will require that you have levelled up your Rogues to be taken
 	- [.com][Very simple to search for on the trade website](https://www.pathofexile.com/trade/search/Mercenaries/lVlbq2psV). Simply look for area level of 81 and set the heist section to include four revealed wings.
 - [.ggg]Simulacrum Waves x60
 	- [.com]Simply waves, doesn't need you to complete them
@@ -333,7 +333,7 @@ Buying these might also be viable if people are selling them, you'll likely need
 	- [.com]You can force the Trialmaster with a `Ultimatum Scarab of Dueling`
 	- [.com]Doing it without the scarab doesn't have particularly great rates but if you are farming catalysts for example you might not mind this
 - [.ggg]Blighted or Blight Ravaged Maps x5
-	- [.com]Can be cleared on any build even with zdps because of how the systems work
+	- [.com]Can be cleared on any build even with zero DPS because of how the systems work
 	- [.com]Clear, Sepia and Amber Oils to slow monsters and maximise your ability to build towers.
 	- [.com]Ring anoint for Meteor Burning Ground and Chilling Towers Freeze Enemies.
 	- [.com]Leave Seismic, Empowering and Ice towers at Level 3, use them in choke points and to stop things reaching the pump in general.
@@ -348,11 +348,11 @@ Buying these might also be viable if people are selling them, you'll likely need
 	- [.com]This is a fairly big undertaking compared to some of the others, you cannot fill vessels from rituals that used vessels making this a lot more than 30 in most cases
 - [.ggg]Defeat Settler Bosses x3
 	- [.com]The Black Knight appears in Starfall Crater found randomly in maps
-		- [.com]Likely needs Verisium Ore present within a map to be available but it could just be in any map regardless
+		- [.com]Potentially needs Verisium Ore present within a map to be available but it could just be in any map with ore or any map in general like the wildwood, both seem less likely though
 	- [.com]Admiral Valerius appears if your boats are taken by pirates
 		- [.com]Sending out lots of shortest trip boats was a good bet for this in Settlers, might still be the same here
 	- [.com]Sasan appears to ransom your Map Runners while they are active
-		- [.com]Was exceptionally rare in Settlers
+		- [.com]Was exceptionally rare in Settlers, seems to still be true from personal experience
 
 Level 81 means you will need to run tier 14 or higher maps.
 </div>
@@ -444,18 +444,18 @@ Normal divination related challenges, Stacked Decks are common in Blighted Maps 
 		- [.com]1x `Belt`
 		- [.com]2x `Rings`
 - [.ggg]Unique Item
-	- [.com]There is a [PoeWiki listing for all of these](https://www.poewiki.net/wiki/Vendor_recipe_system#Unique_items) 
 	- [.com]You can vendor three of any non-corrupted Unique Item in order to get a fresh copy back with new rolls
+	- [.com]There is a [PoeWiki listing for all of these](https://www.poewiki.net/wiki/Vendor_recipe_system#Unique_items) which includes other options
 - [.ggg]Item with Influence
 	- [.com]Vendor an influenced amulet (not an onyx) and a gem of each colour (not white)
 	- [.com]Vendor an influenced Iron Ring and any colour gem
-	- [.com]Vendor normal rarity influenced boots with an Augmentation Orb and a Quicksilver Flask
+	- [.com]Vendor any Normal Rarity Influenced Boots with an Augmentation Orb and a Quicksilver Flask
 	- [.com]Vendor any Normal Rarity Influenced Weapon, Rustic Sash and a Whetstone
 		- [.com]Only the weapon needs to be influenced, adds Increased Physical Damage to weapon types which can have the mod
 	- [.com]Vendor any Normal Rarity Influenced Weapon, Chain Belt and a Whetstone
 		- [.com]Only the weapon needs to be influenced, adds Increased Spell Damage to weapon types which can have the mod
 	
-More standard vendor recipes. Both of the 
+More standard vendor recipes. You will likely want to set up an item filter for whatever influence type you intend to use for the Exalted Shard recipe if you want to self-find the items.
 </div>
 
 # 21 Striving Settlements
@@ -465,6 +465,7 @@ More standard vendor recipes. Both of the
 - [.ggg]Complete Port Quotas x10
 	- [.com]This needed cheese last league, I'd be sceptical of it being any better in 3.26
 	- [.com]It seems the worst option even if it's been made better simply by virtue of timers and chance of failure
+	- [.com]The unique items `Ynda's Stand` and `Kaom's Command` or `Cadigan's Authority` and `Tawhoa's Felling` can result from fulfilling quotas to Kalguur and Karuti ports respectively, if you want to target these this might be a choice you get purely by coincidence.
 - [.ggg]Disenchant Unique items x30
 	- [.com]Very straight forward, throw uniques into disenchanting
 - [.ggg]Claim rewards from Maps successfully completed by your Atlas Runners x50
@@ -496,6 +497,7 @@ Just basic chores for the new Kingsmarch. The level 5 requirements makes hiring 
 	- [.com]Dumb, strongboxes are the most likely place you'd find these along with using Reflecting Mists to get rings or amulets
 - [.ggg]Fractured
 	- [.com]Normal, fractured items drop fairly regularly and you'll likely get these with gameplay volume.
+	- [.com]If you're running Betrayal you can use Vagan in Research to create fractured items but you don't get to choose what item type you get.
 - [.ggg]Synthesized
 	- [.com]Dumb, it's basically the above but with it being notably more awkward
 	- [.com]Can be found in `Heist` or `Ritual` and potentially from other sources with specific equipment reward icons
@@ -523,7 +525,7 @@ The pieces double up and will count for every type of item they are (i.e. Corrup
 
 **Double stat** mercenaries can use pieces that exclusively need either of their stats (e.g. Str/Dex can use Str, Dex or Str and Dex hybrid pieces but not Str and Int hybrids)
 
-**Triple stat** mercenaries can use pieces without needing to worry about the stats on those pieces at all.
+**Triple stat** mercenaries can use pieces without needing to worry about the stats on those pieces at all. These are the obvious choice for this challenge as they eliminate the need to care about stats on armour pieces all together.
 </div>
 
 # 23 Remarkable Realms
@@ -539,7 +541,7 @@ This is more Unique Maps than there actually are on the Atlas, so if you complet
 
 In terms of raw speed, Pillars of Arun or Maelström of Chaos are probably good candidates that will likely be cheap.
 
-Synthesis Memory maps all count towards this which makes them very good candidates to finish this up as a Maven rotation is generally pretty good money. Beachheads should too.
+Synthesis Memory maps all count towards this which makes them very good candidates to finish this up as they can be Maven witnessed to complete The Forgotten which is generally pretty good money (and can be ran magic or rare for progress towards Strenuous Summons). Beachheads should too.
 </div>
 
 # 24 Sanctified Scarabs
