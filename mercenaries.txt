@@ -347,11 +347,11 @@ Buying these might also be viable if people are selling them, you'll likely need
 	- [.com]Use filled ones as a map fragment when opening a portal to add the monsters to rituals
 	- [.com]This is a fairly big undertaking compared to some of the others, you cannot fill vessels from rituals that used vessels making this a lot more than 30 in most cases
 - [.ggg]Defeat Settler Bosses x3
-	- [.com]The Black Knight appears in Starfall Crater found randomly in maps
+	- [.com]`The Black Knight` appears in Starfall Crater found randomly in maps
 		- [.com]Potentially needs Verisium Ore present within a map to be available but it could just be in any map with ore or any map in general like the wildwood, both seem less likely though
-	- [.com]Admiral Valerius appears if your boats are taken by pirates
+	- [.com]`Admiral Valerius` appears if your boats are taken by pirates
 		- [.com]Sending out lots of shortest trip boats was a good bet for this in Settlers, might still be the same here
-	- [.com]Sasan appears to ransom your Map Runners while they are active
+	- [.com]`Sasan` appears to ransom your Map Runners while they are active
 		- [.com]Was exceptionally rare in Settlers, seems to still be true from personal experience
 
 Level 81 means you will need to run tier 14 or higher maps.
