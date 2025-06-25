@@ -1028,7 +1028,8 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 	- [.com]Pure Chayula and other higher end Breachstones
 	- [.com]Coward's Trial
 	- [.com]T15 Beachheads
-	- [.com]`Orb of Amelioration` stops you losing all your XP on dying, but only once per area
+	- [.com]`Omen of Amelioration` stops you losing all your XP on dying, but only once per area
+		- [.com]Something to keep in mind is that this is triggered *regardless of if you can actually lose XP in an area* do not take one into an invitation or uber boss, you will still lose your Omen despite no XP loss being possible
 - [.ggg]Use the Divine Font in the Endgame Labyrinth x75
 	- [.com]You can get multiple of these a run from darkshrines and as it's the Endgame Labyrinth you always get a baseline two uses
 	- [.com]`Gift to the Goddess` allows you to use the divine font multiple times in a single run
