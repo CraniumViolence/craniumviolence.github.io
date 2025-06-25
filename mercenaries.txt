@@ -349,6 +349,7 @@ Buying these might also be viable if people are selling them, you'll likely need
 - [.ggg]Defeat Settler Bosses x3
 	- [.com]`The Black Knight` appears in Starfall Crater found randomly in maps
 		- [.com]Potentially needs Verisium Ore present within a map to be available but it could just be in any map with ore or any map in general like the wildwood, both seem less likely though
+		- [.com]Confirmed it can happen alongside a `Lost Shipment` from the `Lost in Transit` node on the Atlas Tree
 	- [.com]`Admiral Valerius` appears if your boats are taken by pirates
 		- [.com]Sending out lots of shortest trip boats was a good bet for this in Settlers, might still be the same here
 	- [.com]`Sasan` appears to ransom your Map Runners while they are active
@@ -492,7 +493,7 @@ Just basic chores for the new Kingsmarch. The level 5 requirements makes hiring 
 - [.ggg]Corrupted
 	- [.com]Easy, you can even just corrupt one of the other sets of equipment you use for this
 - [.ggg]Influenced
-	- [.com]Pretty easy, you can pair this with the `Exalted Shard` recipe to get two progression checkmarks down
+	- [.com]Pretty easy, you can pair this with the `Exalted Shard` recipe (Peddler's Produce II) to get two progression checkmarks down
 - [.ggg]Mirrored
 	- [.com]Dumb, strongboxes are the most likely place you'd find these along with using Reflecting Mists to get rings or amulets
 - [.ggg]Fractured
@@ -593,9 +594,11 @@ You can unlock additional map device slots for completing a `Tier 17 Map` and by
 - [.ggg]Use a Facetor's Lens to add experience to a Gem
 	- You can get these from Trade, Lab, Harvest and Tora
 - [.ggg]Have a socketed skill gem reach level 30 or 53% quality or higher
-	- `Crest of Desire` adds 5-8 levels and 30-50% quality to any inserted Skill Gem
-	- `Replica Voideye` adds 30% quality and will reach 53% with a 23% quality gem
-	- `Dialla's Malefaction` adds 30% quality to any gems in green sockets
+	-[.com]Quality is pretty easy, you can complete it with pretty cheap or common items 
+		- [.com]`Crest of Desire` adds 5-8 levels and 30-50% quality to any inserted Skill Gem
+		- [.com]`Replica Voideye` adds 30% quality and will reach 53% with a 23% quality gem
+		- [.com]`Dialla's Malefaction` adds 30% quality to any gems in green sockets
+		- [.com]Ashes of the Stars is +20-30% quality for all gems and +1 to level of all skill gems
 	- Level 30 is needs multiple items combined but it's possible you have the items lying around for it
 		- [.com]Cold Iron Point adds +3 to level of physical gems, you can use two for +6
 		- [.com]Voideye grants +5 levels
@@ -603,11 +606,15 @@ You can unlock additional map device slots for completing a `Tier 17 Map` and by
 		- [.com]`Empower` is +1-3 levels or higher
 		- [.com]`Bronn's Lithe` grants +5 levels to socketed movement gems
 		- [.com]Corruption can be up to +3 levels for a chest piece for certain gem types
+		- [.com]Ashes of the Stars is +1 to level of all skill gems
 - [.ggg]Have a total of 300% quality on all socketed gems
-	- Fifteen 20% quality gems, not quite a full roster
-	- You can combine with the above to take some of the pressure off 
-	- Quality of Socketed Gems is found in the Armoury Map now and can count as 6-8% per gem
-	- Facetor's is probably easier if you aren't running fully quality gemmed for any reason
+	- [.com]This is across every gear piece, you can reach the 300% without links (unless you are utilising something like Empower or Enhance) or anything resembling a real set, simply get gear that would temporarily boost the quality up and you'll get the credit.
+	- [.com]Fifteen 20% quality gems, not quite a full roster
+	- [.com]You can combine with the above to take some of the pressure off 
+	- [.com]Quality of Socketed Gems is found in the Armoury Map now and can count as 6-8% per gem
+	- [.com]Enhance in a six link is +80% quality with Level 3 and +120% for Level 4
+	- [.com]Ashes of the Stars is +20-30% quality for all gems which will instantly finish the challenge if you simply have at least gems socketed in general
+	- [.com]Facetor's is probably easier if you aren't running fully quality gems for whatever reason
 	
 Normal gem related stuff, it can even be profit if you level things in your off hand to slam for Level 21 that wouldn't care about 20% quality.
 </div>
@@ -745,7 +752,7 @@ Completing a map is simply killing the boss so if you buy a map like `Mesa` in b
 - [.ggg]Courtyard of Wasting x4
 	- [.com]This is the Incarnation of Neglect's penultimate map
 - [.ggg]Chambers of Impurity x4
-	- [.com]This is the Incarnation of Fears's penultimate map
+	- [.com]This is the Incarnation of Fears' penultimate map
 - [.ggg]Theatre of Lies x4
 	- [.com]This is the Incarnation of Dread's penultimate map
 
@@ -757,6 +764,7 @@ All of the maps roll T17 modifiers regardless of tier, you can simply transmute 
 # 32 Infamous Instigators
 <div id="ch-32" markdown="32">
 ## Normal
+### Grind Heavy
 [.ggg]Defeat any 15 of the following Infamous Mercenaries in level 78 or higher areas.
 - [.ggg]Stormhand (<code class="int">Int</code>)
 - [.ggg]Frosthand (<code class="int">Int</code>)
@@ -1003,6 +1011,8 @@ Tier 17s are imposing but the changed mods from last league combined with scarab
 
 This is four of the seven uber boss variants, if you have a boss killer this should be fine, otherwise you can buy the clears.
 
+Shaper and Cortex are the most reasonable to self-complete with the others varying wildly by your build.
+
 All of the fights have lingering damage over time that lasts the entire fight which makes high DPS crucial if you want to have leeway in your execution. The longer the fight the worse the arena and the more likely you are to fail.
 </div>
 
@@ -1037,6 +1047,108 @@ Shockingly lenient in a lot of ways for a GGG, this might be one of the only tim
 Skipping Level 100 and 30x Uber Bosses are very obvious choices for most people.
 </div>
 
+# Easing Long Term Grind
+This section is just a list of challenges you can work towards somewhat passively to avoid finding yourself with no progress on bigger time investment challenges.
+
+Most of the longer term grinds this time around are simply going to boil down to 'do normal mapping' but, there's a few that you might not naturally engage with which you can simply add as you go:
+
+#### Various Mercenary Challenges
+- Combat Camaraderie, Assisted Atlas, Pinnacles Paired and Grinding Gear Goals all require you to have active mercenaries on various pieces of content
+- Simply get a level 83-84 Mercenary that you don't mind having present, make sure they aren't paper and they will likely tank everything while getting you credit towards these.
+
+#### Endgame Enigmas
+- Get your four watchstones as soon as reasonably possible, you get a drastically smaller amount of T17 drops without them
+	- You get one from each of Searing Exarch, Eater of Worlds, Uber Elder and Maven
+	- 0.4%, 1.6%, 3.6% and 6.4% chance with 1 through 4 stones respectively
+- Avoid selling your Tier 17s so you actually have a stock of them, these aren't terribly expensive this league but buying thirty outright would still cost a lot.
+
+#### Grinding Gear Goals
+- Mercenaries ones are free and you'll likely finish them before most challenges if you are mapping
+- Run Guardian maps whenever you find them ensuring they're rare and run them on Kirac if he has them at 80% quantity and you have no other plans on using them
+- Do labs whenever you see someone mention it being a nice layout or check the layout each day on [PoeLab](https://www.poelab.com/) to see if it's easy yourself
+	- You can simply buy the `Offering to the Goddess` items off kirac now which is a lot smoother
+- Level 100 is something you probably already know if you will get or not but you can get the `Omen of Amelioration` to avoid losing XP while working towards it
+- The Uber Bosses is fairly straight forward but if you simply buy a set of fragments for one you can kill occasionally you'll get this done passively
+
+#### Maniacal Magnitudes
+- The biggest actual raw grind, the best way to progress on this is just always mapping with at least some amount of quantity
+- Mesa or Bog are very 
+- If your build can handle the random mods you can always throw `Cartography Scarab of Risk` into your map device to get extra progression towards this
+- An atlas tree around quantity and map modifier effect is the best way to push this over time
+- Any map tier is fine so if you can find a strategy you like that only needs white or yellow maps you can simply run those
+
+#### Strenuous Summons
+- There are two main ways to generate extra invitations:
+	- Incorporate a full Maven Rotation into whatever strategy you are running, as long as it isn't destructive play 
+	- Avoid selling the invitations you get for using Eater and Exarch on the map device and simply roll them, this will quickly rack up its count if you simply run either of them and use the node that doubles progress
+- You can run all invitations rare when you drop them, if you're very worried you can transmute-regal them to get lower mod counts to make them easier
+
+#### Recollections Realised
+- Actually do your memory chains when you get them, don't just leave them rotting on Eagon
+- Get the atlas nodes at the top of the tree for more chances of memory chains and maps if your tree allows it
+- Get the atlas nodes for the memory chains you've already finished four of in order to make it less likely that you repeat them
+	- `Courtyard of Wasting` is the `Incarnation of Neglect`'s penultimate encounter
+	- `Chambers of Impurity` is the `Incarnation of Fear`'s 's penultimate encounter
+	- `Theatre of Lies` is the `Incarnation of Dread`'s penultimate encounter
+
+#### Revered Return
+- As above, actually do your memory chains when you get them, don't just leave them rotting on Eagon
+- Mash the keys for your petal abilities constantly even if outside of combat or packs to use them up if you aren't naturally using them
+- Pick up all Memory Strand items and simply roll them with magic currency (or chaos if you're feeling adventurous)
+- Do the echo bosses when you get them at the end of chains over selling them as they can drop the relatively expensive currency sink items
+
+#### Infamous Instigators
+- Either always kill mercenaries to keep your renown up or simply never interact with them at all to avoid it going down and only bother with infamous ones
+	- Their pocket lint can be divine orbs or higher so if you can nuke them I'd always bother doing it, even if you mostly end up getting a chromatic, a transmutation and an alf pog
+- You can try and keep on top of exiling bad combinations based on your progress but it can get tedious
+
+#### Familiar Friends
+- Simply throw the various master mission scarabs into your map device to force them if you have the space to justify it while doing other content
+	- Jun missions are forced with  `Betrayal Scarab`
+	- Niko missions are forced with  `Sulphite Scarab`
+	- Alva missions are forced with `Incursion Scarab`
+	- Einhar missions are forced with `Bestiary Scarab`
+
+#### Special Item Types
+- Set up an item filter for whatever choice of items
+	- Filterblade is simply actually bad for setting this up quickly,I would recommend downloading a local filter file and changing it in there (open the .filter file and simply throw a rule at the top)
+	- If this isn't an option (streaming or console gamers) you can go into the [Path of Exile Acount Page](https://www.pathofexile.com/my-account) and press the `Item Filters` button at the bottom right which will let you stick rules at the top of a filter
+- A very basic example of things you could use for a manual filter block is below, keep in mind if you stick this at the top it will be the first one checked against which would mean if you get some freak occurrence (30% quality fractured items) they will show up generically rather than being highlighted for their properties.
+```
+[.true]Show # Fractured
+	FracturedItem True
+    SetFontSize 38
+    SetBorderColor 100 190 190 255
+    SetBackgroundColor 50 190 190 200
+    MinimapIcon 0 Blue Diamond
+    PlayEffect Blue
+	Rarity <= Rare
+
+Show # Mirrored
+	Mirrored True
+    SetFontSize 38
+    SetBorderColor 100 190 190 255
+    SetBackgroundColor 50 190 190 200
+    MinimapIcon 0 Blue Diamond
+    PlayEffect Blue
+	Rarity <= Rare
+
+Show # Shaper Items
+	HasInfluence Shaper
+    SetFontSize 38
+    SetBorderColor 100 190 190 255
+    SetBackgroundColor 50 190 190 200
+    MinimapIcon 0 Blue Diamond
+    PlayEffect Blue
+	Rarity <= Rare
+```
+- You can replace Shaper with any of Shaper, Elder, Crusader, Hunter, Redeemer, Warlord depending on what you want to get.
+- An uncommonly seen option is also just making a completely new filter line and then making it load your actual filter afterwards
+```
+[.true]# Your custom rules here
+# Use neversink after checking these rules
+Import "neversink_5_Uber Strict.filter"
+```
 
 # Challenges to Skip
 You get the full armour set at **36/40** this time around, so you get to skip up to four different challenges.

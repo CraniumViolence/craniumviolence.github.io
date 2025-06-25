@@ -25,6 +25,7 @@
 	<title>Path of Exile - Mercenaries of Trarthus - Challenge Guide</title>
 	<link rel="shortcut icon" href="./img/favicon.png">
 	<style>
+	h1{scroll-margin-top: 38px;}
 	:root{--toggle-left:340px;--sidebar-left:0px;}
 	[data-sidebar="visible"]{--toggle-left:4px;--sidebar-left: -336px;}
 	*{font-family:Verdana,Arial,Helvetica,sans-serif;box-sizing: border-box;}
@@ -53,7 +54,7 @@
 	#togglecomplete{position:fixed;right:5px;top:25px;cursor:pointer;z-index:9999;font-size:75%;}
 	#togglecomplete:hover{color:#FFE28B}
 	.ggg,.gggpad{color:#E7B477;}
-	.gggpad{margin-bottom:8px;}
+	.pad,.gggpad{margin-bottom:8px;}	
 	.com,.compad{color:rgb(230,230,210);}	
 	.compad{margin-bottom:8px;}
 	.struck{text-decoration:line-through;}
@@ -78,6 +79,9 @@
 	#topbanner{text-align: center; background: #292929; border-bottom: 1px solid black; padding-bottom: 5px; z-index: 9999; position: fixed; top: 0px; left: 0px; width: 100vw;}
 	#license{font-size:8px;}
 	#license img{margin-bottom:-1px;}
+	h4{margin-bottom:8px;font-size:125%;}
+	h4 + ul{margin:0px;}
+	code.true{font-family:monospace;background-color:rgb(32,32,32);color:rgb(0,200,0);display:block;padding:10px;border-radius:4px;max-width:max-content;min-width:360px;margin:auto;}
 	</style>
 	</head>
 <body>
@@ -124,7 +128,7 @@
 					if (location.hash) {
 						let target = location.hash;				
 						if ($(target).offset() != null && $(target).offset() != 'undefined'){
-							$('html, body').animate({scrollTop: $(target).offset().top}, 'fast');
+							$('html, body').animate({scrollTop: $(target).offset().top - 38}, 'fast');
 						}
 					}
 					addCheckboxes();
