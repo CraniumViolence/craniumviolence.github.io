@@ -1111,9 +1111,9 @@ Most of the longer term grinds this time around are simply going to boil down to
 
 #### Special Item Types
 - Set up an item filter for whatever choice of items
-	- Filterblade is simply actually bad for setting this up quickly,I would recommend downloading a local filter file and changing it in there (open the .filter file and simply throw a rule at the top)
-	- If this isn't an option (streaming or console gamers) you can go into the [Path of Exile Acount Page](https://www.pathofexile.com/my-account) and press the `Item Filters` button at the bottom right which will let you stick rules at the top of a filter
-- A very basic example of things you could use for a manual filter block is below, keep in mind if you stick this at the top it will be the first one checked against which would mean if you get some freak occurrence (30% quality fractured items) they will show up generically rather than being highlighted for their properties.
+	- Filterblade is simply actually bad for setting this up quickly, I would recommend downloading a local filter file and changing it in there (open the .filter file and simply throw a rule at the top)
+	- If this isn't an option (streaming or console gamers) you can go into the [Path of Exile Account Page](https://www.pathofexile.com/my-account) and press the `Item Filters` button at the bottom right which will let you stick rules at the top of a filter
+- A very basic example of things you could use for a manual filter block is below. Keep in mind that with this first it will be matched as the first result and override any other styles that might happen to match (fractured with 30% quality, for example)
 ```
 [.true]Show # Fractured
 	FracturedItem True
