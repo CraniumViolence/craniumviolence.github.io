@@ -648,9 +648,11 @@ Normal gem related stuff, it can even be profit if you level things in your off 
 	- [.com]Simply run maps with blight and shrines and kill a boss completely when you have tagged the shrine
 - [.ggg]Complete a Ore Deposit Encounter while Delirious
 	- [.com]`Kalguuran Scarabs` force ore, you can also increase spawn rates with the atlas tree
-    - [.com]**Unending Nightmare** will stop Fog ever dissipating
     - [.com]Any **Players are Delirious** map has permanent fog (1x Delirium Orb)
-	- [.com]This has been **reported as broken** as of the 19th June and has yet to be fixed!
+	- [.com]Currently requires that you are running an actual **Players are Delirious** map and **doesn't trigger if you use a normal mirror in a map**
+
+**Unending Nightmare** exists to stop Fog ever dissipating but that part of the challenge is either badly worded or bugged to require a delirious map rather than simply being delirious
+	- The Legion General part works fine with a mirror so it is certainly one of the two
 	
 In terms of recommendations I'd definitely go with Essence, Legion General, Blight Boss and Ore Deposit as all of these mechanics can be very easily forced to interact. 
 
