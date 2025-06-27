@@ -599,22 +599,23 @@ You can unlock additional map device slots for completing a `Tier 17 Map` and by
 		- [.com]`Replica Voideye` adds 30% quality and will reach 53% with a 23% quality gem
 		- [.com]`Dialla's Malefaction` adds 30% quality to any gems in green sockets
 		- [.com]Ashes of the Stars is +20-30% quality for all gems and +1 to level of all skill gems
-	- Level 30 is needs multiple items combined but it's possible you have the items lying around for it
-		- [.com]Cold Iron Point adds +3 to level of physical gems, you can use two for +6
-		- [.com]Voideye grants +5 levels
+	- Level 30 can need multiple items combined but it's possible you have the items lying around for it
+		- [.com]`Pragmatism` adds +10 levels if only a single gem is socketed in, instantly fulfilling the requirement
+		- [.com]`Cold Iron Point` adds +3 to level of physical gems, you can use two for +6
+		- [.com]`Voideye` grants +5 levels
 		- [.com]`Dialla's Malefaction` can grant +2 levels with red sockets
 		- [.com]`Empower` is +1-3 levels or higher
 		- [.com]`Bronn's Lithe` grants +5 levels to socketed movement gems
 		- [.com]Corruption can be up to +3 levels for a chest piece for certain gem types
-		- [.com]Ashes of the Stars is +1 to level of all skill gems
+		- [.com]`Ashes of the Stars` is +1 to level of all skill gems
 - [.ggg]Have a total of 300% quality on all socketed gems
 	- [.com]This is across every gear piece, you can reach the 300% without links (unless you are utilising something like Empower or Enhance) or anything resembling a real set, simply get gear that would temporarily boost the quality up and you'll get the credit.
 	- [.com]Fifteen 20% quality gems, not quite a full roster
 	- [.com]You can combine with the above to take some of the pressure off 
 	- [.com]Quality of Socketed Gems is found in the Armoury Map now and can count as 6-8% per gem
-	- [.com]Enhance in a six link is +80% quality with Level 3 and +120% for Level 4
-	- [.com]Ashes of the Stars is +20-30% quality for all gems which will instantly finish the challenge if you simply have at least gems socketed in general
-	- [.com]Facetor's is probably easier if you aren't running fully quality gems for whatever reason
+	- [.com]`Enhance` in a six link is +80% quality with Level 3 and +120% for Level 4
+	- [.com]`Ashes of the Stars` is +20-30% quality for all gems which will instantly finish the challenge if you simply have at least gems socketed in general
+	- [.com]Going for Facetor's Lens usage is probably easier if you aren't running fully quality gems for whatever reason
 	
 Normal gem related stuff, it can even be profit if you level things in your off hand to slam for Level 21 that wouldn't care about 20% quality.
 </div>
@@ -646,6 +647,7 @@ Normal gem related stuff, it can even be profit if you level things in your off 
 	- [.com]`Vaal Portal` might work for the condition but I've never had this confirmed for these challenges
 - [.ggg]Defeat a Blight Boss while affected by a Shrine
 	- [.com]Simply run maps with blight and shrines and kill a boss completely when you have tagged the shrine
+	- [.com]`Blightspawn` on the atlas tree guarantees a lane will only have bosses
 - [.ggg]Complete a Ore Deposit Encounter while Delirious
 	- [.com]`Kalguuran Scarabs` force ore, you can also increase spawn rates with the atlas tree
     - [.com]Any **Players are Delirious** map has permanent fog (1x Delirium Orb)
@@ -725,6 +727,7 @@ For Betrayal you will need to look up a guide on how to best manage your members
 - Elreon in Research for `Tainted Exalted Orb` usage
 - Haku in Research for `Influence Exalted Orb` usages
 
+You can also just casually run Jun using Scarabs or similar and gradually try to push people to the right spots without worrying too much.
 </div>
 
 # 30 Maniacal Magnitudes
@@ -1189,3 +1192,4 @@ This league is a return to a full armour set.
 Reddit user [_Chambs_](https://www.reddit.com/user/_Chambs_/) for the information about the new Betrayal Exalted Crafting being an option for Elated Exaltation.
 Redit user [tarrasqueSorcerer](https://www.reddit.com/user/tarrasqueSorcerer/) for information on extra crafting options
 Reddit user [Rossmallo](https://www.reddit.com/user/Rossmallo/) for information on untainted paradise counting for unique clears
+Reddit user [Away_Type_7031](https://www.reddit.com/user/Away_Type_7031/) for information on Pragmatism working for the Level 30 requirement.
