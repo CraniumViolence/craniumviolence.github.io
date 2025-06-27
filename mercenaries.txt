@@ -629,7 +629,6 @@ Normal gem related stuff, it can even be profit if you level things in your off 
 	- [.com]Delirium Scarab of Neuroses will force spawn the bosses
 	- [.com]Torment Scarabs can force extra tormented spirits
 	- [.com]There is a ritual that spawns Tormented Spirits
-	- [.com]Shore Map has a boss that spawns spirits at 50% and 25% HP respectively
 - [.ggg]Defeat a Legion General while Delirious
     - [.com]**Unending Nightmare** will stop Fog ever dissipating
     - [.com]Any **Players are Delirious** map has permanent fog (1x Delirium Orb)
