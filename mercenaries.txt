@@ -311,6 +311,8 @@ These missions will appear as an enchant on the map, which looks like the follow
 
 <img src="./img/KiracMission.png" alt="Kirac mission example"/ style="margin:auto;text-align:center;display:block;">
 
+It's worth noting that some of these trigger their 'mission complete' state only on finishing maps, so don't just leave after finishing off whatever the mission objective is without killing the boss.
+
 `Primal Cystcaller` also exists for Beastcrafting to get more missions without needing to spam map clears. If you want to save missions it's advised you ignore things like Vaal Temple even if you're tempted to go into them when you see them.
 
 Buying these might also be viable if people are selling them, you'll likely need to engage with a discord server for this though.
