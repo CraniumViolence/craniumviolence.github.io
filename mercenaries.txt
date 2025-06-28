@@ -278,26 +278,38 @@ The crafting bench has an 'undiscovered' section that covers where any missing r
 ## Normal
 [.ggg]Complete any six of the following Kirac Atlas Missions.
 - [.ggg]Defeat the Breachlord
-	- [.com] Simply use an Otherworldly Scouting Report
+	- [.com]Simply use an Otherworldly Scouting Report
 - [.ggg]Open the Unique Strongbox
 - [.ggg]Defeat the Elderslayer
-	- [.com] Use Influenced Scouting Reports to get these at a higher rate
+	- [.com]Use Influenced Scouting Reports to get these at a higher rate
 - [.ggg]Defeat the Elder's Guardian
-	- [.com] Use Influenced Scouting Reports to get these at a higher rate
+	- [.com]Use Influenced Scouting Reports to get these at a higher rate
 - [.ggg]Defeat the Shaper's Guardian
-	- [.com] Use Influenced Scouting Reports to get these at a higher rate
+	- [.com]Use Influenced Scouting Reports to get these at a higher rate
 - [.ggg]Complete the Einhar Mission
+	- [.com]Enchant is `Areas contain Einhar, Areas can contain capturable Harvest Beasts`
 - [.ggg]Complete the Excursions
+	- [.com]Enchant is `Areas contain additional Temporal Incursions, Temporal Incursion Portals have their direction reversed`
 - [.ggg]Close all the Harbinger Portals
+	- [.com]Enchant is `Areas contain additional Harbinger Portals, Harbinger Portals drop additional Currency Shards when destroyed`
 - [.ggg]Activate every Pantheon Shrine
+	- [.com]Enchant is `Areas contain additional Shrines, Area contains Shrines guarded by Pantheon Monsters`
 - [.ggg]Slay the Imprisoned Exiles
+	- [.com]Enchant is `Areas contain additional Essences, Essences contain Rogue Exiles`
 - [.ggg]Defeat all Possessed Monsters
-	- [.com] Can fail to complete
+	- [.com]Enchant is `Rare and Unique Monsters found in Areas are Possessed and their Minions are Touched`
+	- [.com]Can fail to complete, presumably bugged
 - [.ggg]Open all the Strongboxes
+	- [.com]Enchant is `Areas contain additional Strongboxes, Strongboxes are found in Sequences, Strongboxes in a Sequence open when the previous Strongbox in the Sequence has unlocked`
 
-These are the new-old Kirac red tier missions, they're basically old ones with some new ones pulled over from the old memory sequences into atlas missions.
+
+hese are the new-old Kirac red tier missions, they're basically old ones with some new ones pulled over from the old memory sequences into atlas missions.
 
 Get Kirac mission nodes and the nodes for dropping scouting reports to enable rerolling of his missions to look for these. Simply roll using any scouting report for the rarer ones, you should only need one of the non-standard ones total.
+
+These missions will appear as an enchant on the map, which looks like the following:
+
+<img src="./img/KiracMission.png" alt="Kirac mission example"/ style="margin:auto;text-align:center;display:block;">
 
 `Primal Cystcaller` also exists for Beastcrafting to get more missions without needing to spam map clears. If you want to save missions it's advised you ignore things like Vaal Temple even if you're tempted to go into them when you see them.
 
@@ -1192,3 +1204,6 @@ Reddit user [_Chambs_](https://www.reddit.com/user/_Chambs_/) for the informatio
 Redit user [tarrasqueSorcerer](https://www.reddit.com/user/tarrasqueSorcerer/) for information on extra crafting options
 Reddit user [Rossmallo](https://www.reddit.com/user/Rossmallo/) for information on untainted paradise counting for unique clears
 Reddit user [Away_Type_7031](https://www.reddit.com/user/Away_Type_7031/) for information on Pragmatism working for the Level 30 requirement.
+
+[kirac-mission]: ./img/KiracMission.png
+[spawn-paths]: ./img/SpawnPaths.png
