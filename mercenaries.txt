@@ -11,6 +11,8 @@ Nothing on this page is SSF oriented but as previously, if people want things fl
 
 This is genuinely maybe the easiest 40 they've ever had. It's made up for by the fact if you are in Europe, Russia, Asia or use the Washington server the game is borderline unplayable and will regular destroy instances, what a treat!
 
+[.smol]I'm done with my 36 for the league and don't have any other builds I immediately want to roll. Updates or changes anyone suggests might be slower going forward, apologies.
+
 # 1 Beginner's Basics
 <div id="ch-1" markdown="1">
 ## Very Easy
@@ -275,7 +277,7 @@ The crafting bench has an 'undiscovered' section that covers where any missing r
 
 # 15 Memorable Missions
 <div id="ch-15" markdown="15">
-## Normal
+## Average
 [.ggg]Complete any six of the following Kirac Atlas Missions.
 - [.ggg]Defeat the Breachlord
 	- [.com]Simply use an Otherworldly Scouting Report
@@ -320,7 +322,7 @@ Buying these might also be viable if people are selling them, you'll likely need
 
 # 16 Unreal Undertakings
 <div id="ch-16" markdown="16">
-## Normal
+## Average
 ### Buyable
 [.ggg]Complete any four of the following encounters where the area level is 81 or higher.
 - [.ggg]Breachstones x5
@@ -374,7 +376,7 @@ Level 81 means you will need to run tier 14 or higher maps.
 
 # 17 Signature Specialisations 
 <div id="ch-17" markdown="17">
-## Normal
+## Average
 ### RNG Heavy
 [.ggg]Claim any five items from Mercenaries of the following Equipment Types while they have an "Infamous" or "of Infamy" Mercenary-Specific Modifier on them.
 - [.ggg]Body Armour
@@ -475,7 +477,7 @@ More standard vendor recipes. You will likely want to set up an item filter for 
 
 # 21 Striving Settlements
 <div id="ch-21" markdown="21">
-## Normal
+## Average
 [.ggg]Complete any four of the following Settlers of Kalguur tasks.
 - [.ggg]Complete Port Quotas x10
 	- [.com]This needed cheese last league, I'd be sceptical of it being any better in 3.26
@@ -500,7 +502,7 @@ Just basic chores for the new Kingsmarch. The level 5 requirements makes hiring 
 
 # 22 Equipped Elites
 <div id="ch-22" markdown="22">
-## Normal
+## Average
 [.ggg]Fill all Equipment slots of Mercenaries with the same type of Equipment with any five of the following Equipment Types.
 - [.ggg]Unique
 	- [.com]Easy
@@ -600,7 +602,7 @@ You can unlock additional map device slots for completing a `Tier 17 Map` and by
 
 # 25 Glorious Gemstones
 <div id="ch-25" markdown="25">
-## Normal
+## Average
 [.ggg]Complete any three of the following Gem tasks.
 - [.ggg]Corrupt a gem to become either level 21 or 23% quality
 	- [.com]Slam Vaal Orbs on Lv20 or 20% quality gems
@@ -636,7 +638,7 @@ Normal gem related stuff, it can even be profit if you level things in your off 
 
 # 26 Cross Contamination
 <div id="ch-26" markdown="26">
-## Normal
+## Average
 ### Buyable
 [.ggg]Complete any four of the following past league content encounters.
 - [.ggg]Defeat a Delirium Boss that is Possessed
@@ -676,7 +678,7 @@ It's even entirely possible you could get all four of these on a single map in o
 
 # 27 Assisted Atlas
 <div id="ch-27" markdown="27">
-## Normal
+## Average
 [.ggg]Complete a collective 750 Tiers of Maps while you have an Active Mercenary.
 
 It's grinding out maps, there's no limit on the tier of maps so all should count towards it fine.
@@ -686,7 +688,7 @@ It's 47 raw T16 maps but unless you never hire mercenaries in maps you'll not ac
 
 # 28 Formidable Fights
 <div id="ch-28" markdown="28">
-## Normal
+## Average
 ### Buyable
 [.ggg]Complete one of the following Master Mission encounters the specified number of times.
 - [.ggg]Defeat Delve Bosses in Level 75 or higher Areas x3
@@ -715,7 +717,7 @@ A delve taxi would probably be the actual fastest if you can find one but if you
 
 # 29 Elated Exaltation
 <div id="ch-29" markdown="29">
-## Normal
+## Average
 [.ggg]Use any seven of the following Exalted Orb Currencies.
 - [.ggg]Exalted Orb
 - [.ggg]Tainted Exalted Orb
@@ -745,7 +747,7 @@ You can also just casually run Jun using Scarabs or similar and gradually try to
 
 # 30 Maniacal Magnitudes
 <div id="ch-30" markdown="30">
-## Normal
+## Average
 ### Grind Heavy
 [.ggg]Complete Maps with a total of 60,000% Item Quantity from modifiers and additional sources, such as Sacrifice Fragments. This does not include any quantity bonuses from your items or party.
 
@@ -764,7 +766,7 @@ Completing a map is simply killing the boss so if you buy a map like `Mesa` in b
 
 # 31 Recollections Realised
 <div id="ch-31" markdown="31">
-## Normal
+## Average
 [.ggg]Complete each of the following Types of Map the specified number of times while they are at least Rare.
 - [.ggg]Originator Memory Influenced Maps x50
 - [.ggg]Courtyard of Wasting x4
@@ -781,7 +783,7 @@ All of the maps roll T17 modifiers regardless of tier, you can simply transmute 
 
 # 32 Infamous Instigators
 <div id="ch-32" markdown="32">
-## Normal
+## Average
 ### Grind Heavy
 [.ggg]Defeat any 15 of the following Infamous Mercenaries in level 78 or higher areas.
 - [.ggg]Stormhand (<code class="int">Int</code>)
@@ -811,18 +813,20 @@ All of the maps roll T17 modifiers regardless of tier, you can simply transmute 
 - [.ggg]Swiftblade (<code class="str">Str</code>/<code class="dex">Dex</code>)
 - [.ggg]Combatant (<code class="str">Str</code>/<code class="dex">Dex</code>)
 
-At the time of writing mercenaries are pretty cracked, level 78 is any tier 11 or higher map. At the time since writing, they're still pretty cracked, but a bit less so.
+Mercenaries require a pretty solid build to not be dangerous, they've been whittled down a fair amount since launch so they're a lot more reasonable but it's still possible you end up deleted.
 
-You can run these white to avoid the mercenaries being completely insane but you will likely want a build that can off screen to reliably get them all right now.
+You can run these white to avoid the mercenaries being completely insane, but you might want a build that can off screen to reliably kill all mercenary types without issue. Buying a small map like `Mesa` or a linear map like `Strand` in bulk can help speeding these up if you just want to bang out white maps and encounter mercenaries.
 
 There's not really anything specific you can do to make them more likely outside of hiring them and exiling the ones of types you have already done.
 
-I don't think this is a rare enough occurrence to justify 'hard', but time will tell.
+Infamous spawns are fairly rare, even if you try to keep the types you want least exiled you won't see infamous mercenaries terribly often. Because of the RNG layers involved, this has the potential to end up one of the most grind heavy challenges this league if you are particularly unlucky.
+
+I never ended up checking if sharing or buying these is possible but I'd assume you can simply opt in and get credit for them as long as they're in red maps.
 </div>
 
 # 33 Eldritch Expedition
 <div id="ch-33" markdown="33">
-## Normal
+## Average
 [.ggg]Complete each of the following Altar Encounters.
 - [.ggg]Activate Eldritch Altars x333
 	- [.com]Exarch and Eater altars, buff their spawn rates using their atlas clusters and simply run T14 or higher maps to spawn them
@@ -836,7 +840,7 @@ Pretty straight forward map grind challenge, expect to average around 100+ maps 
 
 # 34 Revered Return
 <div id="ch-34" markdown="34">
-## Normal
+## Average
 [.ggg]Complete any four of the following Originator Influence challenges.
 - [.ggg]Use Orbs of Rememberance x5
 	- [.com]Relatively expensive
@@ -860,7 +864,7 @@ Because of the four requirement you will have to just dump currency, check [poe.
 
 # 35 Strenuous Summons
 <div id="ch-35" markdown="35">
-## Normal
+## Average
 ### Buyable
 [.ggg]Complete a total of 250 Modifiers on Invitations.
 
@@ -931,7 +935,7 @@ As long as you have a build to do these you will likely always generate a decent
 
 # 36 Remembrance Repressed
 <div id="ch-36" markdown="36">
-## Normal
+## Average
 ### Buyable
 [.ggg]Defeat any four of the following Endgame Memory Bosses in the specified ways.
 - [.ggg]The Deceitful God without being affected by Divine Beam
@@ -962,7 +966,7 @@ You are guaranteed one of these bosses from memory threads and there are new nod
 
 # 37 Pinnacles Paired
 <div id="ch-37" markdown="37">
-## Normal
+## Average
 ### Buyable
 [.ggg]Defeat the following Pinnacle Boss Encounters while you have an Active Mercenary.
 - [.ggg]The Shaper
@@ -999,7 +1003,7 @@ You can obviously also pay for kills and simply have your mercenary active when 
 
 # 38 Endgame Enigmas
 <div id="ch-38" markdown="38">
-## Normal
+## Average
 ### Buyable
 [.ggg]Complete 30 Tier 17 Maps.
 - [.com]Of note is that this is simply 'complete', with no further conditions. You can use the `Scarab of Bisection` and `Scarab of Stability` to neuter T17s pretty heavily and add extra portals.
@@ -1036,7 +1040,7 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 
 # 40 Grinding Gear Goals
 <div id="ch-40" markdown="40">
-## Normal
+## Average
 ### Grind Heavy
 [.ggg]Complete any four of these encounters the specified number of times.
 - [.ggg]Reach Level 100	
