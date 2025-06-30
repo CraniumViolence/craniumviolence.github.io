@@ -951,9 +951,10 @@ As long as you have a build to do these you will likely always generate a decent
 	- [.com]He throws a net with an obvious netting pattern, avoid this
 	- [.com]Incarnation of Fear thread
 - [.ggg]Incarnation of Dread without being hit by Encircling Fire Nova
-	- [.com]In his second phase the boss will say `The Atlas is everything we see... and everything we do not.` and creates an area of effect attack that covers the arena outside of a small area around the boss, standin the circle to avoid being hit
+	- [.com]In his second phase the boss will say `The Atlas is everything we see... and everything we do not.` and creates an area of effect attack that covers the arena outside of a small area around the boss, stand in the circle to avoid being hit
 - [.ggg]Incarnation of Fear without being affected by Anger's Intensity
 	- [.com]The boss will say `"Overwhelming terror!` or `Consumed by fear!` and create up to three large, lingering balls that deal fire damage over time and inflict the Anger's Intensity debuff, avoid standing in these.
+	- [.com]The boss will say `"Rupture of the mind!"` or `"Explosive rapture!"` and charge up a beam which is targeted at the player and inflicts the Anger's Intensity debuff on contact.
 - [.ggg]Incarnation of Neglect without being hit by Falling Comets
 	- [.com]They are exactly what they sound like, stay moving while you fight him and you should be fine
 
@@ -1205,11 +1206,15 @@ This league is a return to a full armour set.
 
 # Credits
 [PoeDB](https://poedb.tw/us/) for easily accessible information on pretty much everything about the game.
+
 [PoeWiki](https://www.poewiki.net/wiki/) for some general information.
+
 Reddit user [_Chambs_](https://www.reddit.com/user/_Chambs_/) for the information about the new Betrayal Exalted Crafting being an option for Elated Exaltation.
+
 Redit user [tarrasqueSorcerer](https://www.reddit.com/user/tarrasqueSorcerer/) for information on extra crafting options
+
 Reddit user [Rossmallo](https://www.reddit.com/user/Rossmallo/) for information on untainted paradise counting for unique clears
+
 Reddit user [Away_Type_7031](https://www.reddit.com/user/Away_Type_7031/) for information on Pragmatism working for the Level 30 requirement.
 
-[kirac-mission]: ./img/KiracMission.png
-[spawn-paths]: ./img/SpawnPaths.png
+Reddit user [CrosshairLunchbox](https://www.reddit.com/user/CrosshairLunchbox/) for extra information on the Anger's Intensity debuff.
