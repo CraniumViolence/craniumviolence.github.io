@@ -953,8 +953,8 @@ As long as you have a build to do these you will likely always generate a decent
 - [.ggg]Incarnation of Dread without being hit by Encircling Fire Nova
 	- [.com]In his second phase the boss will say `The Atlas is everything we see... and everything we do not.` and creates an area of effect attack that covers the arena outside of a small area around the boss, stand in the circle to avoid being hit
 - [.ggg]Incarnation of Fear without being affected by Anger's Intensity
-	- [.com]The boss will say `"Overwhelming terror!` or `Consumed by fear!` and create up to three large, lingering balls that deal fire damage over time and inflict the Anger's Intensity debuff, avoid standing in these.
-	- [.com]The boss will say `"Rupture of the mind!"` or `"Explosive rapture!"` and charge up a beam which is targeted at the player and inflicts the Anger's Intensity debuff on contact.
+	- [.com]The boss will say `Overwhelming terror!` or `Consumed by fear!` and create up to three large, lingering balls that deal fire damage over time and inflict the Anger's Intensity debuff, avoid standing in these.
+	- [.com]The boss will say `Rupture of the mind!` or `Explosive rapture!` and charge up a beam which is targeted at the player and inflicts the Anger's Intensity debuff on contact.
 - [.ggg]Incarnation of Neglect without being hit by Falling Comets
 	- [.com]They are exactly what they sound like, stay moving while you fight him and you should be fine
 
