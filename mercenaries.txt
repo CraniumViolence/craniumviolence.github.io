@@ -665,12 +665,10 @@ Normal gem related stuff, it can even be profit if you level things in your off 
 	- [.com]`Blightspawn` on the atlas tree guarantees a lane will only have bosses
 - [.ggg]Complete a Ore Deposit Encounter while Delirious
 	- [.com]`Kalguuran Scarabs` force ore, you can also increase spawn rates with the atlas tree
+	- [.com]**Unending Nightmare** exists to stop Fog ever dissipating
     - [.com]Any **Players are Delirious** map has permanent fog (1x Delirium Orb)
-	- [.com]Currently requires that you are running an actual **Players are Delirious** map and **doesn't trigger if you use a normal mirror in a map**
+	- [.com]Required an actual **Players are Delirious** map but should have been fixed to work with normal mirrors in 3.26.0d
 
-**Unending Nightmare** exists to stop Fog ever dissipating but that part of the challenge is either badly worded or bugged to require a delirious map rather than simply being delirious
-	- The Legion General part works fine with a mirror so it is certainly one of the two
-	
 In terms of recommendations I'd definitely go with Essence, Legion General, Blight Boss and Ore Deposit as all of these mechanics can be very easily forced to interact. 
 
 It's even entirely possible you could get all four of these on a single map in one go.
@@ -976,11 +974,15 @@ You are guaranteed one of these bosses from memory threads and there are new nod
 	- [.com]`Fragment of the Phoenix`
 	- [.com]`Fragment of the Minotaur`
 - [.ggg]The Elder
-	- [.com]This is actually Uber Elder (or The Elder in the Shaper's Realm)
-	- [.com]`Fragment of Knowledge`
-	- [.com]`Fragment of Shape`
-	- [.com]`Fragment of Terror`
-	- [.com]`Fragment of Emptiness`
+	- [.com]`Fragment of Purification`
+	- [.com]`Fragment of Constriction`
+	- [.com]`Fragment of Enslavement`
+	- [.com]`Fragment of Eradication`
+	- [.com]This originally only counted for Uber Elder but was fixed in 3.26.0d, it should presumably still count even with it being fixed.
+		- [.com]`Fragment of Knowledge`
+		- [.com]`Fragment of Shape`
+		- [.com]`Fragment of Terror`
+		- [.com]`Fragment of Emptiness`
 - [.ggg]Sirus, Awakener of Worlds
 	- [.com]`Veritania's Crest`
 	- [.com]`Drox's Crest`
