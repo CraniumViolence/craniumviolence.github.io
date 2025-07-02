@@ -893,7 +893,8 @@ All explicitly named invitations count for this:
 	- Cortex
 	- Chayula
 	- Uber Atziri
-		- Needs reflect immunity
+		- The actual fight with the four fragments has 2% reflect which basically requires reflect immunity 
+		- The version fought in The Feared Invitation itself does not
 	- The Shaper
 	- The Elder
 - Maven's Invitation: The Forgotten
