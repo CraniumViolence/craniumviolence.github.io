@@ -1,4 +1,5 @@
 ## You can toggle navigation with the `☰` at the top left
+[.smolcenter]Challenges you haven't marked as completed are red while ones you have are green
 
 # Mercenaries of Trarthus Challenges
 Please get in touch through [Github](https://github.com/CraniumViolence/craniumviolence.github.io) if any information here is incorrect, absent or you simply have better strategies or information! 
