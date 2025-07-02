@@ -337,12 +337,14 @@ Buying these might also be viable if people are selling them, you'll likely need
 - [.ggg]Tier 4 Harvest Seeds x5
 	- [.com]Crop Rotation can get you Tier 4s relatively even if it's not completely consistent
 	- [.com]The `Harvest Scarab of Cornucopia` exists and allows you to force at least one Tier 4 monster to spawn
+	- [.com]Kirac has a 'huge harvest' mission that gives larger than normal crops, it isn't uncommon for it to have one or two bosses
 - [.ggg]Domains of Timeless Conflict with at least 25 rewards x3
 	- [.com]Can be done in a four or five-way fairly easily as long as your build is decent at clearing, simply get the emblems
 	- [.com]Buying in to a five-way rota will obviously complete this for you while also levelling you but is a lot more than simply buying the emblems if your character can handle it
+	- [.com]This might sound hard if you are unfamiliar with the content, but it is legitimately not even a single full row of rewards and it does not take a notable build to reach this amount
 - [.ggg]Blueprints with 4 revealed wings x5
 	- [.com]Requires engaging with Heist as all the blueprint will require that you have levelled up your Rogues to be taken
-	- [.com][Very simple to search for on the trade website](https://www.pathofexile.com/trade/search/Mercenaries/lVlbq2psV). Simply look for area level of 81 and set the heist section to include four revealed wings.
+	- [.com][Very simple to search for on the trade website](https://www.pathofexile.com/trade/search/Mercenaries/lVlbq2psV), simply look for area level of 81 and set the heist section to include four revealed wings
 - [.ggg]Simulacrum Waves x60
 	- [.com]Simply waves, doesn't need you to complete them
 	- [.com]I would avoid attrition grinding if you can't do at least 10 waves and do something else instead as you will ultimately just be wasting money otherwise
@@ -351,13 +353,18 @@ Buying these might also be viable if people are selling them, you'll likely need
 	- [.com]Doing it without the scarab doesn't have particularly great rates but if you are farming catalysts for example you might not mind this
 - [.ggg]Blighted or Blight Ravaged Maps x5
 	- [.com]Can be cleared on any build even with zero DPS because of how the systems work
-	- [.com]Clear, Sepia and Amber Oils to slow monsters and maximise your ability to build towers.
-	- [.com]Ring anoint for Meteor Burning Ground and Chilling Towers Freeze Enemies.
-	- [.com]Leave Seismic, Empowering and Ice towers at Level 3, use them in choke points and to stop things reaching the pump in general.
-	- [.com]Minions should go to Scout Towers, Fire should go to Meteor Towers.
-	- [.com]Build multiple damage types in each lane to cover immunities. Try to build towers around actual lane chokepoints.
-	- [.com]Avoid immune to stun, chance to avoid elemental ailments and cannot be slowed below base speed as modifiers.
-	- [.com]Blight ravaged is a lot harder but can still be managed with just those two ring anoints if you don't get a really, really bad layout
+	- [.com]`Clear Oil`, `Sepia Oil` and `Amber Oil` can `Slow Monsters`, `Increase Tower Damage` and `Make Towers Cheaper` respectively
+		- [.com]`Blighted` maps allow for up to three of any one type of oil while `Blight Ravaged` allow for up to three of three types of oil
+		- [.com]You can mix and match oils, you don't need to use only one type
+	- [.com]Ring anoint for Meteor Burning Ground and Chilling Towers Freeze Enemies
+		- [.com]`Silver Oil` and `Opalescent Oil` for `Your Chilling Towers freeze enemies for 0.2 seconds while they are affected by chilling beams`
+		- [.com]`Violet Oil` and `Indigo  Oil` for `Your Meteor Towers create Burning Ground for 3 seconds on Hit`
+		- [.com]You can also go with `Azure Oil` and `Sepia Oil` to get `Your Empowering Towers have 25% increased Effect` as a cheaper alternative to the freezing anoint (not recommended if you want to try Blight Ravaged without exceptionally high DPS)
+	- [.com]Leave Seismic, Empowering and Chilling Towers at Level 3, use them in choke points and to stop things reaching the pump in general
+	- [.com]Minions should go to Scout Towers, Fire should go to Meteor Towers
+	- [.com]Build multiple damage types in each lane to cover immunities and try to build towers around actual lane chokepoints
+	- [.com]Avoid immune to stun, chance to avoid elemental ailments and cannot be slowed below base speed as modifiers
+	- [.com]Blight Ravaged is a lot harder but can still be managed with just those two ring anoints if you don't get a really, really bad layout
 - [.ggg]All Rituals in Maps with at least one Blood-filled Vessel applied x30
 	- [.com]Needs Ritual Vessels made from 100x Ritual Splinters
 	- [.com]Use them on completed rituals to fill them up
@@ -365,14 +372,18 @@ Buying these might also be viable if people are selling them, you'll likely need
 	- [.com]This is a fairly big undertaking compared to some of the others, you cannot fill vessels from rituals that used vessels making this a lot more than 30 in most cases
 - [.ggg]Defeat Settler Bosses x3
 	- [.com]`The Black Knight` appears in Starfall Crater found randomly in maps
-		- [.com]Potentially needs Verisium Ore present within a map to be available but it could just be in any map with ore or any map in general like the wildwood, both seem less likely though
-		- [.com]Confirmed it can happen alongside a `Lost Shipment` from the `Lost in Transit` node on the Atlas Tree
+		- [.com]This seems to just spawn as a natural occurrence of ore, you can stack `Kalguuran Scarab` and `Settlers` on the map device to farm it
+			-[.com] Running a map like `Dunes` that allows for quick full exploration can accelerate this greatly, the entrance always appears as an orange door icon on the map
+		- [.com]This can still spawn alongside a `Lost Shipment` from the `Lost in Transit` node on the Atlas Tree, but there is no real way to confirm if the Starfall Crater encounter can be replaced by one itself
 	- [.com]`Admiral Valerius` appears if your boats are taken by pirates
 		- [.com]Sending out lots of shortest trip boats was a good bet for this in Settlers, might still be the same here
 	- [.com]`Sasan` appears to ransom your Map Runners while they are active
-		- [.com]Was exceptionally rare in Settlers, seems to still be true from personal experience
+		- [.com]Was exceptionally rare in Settlers, still seems to be rather rare
+		- [.com]Likey requires that you are running T16s on your mappers
 
-Level 81 means you will need to run tier 14 or higher maps.
+Level 81 means you will need to run tier 14 or higher maps. Only needing four of these makes it very flexible and unless you explicitly choose to engage with the more involved content it is genuinely rather easy.
+
+Breachstones, Blighted Maps, Harvest Seeds and Logbooks would by my recommendation here as they are all easy to buy and fast to complete.
 </div>
 
 # 17 Signature Specialisations 
@@ -410,13 +421,25 @@ Please note that this will potentially interfere with price checking items with 
 ## Easy
 [.ggg]Use the Ascendancy Device in each of the following Labyrinths.
 - [.ggg]The Labyrinth
+	- [.com]Act 1, The Lower Prison
+	- [.com]Act 2, The Crypt Level 1
+	- [.com]Act 2, The Chamber of Sins Level 2
+	- [.com]Act 3, The Crematorium
+	- [.com]Act 3, The Catacombs
+	- [.com]Act 3, The Imperial Gardens
 - [.ggg]The Cruel Labyrinth
+	- [.com]Act 6, The Prison
+	- [.com]Act 7, The Crypt
+	- [.com]Act 7, The Chamber of Sins Level 2	
 - [.ggg]The Merciless Labyrinth
+	- [.com]Act 8, The Bath House
+	- [.com]Act 9, The Tunnel
+	- [.com]Act 10, The Ossuray	
 - [.ggg]The Eternal Labyrinth
+	- [.com]Buy an `Offering to the Goddess` on `Faustus` or complete a `Labyrinth Trial` from inside a map (Tier 6 and upwards) to get a guaranteed drop
+	- [.com]You **do not need to complete any of the trials exclusively found in maps**, you can simply buy the offering and run the Labyrinth
 
-Standard player progression, it's not the enriched version so it's simply a normal Offering to the Goddess labyrinth.
-
-[PoeLab](https://www.poelab.com/) covers the layouts daily with useful notes.
+Standard player progression. Highly recommended to check [PoeLab](https://www.poelab.com/) which covers the layouts daily with useful notes.
 </div>
 
 # 19 Divined Destiny
@@ -426,22 +449,23 @@ Standard player progression, it's not the enriched version so it's simply a norm
 [.ggg]Complete any three of the following Divination Card tasks.
 - [.ggg]Open Stacked Decks x50
 	- [.com]Stacked Decks can commonly be found in Blighted Maps, Heist, Legion and by using `Diviner's Delirium Orbs` on maps
+	- [.com]Can be pretty regularly found on Mercenaries as pocket lint items
 - [.ggg]Turn in sets of Divination Cards with a stack size of at least 10 x5
 	- [.com][poe.ninja](https://poe.ninja/economy/mercenaries/divination-cards) allows you to sort by stack size by simply pressing the Stack Size button
-	- [.com]Searching on Faustus for `card "0/[1-2][0-9]"` will give you results for every card type with a stack size of 10 or higher
-	- [.com]Searching a Divination Card stash for `"/[1-2][0-9]"` will produce any 10 stack or higher cards you already own some of
+	- [.com]Searching on Faustus for <code class="mini">card "0/[1-2][0-9]"</code> will give you results for every card type with a stack size of 10 or higher
+	- [.com]Searching a Divination Card stash for <code class="mini">"/[1-2][0-9]"</code> will produce any 10 stack or higher cards you already own some of
 - [.ggg]Scry a Map
 	- [.com]The Nameless Seer can appear in T16 maps and gives you a random unique item and the option to put the current map's divination cards onto a single other map replacing the originals
 	- [.com]You will find the Nameless Seer more often in maps with bad divination cards, don't run something with an apothecary expecting this to be simple
 	- [.com]A chat notification 
 - [.ggg]Turn in a set of Divination card that rewards a Two-implicit Unique item
-	- [.com]Faustus makes this easier to accomplish, you can simply search for `Two-implicit` and it will return all options that give this and from those you can choose which unique you want to try and get
+	- [.com]Faustus makes this easier to accomplish, you can simply search for `Two-implicit` and it will return all valid options from which you can simply choose a unique you want to obtain, some examples of options:
+		- [.com]Do remember it must be a **Unique** item, don't buy options that give **Normal** or **Rare** items
 		- [.com]`The Enthusiasts` (3 stack)
 		- [.com]`The Hive of Knowledge` (6 stack)
 		- [.com]`Echoes of Love` (3 stack)
 
 Normal divination related challenges, Stacked Decks are common in Blighted Maps but if you simply open them as you drop them you will get 50 without real issue.
-
 </div>
 
 # 20 Peddler's Produce II
