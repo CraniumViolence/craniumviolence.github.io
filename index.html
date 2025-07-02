@@ -184,6 +184,7 @@
 			if (hideState === "hidden" || hideState === null) {
 				// show all
 				$("h1").show();
+				$(".li-c").show();
 				localStorage.setItem("data-complete-visibility", "visible");		
 				$("#togglecomplete").text("Fully Hide Complete");		
 			} else if (hideState == "visible"){
@@ -195,6 +196,7 @@
 						$('div[data-challenge="' + x + '"]').closest("h1").hide();
 					}
 				}
+				$(".li-c").hide();
 				localStorage.setItem("data-complete-visibility", "hidden");
 				$("#togglecomplete").text("Show Completed Names");
 			}			
@@ -220,6 +222,7 @@
 						$("#ch-" + i).hide();
 						if (hideState === "hidden"){
 							$(this).closest("h1").hide();
+							$(".li-c").hide();
 						}
 					}
 					i++;					
@@ -239,6 +242,7 @@
 				$(this).html('&#x2717;').attr("data-complete", "no");
 				$("#navigation li:nth-child("+(+i+1)+")").addClass("li-i").removeClass("li-c");
 				$("#ch-" + i).show();
+				$(".li-c").show();
 			} else if (challenge === "no") {
 				localStorage.setItem("data-ch-" + i, "yes");
 				$("#navigation li:nth-child("+(+i+1)+")").addClass("li-c").removeClass("li-i");
@@ -246,6 +250,7 @@
 				$("#ch-" + i).hide();
 				if (hideState === "hidden"){
 					$(this).closest("h1").hide();
+					$(".li-c").hide();
 				}
 			}
 		});
