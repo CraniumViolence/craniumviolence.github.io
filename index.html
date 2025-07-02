@@ -84,6 +84,12 @@
 	h4{margin-bottom:8px;font-size:125%;}
 	h4 + ul{margin:0px;}
 	code.true{font-family:monospace;background-color:rgb(32,32,32);color:rgb(0,200,0);display:block;padding:10px;border-radius:4px;max-width:max-content;min-width:360px;margin:auto;}
+	.li-c a {color:#74CC3C;}
+	.li-c a:hover {color:#74FF3C;}
+	.li-c:after{content:"✓";color:green;float:right;}
+	.li-i a {color:#DD4C4C;}
+	.li-i a:hover {color:#FF6C6C;}
+	.li-i:after{content:"✗";color:red;float:right;}
 	</style>
 	</head>
 <body>
@@ -203,9 +209,11 @@
 				if(i != 0 && i <= 40){
 					let challenge = localStorage.getItem("data-ch-" + i);
 					if (challenge === "no" || challenge === null) {
+						$("#navigation li:nth-child("+(i+1)+")").addClass("li-i");
 						localStorage.setItem("data-ch-" + i, "no");
 						$(this).append('<div class="complete" data-challenge="' + i + '" data-complete="no">&#x2717;</div>');
 					} else if (challenge === "yes") {
+						$("#navigation li:nth-child("+(i+1)+")").addClass("li-c");
 						$(this).append('<div class="complete" data-challenge="' + i + '" data-complete="yes">&#x2713;</div>');
 						$("#ch-" + i).hide();
 						if (hideState === "hidden"){
@@ -227,9 +235,11 @@
 			if (challenge === "yes" || challenge === null) {
 				localStorage.setItem("data-ch-" + i, "no");
 				$(this).html('&#x2717;').attr("data-complete", "no");
+				$("#navigation li:nth-child("+(+i+1)+")").addClass("li-i").removeClass("li-c");
 				$("#ch-" + i).show();
 			} else if (challenge === "no") {
 				localStorage.setItem("data-ch-" + i, "yes");
+				$("#navigation li:nth-child("+(+i+1)+")").addClass("li-c").removeClass("li-i");
 				$(this).html('&#x2713;').attr("data-complete", "yes");
 				$("#ch-" + i).hide();
 				if (hideState === "hidden"){

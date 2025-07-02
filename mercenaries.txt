@@ -929,7 +929,9 @@ All explicitly named invitations count for this:
 	- Drox, the Warlord
 	- Veritania, the Redeemer
 
-As long as you have a build to do these you will likely always generate a decent profit finishing this up, otherwise you can simply run Writhing and Polarics for the fastest, cheapest completion.
+As long as you have a build to do these, you will likely always generate a decent profit finishing this up. If you don't have a build suited to rotas you can simply run Writhing and Polarics for the fastest, cheapest completions.
+
+Simply being present while the bosses die in any invitation counts which allows you to buy these (including literally the entire challenge outright) for inflated prices.
 </div>
 
 # 36 Remembrance Repressed
@@ -962,6 +964,7 @@ These are all new bosses, the first three are very easy to burst down since you 
 As is often the case, DPS is king here as the less time they have to do anything the less chance there is of making a mistake and failing a conditional.
 
 You are guaranteed one of these bosses from memory threads and there are new nodes at the top of the atlas tree to influence which bosses you get.
+- These nodes make the chances of you getting a boss lower rather than higher, select the opposite nodes to the boss you wish to chase
 </div>
 
 # 37 Pinnacles Paired
@@ -1010,7 +1013,8 @@ You can obviously also pay for kills and simply have your mercenary active when 
 ## Average
 ### Buyable
 [.ggg]Complete 30 Tier 17 Maps.
-- [.com]Of note is that this is simply 'complete', with no further conditions. You can use the `Scarab of Bisection` and `Scarab of Stability` to neuter T17s pretty heavily and add extra portals.
+- [.com]Of note is that this is simply 'complete', with no further conditions. You can use the `Scarab of Bisection` and `Scarab of Stability` to neuter T17s pretty heavily and add extra portals
+- [.com]Buying up `Ziggurat` or `Abomination` and boss rushing can be especially profitable while finishing these up
 
 Tier 17s are imposing but the changed mods from last league combined with scarab abuse makes them no where near as bad as they could be. Avoid increased modifier effect on your atlas if you suspect you'll have trouble with mods, it can easily turn a bad mod into a bricking mod.
 </div>
