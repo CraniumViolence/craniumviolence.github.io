@@ -583,7 +583,7 @@ This is more Unique Maps than there actually are on the Atlas, so if you complet
 
 In terms of raw speed, Pillars of Arun or Maelström of Chaos are probably good candidates that will likely be cheap.
 
-Synthesis Memory maps all count towards this which makes them very good candidates to finish this up as they can be Maven witnessed to complete The Forgotten which is generally pretty good money (and can be ran magic or rare for progress towards Strenuous Summons). 
+Synthesis Memory maps all count towards this which makes them very good candidates to finish this up as they can be Maven witnessed to complete `The Forgotten` which is generally pretty good money (and can be ran magic or rare for progress towards Strenuous Summons). 
 
 Other unique maps such as `Beachhead` also will as will `Untainted Paradise`, despite them not being on the atlas proper.
 </div>
@@ -801,7 +801,10 @@ Completing a map is simply killing the boss so if you buy a map like `Mesa` in b
 
 You can target the memory chains you want using the new memory nodes at the top of the atlas. You'll be railroaded into one of each for just getting completions in general
 
-All of the maps roll T17 modifiers regardless of tier, you can simply transmute - alteration - regal them to get minimum difficulty. You can also run a `Scarab of Bisection` to remove modifiers entirely paired with a `Scarab of Stability` to make it so you have extra portals for attempts.
+The penultimate maps only go away if the owner completes them this enables you to buy (or share) them in the same way you would an delve taxi service, the owner opens the map and you go in to kill the boss while the owner is absent
+- This naturally still requires the map to be rolled rare
+
+All of the maps can roll T17 modifiers regardless of tier, you can simply transmute - alteration - regal them to get minimum difficulty. You can also run a `Scarab of Bisection` to remove modifiers entirely paired with a `Scarab of Stability` to make it so you have extra portals for attempts.
 </div>
 
 # 32 Infamous Instigators
@@ -844,7 +847,7 @@ There's not really anything specific you can do to make them more likely outside
 
 Infamous spawns are fairly rare, even if you try to keep the types you want least exiled you won't see infamous mercenaries terribly often. Because of the RNG layers involved, this has the potential to end up one of the most grind heavy challenges this league if you are particularly unlucky.
 
-I never ended up checking if sharing or buying these is possible but I'd assume you can simply opt in and get credit for them as long as they're in red maps.
+Sharing or buying these is possible, you can simply opt in and get credit for them as long as they're in red maps.
 </div>
 
 # 33 Eldritch Expedition
@@ -856,9 +859,12 @@ I never ended up checking if sharing or buying these is possible but I'd assume 
 	- [.com]Will be around 100 maps with average luck
 - [.ggg]Activate Memory Altars x33
 	- [.com]These are at the end of each step of a memory chain, you'll get three per run meaning 11 full memory chains are needed.
-		- [.com]Non-questline chains will include more maps which will allow for more completed per chain
+		- [.com]Non-questline chains can include more maps which will allow for more completed per chain
+	- [.com]You need to be the map owner to use Memory Altars
 
 Pretty straight forward map grind challenge, expect to average around 100+ maps for the Eldritch Altars.
+
+Memory threads seem to be somewhere in the region of 1/24, similar to the Eater or Exarch but without a guaranteed spawn after them.
 </div>
 
 # 34 Revered Return
@@ -1136,13 +1142,15 @@ Most of the longer term grinds this time around are simply going to boil down to
 #### Strenuous Summons
 - There are two main ways to generate extra invitations:
 	- Incorporate a full Maven Rotation into whatever strategy you are running, as long as it isn't destructive play 
+		- Synthesis Maps count towards Remarkable Realms which makes them ideal for progressing both
+		- Other Guardian Maps count towards Grinding Gear Goals and lead into their own invitations while also giving various fragments which can be sold or ran
 	- Avoid selling the invitations you get for using Eater and Exarch on the map device and simply roll them, this will quickly rack up its count if you simply run either of them and use the node that doubles progress
 - You can run all invitations rare when you drop them, if you're very worried you can transmute-regal them to get lower mod counts to make them easier
 
 #### Recollections Realised
 - Actually do your memory chains when you get them, don't just leave them rotting on Eagon
 - Get the atlas nodes at the top of the tree for more chances of memory chains and maps if your tree allows it
-- Get the atlas nodes for the memory chains you've already finished four of in order to make it less likely that you repeat them
+- Get the atlas nodes for the memory chains you've **already finished four of** in order to make it less likely that you repeat them
 	- `Courtyard of Wasting` is the `Incarnation of Neglect`'s penultimate encounter
 	- `Chambers of Impurity` is the `Incarnation of Fear`'s 's penultimate encounter
 	- `Theatre of Lies` is the `Incarnation of Dread`'s penultimate encounter
@@ -1213,6 +1221,8 @@ What you skip (if anything) will come down to what characters you want to build 
 
 As a baseline, I'd say serious considerations should be made for the following (in vague order of how much I'd say the skip is worth):
 
+- Maniacal Magnitudes
+	- Depending on how you play, you might be done before ever finishing this one off
 - Grinding Gear Goals
 	- Even though it's very mild it's still an obvious grind heavy challenge that can be avoided
 - Powerful Pursuits
@@ -1224,8 +1234,7 @@ As a baseline, I'd say serious considerations should be made for the following (
 	- This is so low because you can neuter T17s pretty heavily (and can often land rolls that won't affect your character in general). As long as you can clear the maps, you can make back the cost of entry back from fragment drops or even profit from them alone.
 - Strenuous Summons
 	- Depending on character this might be a slog and also a currency sink for very little returns
-- Maniacal Magnitudes
-	- Depending on how you play, you might be done before ever finishing this one off
+	- That said if you do it as a natural part of a core strategy it's basically a free side benefit
 	
 Generally speaking the challenges are fairly easy this time around, the skips are truly dealer's choice depending on what you want to do in the game.
 
