@@ -1224,7 +1224,7 @@ As a baseline, I'd say serious considerations should be made for the following (
 - Maniacal Magnitudes
 	- Depending on how you play, you might be done before ever finishing this one off
 - Grinding Gear Goals
-	- Even though it's very mild it's still an obvious grind heavy challenge that can be avoided
+	- Even though it's very mild this time around it's still an obvious grind heavy challenge that can be avoided
 - Powerful Pursuits
 	- Uber Bossing isn't something everyone can do nor is it something every character builds for, buying them shouldn't break the bank but is's completely viable to skip them too
 - Revered Return
@@ -1235,6 +1235,10 @@ As a baseline, I'd say serious considerations should be made for the following (
 - Strenuous Summons
 	- Depending on character this might be a slog and also a currency sink for very little returns
 	- That said if you do it as a natural part of a core strategy it's basically a free side benefit
+- Recollections Realised
+	- If you aren't willing to engage with sharing or taxi services, you will have to get at minimum 12 full memory threads
+	- It is more sensible economically to take the `Educated Upbringing` and `Remembered Kindness` nodes to get more `Echo of Reverence` drops (to fight `Incarnation of Dread`) which is guaranteed from `Theatre of Lies`, two or three of these drops can easily fund other challenges to replace this one
+	- T16.5s are also not something everyone enjoys, even if you can simply transmute - alteration - regal (or even completely Annulled Rare) maps
 	
 Generally speaking the challenges are fairly easy this time around, the skips are truly dealer's choice depending on what you want to do in the game.
 
