@@ -1086,11 +1086,13 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 [.ggg]Complete any four of these encounters the specified number of times.
 - [.ggg]Reach Level 100	
 	- [.com]Buying Five Way runs
-	- [.com]Pure Chayula and other higher end Breachstones
+	- [.com]Flawless Chayula and other higher end Breachstones
 	- [.com]Coward's Trial
 	- [.com]T15 Beachheads
 	- [.com]`Omen of Amelioration` stops you losing all your XP on dying, but only once per area
 		- [.com]Something to keep in mind is that this is triggered *regardless of if you can actually lose XP in an area* do not take one into an invitation or uber boss, you will still lose your Omen despite no XP loss being possible
+	- [.com]`Abyss` with a basic tree that grabs all nodes except Depths is decent and fairly safe for consistent XP per map
+	- [.com]`Breach` paired with `Domination Scarab of Evolution` is a solid option if your build can handle it
 - [.ggg]Use the Divine Font in the Endgame Labyrinth x75
 	- [.com]You can get multiple of these a run from darkshrines and as it's the Endgame Labyrinth you always get a baseline two uses
 	- [.com]`Gift to the Goddess` allows you to use the divine font multiple times in a single run
