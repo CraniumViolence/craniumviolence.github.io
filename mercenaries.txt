@@ -6,13 +6,11 @@ Please get in touch through [Github](https://github.com/CraniumViolence/craniumv
 
 You can also get in touch on [Reddit under CraniumCarnage](https://www.reddit.com/user/CraniumCarnage/) or by simply replying in the [obvious post about it](https://www.reddit.com/r/pathofexile/comments/1lhxtoo/mercenaries_full_challenge_guide/).
 
+[.smol]That said, I was banned for [very insensitively informing people of their consumer rights without the cotton wool wrapping needed for GGG related criticism]<https://i.imgur.com/CJhOghd.png>, so you might not actually get a reply because engaging with reddit is clearly unwise (be sure to avoid mentioning local legend shitstainsteve, the automatic clown mail from the moderators will be awfully cross at you for using such ugly language).
+
 This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include complex instructions for a lot of aspects such as explaining what each mechanic is in depth (with the obvious exception of current league or new mechanics getting more attention). 
 
-Nothing on this page is SSF oriented but as previously, if people want things flagged as bad for SSF for whatever reason just shout at me on the link above.
-
-This is genuinely maybe the easiest 40 they've ever had. It's made up for by the fact if you are in Europe, Russia, Asia or use the Washington server the game is borderline unplayable and will regular destroy instances, what a treat!
-
-[.smol]I'm done with my 36 for the league and don't have any other builds I immediately want to roll. Updates or changes anyone suggests might be slower going forward, apologies.
+This is genuinely maybe the easiest 40 they've ever had.
 
 # 1 Beginner's Basics
 <div id="ch-1" markdown="1">
