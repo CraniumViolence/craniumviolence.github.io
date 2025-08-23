@@ -306,7 +306,7 @@ The crafting bench has an 'undiscovered' section that covers where any missing r
 	- [.com]Enchant is `Areas contain additional Strongboxes, Strongboxes are found in Sequences, Strongboxes in a Sequence open when the previous Strongbox in the Sequence has unlocked`
 
 
-hese are the new-old Kirac red tier missions, they're basically old ones with some new ones pulled over from the old memory sequences into atlas missions.
+These are the new-old Kirac red tier missions, they're basically old ones with some new ones pulled over from the old memory sequences into atlas missions.
 
 Get Kirac mission nodes and the nodes for dropping scouting reports to enable rerolling of his missions to look for these. Simply roll using any scouting report for the rarer ones, you should only need one of the non-standard ones total.
 
@@ -865,6 +865,8 @@ Sharing or buying these is possible, you can simply opt in and get credit for th
 Pretty straight forward map grind challenge, expect to average around 100+ maps for the Eldritch Altars.
 
 Memory threads seem to be somewhere in the region of 1/24, similar to the Eater or Exarch but without a guaranteed spawn after them.
+
+There is apparently an issue where Eagon will only create Memory Threads inside `Kirac Missions`. It could be wise to spam those if you go for a long dry streak without seeing him. You can use a `Primal Cystcaller` with `Einhar's Beastcrafting` if you don't have any missions available.
 </div>
 
 # 34 Revered Return
@@ -889,6 +891,8 @@ Memory threads seem to be somewhere in the region of 1/24, similar to the Eater 
 The new originator influenced maps give items with Memory Strands on them, the new equipment types interact with these to add a 'buffed' crafting budget.
 
 Because of the four requirement you will have to just dump currency, check [poe.ninja](https://poe.ninja/economy/mercenaries/currency) and the currency exchange to work out what are the best options at the time you are completing it.
+
+There is apparently an issue where Eagon will only create Memory Threads inside `Kirac Missions`. It could be wise to spam those if you go for a long dry streak without seeing him. You can use a `Primal Cystcaller` with `Einhar's Beastcrafting` if you don't have any missions available.
 </div>
 
 # 35 Strenuous Summons
