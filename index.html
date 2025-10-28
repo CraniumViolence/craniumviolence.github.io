@@ -17,27 +17,26 @@
 	▓▓█▓▒▒▒▒▒▒▓▒▒█░░░░░█────
 	░▒▒▀▀▄▄▄▄█▄▄▀░░░░░░░█─
 	-->
-	<META NAME="ROBOTS" CONTENT="noarchive">
+	<META NAME="ROBOTS" CONTENT="noarchive"/>
 	<meta name="Description" content="Path of Exile Challenge Guide">
 	<meta name="Keywords" content="path of exile, challenge guide">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script> 
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 	<script src="./js/showdown.min.js"></script>
-	<title>Path of Exile - Mercenaries of Trarthus - Challenge Guide</title>
+	<title>Path of Exile - Keepers of the Flame - Challenge Guide</title>
 	<link rel="shortcut icon" href="./img/favicon.png">
 	<style>
-	h1{scroll-margin-top: 38px;}
 	:root{--toggle-left:340px;--sidebar-left:0px;}
 	[data-sidebar="visible"]{--toggle-left:4px;--sidebar-left: -336px;}
 	*{font-family:Verdana,Arial,Helvetica,sans-serif;box-sizing: border-box;}
 	html{background:#363636;text-shadow: 2px 2px 1px rgba(0,0,0,0.75);}
 	a,a:visited{color:#EE983C;text-decoration:none;}
 	a:hover{color:#FDB12D;}
-	h1{color:#E7B477;text-align:center;border-left:5px solid #C2A965;border-right:5px solid #C2A965;border-top:1px solid #C2A965;border-bottom:1px solid #C2A965;background-color:#5d1515;margin-bottom:0px;padding:5px;position:relative;}
+	h1{scroll-margin-top: 38px;color:#E7B477;text-align:center;border-left:5px solid #C2A965;border-right:5px solid #C2A965;border-top:1px solid #C2A965;border-bottom:1px solid #C2A965;background-color:#5d1515;margin-bottom:0px;padding:5px;position:relative;font-variant:small-caps;}
 	h2{color:#DADADA;text-align:center;margin:4px 0px;}
 	h3{color:#875516;text-align:center;margin:4px 0px;}
 	body{color:rgb(230,230,210);margin: 0 0 20px;padding-bottom:20px;}
-	#contents{margin:auto;max-width:800px;padding-top:25px;}
-	#disclaimer{margin:80px auto 10px;max-width:800px;font-size:75%;}
+	#contents{margin:auto;max-width:800px;padding-top:5px;}
+	#disclaimer{margin:30px auto 10px;max-width:800px;font-size:75%;}
 	h2[id^="veryeasy"]{color:#00DA00}
 	h2[id^="easy"]{color:#56C256}
 	h2[id^="average"]{color:#A5B2C2}
@@ -48,16 +47,17 @@
 	em img,li img{max-height:18px;margin-bottom:-3px;}
 	#footer{position: fixed;left:0;bottom:0;height:40px;width:100%;text-align:center;background:#292929;border-top:1px solid black;padding-top:4px;font-size:80%;}
 	#footer img { margin-bottom:-3px;}
-	#navigation{position:fixed;left:var(--sidebar-left);top:0px;padding-top:15px;height:100vh;display:var(--sidebar-display);max-height:100vh;overflow-y:scroll;background:rgb(40,40,40);padding-right:10px;width:336px;transition:all 0.2s linear;padding-bottom:25px;}
-	#toggle{position:fixed;left:var(--toggle-left);top:25px;cursor:pointer;transition: all 0.2s linear;font-size:30px;padding-bottom: 20px;color:#ffff00;text-shadow: 2px 2px 4px rgb(0, 0, 0, 1);z-index:9999;}
-	#toggle:hover{color:#FFE28B}	
-	#togglecomplete{position:fixed;right:5px;top:25px;cursor:pointer;z-index:9999;font-size:75%;}
+	#navigation{position:fixed;left:var(--sidebar-left);top:0px;height:100vh;display:var(--sidebar-display);max-height:100vh;overflow-y:scroll;background:rgb(40,40,40);padding-right:10px;width:336px;transition:all 0.2s linear;padding-bottom:25px;}
+	#toggle{position:fixed;left:var(--toggle-left);top:5px;cursor:pointer;transition: all 0.2s linear;font-size:30px;padding-bottom: 20px;color:#ffff00;text-shadow: 2px 2px 4px rgb(0, 0, 0, 1);z-index:9999;}
+	#toggle:hover{color:#FFE28B}
+	#togglecomplete{position:fixed;right:5px;top:5px;cursor:pointer;z-index:9999;font-size:75%;}
 	#togglecomplete:hover{color:#FFE28B}
 	.smol{font-size:50%;}
 	.smolcenter{font-size:60%;text-align:center;margin:0px;}
 	.ggg,.gggpad{color:#E7B477;}
-	.pad,.gggpad{margin-bottom:8px;}	
+	.pad,.gggpad{margin-bottom:8px;}
 	.com,.compad,.comstruck{color:rgb(230,230,210);}
+	.req{color:#DC8515;font-size:10px;}
 	.compad{margin-bottom:8px;}
 	.struck,.comstruck{text-decoration:line-through;}
 	.div{color:rgb(200,200,180);}
@@ -95,17 +95,24 @@
 	</style>
 	</head>
 <body>
-	<div id="topbanner">This site doesn't use cookies at all. Challenge completion will be lost on clearing cache.</div>
 	<div id="toggle" onclick="switchSidebar()">☰</div>
-	<div id="togglecomplete" onclick="hideCompleted()"></div>
-	<div id="navigation"></div>
-	<div id="contents"></div>
-	<div id="disclaimer">No data is saved server side, all interaction is saved only locally on your PC. You may <a href="#" onclick="clearLocalStorage()">Click Here</a> to completely reset everything.</div>
-	<div id="footer"><a href="#" onclick="GetLeague('mercenaries');return false;">Mercenaries Guide</a> | 	<a href="#" onclick="GetLeague('settlers');return false;">Settlers Guide</a> | 	<a href="#" onclick="GetLeague('necropolis');return false;">Necropolis Guide</a> | 	<a href="#" onclick="GetLeague('affliction');return false;">Affliction Guide</a> | <a href="https://craniumviolence.github.io/runeprices.html">Runecrafting Prices</a></a>
-	<br/><span id="license">All content © 2025 <a href="https://github.com/CraniumViolence/">CraniumCarnage</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"></span></div>	
-	<script>
 
-		function GetLeague(league){		
+	<div id="togglecomplete" onclick="hideCompleted()"></div>
+
+	<div id="navigation"></div>
+
+	<div id="contents"></div>
+
+	<div id="disclaimer">No data is saved or checked server side, all interaction is saved only locally on your PC. You may <a href="#" onclick="clearLocalStorage()">Click Here</a> to completely reset everything. You can also simply clear your cache to achieve the same result.</div>
+
+	<div id="footer"><a href="#" onclick="GetLeague('keepers');return false;">Keepers Guide</a> | <a href="#" onclick="GetLeague('mercenaries');return false;">Mercenaries Guide</a> | <a href="#" onclick="GetLeague('settlers');return false;">Settlers Guide</a> | <a href="#" onclick="GetLeague('necropolis');return false;">Necropolis Guide</a> | <a href="#" onclick="GetLeague('affliction');return false;">Affliction Guide</a>
+	<br/><span id="license">All content © 2025 <a href="https://github.com/CraniumViolence/">CraniumCarnage</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"></span></div>
+
+	<script>
+		function GetLeague(league){
+			// clear url anchors
+			history.replaceState(null, '', window.location.pathname + window.location.search);
+			window.scrollTo(0, 0);
 			var converter = new showdown.Converter();
 			// Declare extension
 			var customClassExt = {
@@ -123,20 +130,20 @@
 			};
 			// Add extension to converter
 			converter.addExtension(customClassExt);
-			
+
 			converter.setOption('tables', true);
-						
+
 			$.ajax({
 				url: league + '-toc.txt',
 				success: function(data){ document.getElementById("navigation").innerHTML = converter.makeHtml(data);}
 			});
-			
+
 			$.ajax({
 				url:league + '.txt',
-				success: function(data){ 
+				success: function(data){
 					$("#contents").html(converter.makeHtml(data));
 					if (location.hash) {
-						let target = location.hash;				
+						let target = location.hash;
 						if ($(target).offset() != null && $(target).offset() != 'undefined'){
 							$('html, body').animate({scrollTop: $(target).offset().top - 38}, 'fast');
 						}
@@ -144,9 +151,8 @@
 					addCheckboxes();
 				}
 			});
-			
+		}
 
-		}	
 		function switchSidebar(e) {
 			let sidebar = localStorage.getItem("data-sidebar");
 			if (sidebar === "visible" || sidebar === null) {
@@ -157,7 +163,7 @@
 				document.documentElement.setAttribute('data-sidebar', 'visible');
 			}
 		}
-		
+
 		function getSidebar(){
 			let sidebar = localStorage.getItem("data-sidebar");
 			if (sidebar === "visible" || sidebar === null) {
@@ -168,28 +174,28 @@
 				document.documentElement.setAttribute('data-sidebar', 'hidden');
 			}
 		}
-		
+
 		function checkHidden(){
 			let hideState = localStorage.getItem("data-complete-visibility");
 			if (hideState === "visible" || hideState === null) {
 				$("#togglecomplete").text("Fully Hide Complete");
 			} else {
-				$("#togglecomplete").text("Show Completed Names");			
+				$("#togglecomplete").text("Show Completed Names");
 			}
 			hideCompleted();
 		}
-		
+
 		function hideCompleted(){
 			let hideState = localStorage.getItem("data-complete-visibility");
 			if (hideState === "hidden" || hideState === null) {
 				// show all
 				$("h1").show();
 				$(".li-c").show();
-				localStorage.setItem("data-complete-visibility", "visible");		
-				$("#togglecomplete").text("Fully Hide Complete");		
+				localStorage.setItem("data-complete-visibility", "visible");
+				$("#togglecomplete").text("Fully Hide Complete");
 			} else if (hideState == "visible"){
 				// hide all
-				for(let x = 1; x <= 40; x++){					
+				for(let x = 1; x <= 40; x++){
 					let challenge = localStorage.getItem("data-ch-" + x);
 					if (challenge === "yes"){
 						// closest h1 because I'm dumb and lazy
@@ -199,9 +205,9 @@
 				$(".li-c").hide();
 				localStorage.setItem("data-complete-visibility", "hidden");
 				$("#togglecomplete").text("Show Completed Names");
-			}			
+			}
 		}
-		
+
 		function addCheckboxes(){
 			let hideState = localStorage.getItem("data-complete-visibility");
 			let i = 0;
@@ -225,7 +231,7 @@
 							$(".li-c").hide();
 						}
 					}
-					i++;					
+					i++;
 				}
 			})
 		}
@@ -254,9 +260,9 @@
 				}
 			}
 		});
+		GetLeague("keepers");
 		getSidebar();
 		checkHidden();
-		GetLeague("mercenaries");		
 	</script>
 </body>
 </html>

@@ -1,0 +1,28 @@
+## You can toggle navigation with the `☰` at the top left
+[.smolcenter]Challenges you haven't marked as completed are red while ones you have are green
+
+# Keepers of the Flame Challenges
+Please get in touch through [Github](https://github.com/CraniumViolence/craniumviolence.github.io) if any information here is incorrect, absent or you simply have better strategies or information! 
+
+You can also get in touch on [Reddit under CraniumCarnage](https://www.reddit.com/user/CraniumCarnage/).
+
+This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include detailed descriptions of older mechanics. 
+
+Mechanics related to the current league or new mechanics in general will naturally be covered somewhat in depth. 
+
+# The League Hasn't Started Yet
+Also, the challenges haven't been revealed.
+
+It makes it a bit difficult to write anything, you know?
+
+# Unlocks
+This league is another full armour set with 36 completed challenges required to unlock all four pieces. The unlock order is presumed based on the previous league.
+- At 12 challenge completion you can unlock the Keeper of the Flame Boots.
+- At 20 challenge completion you can unlock the Keeper of the Flame Gloves.
+- At 28 challenge completion you can unlock the Keeper of the Flame Body Armour.
+- At 36 challenge completion you can unlock the Keeper of the Flame Helmet.
+
+# Credits
+[PoeDB](https://poedb.tw/us/) for easily accessible information on pretty much everything about the game, the most vital resource for PoE in general.
+
+[PoeWiki](https://www.poewiki.net/wiki/) for some general information.

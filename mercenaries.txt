@@ -2,12 +2,6 @@
 [.smolcenter]Challenges you haven't marked as completed are red while ones you have are green
 
 # Mercenaries of Trarthus Challenges
-Please get in touch through [Github](https://github.com/CraniumViolence/craniumviolence.github.io) if any information here is incorrect, absent or you simply have better strategies or information! 
-
-You can also get in touch on [Reddit under CraniumCarnage](https://www.reddit.com/user/CraniumCarnage/) or by simply replying in the [obvious post about it](https://www.reddit.com/r/pathofexile/comments/1lhxtoo/mercenaries_full_challenge_guide/).
-
-[.smol]That said, I was banned for <a href="https://i.imgur.com/CJhOghd.png">very insensitively informing people of their consumer rights without the cotton wool wrapping needed for GGG related criticism</a>, so you might not actually get a reply because engaging with reddit is clearly unwise (be sure to avoid mentioning local legend shitstainsteve, the automatic clown mail from the moderators will be awfully cross at you for using such ugly language).
-
 This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include complex instructions for a lot of aspects such as explaining what each mechanic is in depth (with the obvious exception of current league or new mechanics getting more attention). 
 
 This is genuinely maybe the easiest 40 they've ever had.
