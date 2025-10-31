@@ -118,6 +118,7 @@ Completely normal compulsory progression.
 
 # 8 Helpful Hideaways
 <div id="ch-8" markdown="8">
+## Very Easy
 <h2 class="req">All required</h2>
 [.ggg]Visit each of the following Areas.
 - [.ggg]Aspirants' Plaza
@@ -152,6 +153,7 @@ Scarabs and atlas nodes exist for all of these, I'll add more explicit details l
 
 # 10 Core Campaigns
 <div id="ch-10" markdown="10">
+## Very Easy
 <h2 class="req">5 of 10 required</h2>
 [.ggg]Complete any five of the following League Mechanic encounters the specified number of times.
 - [.ggg]Complete Abysses (30x)
@@ -175,6 +177,7 @@ Scarabs and atlas nodes exist for all of these, I'll add more explicit details l
 
 # 11 Mighty Missions
 <div id="ch-11" markdown="11">
+## Easy
 <h2 class="req">2 of 4 required</h2>
 [.ggg]Complete any two of the following Master Mission encounters in Red or Purple Tier Maps the specified number of times.
 - [.ggg]Niko Missions (30x)
@@ -194,8 +197,8 @@ All of these can be decent profit, Alva and Einhar being the most immediately pr
 </div>
 
 # 12 Generous Gifts
-## Unknown
 <div id="ch-12" markdown="12">
+## Unknown
 <h2 class="req">All required</h2>
 [.ggg]Grow the following types of Wombgifts the specified number of times while they are at least Item Level 78.
 - [.ggg]Ancient Wombgift (10x)
@@ -209,6 +212,7 @@ Numerical values don't seem super high but it is all types of them requiring tha
 
 # 13 Parallel Pathing
 <div id="ch-13" markdown="13">
+## Easy
 <h2 class="req">3 required</h2>
 [.ggg]Unlock all three Atlas Passive Trees.
 
@@ -217,6 +221,8 @@ These are unlocked at 50 bonus map completion and 100 bonus map completion respe
 
 # 14 Cunning Crafts
 <div id="ch-14" markdown="14">
+## Easy
+### Currency Sink
 <h2 class="req">All required</h2>
 [.ggg]Use each of the following Currency items. Crafting Bench options also count towards this challenge.
 - [.ggg]Orb of Transmutation
@@ -240,6 +246,7 @@ Raw currency dumb, none of them are bad really. Divine has reasonable crafts on 
 
 # 15 Potent Pantheons
 <div id="ch-15" markdown="15">
+## Easy
 <h2 class="req">All required</h2>
 [.ggg]Fully upgrade one Major and three Minor Pantheon Powers.
 - [.ggg]Major Pantheon
@@ -250,6 +257,7 @@ Pretty straight forward, Divine Vessels are much rarer than you might expect so 
 
 # 16 Legendary Leagues
 <div id="ch-16" markdown="16">
+## Easy
 <h2 class="req">4 of 10 required</h2>
 [.ggg]Complete any four of the following encounters while the area level is 81 or higher if possible.
 - [.ggg]Abyssal Depths (5x)
@@ -316,6 +324,7 @@ I don't know what this is but it sounds like it's just normal league mechanic pr
 
 # 18 Achieve Ascension
 <div id="ch-18" markdown="18">
+## Easy
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following Ascendancy tasks.
 - [.ggg]Use the Ascendancy Device in the Labyrinth
@@ -343,7 +352,8 @@ I don't know what this is but it sounds like it's just normal league mechanic pr
 		- [.com]`Catarina Bloodline` by defeating `Catarina, Master of Undeath` by using a `Syndicate Medallion`
 			- [.com]They're more common now but they are likely to still be very expensive
 		- [.com]`Farrul Bloodline` by defeating `Farrul, First of the Plains` in the Menagerie by using a `Farric Tiger Alpha` to open a portal to his fight
-		
+
+Slightly more involved than usual but it's still a lot of easy options to choose from.
 </div>
 
 # 19 Telling Tarot
@@ -367,8 +377,8 @@ Not terribly hard but strongboxes are fairly rare and 30x is quite a lot if you 
 </div>
 
 # 20 Peddler's Produce II
-# Very Easy
 <div id="ch-20" markdown="20">
+## Very Easy
 <h2 class="req">All required</h2>
 [.ggg]Complete vendor recipes to receive each of the following items. A vendor recipe is when you trade a specific combination of items to a vendor, not when you buy items from their purchase screen.
 - [.ggg]Cartographer's Chisel
@@ -398,6 +408,7 @@ More standard vendor recipes. You will likely want to set up an item filter for 
 
 # 21 Aggravating Antagonists
 <div id="ch-21" markdown="21">
+## Average
 <h2 class="req">6 of 8 required</h2>
 [.ggg]Defeat any six of the following Bosses while they are at least level 80.
 - [.ggg]Uber Atziri
@@ -482,6 +493,7 @@ Still includes Doryani's Machinarium which can end up fairly pricey for a single
 
 # 24 Bijou Beetles
 <div id="ch-24" markdown="24">
+## Average
 <h2 class="req">All required</h2>
 [.ggg]Complete Red or Purple Tier Rare Maps while they have at least 70% Item Quantity with at least the following number of Scarabs affecting them the specified number of times.
 - [.ggg]One Scarab (50x)
@@ -497,6 +509,7 @@ You can unlock additional map device slots for completing a `Tier 17 Map` and by
 
 # 25 Trusted Thaumaturgy
 <div id="ch-25" markdown="25">
+## Very Easy
 <h2 class="req">3 of 4 required</h2>
 [.ggg]Complete any three of the following Gem tasks.
 - [.ggg]Have at least 25 Gems socketed into your currently equipped Equipment
@@ -515,6 +528,7 @@ Awakened Gem is such an obvious skip for this it's comical they even included it
 
 # 26 Cross Contamination
 <div id="ch-26" markdown="26">
+## Easy
 <h2 class="req">4 of 6 required</h2>
 [.ggg]Complete any four of the following past league content encounters.
 - [.ggg]Open a Smuggler's Cache while affected by a Shrine
@@ -571,6 +585,7 @@ This is unlikely to be too gruelling especially on trade league but it's entirel
 
 # 28 Bloodline Boons
 <div id="ch-28" markdown="28">
+## Average
 <h2 class="req">7 of 10 required</h2>
 [.ggg]Defeat any seven of the following Bosses or Encounters.
 - [.ggg]The Trialmaster
@@ -606,6 +621,7 @@ Doubles up with the earlier 'Get a Bloodline' challenge step. Aul and Simulacrum
 
 # 29 Atlas Awe
 <div id="ch-29" markdown="29">
+## Average
 <h2 class="req">12 required</h2>
 [.ggg]Unlock each Favoured Map Slot.
 - [.com]Tier 16+ map
@@ -676,6 +692,7 @@ No idea how this ends up, it is Tier 14 or higher which shouldn't be too terribl
 
 # 33 Keystone Keepers
 <div id="ch-33" markdown="33">
+## Average
 <h2 class="req">All required</h2>
 [.ggg]Use Eldritch Altars or defeat Witnessed Map Bosses with their respective Atlas Passive Keystones allocated the specified number of times.
 - [.ggg]Searing Exarch Altars with Wrath of the Cosmos Allocated (100x)
@@ -687,6 +704,8 @@ Standard map juicing challenge, you get multiple of all of these per map making 
 
 # 34 Expensive Extravagance
 <div id="ch-34" markdown="34">
+## Average
+### Currency Sink
 <h2 class="req">15 of 20 required</h2>
 [.ggg]Use any 15 of the following types of crafting Currency the specified number of times.
 - [.ggg]Awakener's Orb
@@ -747,6 +766,7 @@ A raw currency dump challenge. Mirrors, Reflecting Mists and Hinekora's Locks ar
 
 # 35 Cruel Challenges
 <div id="ch-35" markdown="35">
+## Average
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following invitations while they have at least 70% item Quantity.
 - [.ggg]Screaming
@@ -800,6 +820,7 @@ The 70% roll means you might want an actually tanky character, the new and chang
 
 # 36 Inconceivable Incarnations
 <div id="ch-36" markdown="36">
+## Hard
 <h2 class="req">2 of 3 required</h2>
 [.ggg]Defeat any two of the following Endgame Memory Bosses while the area is level 85.
 - [.ggg]Incarnation of Dread
@@ -871,6 +892,8 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 
 # 40 Grueling Game Grinds
 <div id="ch-40" markdown="40">
+## Average
+### Grind Heavy
 <h2 class="req">4 of 6 required</h2>
 [.ggg]Complete any four of these encounters the specified number of times.
 - [.ggg]Reach Level 100
