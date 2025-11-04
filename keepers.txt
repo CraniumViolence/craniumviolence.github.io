@@ -36,7 +36,7 @@ Incredibly easy to the extent it really doesn't need any explanation.
 - [.ggg]Complete a Hiveborn Encounter
 - [.ggg]Visit the Monastery of the Keepers
 
-You'll start these on the beach and have completed them as soon as you start interacting with the league mechanic at all.
+You'll start these on `The Coast` and have completed them as soon as you start interacting with the league mechanic at all. Very much a freebie.
 </div>
 
 # 3 Peddler's Produce I
@@ -92,14 +92,14 @@ Completely normal compulsory progression.
 
 # 6 Insidious Invaders
 <div id="ch-6" markdown="6">
-## Unknown
+## Very Easy
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following Hiveborn encounters.
 - [.ggg]Defeat Rare Hiveborn Monsters 50x
 - [.ggg]Complete Hive Encounters 10x
 - [.ggg]Complete Unstable Breach Encounters 5x
 
-The numerical values look low and this is positioned before the second set of Act bosses so this is likely a freebie if you aren't actively refusing to engage with the mechanic, I'll update this after the league starts properly.
+Very low values, if you engage with breach literally at all even by accident you will eventually finish all of these.
 </div>
 
 # 7 Act Adversaries II
@@ -198,16 +198,27 @@ All of these can be decent profit, Alva and Einhar being the most immediately pr
 
 # 12 Generous Gifts
 <div id="ch-12" markdown="12">
-## Unknown
+## Easy
 <h2 class="req">All required</h2>
 [.ggg]Grow the following types of Wombgifts the specified number of times while they are at least Item Level 78.
 - [.ggg]Ancient Wombgift (10x)
+	- [.com]Unique Items
 - [.ggg]Growing Wombgift (10x)
+	- [.com]Grafts
 - [.ggg]Lavish Wombgift (10x)
+	- [.com]Currency Items
 - [.ggg]Provisioning Wombgift (10x)
+	- [.com]Equipment
 - [.ggg]Mysterious Wombgift (10x)
+	- [.com]Miscellaneous favouring mapping items
 
-Numerical values don't seem super high but it is all types of them requiring that you engage with all Wombs. What a sentence.
+You will already have unlocked all five types of wombs by the time you are this point in the game, you can simply open up the trade site or in game trade search and buy Wombgifts of appropriate item level. 
+
+You will have to interact with the league mechanic a decent bit to get the Graftblood for these but it's not really a huge scale undertaking.
+
+Grafts can come with modifiers to drop the various types more commonly or to give more Graftblood if you want to self-farm.
+
+You can Ctrl-Click from the Genesis Tree to instantly grow a wombgift without fumbling for the tiny breach hand icon below them after being inserted.
 </div>
 
 # 13 Parallel Pathing
@@ -216,7 +227,7 @@ Numerical values don't seem super high but it is all types of them requiring tha
 <h2 class="req">3 required</h2>
 [.ggg]Unlock all three Atlas Passive Trees.
 
-These are unlocked at 50 bonus map completion and 100 bonus map completion respectively.
+These are unlocked at 50 bonus map completion and 100 bonus map completion respectively. This is map completion, so points from Maven, Exarch or Eater will naturally not be included in the unlock requirements.
 </div>
 
 # 14 Cunning Crafts
@@ -313,13 +324,20 @@ Mappers, Blighted Maps, Harvest Seeds and Logbooks would by my recommendation he
 
 # 17 Revolting Roots
 <div id="ch-17" markdown="17">
-## Unknown
+## Average
 <h2 class="req">All required</h2>
 [.ggg]Fully upgrade the Genesis Tree through completing the following quests.
 - [.ggg]Gifts for the Genesis Tree
+	- [.com]You will find various Body Part quest items as you complete breaches
+	- [.com]Stabilising a breach in a map will get you `The Head of Vruun` which gets you a second graft slot
+	- [.com]Completing `It That Was Tul` and `It That Was Esh` will get you `Breachlord Limbs` which will end the quest
 - [.ggg]Fertilising the Genesis Tree
+	- [.com]This is a raw Graftblood sink, it's equivalent to several hundred completed breaches minimum
+	- [.com]Doing Hives gets the best returns, assuming you can complete all 24 waves
+		- [.com]Numerically at least, probably not time investment wise
+	
 
-I don't know what this is but it sounds like it's just normal league mechanic progression.
+This is just normal league mechanic progression, `Fertilising the Genesis Tree` scales pretty high requirement wise so you will want to be actively engaging with the mechanic to get as much Graftblood as you can.
 </div>
 
 # 18 Achieve Ascension
@@ -439,7 +457,7 @@ If you don't run Heist they are a very obvious skip and Kingsmarch is much more 
 
 # 22 Grotesque Gains
 <div id="ch-22" markdown="22">
-## Unknown
+## Easy
 <h2 class="req">5 of 7 required</h2>
 [.ggg]Use any five of the following Implant or Foulborn Currencies the specified number of times.
 - [.ggg]Augmentation Implant (4x)
@@ -450,7 +468,11 @@ If you don't run Heist they are a very obvious skip and Kingsmarch is much more 
 - [.ggg]Foulborn Regal Orb (2x)
 - [.ggg]Foulborn Exalted Orb
 
-We have no idea how rare any of these are, using new currencies early is always cheaper in the long run. If you wait until league end anything that looks like it will transfer to standard will have skyrocketed.
+`Flawed Seeds`, `Grasping Flesh` and `Mutation Cultivation` will enable the drop of all of these from `Lavish Wombgifts`
+
+At the time of writing, tehse are pretty cheap overall. All implant currencies are cheap aside from `Foulborn Exalted Orbs` meaning you can simply get the cheap options without real issue.
+
+Using new currencies early is always cheaper in the long run. If you wait until league end anything that looks like it will transfer to standard will have skyrocketed.
 </div>
 
 # 23 Remarkable Realms
@@ -481,6 +503,7 @@ We have no idea how rare any of these are, using new currencies early is always 
 	- [.div]The Twilight Moon
 - [.ggg]Pillars of Arun
 - [.ggg]Doryani's Machinarium
+	- [.com]Using `Comprehensive Scouting Report` can end up notably cheaper than the map
 
 Spamming **Singular Scouting Reports** rolls Unique Maps on Kirac, this can include higher tier maps in lower tiers resulting in very easy versions of bosses.
 
@@ -560,7 +583,7 @@ None of these are too complex interactions wise this time, possessed ones are th
 
 # 27 Gruesome Grafts
 <div id="ch-27" markdown="27">
-## Unknown
+## Easy
 <h2 class="req">12 of 16 required</h2>
 [.ggg]Equip any 12 of the following Grafts while they are Item Level 78 or higher with 4 modifiers.
 - [.ggg]Battering Uulgraft
@@ -580,7 +603,11 @@ None of these are too complex interactions wise this time, possessed ones are th
 - [.ggg]Summoning Tulgraft
 - [.ggg]Aegis Tulgraft
 
-This is unlikely to be too gruelling especially on trade league but it's entirely possible endgame variants are rare enough to be a timesink.
+Four modifier grafts drops are fairly rare and this is a lot of types overall, but you can always buy `Exalted Implants` to exalt these into 4 modifiers.
+
+You can of course simply search for each graft type on trade while using the `Pseudo # Modifiers` stat filter to buy these directly.
+
+Something to be aware of is that if you actively remove a graft rather than swap it you can lose Graftlbood.
 </div>
 
 # 28 Bloodline Boons
@@ -680,14 +707,18 @@ The maps can roll up to eight modifiers, this is a moderate amount of maps despi
 
 # 32 Sinew Swarms
 <div id="ch-32" markdown="32">
-## Unknown
+## Easy
 <h2 class="req">All required</h2>
 [.ggg]Complete the specified number of the following Keepers of the Flame encounters while the area level is 81 or higher.
-- [.ggg]Hive Encounter  (60x)
+- [.ggg]Hive Encounter (60x)
+	- [.com]The in map wave defence breach type
 - [.ggg]Unstable Breach Encounter (60x)
+	- [.com]The in map traditional breach type
 - [.ggg]Hive Fortress or Hive Colony Encounter (10x)
+	- [.com]The 24 wave defence sub-area encounter
+	- [.com]The area containing actual boss of the Breach league
 
-No idea how this ends up, it is Tier 14 or higher which shouldn't be too terrible.
+Tier 14 or higher, nothing too intense but you will likely average over 120 maps to get this done.
 </div>
 
 # 33 Keystone Keepers
@@ -835,15 +866,22 @@ This is the new set of uber bosses, the fragments come from T17s. Likely rather 
 
 # 37 Bolstered Breachlords
 <div id="ch-37" markdown="37">
-## Unknown
+## Hard
 <h2 class="req">3 of 4 required</h2>
 [.ggg]Defeat the Hiveborn Bosses in any three of the specified ways.
 - [.ggg]Without being affected by Boiling Blood
+	- [.com]I think this is caused by lingering ground degens from things like Tul's ground slam but I'm unsure currently
 - [.ggg]Without being hit by any Breachlord Orb Explosions
+	- [.com]Orbs will appear over the course of the fight which explode when you go near them, avoid lingering after triggering them for this
 - [.ggg]Without being hit by Rolling Lightning Nova
+	- [.com]Esh will shout `The breach hungers!` or `Roots coil... branches fracture!` indicating a large expanding AoE that moves in steps, 
+	- [.com]Don't be in the visual edge of the circle as it appears while expanding outwards
 - [.ggg]Without being hit by Tentacle Barrage
+	- [.com]Tul will shout `Within our grasp!` or `We become one!` and perform a barrage of attacks using their tentacles, don't linger in front of Esh to avoid this
+	
+Conditionals for the new final breach encounter, the fight is GGG's usual mess with no contrasting colours but it's not too hard as long as you don't get instantly deleted.
 
-This is the new Breach content, unsure how bad it ends up. As always, the faster you kill things the less time you have to make mistakes.
+Fight is deterministically accessible by using a `Hivebrain Gland` alongside a map but can also seemingly spawn any time after T14s.
 </div>
 
 # 38 Juiced Jamboree
