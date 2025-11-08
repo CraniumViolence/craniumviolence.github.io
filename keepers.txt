@@ -782,10 +782,9 @@ Standard map juicing challenge, you get multiple of all of these per map making 
 	- [.com]These come from the new Memory bosses, specifically the ones you get after completing memory chains
 	- [.com]Not too rare but might get expensive
 - [.ggg]Reflecting Mist
-	- [.com]Syndicate crafting minigame with `Guff` in `Research`
-		- [.com]This is technically a `Fading Reflecting Mist` so it's possible it might not count
 	- [.com]Rare
 	- [.com]Expensive
+	- [.com]While `Guff` in `Research` gives a `Fading Reflecting Mist` it does not count as using a `Reflecting Mist`.
 - [.ggg]Runegraft
 	- [.com]Kingsmarch shipping reward for Kalguur aligned ports
 	- [.com]Not too rare
@@ -809,8 +808,8 @@ Standard map juicing challenge, you get multiple of all of these per map making 
 - [.ggg]Veiled Exalted or Chaos Orb
 	- [.com]Catarina and Syndicate leaders
 	- [.com]Expensive and moderately expensive respectively
-
-A raw currency dump challenge. Engaging with syndicate can save you a lot of money for these. Mirrors, Reflecting Mists and Hinekora's Locks are obvious skips if you aren't engaging with Syndicate, the rest aren't that bad..
+	
+A raw currency dump challenge. Engaging with syndicate can save you a lot of money for these. Mirrors and Reflecting Mists are the most obvious skips. Hinekora's Locks are also something you should probably skip if you aren't engaging with Syndicate to use a free one from a bench, the rest aren't that bad.
 </div>
 
 # 35 Cruel Challenges
