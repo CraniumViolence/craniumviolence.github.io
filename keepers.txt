@@ -12,6 +12,8 @@ This guide makes the assumption that you have a baseline understanding of Path o
 
 Mechanics related to the current league or new mechanics in general will naturally be covered somewhat in depth.
 
+It's an incredibly easy set of challenges this time around but the rewards are also lacklustre in my opinion. The stank aura they added later didn't save them!
+
 **Reminder that you should never buy supporter packs before you actually like the league!**
 
 # Status
@@ -754,17 +756,22 @@ Standard map juicing challenge, you get multiple of all of these per map making 
 - [.ggg]Catalyst (40x)
 	- [.com]Adding quality to rings
 - [.ggg]Corrupted Essence (4x)
+	- [.com]Syndicate crafting minigame with `Korell` in `Research`
 	- [.com]Highest tier essences
 - [.ggg]Eldritch Exalted, Annulment or Chaos Orb
-	- [.com]Eater and Exarch
+	- [.com]Eater and Exarch drops
 - [.ggg]Exceptional Eldritch Ichor or Ember
-	- [.com]Eater and Exarch
+	- [.com]Eater and Exarch drops
 - [.ggg]Fracturing Orb
+	- [.com]Syndicate crafting minigame with `Vagan` in `Research`
 	- [.com]Harbingers
 - [.ggg]Hinekora's Lock
+	- [.com]Syndicate crafting minigame with `Haku` in `Research`
 	- [.com]Very rare
 	- [.com]Expensive
 - [.ggg]Influenced Exalted Orb
+	- [.com]Syndicate crafting minigame with `Haku` in `Research`
+	- [.com]Syndicate single usage minigame with `Haku` in `Research`
 	- [.com]Eater and Exarch
 - [.ggg]Mirror of Kalandra
 	- [.com]'lol' perhaps even 'lmao' even
@@ -772,34 +779,38 @@ Standard map juicing challenge, you get multiple of all of these per map making 
 	- [.com]Endgame bosses
 	- [.com]Not too rare or expensive
 - [.ggg]Orb of Remembrance, Unravelling or Intention
-	- [.com]Memory bosses
+	- [.com]These come from the new Memory bosses, specifically the ones you get after completing memory chains
 	- [.com]Not too rare but might get expensive
 - [.ggg]Reflecting Mist
+	- [.com]Syndicate crafting minigame with `Guff` in `Research`
+		- [.com]This is technically a `Fading Reflecting Mist` so it's possible it might not count
 	- [.com]Rare
 	- [.com]Expensive
 - [.ggg]Runegraft
-	- [.com]Kingsmarch
+	- [.com]Kingsmarch shipping reward for Kalguur aligned ports
 	- [.com]Not too rare
 - [.ggg]Sacred Crystallised Lifeforce
 	- [.com]Oshabi
 	- [.com]Not too rare
+		- [.com]Kirac missions for Huge Harvests can have multiple Tier 4 beasts to find these easier
 - [.ggg]Sacred Orb
 	- [.com]Rare
 	- [.com]Not too expensive
 - [.ggg]Tainted Currency (10x)
-	- [.com]Beyond
+	- [.com]Syndicate crafting minigame with `Elreon` in `Research`
+	- [.com]Beyond random mobs and boss kills
 	- [.com]Low tier ones are common from bosses
 - [.ggg]Tattoo
-	- [.com]Kingsmarch
-	- [.com]Not too rare	
+	- [.com]Kingsmarch shipping reward for Karui aligned ports
+	- [.com]Not too rare, useful ones will be price	
 - [.ggg]Tempering or Tailoring Orb
-	- [.com]Heist
+	- [.com]Heist reward
 	- [.com]Fairly rare and moderately expensive
 - [.ggg]Veiled Exalted or Chaos Orb
 	- [.com]Catarina and Syndicate leaders
 	- [.com]Expensive and moderately expensive respectively
 
-A raw currency dump challenge. Mirrors, Reflecting Mists and Hinekora's Locks are obvious skips. The rest aren't that bad.
+A raw currency dump challenge. Engaging with syndicate can save you a lot of money for these. Mirrors, Reflecting Mists and Hinekora's Locks are obvious skips if you aren't engaging with Syndicate, the rest aren't that bad..
 </div>
 
 # 35 Cruel Challenges
@@ -844,16 +855,16 @@ A raw currency dump challenge. Mirrors, Reflecting Mists and Hinekora's Locks ar
 	- [.com]`The Neglected Flame` in Courtyard of Wasting
     - [.com]`The Cardinal of Fear` in Chambers of Impurity
     - [.com]`The Deceitful God` in Theatre of Lies
-	- [.com]This is an invitation containing all of the penultimate memory bosses, they aren't great to farm but you only need to do it once.
+	- [.com]This is an invitation containing all of the penultimate memory bosses, they are pretty bad to farm and can't be deterministically targeted but you only need to do it once
 - [.ggg]The Twisted
 	- `The Purifier`
 	- `The Constrictor`
 	- `The Enslaver`
 	- `The Eradicator`
-	- Selling the fragments generally easily cover the cost of the maps, you can alternatively run them to fish for Watcher's Eyes to ID or sell
-	- Obviously has the issue of watching the Elder murder original map bosses every time
+	- Selling the fragments generally easily cover the cost of the maps, you can alternatively run them to fish for a Watcher's Eye to ID or sell
+	- Obviously has the issue of watching the Elder murder original map bosses every time, but you can get through it I'm sure
 
-The 70% roll means you might want an actually tanky character, the new and changed invitation might be better or worse than the old ones but we've yet to see.
+The 70% roll means you might want an actually tanky character (or just giga DPS, murder is the best defence).
 </div>
 
 # 36 Inconceivable Incarnations
@@ -1058,3 +1069,4 @@ This league is another full armour set with 36 completed challenges required to 
 
 [PoeWiki](https://www.poewiki.net/wiki/) for some general information.
 
+Reddit user [wrightosaur](https://www.reddit.com/user/wrightosaur/) for reminded me they reworked Syndicate.
