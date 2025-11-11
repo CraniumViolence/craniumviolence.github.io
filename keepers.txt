@@ -660,7 +660,7 @@ Doubles up with the earlier 'Get a Bloodline' challenge step. Aul and Simulacrum
 ## Average
 <h2 class="req">12 required</h2>
 [.ggg]Unlock each Favoured Map Slot.
-- [.com]Tier 16+ map
+- [.com]Tier 16+ Map
 - [.com]Elder Guardian
 - [.com]Shaper Guardian
 - [.com]Conqueror of the Atlas
@@ -675,8 +675,9 @@ Doubles up with the earlier 'Get a Bloodline' challenge step. Aul and Simulacrum
 	- [.com]The Elder
 	- [.com]Cortex
 	- [.com]Sirus
+		- [.com]Set of `Elderslayer Crests`
 	- [.com]Incarnation of Dread
-		- [.com]Echo of Reverence
+		- [.com]`Echo of Reverence` boss
 	
 You can buy most of these and should probably complete most just progressing.
 
@@ -749,13 +750,19 @@ Standard map juicing challenge, you get multiple of all of these per map making 
 <h2 class="req">15 of 20 required</h2>
 [.ggg]Use any 15 of the following types of crafting Currency the specified number of times.
 - [.ggg]Awakener's Orb
+	- [.com]`Sirus, Awakener of Worlds` drop
 	- [.com]End game bosses
-	- [.com]Expensive
+	- [.com]Fairly expensive
 - [.ggg]Blight Oil (10x)
-	- [.com]Anointing maps, rings and amulets
+	- [.com]Comes from doing Blight, bad oils are very common
+	- [.com]Blight Oils are used to anoint maps, rings and amulets
+		- [.com]You can just anoint random accessories with bad anoints to use oils
 - [.ggg]Catalyst (40x)
-	- [.com]Adding quality to rings
+	- [.com]Ultimatum rewards
+	- [.com]Catalyst rewards can be forced with an `Ultimatum Scarab of Catalysing` but they are rather expensive
+	- [.com]Catalysts add quality to rings that buff modifiers based on tags
 - [.ggg]Corrupted Essence (4x)
+	- [.com]Use `Vaal Orbs` on mobs with `Essence of Scorn, Envy, Misery or Dread`
 	- [.com]Syndicate crafting minigame with `Korell` in `Research`
 	- [.com]Highest tier essences
 - [.ggg]Eldritch Exalted, Annulment or Chaos Orb
@@ -764,7 +771,7 @@ Standard map juicing challenge, you get multiple of all of these per map making 
 	- [.com]Eater and Exarch drops
 - [.ggg]Fracturing Orb
 	- [.com]Syndicate crafting minigame with `Vagan` in `Research`
-	- [.com]Harbingers
+	- [.com]Fragments can drop from running Harbingers
 - [.ggg]Hinekora's Lock
 	- [.com]Syndicate crafting minigame with `Haku` in `Research`
 	- [.com]Very rare
@@ -776,7 +783,10 @@ Standard map juicing challenge, you get multiple of all of these per map making 
 - [.ggg]Mirror of Kalandra
 	- [.com]'lol' perhaps even 'lmao' even
 - [.ggg]Orb of Dominance
-	- [.com]Endgame bosses
+	- [.com]`Sirus, Awakener of Worlds` drop
+	- [.com]`The Elder` drop
+	- [.com]`The Shaper` drop
+	- [.com]`Uber Elder` drop
 	- [.com]Not too rare or expensive
 - [.ggg]Orb of Remembrance, Unravelling or Intention
 	- [.com]These come from the new Memory bosses, specifically the ones you get after completing memory chains
@@ -789,7 +799,7 @@ Standard map juicing challenge, you get multiple of all of these per map making 
 	- [.com]Kingsmarch shipping reward for Kalguur aligned ports
 	- [.com]Not too rare
 - [.ggg]Sacred Crystallised Lifeforce
-	- [.com]Oshabi
+	- [.com]Kill `Oshabi` by using a `Sacred Blossom` in the map device
 	- [.com]Not too rare
 		- [.com]Kirac missions for Huge Harvests can have multiple Tier 4 beasts to find these easier
 - [.ggg]Sacred Orb
@@ -806,6 +816,8 @@ Standard map juicing challenge, you get multiple of all of these per map making 
 	- [.com]Heist reward
 	- [.com]Fairly rare and moderately expensive
 - [.ggg]Veiled Exalted or Chaos Orb
+	- [.com]Syndicate crafting minigame with `Aisling` in Research` has `Veiled Chaos Orbs`
+	- [.com]Syndicate crafting minigame with `Haku` in Research` can have a `Veiled Exalted Orb`
 	- [.com]Catarina and Syndicate leaders
 	- [.com]Expensive and moderately expensive respectively
 	
@@ -966,7 +978,7 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 	- [.com]Wait for Argus to be in the first room and run 100 labs killing him and leaving
 	- [.com]You can buy Offerings or find them in Ritual very regularly
 - [.ggg]Defeat Pinnacle Bosses (75x)
-	- [.com]All of the normal endgame bosses should count, Cortex, Uber Elder and The Feared might count for multiple
+	- [.com]All of the normal endgame bosses should count. Cortex, Uber Elder and The Feared might count for multiple
 	- [.com]`The Shaper`
 	- [.com]`The Elder`
 	- [.com]`Uber Elder`
@@ -1044,17 +1056,44 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 	- [.com]As long as you have a build to do these, you will likely always generate a decent profit finishing this up. If you don't have a build suited to rotas you can simply run Writhing and Polarics for the fastest, cheapest completions.
 	- [.com]Simply being present while the bosses die in any invitation counts which allows you to buy these (including literally the entire challenge outright) for inflated prices.
 - [.ggg]Grow Wombgifts that are Item Level 81 or higher (100x)
-	- [.com]No idea how this ends up currently
+	- [.com]Very simple, you'll be able to grow one around every other map or so depending on what encounters you end up getting
+	- [.com]While you can buy the Wombgifts you will always have to interact with breach to get Graftblood
 	
 This is a very easy GGG this time around.
 </div>
 
 
 # Easing Long Term Grind
-I haven't wrote this yet.
+#### Grueling Game Grinds
+- Keep an eye on [PoELab](https://poelab.com) and look out for an Argus in the first room to allow you to rush him easily.
+- Level 100 is something you probably already know if you will get or not but you can get the `Omen of Amelioration` to avoid losing XP while working towards it
+- Do invitations instead of selling them
+- Just map in general, if you live in delve or heist you won't get credit towards T14+ clears or engage with the new league content shockingly
+
+#### Quantity Quandary
+- Surprisingly, this too is 'just map in general'. Have a tree for quantity and run maps with high rolls and fragments for the extra whenever you can.
+- Favourite maps you can complete quickly `Mesa`, `Strand`, `Beach`, `Mud Geyser` etc. are all straight forward for quick completion and pair with mechanics such as `Beastfarming` quite well
+
+#### Originator's Oath
+- This isn't actually a very large scale thing, but you have to engage with Memory Chains or maps with the influence implicit to get progress here or you might end up needing to mindlessly run 33+ maps
+- Lower tiers should count for these so maps you might ignore for being low tier but originator can be bought and regalled to quickly finish these up
+
+There aren't actually any grinds that are on the more extreme end of things this time around.
 
 # Challenges to Skip
-I haven't wrote this yet.
+You get the full armour set at **36/40** which allows you to skip up to four different challenges.
+
+Obvious contenders in vague order of consideration are as follows:
+
+- Inconceivable Incarnations 
+- Oppressive Opponents
+	- If your build can't do Ubers these two are a raw currency sink for carries
+- Grueling Game Grinds
+	- GGG is rather tame this time around but if you don't want to run a bunch of invitations or pinnacles this is a solid skip choice
+- Quantity Quandary
+	- This is pretty mindless and if you are closer to other ones you can buy it might be worth simply passing on this in favour of purchasing things
+	
+Realistically, the challenges are incredibly easy this time around so it really does just come down to what you don't want to engage with.
 
 # Unlocks
 This league is another full armour set with 36 completed challenges required to unlock all four pieces. The unlock order is presumed based on the previous league. There's a stanky purple flame effect on it as a second tier.

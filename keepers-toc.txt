@@ -42,4 +42,4 @@
 - [Easing Long Term Grind](#easinglongtermgrind)
 - [Challenges to Skip](#challengestoskip)
 - [Unlocks](#unlocks)
-- [Credits](#credits)
+- [.final][Credits](#credits)
