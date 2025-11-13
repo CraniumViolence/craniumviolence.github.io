@@ -17,7 +17,7 @@ It's an incredibly easy set of challenges this time around but the rewards are a
 **Reminder that you should never buy supporter packs before you actually like the league!**
 
 # Status
-I've quit the league and unless GGG actually backs down on forcing bad breaches into maps, I'm unlikely to return. This page will only receive updates if people post issues or pull requests or harass me on reddit I suppose.
+The guide is basically complete but I've quit the league and GGG's patches don't make me want to come back. I'll still read anything directed at me on github or reddit for any changes or addendum -  albeit likely with a delay.
 
 So long, and thanks for all the fish. 
 
