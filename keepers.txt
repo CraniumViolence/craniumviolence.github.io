@@ -112,8 +112,8 @@ Very low values, if you engage with breach literally at all even by accident you
 </div>
 
 # 7 Act Adversaries II
-## Very Easy
 <div id="ch-7" markdown="7">
+## Very Easy
 <h2 class="req">All required</h2>
 [.ggg]Defeat each of the following Act Bosses.
 - [.ggg]Act 6: Tsoagoth, The Brine King
