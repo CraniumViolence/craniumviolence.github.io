@@ -4,22 +4,24 @@
 # Keepers of the Flame Challenges
 Please get in touch through [Github](https://github.com/CraniumViolence/craniumviolence.github.io) if any information here is incorrect, absent or you simply have better strategies or information! 
 
-You can also get in touch on [Reddit under CraniumCarnage](https://www.reddit.com/user/CraniumCarnage/).
+As a last resort you can also get in touch on [Reddit under CraniumCarnage](https://www.reddit.com/user/CraniumCarnage/).
 
-The guide does not include a lot of gritty details such as what scarabs to use etc. for the moment because I do actually play league start.
-
-This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include detailed descriptions of older mechanics. 
+This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include detailed descriptions of older mechanics.
 
 Mechanics related to the current league or new mechanics in general will naturally be covered somewhat in depth.
 
 It's an incredibly easy set of challenges this time around but the rewards are also lacklustre in my opinion. The stank aura they added later didn't save them!
 
-**Reminder that you should never buy supporter packs before you actually like the league!**
+[.semismol]Reminder that you should never buy supporter packs before you actually play and like the league!
 
-# Status
+# Status and the Future
 The guide is basically complete but I've quit the league and GGG's patches don't make me want to come back. I'll still read anything directed at me on github or reddit for any changes or addendum -  albeit likely with a delay.
 
-So long, and thanks for all the fish. 
+As for the future? [The subreddit's mods seem to have filtered me because I called them clowns](https://gist.github.com/CraniumViolence/d7be1b1008a45d73f2f4c017448d333b) and aren't responding to modmail to remedy this meaning I can't share or comment on anything.
+
+I'm not exactly grifting here with a freely hosted guide with no monetisation and if I have to jump through hoops to even share it or engage with the community at all I'll probably just skip authoring the guide at all instead.
+
+[.padtop]So long, and thanks for all the fish.
 
 # 1 Beginner's Basics
 <div id="ch-1" markdown="1">
@@ -134,15 +136,22 @@ Completely normal compulsory progression.
 	- [.com]Unlocked in `Act 3` for ascending
 - [.ggg]Menagerie
 	- [.com]Unlocked in `Act 2` through interacting with `Einhar`
+	- [.com]The command `/menagerie` takes you there from safe zones
 - [.ggg]Mine Encampment
 	- [.com]Unlocked in `Act 4` through interacting with `Niko`
+	- [.com]The command `/delve` takes you there from safe zones
 - [.ggg]Forbidden Sanctum
 	- [.com]Unlocked in `Act 10` through interacting with `Divinia`
+	- [.com]The command `/sanctum` takes you there from safe zones
 - [.ggg]Kingsmarch
 	- [.com]Unlocked in the `Epilogue` through interacting with `Johan` in `Kauri Shores`
+	- [.com]The command `/kingsmarch` takes you there from safe zones
 - [.ggg]Rogue Harbour
 	- [.com]Unlocked by using a `Rogue's Marker` any time after entering `Act 6`
+	- [.com]The command `/heist` takes you there from safe zones
 </div>
+
+Another freebie, just normal areas that have shortcuts on waypoints. You can also use `/monastery` to go to the league mechanic's monastery.
 
 # 9 Additional Assets
 <div id="ch-9" markdown="9">
@@ -150,14 +159,43 @@ Completely normal compulsory progression.
 <h2 class="req">3 of 7 required</h2>
 [.ggg]Complete any three of the following League Mechanic encounters the specified number of times.
 - [.ggg]Defeat Monsters with Essence (30x)
+	- [.com]`Essence` on the map device adds **3** monsters 
+	- [.com]Atlas points can guarantee at least **1** monster each map
+	- [.com]`Essence Scarab` adds **2** monsters up to a max of **10** while using five
+	- [.com]`Essence Scarab of Calcification` converts **all rare monsters** in a map to be imprisoned
 - [.ggg]Open Strongboxes (30x)
+	- [.com]`Ambush` on the map device adds **4** to a map
+	- [.com]Atlas points can guarantee at least **1** strongbox each map
+	- [.com]`Ambush Scarab` will add **3** to a map up to a max of **9** while using three
 - [.ggg]Activate Shrines (30x)
+	- [.com]`Domination` on the map device adds **4** to a map
+	- [.com]Atlas points can guarantee at least **1** shrine a map
+	- [.com]`Domination Scarab` adds **2** shrines to a map up to a max of **8** while using four
+	- [.com]`Domination Scarab of Apparitions` adds **2** Apparition Shrines to a map
+	- [.com]`Domination Scarab of Evolution` adds **1** Evolving Shrine up to a maximum of **2** while using two
 - [.ggg]Defeat Harbingers (30x)
+	- [.com]`Harbinger` on the map device adds **3** to a map
+	- [.com]Atlas points can guarantee at least **1** harbinger a map
+	- [.com]`Harbinger Scarab` adds **3** Harbingers to a map up to a max of **12** while using four
 - [.ggg]Defeat Possessed Monsters (30x)
+	- [.com]`Torment` on the map device adds **4** additional Tormented Spirits to an area
+	- [.com]Atlas points can add at least **1** Tormented Spirit
+		- [.com]Pairing this with `Rogue Exiles` is sensible as `Exiled Will` causes Rogue Exiles to be possessed
+	- [.com]`Torment Scarab of Possession` grants a fixed 25% chance for each rare in an area to be possessed up to a maximum of 75%
+	- [.com]`Torment Scarab` adds **3** additional Tormented Sprits to an area
+	- [.com]Do not take `Speaker of the Dead` if you want to complete this
+	- [.com]This is an obvious skip because it's awkward compared to the rest
 - [.ggg]Defeat Rogue Exiles (30x)
+	- [.com]`Anarchy` on the map device adds **3** Rogue Exiles
+	- [.com]Atlas points can add **1** Rogue Exile and can cause them to appear in pairs or spawn extras with a map boss
+	- [.com]`Anarchy Scarab` adds **4** Rogue Exiles** up to a maximum of **20** while using five
+	- [.com]`Anarchy Scarab of Partnership` is a 50% chance for Rogue Exiles to appear in pairs
 - [.ggg]Defeat Rare Beyond Monsters (30x)
+	- [.com]`Beyond` on the map device, a `Beyond Scarab` and the Atlas can all enable Beyond monsters spawning
+	- [.com]Atlas points can lower requirements for spawning monsters and `Endless Tide` makes it so you cannot spawn bosses (bosses stop further beyond monster spawns by default)
+	- [.com]`Beyond Scarab of Haemophilia` and `Beyond Scarab of the Invasion` both make spawning Beyond monsters easier
 
-Scarabs and atlas nodes exist for all of these, I'll add more explicit details later. A very easy challenge with pretty low numerical requirements.
+Scarabs and atlas nodes exist for all of these. A very easy challenge with pretty low numerical requirements. You don't need any particular strategy for this.
 </div>
 
 # 10 Core Campaigns
@@ -166,22 +204,27 @@ Scarabs and atlas nodes exist for all of these, I'll add more explicit details l
 <h2 class="req">5 of 10 required</h2>
 [.ggg]Complete any five of the following League Mechanic encounters the specified number of times.
 - [.ggg]Complete Abysses (30x)
+	- [.com]You have ot actually chase down the Abyss but you can push a lot of Abysses into a single map
 - [.ggg]Complete Expeditions (30x)
+	- [.com]Requires reading to avoid bricking encounters, truly not for the faint of heart
 - [.ggg]Harvest Plots (100x)
 	- [.com]You will get multiple plots per harvest making this about equal to everything else
 - [.ggg]Complete Legion Encounters (30x)
+	- [.com]As many per map as you push onto it
 - [.ggg]Open Smuggler's Caches (30x)
+	- [.com]Very unobtrusive, simply click the caches as you see them while doing anything else
 - [.ggg]Pass through Mirrors of Delirium (30x)
 	- [.com]One a map, you can immediately end it because it's just passing through
 - [.ggg]Complete Ultimatum Waves (200x)
 	- [.com]You can get 10 to 13 waves per Ultimatum, this seems balanced around
 - [.ggg]Complete Blights (30x)
+	- [.com]One a map
 - [.ggg]Complete Rituals (100x)
 	- [.com]3 or 4 per map
 - [.ggg]Complete Ore Deposit Encounters (30x)
 	- [.com]As many per map as you push onto it
 
-Scarabs and atlas nodes exist for all of these, I'll add more explicit details later. A very easy challenge with fairly low numerical requirements. Five of ten makes it very open for what you bother with.
+Scarabs and atlas nodes exist for all of these. A very easy challenge with fairly low numerical requirements. Five of ten makes it very open for what you bother with.
 </div>
 
 # 11 Mighty Missions
@@ -190,19 +233,17 @@ Scarabs and atlas nodes exist for all of these, I'll add more explicit details l
 <h2 class="req">2 of 4 required</h2>
 [.ggg]Complete any two of the following Master Mission encounters in Red or Purple Tier Maps the specified number of times.
 - [.ggg]Niko Missions (30x)
-	- [.com]Tagging Sulphite
+	- [.com]Tagging all Sulphite nodes in a map
 - [.ggg]Einhar Missions (30x)
-	- [.com]Killing Beasts
+	- [.com]Capturing all Beasts in a map
 - [.ggg]Jun Missions (30x)
-	- [.com]Completing Syndicate Encounters)
+	- [.com]Completing all Syndicate Encounters in a map
 - [.ggg]Alva Missions (30x)
-	- [.com]Completing Incursions
+	- [.com]Completing all Incursions in a map
 
 Red Maps but no tier requirement, spec into them on the Atlas and you can get 100% chance or simply use their Scarabs.
 
-You can use scarabs, the map device and Kirac missions to speed things up.
-
-All of these can be decent profit, Alva and Einhar being the most immediately profitable with Jun and Niko needing you to more deeply engage with their mechanics.
+All of these can be decent profit, Alva and Einhar being the most immediately profitable with Jun and Niko needing you to more deeply engage with their mechanics. Niko is the fastest and least intrusive of the four.
 </div>
 
 # 12 Generous Gifts
@@ -261,7 +302,7 @@ These are unlocked at 50 bonus map completion and 100 bonus map completion respe
 - [.ggg]Blessed Orb
 - [.ggg]Divine Orb
 
-Raw currency dumb, none of them are bad really. Divine has reasonable crafts on the crafting bench you might actually get benefit from.
+Raw currency dump, none of them are bad really. Divine has reasonable crafts on the crafting bench you might actually get benefit from and slamming jewels or similar with an exalt is generally worth doing if you have them lying around and your item is good enough to justify it.
 </div>
 
 # 15 Potent Pantheons
@@ -270,7 +311,10 @@ Raw currency dumb, none of them are bad really. Divine has reasonable crafts on 
 <h2 class="req">All required</h2>
 [.ggg]Fully upgrade one Major and three Minor Pantheon Powers.
 - [.ggg]Major Pantheon
+	- [.com]All major pantheons have three upgrades
+	- [.com]`Brine King` is likely to be the most generically useful followed by `Lunaris` or `Solaris`
 - [.ggg]Minor Pantheon (3x)
+	- [.com]All minor pantheons have a single upgrade
 
 Pretty straight forward, Divine Vessels are much rarer than you might expect so it can take a while naturally but is very likely to happen before a lot of other challenges if you just target it.
 </div>
@@ -343,9 +387,8 @@ Mappers, Blighted Maps, Harvest Seeds and Logbooks would by my recommendation he
 - [.ggg]Fertilising the Genesis Tree
 	- [.com]This is a raw Graftblood sink, it's a lot of breaches total but it's not too much grind considering ilvl83+ things need 1,500 graftblood anyway
 	- [.com]Doing Hives gets the best returns, assuming you can complete all 24 waves
-		- [.com]Numerically at least, probably not time investment wise
+		- [.com]Numerically at least, probably not time investment wise, nothing about new Breach is good for its time investment really
 	
-
 This is just normal league mechanic progression, `Fertilising the Genesis Tree` scales pretty high requirement wise so you will want to be actively engaging with the mechanic to get as much Graftblood as you can.
 </div>
 
@@ -393,14 +436,18 @@ Slightly more involved than usual but it's still a lot of easy options to choose
 - [.ggg]Complete Red or Purple Tier Rare Maps with Divination Card Scarabs (20x)
 	- [.com]Pretty straight forward, just throw in junk scarabs and complete maps
 - [.ggg]Turn in sets of Divination Cards that reward Currency (30x)
-	- [.com]Searching on `Faustus` is the best option for these, I'll add regexes for them and any you have some of later
-	- [.com]Trash cards like `Rain of Chaos` or `Emperor's Luck` count towards these so you should take them off your hide lists if you want this naturally
+	- [.com]Searching on `Faustus` is the best option for these
+		- [.com]Searching <code class="mini">Card Orb "/[1-9]"</code> and <code class="mini">Card Currency "/[1-9]"</code> on faustus will give you various cards that rewards currency on Faustus or your Divination Card Stash. 
+		- [.com]If you find the cards using the `I Have` section you can quickly see counts for any you actually own some of in the list as well. Just try not to accidentally sell things.
+	- [.com]Commonly filtered cards like `Rain of Chaos` or `Emperor's Luck` count towards these so you should take them off your hide lists if you want to earn this naturally
 - [.ggg]Scry a Map
 	- [.com]The Nameless Seer can appear in T16 maps and gives you a random unique item and the option to put the current map's divination cards onto a single other map replacing the originals
 	- [.com]You will find the Nameless Seer more often in maps with bad divination cards, don't run something with an apothecary expecting this to be simple
-	- [.com]A chat notification appears whenever he appears in your maps, keep an eye out for this
+	- [.com]A chat notification appears whenever he appears in your maps, keep an eye out for this (tools such as SlimTrade have chat monitors that can detect these too)
 	
-Not terribly hard but strongboxes are fairly rare and 30x is quite a lot if you don't actively engage with more common divination cards.
+Not terribly hard but strongboxes are fairly rare and 30x is quite a lot if you don't actively engage with more common divination cards and are buying them on faustus. 
+
+Some cards like `Rain of Chaos` can actually be profitable to buy and turn in because the real cost is your time.
 </div>
 
 # 20 Peddler's Produce II

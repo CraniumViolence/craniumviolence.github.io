@@ -184,6 +184,15 @@ li img {
 	color: #FFE28B
 }
 
+
+.padtop{
+	margin-top:26px;
+}
+
+.semismol {
+	font-size: 65%;
+}
+
 .smol {
 	font-size: 50%;
 }
@@ -199,6 +208,7 @@ li img {
 	color: #E7B477;
 }
 
+.compad,
 .pad,
 .gggpad {
 	margin-bottom: 8px;
@@ -213,10 +223,6 @@ li img {
 .req {
 	color: #DC8515;
 	font-size: 10px;
-}
-
-.compad {
-	margin-bottom: 8px;
 }
 
 .struck,
