@@ -494,7 +494,7 @@ More standard vendor recipes. You will likely want to set up an item filter for 
 		- [.com]`Gift to the Goddess` which buffs `Izaro` heavily	
 - [.ggg]Abyssal Lich
 	- [.com]Run Abyss in T14s or higher and get an Abyssal Depths
-	- [.com]Delve ones might count too
+	- [.com]`Kurgal, the Blackblooded` the lich found in Delve does not count towards this challenge
 - [.ggg]Omnitect
 	- [.com]You can simply buy a `Chronicle of Atzoatl` with the `Temple Apex` unlocked at level 80 or higher for this
 - [.ggg]Vox Twins
