@@ -212,6 +212,13 @@ li img {
 	margin-top:26px;
 }
 
+
+.warning {
+	color:rgb(255,40,40);
+	font-size:80%;
+}
+
+
 .semismol:hover {
 	transition: all 0.2s linear;
 }
