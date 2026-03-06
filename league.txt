@@ -2,9 +2,13 @@
 [.smolcenter]Challenges you haven't marked as completed are red while ones you have are green
 
 # Mirage League Challenges
-This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include detailed descriptions of older mechanics.
+This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include detailed descriptions of all core mechanics or systems.
 
-Mechanics related to the current league or new mechanics in general will naturally be covered somewhat in depth.
+Mechanics related to the current league or new mechanics in general will naturally be covered more in depth.
+
+I was full doomer after awful breach replaced good breach but Mirage is looking a lot better. I will still miss classic breachstones, they were very comfy.
+
+Also I just want the Burger King set. It's awful, tacky crap in a very endearing way.
 
 [.semismol]Reminder that you should never buy supporter packs before you actually play and like the league!
 
@@ -12,12 +16,13 @@ Mechanics related to the current league or new mechanics in general will natural
 The league hasn't started.
 
 # Unlocks
-This league is another full armour set with 36 completed challenges required to unlock all four pieces. The unlock order is presumed based on the previous league. There's various tiers to the pieces that allows you to toggle the amount of blueman group you're feeling.
+This league is another full armour set with 36 completed challenges required to unlock all four pieces. There's various tiers to the pieces that allows you to toggle the amount of blueman group you're feeling.
 - At 12 challenge completion you can unlock the Orb Regalia Boots.
 - At 20 challenge completion you can unlock the Orb Regalia Gloves.
 - At 28 challenge completion you can unlock the Orb Regalia Body Armour.
 - At 36 challenge completion you can unlock the Orb Regalia Helmet.
-A full [preview video is available on the official Path of Exile Youtube channel](https://youtu.be/60p4WENX9ig).
+
+You can view [a full preview video is available on the official Path of Exile YouTube channel](https://youtu.be/60p4WENX9ig) for the rewards.
 
 # Credits and Contact Information
 #### Credits
@@ -26,4 +31,6 @@ A full [preview video is available on the official Path of Exile Youtube channel
 [PoeWiki](https://www.poewiki.net/wiki/) for some general information.
 
 #### Contact Information
-You can get in touch through [Github](https://github.com/CraniumViolence/craniumviolence.github.io) if any information here is incorrect or absent or you simply have better strategies or information you feel should be added (or otherwise feel the need to get in touch).
+You can get in touch through [GitHub](https://github.com/CraniumViolence/craniumviolence.github.io) if any information here is incorrect or absent or you simply have better strategies or information you feel should be added (or otherwise feel the need to get in touch).
+
+Currently, I do not operate a reddit account or any other socials related to this site.
