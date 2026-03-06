@@ -14,6 +14,7 @@ Also I just want the Burger King set. It's awful, tacky crap in a very endearing
 
 # 1 Beginner's Basics
 <div id="ch-1" markdown="1">
+## Very Easy
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following tasks.
 - [.ggg]Use an Orb of Transmutation
@@ -39,6 +40,7 @@ Incredibly basic league mechanic interactions you can complete in Act 1.
 
 # 3 Peddler's Produce I
 <div id="ch-3" markdown="3">
+## Very Easy
 <h2 class="req">All required</h2>
 [.ggg]Complete vendor recipes to receive each of the following items. A vendor recipe is when you trade a specific combination of items to a vendor, not when you buy items from their purchase screen.
 - [.ggg]Any Mana or Life Flask
@@ -53,6 +55,7 @@ Incredibly basic league mechanic interactions you can complete in Act 1.
 
 # 4 Act Adversaries I
 <div id="ch-4" markdown="4">
+## Very Easy
 <h2 class="req">All required</h2>
 [.ggg]Defeat each of the following Act Bosses.
 - [.ggg]Act 1: Merveil, the Twisted
@@ -234,6 +237,7 @@ Presumably somewhere in the region of 150 mirage stages minimum. How many maps o
 
 # 13 Cartographer's Courage
 <div id="ch-13" markdown="13">
+## Very Easy
 <h2 class="req">All required</h2>
 [.ggg]Complete a Rare Map of each Tier.
 - [.ggg]Tier 1
@@ -913,7 +917,7 @@ Obvious contenders in vague order of consideration are as follows:
 - Grueling Game Grinds
 	- GGG is as has been the case for most recent leagues rather tame this time around but if you don't want to run a bunch of invitations or pinnacles this is a solid skip choice
 
-Honestly, everything is very easy in general.
+Honestly, everything is looking very easy in general. Ubers and maybe some Mirage content are the only contenders for being remotely hard or even expensive.
 
 # Unlocks
 This league is another full armour set with 36 completed challenges required to unlock all four pieces. There's various tiers to the pieces that allows you to toggle the amount of blueman group you're feeling.
