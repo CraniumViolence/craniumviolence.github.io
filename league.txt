@@ -12,8 +12,528 @@ Also I just want the Burger King set. It's awful, tacky crap in a very endearing
 
 [.semismol]Reminder that you should never buy supporter packs before you actually play and like the league!
 
-# Actually
-The league hasn't started.
+# 1 Beginner's Basics
+<div id="ch-1" markdown="1">
+<h2 class="req">All required</h2>
+[.ggg]Complete each of the following tasks.
+- [.ggg]Use an Orb of Transmutation
+- [.ggg]Use an Orb of Alteration
+- [.ggg]Use an Orb of Augmentation
+- [.ggg]Use an Orb of Alchemy
+</div>
+
+# 2 Mysterious Mirages
+<div id="ch-2" markdown="2">
+<h2 class="req">All required</h2>
+[.ggg]Complete each of the following Mirage encounters.
+- [.ggg]Choose a Wish
+- [.ggg]Enter a Mirage
+- [.ggg]Break the Astral Chain in a Mirage
+</div>
+
+# 3 Peddler's Produce I
+<div id="ch-3" markdown="3">
+<h2 class="req">All required</h2>
+[.ggg]Complete vendor recipes to receive each of the following items. A vendor recipe is when you trade a specific combination of items to a vendor, not when you buy items from their purchase screen.
+- [.ggg]Any Mana or Life Flask
+- [.ggg]Any Hybrid Flask
+- [.ggg]Ruby, Topaz or Sapphire Ring
+- [.ggg]Agate, Turquoise or Citrine Amulet
+</div>
+
+# 4 Act Adversaries I
+<div id="ch-4" markdown="4">
+<h2 class="req">All required</h2>
+[.ggg]Defeat each of the following Act Bosses.
+- [.ggg]Act 1: Merveil, the Twisted
+- [.ggg]Act 2: Vaal Oversoul
+- [.ggg]Act 3: Dominus, Ascendant
+- [.ggg]Act 4: Malachai, The Nightmare
+- [.ggg]Act 5: Kitava, the Insatiable
+</div>
+
+# 5 Beneficial Bounties
+<div id="ch-5" markdown="5">
+<h2 class="req">All required</h2>
+[.ggg]Complete each of the following Quests.
+- [.ggg]The Way Forward
+- [.ggg]Through Sacred Ground
+- [.ggg]Victario's Secrets
+- [.ggg]An Indomitable Spirit
+</div>
+
+# 6 Desecrated Djinn
+<div id="ch-6" markdown="6">
+<h2 class="req">All required</h2>
+[.ggg]Complete each of the following Mirage encounters.
+- [.ggg]Choose Wishes (0/5)
+- [.ggg]Defeat Rare Monsters in Mirages (0/10)
+- [.ggg]Break the Astral Chain in Mirages (0/15)
+</div>
+
+# 7 Act Adversaries II
+<div id="ch-7" markdown="7">
+<h2 class="req">All required</h2>
+[.ggg]Defeat each of the following Act Bosses.
+- [.ggg]Act 6: Tsoagoth, The Brine King
+- [.ggg]Act 7: Arakaali, Spinner of Shadows
+- [.ggg]Act 8: Lunaris, Eternal Moon and Solaris, Eternal Sun
+- [.ggg]Act 9: The Depraved Trinity
+- [.ggg]Act 10: Kitava, the Insatiable
+</div>
+
+# 8 Helpful Hideaways
+<div id="ch-8" markdown="8">
+<h2 class="req">All required</h2>
+[.ggg]Visit each of the following Areas.
+- [.ggg]Aspirants' Plaza
+- [.ggg]Menagerie
+- [.ggg]Mine Encampment
+- [.ggg]Forbidden Sanctum
+- [.ggg]Kingsmarch
+- [.ggg]Rogue Harbour
+- [.ggg]Monastery of the Keepers
+</div>
+
+# 9 Added Accessories
+<div id="ch-9" markdown="9">
+<h2 class="req">3 of 6 required</h2>
+[.ggg]Complete any three of the following League Mechanic encounters the specified number of times.
+- [.ggg]Defeat Monsters with Essence (0/30)
+- [.ggg]Open Strongboxes (0/30)
+- [.ggg]Activate Shrines (0/30)
+- [.ggg]Defeat Possessed Monsters (0/30)
+- [.ggg]Defeat Rogue Exiles (0/30)
+- [.ggg]Defeat Rare Beyond Monsters (0/30)
+</div>
+
+# 10 Atlas Additions
+<div id="ch-10" markdown="10">
+<h2 class="req">5 of 11 required</h2>
+[.ggg]Complete any five of the following League Mechanic encounters the specified number of times.
+- [.ggg]Complete Abysses (0/30)
+- [.ggg]Complete Expeditions (0/30)
+- [.ggg]Complete Harvest Plots (0/100)
+- [.ggg]Complete Legion Encounters (0/30)
+- [.ggg]Open Smuggler's Caches (0/30)
+- [.ggg]Pass through Mirrors of Delirium (0/30)
+- [.ggg]Complete Ultimatum Waves (0/200)
+- [.ggg]Complete Blights (0/30)
+- [.ggg]Complete Rituals (0/100)
+- [.ggg]Complete Ore Deposit Encounters (0/30)
+- [.ggg]Complete Unstable Breaches or Hives (0/30)
+</div>
+
+# 11 Master Missives
+<div id="ch-11" markdown="11">
+<h2 class="req">2 of 4 required</h2>
+[.ggg]Complete any two of the following Master Mission encounters in Tier 11 or higher Maps the specified number of times.
+- [.ggg]Niko Missions (0/30)
+- [.ggg]Einhar Missions (0/30)
+- [.ggg]Jun Missions (0/30)
+- [.ggg]Alva Missions (0/30)
+</div>
+
+# 12 Sacred Sigils
+<div id="ch-12" markdown="12">
+<h2 class="req">All required</h2>
+[.ggg]Choose Wishes with the following Djinn Sigils the specified number of times.
+- [.ggg]Sigil of Navira (0/50)
+- [.ggg]Sigil of Kelari (0/50)
+- [.ggg]Sigil of Ruzhan (0/50)
+</div>
+
+# 13 Cartographer's Courage
+<div id="ch-13" markdown="13">
+<h2 class="req">All required</h2>
+[.ggg]Complete a Rare Map of each Tier.
+- [.ggg]Tier 1
+- [.ggg]Tier 2
+- [.ggg]Tier 3
+- [.ggg]Tier 4
+- [.ggg]Tier 5
+- [.ggg]Tier 6
+- [.ggg]Tier 7
+- [.ggg]Tier 8
+- [.ggg]Tier 9
+- [.ggg]Tier 10
+- [.ggg]Tier 11
+- [.ggg]Tier 12
+- [.ggg]Tier 13
+- [.ggg]Tier 14
+- [.ggg]Tier 15
+- [.ggg]Tier 16
+</div>
+
+# 14 Crafting Craze
+<div id="ch-14" markdown="14">
+<h2 class="req">15 of 19 required</h2>
+[.ggg]Use any 15 of the following Currency items the specified number of times. Crafting Bench options also count towards this challenge.
+- [.ggg]Orb of Transmutation (0/40)
+- [.ggg]Orb of Augmentation (0/30)
+- [.ggg]Orb of Alteration (0/20)
+- [.ggg]Orb of Chance (0/20)
+- [.ggg]Orb of Alchemy (0/20)
+- [.ggg]Orb of Scouring (0/30)
+- [.ggg]Orb of Fusing (0/20)
+- [.ggg]Jeweller's Orb (0/20)
+- [.ggg]Chromatic Orb (0/20)
+- [.ggg]Orb of Annulment (0/3)
+- [.ggg]Regal Orb (0/20)
+- [.ggg]Chaos Orb (0/20)
+- [.ggg]Exalted Orb
+- [.ggg]Blessed Orb (0/20)
+- [.ggg]Divine Orb
+- [.ggg]Sacred Orb
+- [.ggg]Enkindling or Instilling Orb (0/20)
+- [.ggg]Orb of Regret (0/20)
+- [.ggg]Orb of Unmaking (0/20)
+</div>
+
+# 15 Maniacal Monsters
+<div id="ch-15" markdown="15">
+<h2 class="req">200 required</h2>
+[.ggg]Defeat 200 Map Bosses in Rare Maps while they have at least have 80% Item Quantity.
+</div>
+
+# 16 Deadly Deeds
+<div id="ch-16" markdown="16">
+<h2 class="req">5 of 11 required</h2>
+[.ggg]Complete any five of the following encounters while the area level is 81 or higher if possible the specified number of times.
+- [.ggg]Abyssal Depths (0/5)
+- [.ggg]Logbooks with at least 10 Remnants active (0/5)
+- [.ggg]Tier 4 Harvest Seeds (0/5)
+- [.ggg]Domains of Timeless Conflict with at least 25 rewards (0/3)
+- [.ggg]Blueprints with 4 revealed wings (0/5)
+- [.ggg]Simulacrum Waves (0/60)
+- [.ggg]Fully Completed Ultimatums (0/10)
+- [.ggg]Blighted or Blight Ravaged Maps (0/5)
+- [.ggg]All Rituals in Maps with at least one Blood-filled Vessel applied (0/10)
+- [.ggg]Claim rewards from Rare Maps successfully completed by your Atlas Runners (0/30)
+- [.ggg]Complete Hive Fortresses or Defeat Breach Marshals (0/10)
+</div>
+
+# 17 Empowered Encounters
+<div id="ch-17" markdown="17">
+<h2 class="req">4 of 11 required</h2>
+[.ggg]Complete any four of the following Empowered League Mechanic encounters while in Mirages the specified number of times.
+- [.ggg]Complete Abysses (0/15)
+- [.ggg]Complete Expeditions (0/15)
+- [.ggg]Complete Harvest Plots (0/50)
+- [.ggg]Complete Legion Encounters (0/15)
+- [.ggg]Open Smuggler's Caches (0/15)
+- [.ggg]Pass through Mirrors of Delirium (0/15)
+- [.ggg]Complete Ultimatum Waves (0/50)
+- [.ggg]Complete Blights (0/15)
+- [.ggg]Complete Rituals (0/25)
+- [.ggg]Complete Ore Deposit Encounters (0/15)
+- [.ggg]Complete Unstable Breaches or Hives (0/15)
+</div>
+
+# 18 Achieve Ascension
+<div id="ch-18" markdown="18">
+<h2 class="req">All required</h2>
+[.ggg]Complete each of the following Ascendancy tasks.
+- [.ggg]Use the Ascendancy Device in the Labyrinth
+- [.ggg]Use the Ascendancy Device in the Cruel Labyrinth
+- [.ggg]Use the Ascendancy Device in the Merciless Labyrinth
+- [.ggg]Use the Ascendancy Device in the Eternal Labyrinth
+- [.ggg]Gain a Bloodline Class
+</div>
+
+# 19 Potent Premonitions
+<div id="ch-19" markdown="19">
+<h2 class="req">3 of 4 required</h2>
+[.ggg]Turn in Divination Cards which specifically grant each of the following reward types the specified number of times.
+- [.ggg]Currency item (0/20)
+- [.ggg]Gem (0/10)
+- [.ggg]Two-Implicit Unique item (0/3)
+- [.ggg]Six-Linked Item (0/2)
+</div>
+
+# 20 Peddler's Produce II
+<div id="ch-20" markdown="20">
+<h2 class="req">All required</h2>
+[.ggg]Complete vendor recipes to receive each of the following items. A vendor recipe is when you trade a specific combination of items to a vendor, not when you buy items from their purchase screen.
+- [.ggg]Unique Item
+- [.ggg]Orb of Fusing
+- [.ggg]Regal Orb
+- [.ggg]Item with Influence
+</div>
+
+# 21 Lethal Leaders
+<div id="ch-21" markdown="21">
+<h2 class="req">6 of 8 required</h2>
+[.ggg]Defeat any six of the following Bosses while they are at least level 80.
+- [.ggg]Uber Atziri
+- [.ggg]Izaro
+- [.ggg]Abyssal Lich
+- [.ggg]Omnitect
+- [.ggg]Vox Twins
+- [.ggg]K'tash, Ghorr or Beidat
+- [.ggg]Medved, Vorana or Uhtred
+- [.ggg]The Black Knight, Admiral Valerius or Sasan
+</div>
+
+# 22 Coveted Currency
+<div id="ch-22" markdown="22">
+<h2 class="req">7 of 11 required</h2>
+[.ggg]Use any seven of the following Mirage Currency items or Crafts the specified number of times.
+- [.ggg]Coin of Knowledge (0/5)
+- [.ggg]Coin of Power (0/5)
+- [.ggg]Coin of Skill (0/5)
+- [.ggg]Coin of Restoration (0/5)
+- [.ggg]Coin of Desecration (0/5)
+- [.ggg]Volatile Vaal Orb (0/5)
+- [.ggg]Sinistral or Dextral Catalyst (0/20)
+- [.ggg]Any Crystallised Rancour Craft (0/3)
+- [.ggg]Essence of Desolation (0/3)
+- [.ggg]Honoured, Sacred or Miraged Incubator (0/10)
+- [.ggg]Refracting Fog (0/5)
+</div>
+
+# 23 Remarkable Realms
+<div id="ch-23" markdown="23">
+<h2 class="req">All required</h2>
+[.ggg]Complete each of the following Unique Maps.
+- [.ggg]Vaults of Atziri
+- [.ggg]Maelström of Chaos
+- [.ggg]The Coward's Trial
+- [.ggg]Acton's Nightmare
+- [.ggg]Poorjoy's Asylum
+- [.ggg]Mao Kun
+- [.ggg]Oba's Cursed Trove
+- [.ggg]Olmec's Sanctum
+- [.ggg]Death and Taxes
+- [.ggg]Whakawairua Tuahu
+- [.ggg]The Vinktar Square
+- [.ggg]Caer Blaidd, Wolfpack's Den
+- [.ggg]The Putrid Cloister
+- [.ggg]Hallowed Ground
+- [.ggg]The Twilight Temple
+- [.ggg]Pillars of Arun
+- [.ggg]Doryani's Machinarium
+</div>
+
+# 24 Succinct Scarabs
+<div id="ch-24" markdown="24">
+<h2 class="req">8 of 26 required</h2>
+[.ggg]Complete Maps with any eight of the following types of Scarabs the specified number of times while the Maps are Rare and at least Tier 14. Completing Maps with more Scarabs applied contributes more progress.
+- [.ggg]Cartography (0/30)
+- [.ggg]Divination (0/30)
+- [.ggg]Titanic (0/30)
+- [.ggg]Bestiary (0/30)
+- [.ggg]Betrayal (0/30)
+- [.ggg]Delve (0/30)
+- [.ggg]Incursion (0/30)
+- [.ggg]Anarchy (0/30)
+- [.ggg]Domination (0/30)
+- [.ggg]Essence (0/30)
+- [.ggg]Strongbox (0/30)
+- [.ggg]Torment (0/30)
+- [.ggg]Influence (0/30)
+- [.ggg]Abyss (0/30)
+- [.ggg]Beyond (0/30)
+- [.ggg]Blight (0/30)
+- [.ggg]Breach (0/30)
+- [.ggg]Delirium (0/30)
+- [.ggg]Expedition (0/30)
+- [.ggg]Harvest (0/30)
+- [.ggg]Kalguuran (0/30)
+- [.ggg]Legion (0/30)
+- [.ggg]Ritual (0/30)
+- [.ggg]Ultimatum (0/30)
+- [.ggg]Misc (0/30)
+- [.ggg]Horned (0/30)
+</div>
+
+# 25 Glorious Gemcraft
+<div id="ch-25" markdown="25">
+<h2 class="req">3 of 4 required</h2>
+[.ggg]Complete any three of the following Gem tasks.
+- [.ggg]Corrupt a gem to become either level 21 or 23% quality
+- [.ggg]Use Gemcutter's Prisms (0/40)
+- [.ggg]Have a total of 300% quality on all socketed gems
+- [.ggg]Level an Exceptional Gem to level 3
+</div>
+
+# 26 Cross Contamination
+<div id="ch-26" markdown="26">
+<h2 class="req">4 of 6 required</h2>
+[.ggg]Complete any four of the following past league content encounters.
+- [.ggg]Defeat a Breach Marshal while Delirious
+- [.ggg]Defeat a Stygian Spire while affected by a Shrine
+- [.ggg]Defeat an Essence Monster that is Possessed
+- [.ggg]Defeat a Blight Boss while affected by a Tempest
+- [.ggg]Defeat a Delirium or Beyond Boss while in the Sacred Grove
+- [.ggg]Defeat a Unique Map Boss that is Possessed while in a Ritual
+</div>
+
+# 27 Wishful Willing
+<div id="ch-27" markdown="27">
+<h2 class="req">13 of 20 required</h2>
+[.ggg]Select any 13 of the following Mirage Wishes.
+- [.ggg]Wish for Augury
+- [.ggg]Wish for Distant Horizons
+- [.ggg]Wish for Foreknowledge
+- [.ggg]Wish for Fortune
+- [.ggg]Wish for Glittering
+- [.ggg]Wish for Gold
+- [.ggg]Wish for Horizons
+- [.ggg]Wish for Jewels
+- [.ggg]Wish for Knowledge
+- [.ggg]Wish for Prosperity
+- [.ggg]Wish for Pursuit
+- [.ggg]Wish for Risk
+- [.ggg]Wish for Rust
+- [.ggg]Wish for Scarabs
+- [.ggg]Wish for Skittering
+- [.ggg]Wish for Strange Horizons
+- [.ggg]Wish for Terror
+- [.ggg]Wish for Treasures
+- [.ggg]Wish for Trinkets
+- [.ggg]Wish for Wealth
+</div>
+
+# 28 Seized Strength
+<div id="ch-28" markdown="28">
+<h2 class="req">7 of 11 required</h2>
+[.ggg]Defeat any seven of the following Bosses or Encounters.
+- [.ggg]The Trialmaster
+- [.ggg]The King in the Mists
+- [.ggg]Oshabi
+- [.ggg]Catarina
+- [.ggg]Aul
+- [.ggg]Olroth
+- [.ggg]Lycia
+- [.ggg]Farrul
+- [.ggg]Simulacrum
+- [.ggg]It That Was Tul and It That Was Esh
+- [.ggg]Saresh of the Weeping Black
+</div>
+
+# 29 Atlas Astrolabes
+<div id="ch-29" markdown="29">
+<h2 class="req">4 of 11 required</h2>
+[.ggg]Complete Maps in any four of the following types of Regions created by Atlas Astrolabes the specified number of times while the Maps are Rare and at least Tier 14.
+- [.ggg]Templar Astrolabe (0/30)
+- [.ggg]Fruiting Astrolabe (0/30)
+- [.ggg]Lightless Astrolabe (0/30)
+- [.ggg]Grasping Astrolabe (0/30)
+- [.ggg]Nameless Astrolabe (0/30)
+- [.ggg]Fungal Astrolabe (0/30)
+- [.ggg]Chaotic Astrolabe (0/30)
+- [.ggg]Enshrouded Astrolabe (0/30)
+- [.ggg]Timeless Astrolabe (0/30)
+- [.ggg]Runic Astrolabe (0/30)
+- [.ggg]Prospecting Astrolabe (0/30)
+</div>
+
+# 30 Tyrannical Tiers
+<div id="ch-30" markdown="30">
+<h2 class="req">8000 required</h2>
+[.ggg]Reach a total of 8,000 Map Tiers completing Maps.
+</div>
+
+# 31 Magnificent Memories
+<div id="ch-31" markdown="31">
+<h2 class="req">2500 required</h2>
+[.ggg]Complete Rare Originator Influenced maps with a total of 2,500% Item Quantity.
+</div>
+
+# 32 Sandswept Survivor
+<div id="ch-32" markdown="32">
+<h2 class="req">150 required</h2>
+[.ggg]Break 150 Astral Chains in Mirages of Maps that are Rare, at least Tier 14 and have at least 100% Item Quantity.
+</div>
+
+# 33 Eldritch Evocation
+<div id="ch-33" markdown="33">
+<h2 class="req"> of 2 required</h2>
+[.ggg]Defeat Witnessed Bosses or Activate Eldritch Altars while in Maps that are affected by an Atlas Astrolabe the specified number of times.
+- [.ggg]Defeat Witnessed Map Bosses (0/100)
+- [.ggg]Activate Eldritch Altars (0/200)
+</div>
+
+# 34 Vaulted Valuables
+<div id="ch-34" markdown="34">
+<h2 class="req">3 of 5 required</h2>
+[.ggg]Collect any three of the following types of rewards from Memory Vaults the specified number of times.
+- [.ggg]Currency (0/5)
+- [.ggg]Unique (0/5)
+- [.ggg]Gem (0/5)
+- [.ggg]Fragment (0/5)
+- [.ggg]Map (0/5)
+</div>
+
+# 35 Instigative Invitations
+<div id="ch-35" markdown="35">
+<h2 class="req">All required</h2>
+[.ggg]Complete each of the following invitations while they have at least four modifiers.
+- [.ggg]Screaming
+- [.ggg]Incandescent
+- [.ggg]The Elderslayers
+- [.ggg]The Feared
+- [.ggg]The Forgotten
+- [.ggg]The Formed
+- [.ggg]The Remembered
+- [.ggg]The Twisted
+</div>
+
+# 36 Nightmare Nemeses
+<div id="ch-36" markdown="36">
+<h2 class="req">4 of 5 required</h2>
+[.ggg]Complete any four of the following Nightmare Maps while they have at least 175% Item Quantity.
+- [.ggg]Abomination Map
+- [.ggg]Citadel Map
+- [.ggg]Fortress Map
+- [.ggg]Sanctuary Map
+- [.ggg]Ziggurat Map
+</div>
+
+# 37 Weeping Warlords Warfare
+<div id="ch-37" markdown="37">
+<h2 class="req">3 of 4 required</h2>
+[.ggg]Defeat Saresh, The Weeping Black in any three of the specified ways.
+- [.ggg]Without being affected by Astral Chains
+- [.ggg]Without being affected by Festering Souls
+- [.ggg]Without being hit by any Gangrenous Mass explosions
+- [.ggg]Without being hit by Charged Soul Slam
+</div>
+
+# 38 Tremendous Tempests
+<div id="ch-38" markdown="38">
+<h2 class="req">75 required</h2>
+[.ggg]Slay the Map Bosses of 75 Maps that are affected by an Atlas Astrolabe while are they Rare and Tier 16 with at least 150% Item Quantity.
+</div>
+
+# 39 Uber Undertaking
+<div id="ch-39" markdown="39">
+<h2 class="req">5 of 10 required</h2>
+[.ggg]Defeat any five of the following Pinnacle Boss Encounters while the area is level 85.
+- [.ggg]Sirus, Awakener of Worlds
+- [.ggg]The Elder
+- [.ggg]The Maven
+- [.ggg]The Searing Exarch
+- [.ggg]The Eater of Worlds
+- [.ggg]High Templar Venarius
+- [.ggg]The Shaper
+- [.ggg]Incarnation of Dread
+- [.ggg]Incarnation of Fear
+- [.ggg]Incarnation of Neglect
+</div>
+
+# 40 Gallant Grinding Goals
+<div id="ch-40" markdown="40">
+<h2 class="req">4 of 6 required</h2>
+[.ggg]Complete any four of these encounters the specified number of times.
+- [.ggg]Reach Level 100
+- [.ggg]Use the Divine Font in the Endgame Labyrinth (0/50)
+- [.ggg]Complete Tier 16 Rare Maps with Scarabs (0/1,000)
+- [.ggg]Complete Shaper, Elder, Conqueror or Memory Guardian Maps with at least 100% Item Quantity (0/50)
+- [.ggg]Defeat Rare monsters with at least 4 Modifiers while in Tier 16 Maps (0/250)
+- [.ggg]Defeat Map Bosses in Mirages of Rare Maps that are at least Tier 16 and have at least 80% Item Quantity (0/100)
+</div>
 
 # Unlocks
 This league is another full armour set with 36 completed challenges required to unlock all four pieces. There's various tiers to the pieces that allows you to toggle the amount of blueman group you're feeling.
