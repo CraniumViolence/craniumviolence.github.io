@@ -25,9 +25,9 @@ You right click them, then you right click an item in your inventory. Or your st
 </div>
 
 # 2 Mysterious Mirages
+<div id="ch-2" markdown="2">
 ## Very Easy
 ### New Content
-<div id="ch-2" markdown="2">
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following Mirage encounters.
 - [.ggg]Choose a Wish
@@ -913,6 +913,7 @@ Obvious contenders in vague order of consideration are as follows:
 - Grueling Game Grinds
 	- GGG is as has been the case for most recent leagues rather tame this time around but if you don't want to run a bunch of invitations or pinnacles this is a solid skip choice
 
+Honestly, everything is very easy in general.
 
 # Unlocks
 This league is another full armour set with 36 completed challenges required to unlock all four pieces. There's various tiers to the pieces that allows you to toggle the amount of blueman group you're feeling.
