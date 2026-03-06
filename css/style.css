@@ -104,6 +104,16 @@ h2[id^="average"] {
 	color: #A5B2C2
 }
 
+h3[id^="currencysink"] {
+	color: #D270AA;
+	font-size: 75%;
+}
+
+h3[id^="newcontent"] {
+	color: #8970D2;
+	font-size: 75%;
+}
+
 h2[id^="hard"] {
 	color: #D96865
 }
