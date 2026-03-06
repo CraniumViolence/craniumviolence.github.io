@@ -810,6 +810,7 @@ Normal invitation challenge, nothing remarkable and doesn't need a notable build
 
 # 36 Nightmare Nemeses
 <div id="ch-36" markdown="36">
+## Normal
 <h2 class="req">4 of 5 required</h2>
 [.ggg]Complete any four of the following Nightmare Maps while they have at least 175% Item Quantity.
 - [.ggg]Abomination Map
@@ -818,7 +819,7 @@ Normal invitation challenge, nothing remarkable and doesn't need a notable build
 - [.ggg]Sanctuary Map
 - [.ggg]Ziggurat Map
 
-The rebranded T17s, this should be easier than previous leagues.
+The rebranded T17s, this should be easier than previous leagues. There's a small chance it might need to be upgraded to 'Hard'.
 
 Using a `Scarab of Stability` can allow for a lot of extra breathing room as it stops portals being consumed.
 
