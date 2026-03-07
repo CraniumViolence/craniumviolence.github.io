@@ -513,6 +513,8 @@ This is the new content, the quantities might give some idea of rarity but we'll
 	- [.com]You probably want to try and find a group to split the cost for this
 
 This is all the maps and there's no more scouting reports which means this one is a bit of a stinker compared to the last few leagues. Maybe Kirac can sell Doryani's Machinarium but I wouldn't hold my breath.
+
+Of note is that Unique Maps need you to be able to see them on the Atlas to open them even if you have the map item, [the full atlas can be found on PoEDB](https://poedb.tw/us/Atlas_of_Worlds) to help with locating the maps. 
 </div>
 
 # 24 Succinct Scarabs
@@ -603,32 +605,55 @@ Skipping the two Possessed ones is likely the best choice but only the Unique Ma
 
 # 27 Wishful Willing
 <div id="ch-27" markdown="27">
-## Unknown
+## Easy
 ### New Content
 <h2 class="req">13 of 20 required</h2>
 [.ggg]Select any 13 of the following Mirage Wishes.
 - [.ggg]Wish for Augury
+	- [.com]Breaking the Astral Chain in the Mirage Area will reward a cache of Stacked Decks.
 - [.ggg]Wish for Distant Horizons
+	- [.com]Breaking the Astral Chain in the Mirage Area will reward a cache of Maps.
 - [.ggg]Wish for Foreknowledge
+	- [.com]100% more Divination Cards found in the Mirage Area.
 - [.ggg]Wish for Fortune
+	- [.com]Breaking the Astral Chain in the Mirage Area will reward a cache of Currency.
 - [.ggg]Wish for Glittering
+	- [.com]Skill and Support Gems found in Mirage Area will have a random amount of Quality.
 - [.ggg]Wish for Gold
+	- [.com]Players in Mirage Area find 80% more Gold from slain Enemies.
 - [.ggg]Wish for Horizons
+	- [.com]100% more Maps found in the Mirage Area.
 - [.ggg]Wish for Jewels
+	- [.com]An additional Bronze Jewel Cache will appear in the Mirage Area.
+	- [.com]An additional Silver Jewel Cache will appear in the Mirage Area.
+	- [.com]An additional Golden Jewel Cache will appear in the Mirage Area.
 - [.ggg]Wish for Knowledge
+	- [.com]Players in Mirage Area gain 50% increased Experience.
 - [.ggg]Wish for Prosperity
+	- [.com]Mirage Area will contain an additional fountain of wealth.
 - [.ggg]Wish for Pursuit
+	- [.com]Enemies in the Mirage Area have a 4% chance to release a Golden Volatile on death.
 - [.ggg]Wish for Risk
+	- [.com]Mirage Area will contain 12 additional packs of difficult and rewarding monsters.
 - [.ggg]Wish for Rust
+	- [.com]Map Boss of the Mirage Area will be accompanied by Ridan, of the Afarud.
 - [.ggg]Wish for Scarabs
+	- [.com]80% more Scarabs found in the Mirage Area.
 - [.ggg]Wish for Skittering
+	- [.com]Breaking the Astral Chain in the Mirage Area will reward a cache of Scarabs.
 - [.ggg]Wish for Strange Horizons
+	- [.com]Breaking the Astral Chain in the Mirage Area will reward a Unique Map.
 - [.ggg]Wish for Terror
+	- [.com]Map Boss of the Mirage Area will be accompanied by a Pinnacle Atlas Boss from The Feared.
 - [.ggg]Wish for Treasures
+	- [.com]80% increased Rarity of items found in the Mirage Area.
 - [.ggg]Wish for Trinkets
+	- [.com]Jewellery found in Mirage Area will instead drop as Jewels.
+	- [.com]Breaking the Astral Chain in the Mirage Area will reward Rare Jewellery.
 - [.ggg]Wish for Wealth
+	- [.com]100% more Currency found in the Mirage Area.
 
-Completely unknown how rare all of these are currently but it's only 65% of them so it hopefully won't be too bad.
+This is very trivial, simply select differing mirage wishes whenever you see them. You don't even need to go in or complete the mirage.
 </div>
 
 # 28 Seized Strength
@@ -723,7 +748,7 @@ T16.5s are (intended to be) the new de facto endgame grind and have had the wors
 
 This is simply engaging with the new Mirage mechanic in any capacity after hitting Tier 14 on decently juiced maps.
 
-This might be multiple per map, but I'll update that when I know.
+Breaking Astral Chains is simply killing the three rare monsters in a circle around a large chain. They can wander off which is awkward but it's just 'kill rares'.
 </div>
 
 # 33 Eldritch Evocation
