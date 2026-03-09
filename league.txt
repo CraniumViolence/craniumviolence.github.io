@@ -856,6 +856,8 @@ This is functionally a currency dump. Each quadrant has multiple outcomes which 
 	- [.com]Incarnation of Dread
 		- [.com]`Echo of Reverence` boss
 		- [.com]Itemised memories exist now so this should be less dreadful
+			- [.com]GGG did not in fact deploy this change, so it is still dreadful
+			- [.com]I assume it isn't on purpose as they have entries in the currency tab and on the currency exchange
 - [.ggg]The Forgotten
     - [.com]`Rewritten Distant Memory`
     - [.com]`Augmented Distant Memory`
