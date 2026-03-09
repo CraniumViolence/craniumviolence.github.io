@@ -2,6 +2,7 @@
 [.smolcenter]Challenges you haven't marked as completed are red while ones you have are green
 
 # Mirage League Challenges
+### Introduction
 This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include detailed descriptions of all core mechanics or systems.
 
 Mechanics related to the current league or new mechanics in general will naturally be covered more in depth.
@@ -11,6 +12,15 @@ I was full doomer after awful breach replaced good breach but Mirage is looking 
 Also I just want the Burger King set. It's awful, tacky crap in a very endearing way.
 
 [.semismol]Reminder that you should never buy supporter packs before you actually play the league and find it's worth supporting!
+
+### Thoughts on the league
+The new atlas changes are good in terms of accessibility. The UX in general is lacking (GGG has never been good at this) and Astrolabes are a complete miss for me so far as I have found a total of two completing everything on the atlas. That I need to currency dump to even try them is not encouraging considering I expected them to balanced around mods on maps being rare, not the items themselves.
+
+Mirage itself is a bit weird, the box loot is simply awful in every way and I don't know why they even bother spawning it. It would feel far better if you got a single typed chest based on what modifiers you chose to guarantee you don't get '80% more of nothing' when you choose scarabs as is often the case currently.
+
+Breach feels almost spitefully implemented in some ways, you don't get enough graftblood if you don't want to engage with the terrible new blight inspired version which makes it a false choice really.
+
+[.semismol]It's my site, I can blog if I want to.
 
 # 1 Beginner's Basics
 <div id="ch-1" markdown="1">
@@ -32,8 +42,11 @@ You right click them, then you right click an item in your inventory. Or your st
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following Mirage encounters.
 - [.ggg]Choose a Wish
+	- [.com]Select one of the three options on interacting with the league's NPC
 - [.ggg]Enter a Mirage
+	- [.com]Enter the portal created on the above interaction
 - [.ggg]Break the Astral Chain in a Mirage
+	- [.com]Find a circle of three rare monsters around chains going into the sky and kill them
 
 Incredibly basic league mechanic interactions you can complete in Act 1.
 </div>
@@ -92,7 +105,7 @@ Completely normal compulsory progression.
 - [.ggg]Defeat Rare Monsters in Mirages (0/10)
 - [.ggg]Break the Astral Chain in Mirages (0/15)
 
-Basic interaction with the league mechanic.
+Basic interaction with the league mechanic. You will complete this in 15 mirages because you are required to do the other two steps first for every Mirage completion.
 </div>
 
 # 7 Act Adversaries II
@@ -224,15 +237,21 @@ Red Maps but no tier requirement beyond that, spec into them on the Atlas and yo
 
 # 12 Sacred Sigils
 <div id="ch-12" markdown="12">
-## Unknown
+## Easy
 ### New Content
 <h2 class="req">All required</h2>
 [.ggg]Choose Wishes with the following Djinn Sigils the specified number of times.
 - [.ggg]Sigil of Navira (0/50)
+	- [.com]Blue choices
+	- [.com]The icon is a Blue Water Jug
 - [.ggg]Sigil of Kelari (0/50)
+	- [.com]White Choices
+	- [.com]The icon is a White Dagger
 - [.ggg]Sigil of Ruzhan (0/50)
+	- [.com]Red Choices
+	- [.com]The icon is a Red Sword
 
-Presumably somewhere in the region of 150 mirage stages minimum. How many maps or areas this ends up being is unknown.
+You will likely find yourself biased towards some of these, they can all appear at all stages of the game so you can simply run whatever content you are comfortable with to get these completed.
 </div>
 
 # 13 Cartographer's Courage
@@ -370,9 +389,7 @@ A copy of last league with a token breach addition.
 - [.ggg]Complete Ore Deposit Encounters (0/15)
 - [.ggg]Complete Unstable Breaches or Hives (0/15)
 
-If the campaign ones are repeatable you can probably cheese some of these there, but surely GGG wouldn't allow quarry farming for the nth time, right?
-
-Mirages are stated to spawn next to other league content so you should use blocking nodes on all content but what you are target farming in the atlas to progress each of these mechanics.
+Mirages spawn next to other league content, to target farm you should use the Atlas Tree Points and Scarabs for your mechanic of choice and consider blocking anything you've already completed.
 </div>
 
 # 18 Achieve Ascension
@@ -469,23 +486,36 @@ This is a direct copy of last league's. If you don't run Heist they are a very o
 
 # 22 Coveted Currency
 <div id="ch-22" markdown="22">
-## Unknown
+## Normal
 ### New Content
 <h2 class="req">7 of 11 required</h2>
 [.ggg]Use any seven of the following Mirage Currency items or Crafts the specified number of times.
 - [.ggg]Coin of Knowledge (0/5)
+	- [.com]Moderate
 - [.ggg]Coin of Power (0/5)
+	- [.com]Moderate
 - [.ggg]Coin of Skill (0/5)
+	- [.com]Moderate
 - [.ggg]Coin of Restoration (0/5)
+	- [.com]Cheap
 - [.ggg]Coin of Desecration (0/5)
+	- [.com]Cheap
 - [.ggg]Volatile Vaal Orb (0/5)
+	- [.com]Somewhat expensive
 - [.ggg]Sinistral or Dextral Catalyst (0/20)
+	- [.com]Moderate
 - [.ggg]Any Crystallised Rancour Craft (0/3)
+	- [.com]Cheap
 - [.ggg]Essence of Desolation (0/3)
+	- [.com]Cheap
 - [.ggg]Honoured, Sacred or Miraged Incubator (0/10)
+	- [.com]Honoured are cheap
 - [.ggg]Refracting Fog (0/5)
+	- [.com]Moderate
 
 This is the new content, the quantities might give some idea of rarity but we'll see. It's likely this ends up as a currency sink but it's only 7 of 11 at least.
+
+The prices of the Coins has gone up because they are not actually super common, they might come back down as the league progresses.
 </div>
 
 # 23 Remarkable Realms
@@ -515,6 +545,8 @@ This is the new content, the quantities might give some idea of rarity but we'll
 This is all the maps and there's no more scouting reports which means this one is a bit of a stinker compared to the last few leagues. Maybe Kirac can sell Doryani's Machinarium but I wouldn't hold my breath.
 
 Of note is that Unique Maps need you to be able to see them on the Atlas to open them even if you have the map item, [the full atlas can be found on PoEDB](https://poedb.tw/us/Atlas_of_Worlds) to help with locating the maps. 
+
+On the bright side, they didn't make anyone do Hall of Grandmasters.
 </div>
 
 # 24 Succinct Scarabs
@@ -574,6 +606,8 @@ Assuming maximum slots, you can gain 5 progress towards this per map ran. This e
 	- [.com]Going for Facetor's Lens usage is probably easier if you aren't running fully quality gems for whatever reason
 - [.ggg]Level an Exceptional Gem to level 3
 	- [.com]A lot of experience, you can use Facetor's Lenses to add a chunk of experience to a gem
+	
+Pretty standard currency sink and item puzzle that they've used before.
 </div>
 
 # 26 Cross Contamination
@@ -717,6 +751,10 @@ You can buy carries for this but most of the bosses aren't too bad. Simulacrum a
 Astrolabes drop from the Memory Chain bosses and everywhere on the Atlas after completing Zana's three memory chains. 
 
 This is simply completing Tier 14 or higher maps which makes it very mild realistically and comes out at 120 maps total.
+
+Astrolabe drop rates are no where close to being accessible right now so you should be prepared to currency dump to get this done. 
+
+As of day three, the supply is in the low tens for most of them. The cost of this could easily shoot upwards.
 </div>
 
 # 30 Tyrannical Tiers
@@ -737,11 +775,13 @@ No quantity or rarity reqs means you can just blast it out with normal rarity ma
 [.ggg]Complete Rare Originator Influenced maps with a total of 2,500% Item Quantity.
 
 T16.5s are (intended to be) the new de facto endgame grind and have had the worst mods removed, 2,500% item quantity is under 50 moderately rolled maps.
+
+As there's no actual requirements, this can become 'easy' if you simply run very basic maps, you'll just take longer.
 </div>
 
 # 32 Sandswept Survivor
 <div id="ch-32" markdown="32">
-## Unknown
+## Easy
 ### New Content
 <h2 class="req">150 required</h2>
 [.ggg]Break 150 Astral Chains in Mirages of Maps that are Rare, at least Tier 14 and have at least 100% Item Quantity.
@@ -749,6 +789,8 @@ T16.5s are (intended to be) the new de facto endgame grind and have had the wors
 This is simply engaging with the new Mirage mechanic in any capacity after hitting Tier 14 on decently juiced maps.
 
 Breaking Astral Chains is simply killing the three rare monsters in a circle around a large chain. They can wander off which is awkward but it's just 'kill rares'.
+
+In most cases, you will get an empty box from doing this task, enjoy!
 </div>
 
 # 33 Eldritch Evocation
@@ -869,11 +911,14 @@ As is generally the case, the higher your DPS the lower your time to make mistak
 
 # 38 Tremendous Tempests
 <div id="ch-38" markdown="38">
-## Normal
+## Hard
+### New Content
 <h2 class="req">75 required</h2>
 [.ggg]Slay the Map Bosses of 75 Maps that are affected by an Atlas Astrolabe while are they Rare and Tier 16 with at least 150% Item Quantity.
 
-This is just the new core of mapping after getting your Voidstones. You are very likely to get this trivially. Destructive play might or might not count towards this.
+<strike>This is just the new core of mapping after getting your Voidstones. You are very likely to get this trivially. Destructive play might or might not count towards this.</strike>
+
+Astrolabes are disgustingly scarce compared to what I expected and you will average maybe one per two hundred maps. You are likely to spend several divines finishing this up with current prices. Considering the requirement is also a pretty juiced map, this might end up rough.
 </div>
 
 # 39 Uber Undertaking
@@ -942,8 +987,11 @@ You get the full armour set at **36/40** which allows you to skip up to four dif
 Obvious contenders in vague order of consideration are as follows:
 - Grueling Game Grinds
 	- GGG is as has been the case for most recent leagues rather tame this time around but if you don't want to run a bunch of invitations or pinnacles this is a solid skip choice
+- Uber Undertaking
+	- Uber bossing is something a lot of people don't want to engage with, while you can buy carries skipping it is completely viable over currency dumping
+- Anything using Astrolabes
+	- The drop rates are very low, SSF especially you are probably having a very bad time.
 
-Honestly, everything is looking very easy in general. Ubers and maybe some Mirage content are the only contenders for being remotely hard or even expensive.
 
 # Unlocks
 This league is another full armour set with 36 completed challenges required to unlock all four pieces. There's various tiers to the pieces that allows you to toggle the amount of blueman group you're feeling.
