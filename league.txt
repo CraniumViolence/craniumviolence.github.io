@@ -2,8 +2,9 @@
 [.smolcenter]Challenges you haven't marked as completed are red while ones you have are green
 
 # Mirage League Challenges
-### Introduction
 This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include detailed descriptions of all core mechanics or systems.
+
+Difficulties are subjective and are oriented around thoughts on doing them in trade. SSF is always going to be notably harder.
 
 Mechanics related to the current league or new mechanics in general will naturally be covered more in depth.
 
@@ -13,14 +14,21 @@ Also I just want the Burger King set. It's awful, tacky crap in a very endearing
 
 [.semismol]Reminder that you should never buy supporter packs before you actually play the league and find it's worth supporting!
 
-### Thoughts on the league
-The new atlas changes are good in terms of accessibility. The UX in general is lacking (GGG has never been good at this) and Astrolabes are a complete miss for me so far as I have found a total of two completing everything on the atlas. That I need to currency dump to even try them is not encouraging considering I expected them to balanced around mods on maps being rare, not the items themselves.
+# Thoughts on Mirage League
+<div id="ch-41" markdown="41">
+These are just my thoughts on day three. Feel free to <a href="#1beginnersbasics">skip past this, there's nothing of value here</a>.
 
-Mirage itself is a bit weird, the box loot is simply awful in every way and I don't know why they even bother spawning it. It would feel far better if you got a single typed chest based on what modifiers you chose to guarantee you don't get '80% more of nothing' when you choose scarabs as is often the case currently.
+The new atlas changes are good in terms of accessibility. The UX in general is lacking (GGG has never been good at this). Eagon doesn't even default to showing you the Atlas so memory chains give *no indication* by default of what the map even is.
 
-Breach feels almost spitefully implemented in some ways, you don't get enough graftblood if you don't want to engage with the terrible new blight inspired version which makes it a false choice really.
+Astrolabes are also a complete miss for me so far. They are very rare despite four stones which means I need to currency dump to even try them - which is never encouraging. I expected the items to be fairly common and balanced around maps rolling the overpowered mods (like sextants but with play instead of hideout warrioring) but it's a jackpot to even find them to then try and find more jackpots which will price most people out of the market.
+
+Mirage itself is a bit weird, the box loot is simply awful in every way and I don't know why they even bother spawning it. It would feel far better if you got a single typed chest based on what modifiers you chose to guarantee you don't get '80% more of nothing' when you choose scarabs as is often the case currently - and is something that has never felt good in anything, ever.
+
+Breach feels almost spitefully implemented in some ways, you don't get enough graftblood if you don't want to engage with the terrible new blight inspired version which makes it a false choice really. It's good XP and fun to engage with though. I'm probably missing some OP interactions considering its astrolabes are triple the price of everything else, the dangers of not watching streamers.
 
 [.semismol]It's my site, I can blog if I want to.
+
+</div>
 
 # 1 Beginner's Basics
 <div id="ch-1" markdown="1">
@@ -763,9 +771,9 @@ As of day three, the supply is in the low tens for most of them. The cost of thi
 <h2 class="req">8000 required</h2>
 [.ggg]Reach a total of 8,000 Map Tiers completing Maps.
 
-This is just 500 maps from a nil state. If you are doing full atlas completion you will have knocked out around half of this before you have to even think about it.
+This is just 500 maps from a nil state. If you are doing full atlas completion you will have knocked out at least a fifth of this before you have to even think about it.
 
-No quantity or rarity reqs means you can just blast it out with normal rarity maps too.
+No quantity or rarity reqs means you can just blast it out with normal rarity maps too. Mindless but easy.
 </div>
 
 # 31 Magnificent Memories
@@ -808,7 +816,7 @@ Astrolabe synergistic farming challenge. Altars you can get a lot of per map so 
 
 # 34 Vaulted Valuables
 <div id="ch-34" markdown="34">
-## Unknown
+## Normal
 ### New Content
 <h2 class="req">3 of 5 required</h2>
 [.ggg]Collect any three of the following types of rewards from Memory Vaults the specified number of times.
@@ -819,6 +827,8 @@ Astrolabe synergistic farming challenge. Altars you can get a lot of per map so 
 - [.ggg]Map (0/5)
 
 This looks like at minimum 25 full sets of astrolabe maps, this might end up rather grind heavy but we'll see as the league starts.
+
+This is functionally a currency dump. Each quadrant has multiple outcomes which seem to be biased, Uniques will probably be easiest to accomplish.
 </div>
 
 # 35 Instigative Invitations
@@ -877,7 +887,7 @@ Normal invitation challenge, nothing remarkable and doesn't need a notable build
 
 # 36 Nightmare Nemeses
 <div id="ch-36" markdown="36">
-## Normal
+## hard
 <h2 class="req">4 of 5 required</h2>
 [.ggg]Complete any four of the following Nightmare Maps while they have at least 175% Item Quantity.
 - [.ggg]Abomination Map
@@ -886,11 +896,11 @@ Normal invitation challenge, nothing remarkable and doesn't need a notable build
 - [.ggg]Sanctuary Map
 - [.ggg]Ziggurat Map
 
-The rebranded T17s, this should be easier than previous leagues. There's a small chance it might need to be upgraded to 'Hard'.
+The rebranded T17s, this should be easier than previous leagues. They are still basically the same thing despite being downgraded to Tier 16s.
 
 Using a `Scarab of Stability` can allow for a lot of extra breathing room as it stops portals being consumed.
 
-The `Scarab of Bisection` has been changed to buff the opposite set of modifiers meaning it might be viable for this if you roll carefully but is probably a bit fiddly for the returns.
+The `Scarab of Bisection` has been retired and there's now the `Scarab of the Sinistral` which disables Suffixes buffs Prefixes. It might be viable for this if you roll carefully but is fiddly as you would need to manually work out quantity.
 </div>
 
 # 37 Weeping Warlords Warfare
@@ -904,7 +914,7 @@ The `Scarab of Bisection` has been changed to buff the opposite set of modifiers
 - [.ggg]Without being hit by any Gangrenous Mass explosions
 - [.ggg]Without being hit by Charged Soul Slam
 
-It's a conditional run of the new boss, its rarity and difficulty is not yet known.
+It's a conditional run of the new boss accessed via using `The Black Barya` on the Atlas. The drop seems fairly rare and the fight has a chase unique which means the pricing is unlikely to be reasonable.
 
 As is generally the case, the higher your DPS the lower your time to make mistakes is.
 </div>
@@ -991,7 +1001,10 @@ Obvious contenders in vague order of consideration are as follows:
 	- Uber bossing is something a lot of people don't want to engage with, while you can buy carries skipping it is completely viable over currency dumping
 - Anything using Astrolabes
 	- The drop rates are very low, SSF especially you are probably having a very bad time.
+- Nightmare Nemeses
+	- The rebranded T17s still play like T17s. If you play bad builds you will probably struggle with this in spite of them being T16 now. They still get 8 modifiers even with some of the 'annoying' ones having been removed.
 
+Generally speaking, everything that isn't connected to the newest endgame additions is pretty easy, Astrolabes and Memory Vaults are the biggest things in question currently for being potentially bad with everything else being just T17s or Ubers.
 
 # Unlocks
 This league is another full armour set with 36 completed challenges required to unlock all four pieces. There's various tiers to the pieces that allows you to toggle the amount of blueman group you're feeling.
