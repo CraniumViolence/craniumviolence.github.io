@@ -20,6 +20,8 @@ These are just my thoughts on day three. Feel free to <a href="#1beginnersbasics
 
 The new atlas changes are good in terms of accessibility. The UX in general is lacking (GGG has never been good at this). Eagon doesn't even default to showing you the Atlas so memory chains give *no indication* by default of what the map even is.
 
+All of the core drop pool changes feel good. I like exalts being as usable as Regals and Alterations, it makes early crafting a lot nicer in terms of just getting something up to use while allowing for min-maxing still later. 
+
 Astrolabes are also a complete miss for me so far. They are very rare despite four stones which means I need to currency dump to even try them - which is never encouraging. I expected the items to be fairly common and balanced around maps rolling the overpowered mods (like sextants but with play instead of hideout warrioring) but it's a jackpot to even find them to then try and find more jackpots which will price most people out of the market.
 
 Mirage itself is a bit weird, the box loot is simply awful in every way and I don't know why they even bother spawning it. It would feel far better if you got a single typed chest based on what modifiers you chose to guarantee you don't get '80% more of nothing' when you choose scarabs as is often the case currently - and is something that has never felt good in anything, ever.
