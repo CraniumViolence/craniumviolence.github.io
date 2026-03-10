@@ -904,7 +904,7 @@ The rebranded T17s, this should be easier than previous leagues. They are still 
 
 Using a `Scarab of Stability` can allow for a lot of extra breathing room as it stops portals being consumed.
 
-The `Scarab of Bisection` has been retired and there's now the `Scarab of the Sinistral` which disables Suffixes buffs Prefixes. It might be viable for this if you roll carefully but is fiddly as you would need to manually work out quantity.
+The `Scarab of Bisection` has been retired and there's now the `Scarab of the Sinistral` and `Scarab of the Dextral` which disable Suffixes and buffs Prefixes (or vice versa). It might be viable for this if you roll carefully but is fiddly as you would need to manually work out quantity.
 </div>
 
 # 37 Weeping Warlords Warfare
