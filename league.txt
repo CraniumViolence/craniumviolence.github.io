@@ -502,30 +502,42 @@ This is a direct copy of last league's. If you don't run Heist they are a very o
 [.ggg]Use any seven of the following Mirage Currency items or Crafts the specified number of times.
 - [.ggg]Coin of Knowledge (0/5)
 	- [.com]Moderate
+	- [.ggg]Found in mirages affected by a Navira wish (Blue Water Jug)
 - [.ggg]Coin of Power (0/5)
 	- [.com]Moderate
+	- [.ggg]Found in mirages affected by a Ruzhan wish (Red Sword)
 - [.ggg]Coin of Skill (0/5)
 	- [.com]Moderate
+	- [.ggg]Found in mirages affected by a Kelari wish (White Dagger)
 - [.ggg]Coin of Restoration (0/5)
 	- [.com]Cheap
+	- [.com]Generic mirage drop
 - [.ggg]Coin of Desecration (0/5)
 	- [.com]Cheap
+	- [.com]Generic mirage drop
 - [.ggg]Volatile Vaal Orb (0/5)
-	- [.com]Somewhat expensive
+	- [.com]Expensive
+	- [.com]Drops from doing `Beyond` in Mirages
+		- [.com]Bosses have higher chances but I have personally seen one drop while specced into `Endless Tide`
 - [.ggg]Sinistral or Dextral Catalyst (0/20)
 	- [.com]Moderate
+	- [.com]Drops from doing `Ultimatums` in Mirages
 - [.ggg]Any Crystallised Rancour Craft (0/3)
 	- [.com]Cheap
+	- [.com]Drops from doing `Harvest` in Mirages
 - [.ggg]Essence of Desolation (0/3)
 	- [.com]Cheap
+	- [.com]Drops from doing `Essence` in Mirages
 - [.ggg]Honoured, Sacred or Miraged Incubator (0/10)
 	- [.com]Honoured are cheap
+	- [.com]Drops from doing `Legion` in Mirages	
 - [.ggg]Refracting Fog (0/5)
 	- [.com]Moderate
+	- [.com]Drops from doing `Delirium` in Mirages	
 
-This is the new content, the quantities might give some idea of rarity but we'll see. It's likely this ends up as a currency sink but it's only 7 of 11 at least.
+This is the new content, the quantities are a bit high for some of them so it's likely this ends up as a currency sink especially as the leage progresses, but it's only 7 of 11 at least.
 
-The prices of the Coins has gone up because they are not actually super common, they might come back down as the league progresses.
+Skipping Volatile Vaal Orbs is an obvious call.
 </div>
 
 # 23 Remarkable Realms
@@ -551,6 +563,7 @@ The prices of the Coins has gone up because they are not actually super common, 
 - [.ggg]Pillars of Arun
 - [.ggg]Doryani's Machinarium
 	- [.com]You probably want to try and find a group to split the cost for this
+	- [.com]Unless Kirac can sell it, it's exclusively from `Delve` from the `Ahuatotli` boss with a minimum Depth of 50.	
 
 This is all the maps and there's no more scouting reports which means this one is a bit of a stinker compared to the last few leagues. Maybe Kirac can sell Doryani's Machinarium but I wouldn't hold my breath.
 
@@ -855,9 +868,7 @@ This is functionally a currency dump. Each quadrant has multiple outcomes which 
 		- [.com]Set of `Elderslayer Crests`
 	- [.com]Incarnation of Dread
 		- [.com]`Echo of Reverence` boss
-		- [.com]Itemised memories exist now so this should be less dreadful
-			- [.com]GGG did not in fact deploy this change, so it is still dreadful
-			- [.com]I assume it isn't on purpose as they have entries in the currency tab and on the currency exchange
+		- [.com]Itemised memories exist now so this is cheaper if you are willing to put in a few extra maps
 - [.ggg]The Forgotten
     - [.com]`Rewritten Distant Memory`
     - [.com]`Augmented Distant Memory`
