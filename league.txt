@@ -760,16 +760,29 @@ You can buy carries for this but most of the bosses aren't too bad. Simulacrum a
 <h2 class="req">4 of 11 required</h2>
 [.ggg]Complete Maps in any four of the following types of Regions created by Atlas Astrolabes the specified number of times while the Maps are Rare and at least Tier 14.
 - [.ggg]Templar Astrolabe (0/30)
+	- [.com]`Originator` content
 - [.ggg]Fruiting Astrolabe (0/30)
+	- [.com]`Harvest` content
 - [.ggg]Lightless Astrolabe (0/30)
+	- [.com]`Abyss` content
 - [.ggg]Grasping Astrolabe (0/30)
+	- [.com]`Breach` content
 - [.ggg]Nameless Astrolabe (0/30)
+	- [.com]`Abyss` content
 - [.ggg]Fungal Astrolabe (0/30)
+	- [.com]`Blight` content
 - [.ggg]Chaotic Astrolabe (0/30)
+	- [.com]`Ultimatum` content
 - [.ggg]Enshrouded Astrolabe (0/30)
+	- [.com]`Delirium` content
 - [.ggg]Timeless Astrolabe (0/30)
+	- [.com]`Legion` content
 - [.ggg]Runic Astrolabe (0/30)
+	- [.com]`Expedition` content
 - [.ggg]Prospecting Astrolabe (0/30)
+	- [.com]`Kingsmarch` content
+	- [.com]At least, it would be. This seemingly doesn't actually exist!
+		- [.com]This also means you cannot currently get 40/40 with all components of all challenges done
 
 Astrolabes drop from the Memory Chain bosses and everywhere on the Atlas after completing Zana's three memory chains. 
 
