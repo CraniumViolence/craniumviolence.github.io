@@ -8,29 +8,7 @@ Difficulties are subjective and are oriented around thoughts on doing them in tr
 
 Mechanics related to the current league or new mechanics in general will naturally be covered more in depth.
 
-I was full doomer after awful breach replaced good breach but Mirage is looking a lot better. I will still miss classic breachstones, they were very comfy.
-
-Also I just want the Burger King set. It's awful, tacky crap in a very endearing way.
-
 [.semismol]Reminder that you should never buy supporter packs before you actually play the league and find it's worth supporting!
-
-# Thoughts on Mirage League
-<div id="ch-41" markdown="41">
-These are just my thoughts on day three. Feel free to <a href="#1beginnersbasics">skip past this, there's nothing of value here</a>.
-
-The new atlas changes are good in terms of accessibility. The UX in general is lacking (GGG has never been good at this). Eagon doesn't even default to showing you the Atlas so memory chains give *no indication* by default of what the map even is.
-
-All of the core drop pool changes feel good. I like exalts being as usable as Regals and Alterations, it makes early crafting a lot nicer in terms of just getting something up to use while allowing for min-maxing still later. 
-
-Astrolabes are also a complete miss for me so far. They are very rare despite four stones which means I need to currency dump to even try them - which is never encouraging. I expected the items to be fairly common and balanced around maps rolling the overpowered mods (like sextants but with play instead of hideout warrioring) but it's a jackpot to even find them to then try and find more jackpots which will price most people out of the market.
-
-Mirage itself is a bit weird, the box loot is simply awful in every way and I don't know why they even bother spawning it. It would feel far better if you got a single typed chest based on what modifiers you chose to guarantee you don't get '80% more of nothing' when you choose scarabs as is often the case currently - and is something that has never felt good in anything, ever.
-
-Breach feels almost spitefully implemented in some ways, you don't get enough graftblood if you don't want to engage with the terrible new blight inspired version which makes it a false choice really. It's good XP and fun to engage with though. I'm probably missing some OP interactions considering its astrolabes are triple the price of everything else, the dangers of not watching streamers.
-
-[.semismol]It's my site, I can blog if I want to.
-
-</div>
 
 # 1 Beginner's Basics
 <div id="ch-1" markdown="1">
@@ -788,9 +766,7 @@ Astrolabes drop from the Memory Chain bosses and everywhere on the Atlas after c
 
 This is simply completing Tier 14 or higher maps which makes it very mild realistically and comes out at 120 maps total.
 
-Astrolabe drop rates are no where close to being accessible right now so you should be prepared to currency dump to get this done. 
-
-As of day three, the supply is in the low tens for most of them. The cost of this could easily shoot upwards.
+Astrolabe drop rates are no where close to being accessible for self-farming right now so you should be prepared to currency dump to get this done. 
 </div>
 
 # 30 Tyrannical Tiers
@@ -933,7 +909,7 @@ The `Scarab of Bisection` has been retired and there's now the `Scarab of the Si
 
 # 37 Weeping Warlords Warfare
 <div id="ch-37" markdown="37">
-## Unknown
+## Easy
 ### New Content
 <h2 class="req">3 of 4 required</h2>
 [.ggg]Defeat Saresh, The Weeping Black in any three of the specified ways.
@@ -942,7 +918,14 @@ The `Scarab of Bisection` has been retired and there's now the `Scarab of the Si
 - [.ggg]Without being hit by any Gangrenous Mass explosions
 - [.ggg]Without being hit by Charged Soul Slam
 
-It's a conditional run of the new boss accessed via using `The Black Barya` on the Atlas. The drop seems fairly rare and the fight has a chase unique which means the pricing is unlikely to be reasonable.
+It's a conditional run of the new boss accessed via using `The Black Barya` on the Atlas. The drop seems fairly rare and the fight has a chase unique which means the pricing is unlikely to go lower.
+
+You can target farm this to an extent [by following this guide by Steelmage](https://www.youtube.com/watch?v=BWtAFzTp9mA). You basically want to look out for `Wish for Rust` which adds `Ridan, of the Afarud` to your Mirage instance. He can also spawn at the Mirage entrance in maps, but you can't influence this outside of 'doing more maps'.
+
+I'm going to be honest, I've done the boss a bunch of times and I have no idea what any of these conditions are despite meeting them. I'm guessing they are:
+- The ground puddle for Festering Soul
+- The protruting tentacles that explode
+- The large attack at around 33% health
 
 As is generally the case, the higher your DPS the lower your time to make mistakes is.
 </div>
@@ -956,7 +939,9 @@ As is generally the case, the higher your DPS the lower your time to make mistak
 
 <strike>This is just the new core of mapping after getting your Voidstones. You are very likely to get this trivially. Destructive play might or might not count towards this.</strike>
 
-Astrolabes are disgustingly scarce compared to what I expected and you will average maybe one per two hundred maps. You are likely to spend several divines finishing this up with current prices. Considering the requirement is also a pretty juiced map, this might end up rough.
+Astrolabes are disgustingly scarce compared to what I expected and you will average maybe one per two hundred maps. Considering the requirement is also a pretty juiced map, this might end up rough especially for SSF players.
+
+You should probably not use `Synthesised Stability` as it can cause your astrolabe cloud to be cut in half prematurely costing you a bunch of maps.
 </div>
 
 # 39 Uber Undertaking
@@ -1027,11 +1012,11 @@ Obvious contenders in vague order of consideration are as follows:
 	- GGG is as has been the case for most recent leagues rather tame this time around but if you don't want to run a bunch of invitations or pinnacles this is a solid skip choice
 - Uber Undertaking
 	- Uber bossing is something a lot of people don't want to engage with, while you can buy carries skipping it is completely viable over currency dumping
-- Anything using Astrolabes
-	- The drop rates are very low, SSF especially you are probably having a very bad time.
 - Nightmare Nemeses
 	- The rebranded T17s still play like T17s. If you play bad builds you will probably struggle with this in spite of them being T16 now. They still get 8 modifiers even with some of the 'annoying' ones having been removed.
-
+- Anything using Astrolabes
+	- The drop rates are very low, SSF especially you are probably having a very bad time.
+	
 Generally speaking, everything that isn't connected to the newest endgame additions is pretty easy, Astrolabes and Memory Vaults are the biggest things in question currently for being potentially bad with everything else being just T17s or Ubers.
 
 # Unlocks
