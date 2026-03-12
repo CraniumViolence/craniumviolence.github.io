@@ -762,11 +762,11 @@ You can buy carries for this but most of the bosses aren't too bad. Simulacrum a
 	- [.com]At least, it would be. This seemingly doesn't actually exist!
 		- [.com]This also means you cannot currently get 40/40 with all components of all challenges done
 
-Astrolabes drop from the Memory Chain bosses and everywhere on the Atlas after completing Zana's three memory chains. 
+Astrolabes drop guaranteed from the Memory Chain finale bosses and everywhere on the Atlas after completing Zana's three memory chains from bosses exceptionally rarely.
 
-This is simply completing Tier 14 or higher maps which makes it very mild realistically and comes out at 120 maps total.
+Actual challenge wise, this is simply completing Tier 14 or higher maps which makes it very mild realistically and comes out at 120 maps total.
 
-Astrolabe drop rates are no where close to being accessible for self-farming right now so you should be prepared to currency dump to get this done. 
+Astrolabe drop rates are no where close to being accessible for self-farming right now so you should be prepared to currency dump to get this done. Or to play an awful lot.
 </div>
 
 # 30 Tyrannical Tiers
@@ -837,7 +837,7 @@ This is functionally a currency dump. Each quadrant has multiple outcomes which 
 
 # 35 Instigative Invitations
 <div id="ch-35" markdown="35">
-## Normal
+## Hard
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following invitations while they have at least four modifiers.
 - [.ggg]Screaming
@@ -887,6 +887,8 @@ This is functionally a currency dump. Each quadrant has multiple outcomes which 
 	- Obviously has the issue of watching the Elder murder original map bosses every time, but you can get through it I'm sure
 
 Normal invitation challenge, nothing remarkable and doesn't need a notable build since it's just four mods with no quantity so you can roll until you get a baby invitation.
+
+That said, the new version of The Feared is absolutely rancid, so your mileage may vary.
 </div>
 
 # 36 Nightmare Nemeses
@@ -1015,7 +1017,9 @@ Obvious contenders in vague order of consideration are as follows:
 - Nightmare Nemeses
 	- The rebranded T17s still play like T17s. If you play bad builds you will probably struggle with this in spite of them being T16 now. They still get 8 modifiers even with some of the 'annoying' ones having been removed.
 - Anything using Astrolabes
-	- The drop rates are very low, SSF especially you are probably having a very bad time.
+	- The drop rates are very low, SSF especially you are probably having a bad time
+- Instigative Invitations
+	- `The Feared` is harder than Uber Bosses depending on character because visual clutter and lack of cohesion is GGG's passion
 	
 Generally speaking, everything that isn't connected to the newest endgame additions is pretty easy, Astrolabes and Memory Vaults are the biggest things in question currently for being potentially bad with everything else being just T17s or Ubers.
 
