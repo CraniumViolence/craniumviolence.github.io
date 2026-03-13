@@ -617,7 +617,9 @@ Pretty standard currency sink and item puzzle that they've used before.
 <h2 class="req">4 of 6 required</h2>
 [.ggg]Complete any four of the following past league content encounters.
 - [.ggg]Defeat a Breach Marshal while Delirious
-	- [.com]You can force breach bosses using the Atlas and you can force Delirium using Scarabs or the Atlas
+	- [.com]You can force breach bosses using the Atlas and you can force Delirium using Scarabs, the Atlas or Delirium Orbs
+	- [.com]An obvious easy option is to simply not touch the delirium mirror at all and when you get a Vruun spawn; backtrack to start it after pre-damaging him
+	- [.com]Using multiple `Breach Scarab of Instability` will basically always get you a Vruun spawn too
 - [.ggg]Defeat a Stygian Spire while affected by a Shrine
 	- [.com]`Abyss Scarab of Edifice` can force a Stygian Spire to spawn and you can pair this with any forced Shrines from Atlas or Scarabs
 - [.ggg]Defeat an Essence Monster that is Possessed
@@ -634,8 +636,11 @@ Pretty standard currency sink and item puzzle that they've used before.
 	- [.com]This is literal, you need it to get Possessed while in the ritual itself
 	- [.com]There is a ritual that spawns Tormented Spirits and Scarabs for more in the wild
 	- [.com]`Shore` was removed this league so you can't abuse that this time around
+	- [.com]`Templar Astrolabes` can force Tormented Spirits to surround a map boss which can be worked with
 	
-Skipping the two Possessed ones is likely the best choice but only the Unique Map Boss one is really bad
+Skipping the two Possessed ones is likely the best choice but only the Unique Map Boss one is really bad.
+
+Mirages can also allow you to get a second try at these. 
 </div>
 
 # 27 Wishful Willing
@@ -825,10 +830,15 @@ Astrolabe synergistic farming challenge. Altars you can get a lot of per map so 
 <h2 class="req">3 of 5 required</h2>
 [.ggg]Collect any three of the following types of rewards from Memory Vaults the specified number of times.
 - [.ggg]Currency (0/5)
+	- [.com]Exarch and Eater Quadrant (Bottom Left)
 - [.ggg]Unique (0/5)
+	- [.com]Shaper or Memory Quadrants (Top Left, Top Right)
 - [.ggg]Gem (0/5)
+	- [.com]Shaper Quadrant (Top Right)
 - [.ggg]Fragment (0/5)
+	- [.com]Mmaven Quadrant (Bottom Right)
 - [.ggg]Map (0/5)
+	- [.com]Mmaven Quadrant (Bottom Right)
 
 This looks like at minimum 25 full sets of astrolabe maps, this might end up rather grind heavy but we'll see as the league starts.
 
@@ -902,9 +912,19 @@ That said, the new version of The Feared is absolutely rancid, so your mileage m
 - [.ggg]Sanctuary Map
 - [.ggg]Ziggurat Map
 
-The rebranded T17s, this should be easier than previous leagues. They are still basically the same thing despite being downgraded to Tier 16s.
+In terms of raw quantity you can obtain:
+- Atlas Map completions for +25% 
+- Sacrifice Fragments for +5% (up to 4x for 20%)
+- Mortal Fragments for +10% (up to 4x for 40%)
+- Atlas Passive middle points for +15%
 
-Using a `Scarab of Stability` can allow for a lot of extra breathing room as it stops portals being consumed.
+If you go with a stability, four mortal fragments, all atlas passive points and a completed atlas you will need to roll 95% quantity. If you forego the stability you can add a sacrifice fragment too for 90%.
+
+Map modifier effect nodes will also increase quantity on the map. Area of Effect is very, very bad in this context and will potentially brick Ziggurat and Abomination for you.
+
+Shrines and Niko buffs can help if you are struggling to take down a boss still and you can obviously always buy a carry.
+
+Ultimately this is just rebranded T17s, this should be easier than previous leagues. They are still basically the same thing despite being downgraded to Tier 16s.
 
 The `Scarab of Bisection` has been retired and there's now the `Scarab of the Sinistral` and `Scarab of the Dextral` which disable Suffixes and buffs Prefixes (or vice versa). It might be viable for this if you roll carefully but is fiddly as you would need to manually work out quantity.
 </div>
