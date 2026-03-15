@@ -490,13 +490,26 @@ This is a direct copy of last league's. If you don't run Heist they are a very o
 - [.ggg]Coin of Restoration (0/5)
 	- [.com]Cheap
 	- [.com]Generic mirage drop
+	- [.com]Buy a desecrated unique first and then you can use both this and then the `Coin of Desecration` afterwards for uses of both coins
+		- [.com]`Skysunder`
+		- [.com]`Khatal's Geyser`
+		- [.com]`The Flame of Hope`
+		- [.com]`Solerai's Radiance`
+		- [.com]`The Sacred Chalice`
 - [.ggg]Coin of Desecration (0/5)
 	- [.com]Cheap
 	- [.com]Generic mirage drop
+	- [.com]Buy the desecrated unique first and then you can use both this and then the `Coin of Restoration` afterwards for uses of both coins
+		- [.com]`Fleshrender`
+		- [.com]`Khatal's Weeping`
+		- [.com]`The Bane of Hope`
+		- [.com]`Saresh's Darkness`
+		- [.com]`The Desecrated Chalice		
 - [.ggg]Volatile Vaal Orb (0/5)
 	- [.com]Expensive
 	- [.com]Drops from doing `Beyond` in Mirages
 		- [.com]Bosses have higher chances but I have personally seen one drop while specced into `Endless Tide`
+		- [.com]`Beyond Scarab of Resurgence` and a mechanic that spawns a lot of mobs like `Breach` pair well
 - [.ggg]Sinistral or Dextral Catalyst (0/20)
 	- [.com]Moderate
 	- [.com]Drops from doing `Ultimatums` in Mirages
@@ -972,19 +985,29 @@ You should probably not use `Synthesised Stability` as it can cause your astrola
 <h2 class="req">5 of 10 required</h2>
 [.ggg]Defeat any five of the following Pinnacle Boss Encounters while the area is level 85.
 - [.ggg]Sirus, Awakener of Worlds
+	- [.com]`Awakening Fragments` from `Abomination`
 - [.ggg]The Elder
+	- [.com]`Decaying Fragments` from `Fortress`
 - [.ggg]The Maven
+	- [.com]`Reality Fragments` from `Abomination`
 - [.ggg]The Searing Exarch
+	- [.com]`Blazing Fragments` from `Ziggurat`
 - [.ggg]The Eater of Worlds
+	- [.com]`Devouring Fragments` from `Ziggurat`
 - [.ggg]High Templar Venarius
+	- [.com]`Synthesising Fragments` from `Fortress`
 - [.ggg]The Shaper
+	- [.com]`Cosmic Fragments` from `Citadel`
 - [.ggg]Incarnation of Dread
+	- [.com]`Reverent Fragments` from `Sanctuary`
 - [.ggg]Incarnation of Fear
+	- [.com]`Traumatic Fragments` from `Sanctuary`
 - [.ggg]Incarnation of Neglect
+	- [.com]`Lonely Fragments` from `Sanctuary`
 
 This is four of the seven uber boss variants, if you have a boss killer this should be fine, otherwise you can buy the clears.
 
-Shaper and Cortex are the most reasonable to self-complete with the others varying wildly by your build.
+Shaper and Cortex are the most reasonable to self-complete followed by the Incarnation bosses with the others varying wildly by your build.
 
 All of the fights have lingering damage over time that lasts the entire fight which makes high DPS crucial if you want to have leeway in your execution. The longer the fight the worse the arena and the more likely you are to fail.
 </div>
@@ -1014,7 +1037,8 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 - [.ggg]Defeat Rare monsters with at least 4 Modifiers while in Tier 16 Maps (0/250)
 	- [.com]Rather easy realistically, Beasts, Essences, Breach and Nemesis can speed this up a lot
 - [.ggg]Defeat Map Bosses in Mirages of Rare Maps that are at least Tier 16 and have at least 80% Item Quantity (0/100)
-	- [.com]Not sure how hard this will end up, but yo ucan presumably run fully miraged maps to force this.
+	- [.com]You run fully miraged maps to force this.
+	- [.com]You can also target farm this to an extent [by following this guide by Steelmage](https://www.youtube.com/watch?v=BWtAFzTp9mA) for Black Barya farming, even if you don't get `Ridan` you can still get bosses.
 	
 As is seemingly tradition now, this is actually very easy.
 </div>
