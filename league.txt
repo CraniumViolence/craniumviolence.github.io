@@ -172,7 +172,7 @@ Freebie, just normal areas that have shortcuts on waypoints.
 - [.ggg]Defeat Rare Beyond Monsters (30x)
 	- [.com]A <code class="price brackets">Beyond Scarab</code> and the Atlas can all enable Beyond monsters spawning
 	- [.com]Atlas points can lower requirements for spawning monsters and `Endless Tide` makes it so you cannot spawn bosses (bosses stop further beyond monster spawns by default)
-	- [.com]<code class="price brackets">Beyond Scarab of Haemophilia` and `Beyond Scarab of the Invasion</code> both make spawning Beyond monsters easier
+	- [.com]<code class="price brackets">Beyond Scarab of Haemophilia</code> and <code class="price brackets">Beyond Scarab of the Invasion</code> both make spawning Beyond monsters easier
 	
 Some of the numbers above for scarabs might be wrong as they were adjusted to make up for the removed map device and I might have missed totals.
 </div>
@@ -513,7 +513,7 @@ This is a direct copy of last league's. If you don't run Heist they are a very o
 - [.ggg]Volatile Vaal Orb (5x)
 	- [.com]Drops from doing `Beyond` in Mirages
 		- [.com]Bosses have higher chances but I have personally seen one drop while specced into `Endless Tide`
-		- [.com]`Beyond Scarab of Resurgence` and a mechanic that spawns a lot of mobs like `Breach` pair well
+		- [.com]<code class="price brackets">Beyond Scarab of Resurgence</code> and a mechanic that spawns a lot of mobs like `Breach` pair well
 	- [.price]Volatile Vaal Orb
 - [.ggg]Sinistral or Dextral Catalyst (20x)
 	- [.com]Drops from doing `Ultimatums` in Mirages
@@ -1096,7 +1096,7 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 		- [.com]<code class="price brackets">Breach Scarab of Instability</code> x2
 		- [.com]<code class="price brackets">Scarab of Monstrous Lineage</code> x1
 		- [.com]<code class="price brackets">Domination Scarab</code> x2
-		- [.com]If you don't want to use a second domination scarab, you could opt for Beyond boss spawn chance and use a `Beyond Scarab of Resurgence` to fish for some <code class="price brackets">Volatile Vaal Orb</code> drops
+		- [.com]If you don't want to use a second domination scarab, you could opt for Beyond boss spawn chance and use a <code class="price brackets">Beyond Scarab of Resurgence</code> to fish for some <code class="price brackets">Volatile Vaal Orb</code> drops
 	- [.com]<code class="price brackets">The Coward's Trial</code> is chill but not great in terms of time or cost returns compared to other options
 	- [.com]Rest in peace breachstones and beachheads
 - [.ggg]Use the Divine Font in the Endgame Labyrinth (50x)

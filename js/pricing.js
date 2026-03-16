@@ -50,6 +50,7 @@ function priceEntries() {
     $('.price').each(function() {
         var nameString = $(this).text();
 		var useBrackets = $(this).hasClass("brackets");
+		var replaceText = $(this).hasClass("replace");
         for (var key in jsonDataMap) {
             if (jsonDataMap.hasOwnProperty(key)) {
                 var data = jsonDataMap[key];
@@ -62,10 +63,12 @@ function priceEntries() {
                             const matchedLine = data["lines"].find(line => line.id === id);
                             if (matchedLine && matchedLine.primaryValue) {
                                 finalValue = matchedLine.primaryValue;
-								if(!useBrackets){
-									$(this).append(": <span>" + priceFormat(finalValue) + "</span>");
-								} else {
+								if(useBrackets){
 									$(this).append(" <span>(" + priceFormat(finalValue) + ")</span>");
+								} else if (replaceText) {
+									$(this).html(priceFormat(finalValue));
+								} else {
+									$(this).append(": <span>" + priceFormat(finalValue) + "</span>");
 								}
                             }
                         }
@@ -73,10 +76,12 @@ function priceEntries() {
                         const matchedLine = data["lines"].find(line => line.name === nameString);
                         if (matchedLine && matchedLine.chaosValue) {
                             finalValue = matchedLine.chaosValue;
-							if(!useBrackets){
-								$(this).append(": <span>" + priceFormat(finalValue) + "</span>");
-							} else {
+							if(useBrackets){
 								$(this).append(" <span>(" + priceFormat(finalValue) + ")</span>");
+							} else if (replaceText) {
+								$(this).html(priceFormat(finalValue));
+							} else {
+								$(this).append(": <span>" + priceFormat(finalValue) + "</span>");
 							}
                         }
                     }
