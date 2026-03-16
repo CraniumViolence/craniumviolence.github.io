@@ -156,4 +156,5 @@ function waitForElements() {
 waitForElements().then(() => {
 	checkHidden();
 	addCheckboxes();
+	priceEntries();
 });

@@ -1,0 +1,40 @@
+name: pull poe.ninja json hourly
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  run-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Go
+        uses: actions/setup-go@v3
+        with:
+          go-version: '1.26'
+
+      - name: run actual go
+        working-directory: ./go
+        run: go run .
+
+      - name: setup git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      - name: push changes
+        run: |
+          git add ./go/*
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Automated update"
+            git push origin main
+          fi

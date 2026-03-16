@@ -10,6 +10,8 @@ Mechanics related to the current league or new mechanics in general will natural
 
 [.semismol]Reminder that you should never buy supporter packs before you actually play the league and find it's worth supporting!
 
+Coloured and isolated prices are dynamic and updated hourly using data from [poe.ninja](https://poe.ninja/), last updated <span class="time">-</span>
+
 # 1 Beginner's Basics
 <div id="ch-1" markdown="1">
 ## Very Easy
@@ -89,9 +91,9 @@ Completely normal compulsory progression.
 ### New Content
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following Mirage encounters.
-- [.ggg]Choose Wishes (0/5)
-- [.ggg]Defeat Rare Monsters in Mirages (0/10)
-- [.ggg]Break the Astral Chain in Mirages (0/15)
+- [.ggg]Choose Wishes (5x)
+- [.ggg]Defeat Rare Monsters in Mirages (10x)
+- [.ggg]Break the Astral Chain in Mirages (15x)
 
 Basic interaction with the league mechanic. You will complete this in 15 mirages because you are required to do the other two steps first for every Mirage completion.
 </div>
@@ -144,33 +146,33 @@ Freebie, just normal areas that have shortcuts on waypoints.
 ## Easy
 <h2 class="req">3 of 6 required</h2>
 [.ggg]Complete any three of the following League Mechanic encounters the specified number of times.
-- [.ggg]Defeat Monsters with Essence (0/30)
+- [.ggg]Defeat Monsters with Essence (30x)
 	- [.com]Atlas points can guarantee at least **1** monster each map
-	- [.com]`Essence Scarab` adds **2** monsters up to a max of **10** while using five
-	- [.com]`Essence Scarab of Calcification` converts **all rare monsters** in a map to be imprisoned
-- [.ggg]Open Strongboxes (0/30)
+	- [.com]<code class="price brackets">Essence Scarab</code> adds **2** monsters up to a max of **10** while using five
+	- [.com]<code class="price brackets">Essence Scarab of Calcification</code> converts **all rare monsters** in a map to be imprisoned
+- [.ggg]Open Strongboxes (30x)
 	- [.com]Atlas points can guarantee at least **1** strongbox each map
-	- [.com]`Ambush Scarab` will add **4** to a map up to a max of **12** while using three
-- [.ggg]Activate Shrines (0/30)
+	- [.com]<code class="price brackets">Ambush Scarab</code> will add **4** to a map up to a max of **12** while using three
+- [.ggg]Activate Shrines (30x)
 	- [.com]Atlas points can guarantee at least **1** shrine a map
-	- [.com]`Domination Scarab` adds **2** shrines to a map up to a max of **8** while using four
-	- [.com]`Domination Scarab of Apparitions` adds **2** Apparition Shrines to a map
-	- [.com]`Domination Scarab of Evolution` adds **1** Evolving Shrine up to a maximum of **2** while using two
-- [.ggg]Defeat Possessed Monsters (0/30)
+	- [.com]<code class="price brackets">Domination Scarab</code> adds **2** shrines to a map up to a max of **8** while using four
+	- [.com]<code class="price brackets">Domination Scarab of Apparitions</code> adds **2** Apparition Shrines to a map
+	- [.com]<code class="price brackets">Domination Scarab of Evolution</code> adds **1** Evolving Shrine up to a maximum of **2** while using two
+- [.ggg]Defeat Possessed Monsters (30x)
 	- [.com]Atlas points can add at least **1** Tormented Spirit
 		- [.com]Pairing this with `Rogue Exiles` is sensible as `Exiled Will` causes Rogue Exiles to be possessed
-	- [.com]`Torment Scarab of Possession` grants a fixed 25% chance for each rare in an area to be possessed up to a maximum of 75%
-	- [.com]`Torment Scarab` adds **3** additional Tormented Sprits to an area
+	- [.com]<code class="price brackets">Torment Scarab of Possession</code> grants a fixed 25% chance for each rare in an area to be possessed up to a maximum of 75%
+	- [.com]<code class="price brackets">Torment Scarab</code> adds **3** additional Tormented Sprits to an area
 	- [.com]Do not take `Speaker of the Dead` if you want to complete this
 	- [.com]This is an obvious skip because it's awkward compared to the rest
-- [.ggg]Defeat Rogue Exiles (0/30)
+- [.ggg]Defeat Rogue Exiles (30x)
 	- [.com]Atlas points can add **1** Rogue Exile and can cause them to appear in pairs or spawn extras with a map boss
-	- [.com]`Anarchy Scarab` adds **4** Rogue Exiles** up to a maximum of **20** while using five
-	- [.com]`Anarchy Scarab of Partnership` is a 50% chance for Rogue Exiles to appear in pairs
-- [.ggg]Defeat Rare Beyond Monsters (0/30)
-	- [.com]A `Beyond Scarab` and the Atlas can all enable Beyond monsters spawning
+	- [.com]<code class="price brackets">Anarchy Scarab</code> adds **4** Rogue Exiles** up to a maximum of **20** while using five
+	- [.com]<code class="price brackets">Anarchy Scarab of Partnership</code> is a 50% chance for Rogue Exiles to appear in pairs
+- [.ggg]Defeat Rare Beyond Monsters (30x)
+	- [.com]A <code class="price brackets">Beyond Scarab</code> and the Atlas can all enable Beyond monsters spawning
 	- [.com]Atlas points can lower requirements for spawning monsters and `Endless Tide` makes it so you cannot spawn bosses (bosses stop further beyond monster spawns by default)
-	- [.com]`Beyond Scarab of Haemophilia` and `Beyond Scarab of the Invasion` both make spawning Beyond monsters easier
+	- [.com]<code class="price brackets">Beyond Scarab of Haemophilia` and `Beyond Scarab of the Invasion</code> both make spawning Beyond monsters easier
 	
 Some of the numbers above for scarabs might be wrong as they were adjusted to make up for the removed map device and I might have missed totals.
 </div>
@@ -180,27 +182,27 @@ Some of the numbers above for scarabs might be wrong as they were adjusted to ma
 ## Very Easy
 <h2 class="req">5 of 11 required</h2>
 [.ggg]Complete any five of the following League Mechanic encounters the specified number of times.
-- [.ggg]Complete Abysses (0/30)
+- [.ggg]Complete Abysses (30x)
 	- [.com]You have ot actually chase down the Abyss but you can push a lot of Abysses into a single map
-- [.ggg]Complete Expeditions (0/30)
+- [.ggg]Complete Expeditions (30x)
 	- [.com]Requires reading to avoid bricking encounters, truly not for the faint of heart
-- [.ggg]Complete Harvest Plots (0/100)
+- [.ggg]Complete Harvest Plots (100x)
 	- [.com]You will get multiple plots per harvest making this about equal to everything else
-- [.ggg]Complete Legion Encounters (0/30)
+- [.ggg]Complete Legion Encounters (30x)
 	- [.com]As many per map as you push onto it
-- [.ggg]Open Smuggler's Caches (0/30)
+- [.ggg]Open Smuggler's Caches (30x)
 	- [.com]Very unobtrusive, simply click the caches as you see them while doing anything else
-- [.ggg]Pass through Mirrors of Delirium (0/30)
+- [.ggg]Pass through Mirrors of Delirium (30x)
 	- [.com]One a map, you can immediately end it because it's just passing through
-- [.ggg]Complete Ultimatum Waves (0/200)
+- [.ggg]Complete Ultimatum Waves (200x)
 	- [.com]You can get 10 to 13 waves per Ultimatum, this seems balanced around
-- [.ggg]Complete Blights (0/30)
+- [.ggg]Complete Blights (30x)
 	- [.com]One a map
-- [.ggg]Complete Rituals (0/100)
+- [.ggg]Complete Rituals (100x)
 	- [.com]3 or 4 per map
-- [.ggg]Complete Ore Deposit Encounters (0/30)
+- [.ggg]Complete Ore Deposit Encounters (30x)
 	- [.com]As many per map as you push onto it
-- [.ggg]Complete Unstable Breaches or Hives (0/30)
+- [.ggg]Complete Unstable Breaches or Hives (30x)
 	- [.com]As many per map as you push onto it, one to five deterministically
 
 Normal content completion challenge. Mirages should presumably add '1+' to each mechanic you can duplicate.
@@ -211,13 +213,13 @@ Normal content completion challenge. Mirages should presumably add '1+' to each 
 ## Easy
 <h2 class="req">2 of 4 required</h2>
 [.ggg]Complete any two of the following Master Mission encounters in Tier 11 or higher Maps the specified number of times.
-- [.ggg]Niko Missions (0/30)
+- [.ggg]Niko Missions (30x)
 	- [.com]Tagging all Sulphite nodes in a map
-- [.ggg]Einhar Missions (0/30)
+- [.ggg]Einhar Missions (30x)
 	- [.com]Capturing all Beasts in a map
-- [.ggg]Jun Missions (0/30)
+- [.ggg]Jun Missions (30x)
 	- [.com]Completing all Syndicate Encounters in a map
-- [.ggg]Alva Missions (0/30)
+- [.ggg]Alva Missions (30x)
 	- [.com]Completing all Incursions in a map
 	
 Red Maps but no tier requirement beyond that, spec into them on the Atlas and you can get 100% chance or simply use their Scarabs.
@@ -229,13 +231,13 @@ Red Maps but no tier requirement beyond that, spec into them on the Atlas and yo
 ### New Content
 <h2 class="req">All required</h2>
 [.ggg]Choose Wishes with the following Djinn Sigils the specified number of times.
-- [.ggg]Sigil of Navira (0/50)
+- [.ggg]Sigil of Navira (50x)
 	- [.com]Blue choices
 	- [.com]The icon is a Blue Water Jug
-- [.ggg]Sigil of Kelari (0/50)
+- [.ggg]Sigil of Kelari (50x)
 	- [.com]White Choices
 	- [.com]The icon is a White Dagger
-- [.ggg]Sigil of Ruzhan (0/50)
+- [.ggg]Sigil of Ruzhan (50x)
 	- [.com]Red Choices
 	- [.com]The icon is a Red Sword
 
@@ -275,25 +277,25 @@ You might unironically end up needing to buy lower tier maps depending on how yo
 ### Currency Sink
 <h2 class="req">15 of 19 required</h2>
 [.ggg]Use any 15 of the following Currency items the specified number of times. Crafting Bench options also count towards this challenge.
-- [.ggg]Orb of Transmutation (0/40)
-- [.ggg]Orb of Augmentation (0/30)
-- [.ggg]Orb of Alteration (0/20)
-- [.ggg]Orb of Chance (0/20)
-- [.ggg]Orb of Alchemy (0/20)
-- [.ggg]Orb of Scouring (0/30)
-- [.ggg]Orb of Fusing (0/20)
-- [.ggg]Jeweller's Orb (0/20)
-- [.ggg]Chromatic Orb (0/20)
-- [.ggg]Orb of Annulment (0/3)
-- [.ggg]Regal Orb (0/20)
-- [.ggg]Chaos Orb (0/20)
+- [.ggg]Orb of Transmutation (40x)
+- [.ggg]Orb of Augmentation (30x)
+- [.ggg]Orb of Alteration (20x)
+- [.ggg]Orb of Chance (20x)
+- [.ggg]Orb of Alchemy (20x)
+- [.ggg]Orb of Scouring (30x)
+- [.ggg]Orb of Fusing (20x)
+- [.ggg]Jeweller's Orb (20x)
+- [.ggg]Chromatic Orb (20x)
+- [.ggg]Orb of Annulment (3x)
+- [.ggg]Regal Orb (20x)
+- [.ggg]Chaos Orb (20x)
 - [.ggg]Exalted Orb
-- [.ggg]Blessed Orb (0/20)
+- [.ggg]Blessed Orb (20x)
 - [.ggg]Divine Orb
 - [.ggg]Sacred Orb
-- [.ggg]Enkindling or Instilling Orb (0/20)
-- [.ggg]Orb of Regret (0/20)
-- [.ggg]Orb of Unmaking (0/20)
+- [.ggg]Enkindling or Instilling Orb (20x)
+- [.ggg]Orb of Regret (20x)
+- [.ggg]Orb of Unmaking (20x)
 
 It's just consuming normal currency in moderate amounts and doesn't even force Divines or other expensive currencies. This is free if you are going for challenge rewards in general realistically.
 </div>
@@ -312,28 +314,28 @@ This is just literally normal mapping. `Destructive Play` will help as will maps
 ## Normal
 <h2 class="req">5 of 11 required</h2>
 [.ggg]Complete any five of the following encounters while the area level is 81 or higher if possible the specified number of times.
-- [.ggg]Abyssal Depths (0/5)
-	- [.com]There's a new `Abyss Scarab of Descending` that forces Depths spawns but it might not be cheap
-- [.ggg]Logbooks with at least 10 Remnants active (0/5)
+- [.ggg]Abyssal Depths (5x)
+	- [.com]There's a new <code class="price brackets">Abyss Scarab of Descending</code> that forces Depths spawns but it might not be cheap
+- [.ggg]Logbooks with at least 10 Remnants active (5x)
 	- [.com]You can simply buy these and then it's as simple as playing them normally
 	- [.com]These are just the modifiers that activate as you blow things up
-- [.ggg]Tier 4 Harvest Seeds (0/5)
+- [.ggg]Tier 4 Harvest Seeds (5x)
 	- [.com]Crop Rotation can get you Tier 4s relatively even if it's not completely consistent
-	- [.com]The `Harvest Scarab of Cornucopia` exists and allows you to force at least one Tier 4 monster to spawn
-- [.ggg]Domains of Timeless Conflict with at least 25 rewards (0/3)
+	- [.com]The <code class="price brackets">Harvest Scarab of Cornucopia</code> exists and allows you to force at least one Tier 4 monster to spawn
+- [.ggg]Domains of Timeless Conflict with at least 25 rewards (3x)
 	- [.com]Can be done in a four or five-way fairly easily as long as your build is decent at clearing, simply get the emblems
 	- [.com]Buying in to a five-way rota will obviously complete this for you while also levelling you but is a lot more than simply buying the emblems if your character can handle it
 	- [.com]This might sound hard if you are unfamiliar with the content, but it is legitimately not even a single full row of rewards and it does not take a notable build to reach this amount
-- [.ggg]Blueprints with 4 revealed wings (0/5)
+- [.ggg]Blueprints with 4 revealed wings (5x)
 	- [.com]Requires engaging with Heist as all the blueprint will require that you have levelled up your Rogues to be taken
 	- [.com][Very simple to search for on the trade website](https://www.pathofexile.com/trade/search/Mercenaries/lVlbq2psV), simply look for area level of 81 and set the heist section to include four revealed wings
 		- [.com]The in game async trading search should presumably also cover this.
-- [.ggg]Simulacrum Waves (0/60)
+- [.ggg]Simulacrum Waves (60x)
 	- [.com]Simply waves, doesn't need you to complete them
 	- [.com]I would avoid attrition grinding if you can't do at least 10 waves and do something else instead as you will ultimately just be wasting money otherwise
-- [.ggg]Fully Completed Ultimatums (0/10)
+- [.ggg]Fully Completed Ultimatums (10x)
 	- [.com]This is a full set of 10 or more waves depending on your atlas tree, not too bad but a lot of builds will struggle with T14 and full ten waves
-- [.ggg]Blighted or Blight Ravaged Maps (0/5)	- [.com]Can be cleared on any build even with zero DPS because of how the systems work
+- [.ggg]Blighted or Blight Ravaged Maps (5x)	- [.com]Can be cleared on any build even with zero DPS because of how the systems work
 	- [.com]`Clear Oil`, `Sepia Oil` and `Amber Oil` can `Slow Monsters`, `Increase Tower Damage` and `Make Towers Cheaper` respectively
 		- [.com]`Blighted` maps allow for up to three of any one type of oil while `Blight Ravaged` allow for up to three of three types of oil
 		- [.com]You can mix and match oils, you don't need to use only one type
@@ -346,15 +348,15 @@ This is just literally normal mapping. `Destructive Play` will help as will maps
 	- [.com]Build multiple damage types in each lane to cover immunities and try to build towers around actual lane chokepoints
 	- [.com]Avoid immune to stun, chance to avoid elemental ailments and cannot be slowed below base speed as modifiers
 	- [.com]Blight Ravaged is a lot harder but can still be managed with just those two ring anoints if you don't get a really, really bad layout
-- [.ggg]All Rituals in Maps with at least one Blood-filled Vessel applied (0/10)	- [.com]Needs Ritual Vessels made from 100x Ritual Splinters
+- [.ggg]All Rituals in Maps with at least one Blood-filled Vessel applied (10x)	- [.com]Needs Ritual Vessels made from 100x Ritual Splinters
 	- [.com]Use them on completed rituals to fill them up
 	- [.com]Use filled ones as a map fragment when opening a portal to add the monsters to rituals
 	- [.com]This is a fairly big undertaking compared to some of the others, you cannot fill vessels from rituals that used vessels making this a lot more than 20 in most cases
-- [.ggg]Claim rewards from Rare Maps successfully completed by your Atlas Runners (0/30)
+- [.ggg]Claim rewards from Rare Maps successfully completed by your Atlas Runners (30x)
 	- [.com]Basic kingsmarch interaction, map runners are purely a gold sink you want highest level possible for
 	- [.com]It is rare maps only so you can transmute and regal maps for highest clear chances and even annul them if you're feeling crazy
-- [.ggg]Complete Hive Fortresses or Defeat Breach Marshals (0/10)
-	- [.com]Stack unstable breaches, disable hives and run the `Breach Scarab of the Marashal` and you can do this in two to three maps
+- [.ggg]Complete Hive Fortresses or Defeat Breach Marshals (10x)
+	- [.com]Stack unstable breaches, disable hives and run the <code class="price brackets">Breach Scarab of the Marashal</code> (very optional) and you can do this in two to three maps
 	
 A copy of last league with a token breach addition.
 </div>
@@ -365,17 +367,17 @@ A copy of last league with a token breach addition.
 ### New Content
 <h2 class="req">4 of 11 required</h2>
 [.ggg]Complete any four of the following Empowered League Mechanic encounters while in Mirages the specified number of times.
-- [.ggg]Complete Abysses (0/15)
-- [.ggg]Complete Expeditions (0/15)
-- [.ggg]Complete Harvest Plots (0/50)
-- [.ggg]Complete Legion Encounters (0/15)
-- [.ggg]Open Smuggler's Caches (0/15)
-- [.ggg]Pass through Mirrors of Delirium (0/15)
-- [.ggg]Complete Ultimatum Waves (0/50)
-- [.ggg]Complete Blights (0/15)
-- [.ggg]Complete Rituals (0/25)
-- [.ggg]Complete Ore Deposit Encounters (0/15)
-- [.ggg]Complete Unstable Breaches or Hives (0/15)
+- [.ggg]Complete Abysses (15x)
+- [.ggg]Complete Expeditions (15x)
+- [.ggg]Complete Harvest Plots (50x)
+- [.ggg]Complete Legion Encounters (15x)
+- [.ggg]Open Smuggler's Caches (15x)
+- [.ggg]Pass through Mirrors of Delirium (15x)
+- [.ggg]Complete Ultimatum Waves (50x)
+- [.ggg]Complete Blights (15x)
+- [.ggg]Complete Rituals (25x)
+- [.ggg]Complete Ore Deposit Encounters (15x)
+- [.ggg]Complete Unstable Breaches or Hives (15x)
 
 Mirages spawn next to other league content, to target farm you should use the Atlas Tree Points and Scarabs for your mechanic of choice and consider blocking anything you've already completed.
 </div>
@@ -401,10 +403,10 @@ Normal progression, this is just getting all of your ascendancy points and doing
 ### Currency Sink
 <h2 class="req">3 of 4 required</h2>
 [.ggg]Turn in Divination Cards which specifically grant each of the following reward types the specified number of times.
-- [.ggg]Currency item (0/20)
-- [.ggg]Gem (0/10)
-- [.ggg]Two-Implicit Unique item (0/3)
-- [.ggg]Six-Linked Item (0/2)
+- [.ggg]Currency item (20x)
+- [.ggg]Gem (10x)
+- [.ggg]Two-Implicit Unique item (3x)
+- [.ggg]Six-Linked Item (2x)
 
 Faustus makes this easy enough. I'll add some basic card recommendations later. It's three of four so you can skip one.
 </div>
@@ -450,9 +452,12 @@ Faustus makes this easy enough. I'll add some basic card recommendations later. 
 	- [.com]Running a set of `Mortal Fragments` will always meet the level requirement
 - [.ggg]Izaro
 	- [.com]Requires use of one of the Harvest offerings which all buff the labyrinth rather a lot with each having additional buffs for certain things
-		- [.com]`Dedication to the Goddess` which buffs `Traps` heavily
-		- [.com]`Tribute to the Goddess` which buffs `Monsters` heavily
-		- [.com]`Gift to the Goddess` which buffs `Izaro` heavily	
+		- [.com]`Dedication to the Goddess` which buffs `Traps` heavily and enables divine font options for corrupted gems
+			- [.price]Dedication to the Goddess
+		- [.com]`Tribute to the Goddess` which buffs `Monsters` heavily and buffs reward chests
+			- [.price]Tribute to the Goddess
+		- [.com]`Gift to the Goddess` which buffs `Izaro` heavily and gives 6 additional divine font uses
+			- [.price]Gift to the Goddess
 - [.ggg]Abyssal Lich
 	- [.com]Run Abyss in T14s or higher and get an Abyssal Depths
 	- [.com]`Kurgal, the Blackblooded` the lich found in Delve does not count towards this challenge
@@ -478,17 +483,16 @@ This is a direct copy of last league's. If you don't run Heist they are a very o
 ### New Content
 <h2 class="req">7 of 11 required</h2>
 [.ggg]Use any seven of the following Mirage Currency items or Crafts the specified number of times.
-- [.ggg]Coin of Knowledge (0/5)
-	- [.com]Moderate
-	- [.ggg]Found in mirages affected by a Navira wish (Blue Water Jug)
-- [.ggg]Coin of Power (0/5)
-	- [.com]Moderate
-	- [.ggg]Found in mirages affected by a Ruzhan wish (Red Sword)
-- [.ggg]Coin of Skill (0/5)
-	- [.com]Moderate
-	- [.ggg]Found in mirages affected by a Kelari wish (White Dagger)
-- [.ggg]Coin of Restoration (0/5)
-	- [.com]Cheap
+- [.ggg]Coin of Knowledge (5x)
+	- [.ggg]Rarely found in mirages affected by a Navira wish (Blue Water Jug)
+	- [.price]Coin of Knowledge
+- [.ggg]Coin of Power (5x)
+	- [.ggg]Rarely found in mirages affected by a Ruzhan wish (Red Sword)
+	- [.price]Coin of Power
+- [.ggg]Coin of Skill (5x)
+	- [.ggg]Rarely found in mirages affected by a Kelari wish (White Dagger)
+	- [.price]Coin of Skill
+- [.ggg]Coin of Restoration (5x)
 	- [.com]Generic mirage drop
 	- [.com]Buy a desecrated unique first and then you can use both this and then the `Coin of Desecration` afterwards for uses of both coins
 		- [.com]`Skysunder`
@@ -496,35 +500,39 @@ This is a direct copy of last league's. If you don't run Heist they are a very o
 		- [.com]`The Flame of Hope`
 		- [.com]`Solerai's Radiance`
 		- [.com]`The Sacred Chalice`
-- [.ggg]Coin of Desecration (0/5)
-	- [.com]Cheap
+	- [.price]Coin of Restoration
+- [.ggg]Coin of Desecration (5x)
 	- [.com]Generic mirage drop
 	- [.com]Buy the desecrated unique first and then you can use both this and then the `Coin of Restoration` afterwards for uses of both coins
 		- [.com]`Fleshrender`
 		- [.com]`Khatal's Weeping`
 		- [.com]`The Bane of Hope`
 		- [.com]`Saresh's Darkness`
-		- [.com]`The Desecrated Chalice		
-- [.ggg]Volatile Vaal Orb (0/5)
-	- [.com]Expensive
+		- [.com]`The Desecrated Chalice`
+	- [.price]Coin of Desecration
+- [.ggg]Volatile Vaal Orb (5x)
 	- [.com]Drops from doing `Beyond` in Mirages
 		- [.com]Bosses have higher chances but I have personally seen one drop while specced into `Endless Tide`
 		- [.com]`Beyond Scarab of Resurgence` and a mechanic that spawns a lot of mobs like `Breach` pair well
-- [.ggg]Sinistral or Dextral Catalyst (0/20)
-	- [.com]Moderate
+	- [.price]Volatile Vaal Orb
+- [.ggg]Sinistral or Dextral Catalyst (20x)
 	- [.com]Drops from doing `Ultimatums` in Mirages
-- [.ggg]Any Crystallised Rancour Craft (0/3)
-	- [.com]Cheap
+	- [.price]Sinistral Catalyst
+	- [.price]Dextral Catalyst
+- [.ggg]Any Crystallised Rancour Craft (3x)
 	- [.com]Drops from doing `Harvest` in Mirages
-- [.ggg]Essence of Desolation (0/3)
-	- [.com]Cheap
+	- [.price]Crystallised Rancour
+- [.ggg]Essence of Desolation (3x)
 	- [.com]Drops from doing `Essence` in Mirages
-- [.ggg]Honoured, Sacred or Miraged Incubator (0/10)
-	- [.com]Honoured are cheap
+	- [.price]Essence of Desolation
+- [.ggg]Honoured, Sacred or Miraged Incubator (10x)
 	- [.com]Drops from doing `Legion` in Mirages	
-- [.ggg]Refracting Fog (0/5)
-	- [.com]Moderate
-	- [.com]Drops from doing `Delirium` in Mirages	
+	- [.price]Honoured Incubator
+	- [.price]Sacred Incubator
+	- [.price]Miraged Incubator
+- [.ggg]Refracting Fog (5x)
+	- [.com]Drops from doing `Delirium` in Mirages
+	- [.price]Refracting Fog
 
 This is the new content, the quantities are a bit high for some of them so it's likely this ends up as a currency sink especially as the leage progresses, but it's only 7 of 11 at least.
 
@@ -536,29 +544,47 @@ Skipping Volatile Vaal Orbs is an obvious call.
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following Unique Maps.
 - [.ggg]Vaults of Atziri
+	- [.com]<code class="price replace">Vaults of Atziri</code>
 - [.ggg]Maelström of Chaos
+	- [.com]<code class="price replace">Maelström of Chaos</code>
 - [.ggg]The Coward's Trial
+	- [.com]<code class="price replace">The Coward's Trial</code>
 - [.ggg]Acton's Nightmare
+	- [.com]<code class="price replace">Acton's Nightmare</code>
 - [.ggg]Poorjoy's Asylum
+	- [.com]<code class="price replace">Poorjoy's Asylum</code>
 - [.ggg]Mao Kun
+	- [.com]<code class="price replace">Mao Kun</code>
 - [.ggg]Oba's Cursed Trove
+	- [.com]<code class="price replace">Oba's Cursed Trove</code>
 - [.ggg]Olmec's Sanctum
+	- [.com]<code class="price replace">Olmec's Sanctum</code>
 - [.ggg]Death and Taxes
+	- [.com]<code class="price replace">Death and Taxes</code>
 - [.ggg]Whakawairua Tuahu
+	- [.com]<code class="price replace">Whakawairua Tuahu</code>
 - [.ggg]The Vinktar Square
+	- [.com]<code class="price replace">The Vinktar Square</code>
 	- [.com]Vendor `Agnerod North`, `Agnerod East`, `Agnerod South` and `Agnerod West` to get this map back
+	- [.com]The staffs normally run a couple chaos, it is likely cheaper than the map
 - [.ggg]Caer Blaidd, Wolfpack's Den
+	- [.com]<code class="price replace">Caer Blaidd, Wolfpack's Den</code>
 - [.ggg]The Putrid Cloister
+	- [.com]<code class="price replace">The Putrid Cloister</code>
 - [.ggg]Hallowed Ground
+	- [.com]<code class="price replace">Hallowed Ground</code>
 - [.ggg]The Twilight Temple
+	- [.com]<code class="price replace">The Twilight Temple</code>
 - [.ggg]Pillars of Arun
+	- [.com]<code class="price replace">Pillars of Arun</code>
 - [.ggg]Doryani's Machinarium
+	- [.com]<code class="price replace">Doryani's Machinarium</code>
 	- [.com]You probably want to try and find a group to split the cost for this
 	- [.com]Unless Kirac can sell it, it's exclusively from `Delve` from the `Ahuatotli` boss with a minimum Depth of 50.	
 
 This is all the maps and there's no more scouting reports which means this one is a bit of a stinker compared to the last few leagues. Maybe Kirac can sell Doryani's Machinarium but I wouldn't hold my breath.
 
-Of note is that Unique Maps need you to be able to see them on the Atlas to open them even if you have the map item, [the full atlas can be found on PoEDB](https://poedb.tw/us/Atlas_of_Worlds) to help with locating the maps. 
+Of note is that Unique Maps need you to be able to see them on the Atlas to open them even if you have the map item, [the full atlas can be found on PoEDB](https://poedb.tw/us/Atlas_of_Worlds) to help with locating the maps. If you can't see them you can still join other people hosting them and get full credit.
 
 On the bright side, they didn't make anyone do Hall of Grandmasters.
 </div>
@@ -568,32 +594,32 @@ On the bright side, they didn't make anyone do Hall of Grandmasters.
 ## Normal
 <h2 class="req">8 of 26 required</h2>
 [.ggg]Complete Maps with any eight of the following types of Scarabs the specified number of times while the Maps are Rare and at least Tier 14. Completing Maps with more Scarabs applied contributes more progress.
-- [.ggg]Cartography (0/30)
-- [.ggg]Divination (0/30)
-- [.ggg]Titanic (0/30)
-- [.ggg]Bestiary (0/30)
-- [.ggg]Betrayal (0/30)
-- [.ggg]Delve (0/30)
-- [.ggg]Incursion (0/30)
-- [.ggg]Anarchy (0/30)
-- [.ggg]Domination (0/30)
-- [.ggg]Essence (0/30)
-- [.ggg]Strongbox (0/30)
-- [.ggg]Torment (0/30)
-- [.ggg]Influence (0/30)
-- [.ggg]Abyss (0/30)
-- [.ggg]Beyond (0/30)
-- [.ggg]Blight (0/30)
-- [.ggg]Breach (0/30)
-- [.ggg]Delirium (0/30)
-- [.ggg]Expedition (0/30)
-- [.ggg]Harvest (0/30)
-- [.ggg]Kalguuran (0/30)
-- [.ggg]Legion (0/30)
-- [.ggg]Ritual (0/30)
-- [.ggg]Ultimatum (0/30)
-- [.ggg]Misc (0/30)
-- [.ggg]Horned (0/30)
+- [.ggg]Cartography (30x)
+- [.ggg]Divination (30x)
+- [.ggg]Titanic (30x)
+- [.ggg]Bestiary (30x)
+- [.ggg]Betrayal (30x)
+- [.ggg]Delve (30x)
+- [.ggg]Incursion (30x)
+- [.ggg]Anarchy (30x)
+- [.ggg]Domination (30x)
+- [.ggg]Essence (30x)
+- [.ggg]Strongbox (30x)
+- [.ggg]Torment (30x)
+- [.ggg]Influence (30x)
+- [.ggg]Abyss (30x)
+- [.ggg]Beyond (30x)
+- [.ggg]Blight (30x)
+- [.ggg]Breach (30x)
+- [.ggg]Delirium (30x)
+- [.ggg]Expedition (30x)
+- [.ggg]Harvest (30x)
+- [.ggg]Kalguuran (30x)
+- [.ggg]Legion (30x)
+- [.ggg]Ritual (30x)
+- [.ggg]Ultimatum (30x)
+- [.ggg]Misc (30x)
+- [.ggg]Horned (30x)
 
 Assuming maximum slots, you can gain 5 progress towards this per map ran. This ends up around 48 maps baseline if you are not wasting any and you can reasonably be expected to get it passively if you run multiple mechanics across the league.
 </div>
@@ -606,7 +632,7 @@ Assuming maximum slots, you can gain 5 progress towards this per map ran. This e
 - [.ggg]Corrupt a gem to become either level 21 or 23% quality
 	- [.com]Slam Vaal Orbs on Lv20 or 20% quality gems
 	- [.com]Use the Lapidary Lens for better odds (Alva Temples)
-- [.ggg]Use Gemcutter's Prisms (0/40)
+- [.ggg]Use Gemcutter's Prisms (40x)
 	- [.com]Two manually qualitied to 20% gems, this is just a currency sink
 	- [.com]You can vendor any single `20% quality gem` or set of games with `40% quality total` to get a GCP back
 	- [.com]Heist is a solid source of these
@@ -632,24 +658,24 @@ Pretty standard currency sink and item puzzle that they've used before.
 - [.ggg]Defeat a Breach Marshal while Delirious
 	- [.com]You can force breach bosses using the Atlas and you can force Delirium using Scarabs, the Atlas or Delirium Orbs
 	- [.com]An obvious easy option is to simply not touch the delirium mirror at all and when you get a Vruun spawn; backtrack to start it after pre-damaging him
-	- [.com]Using multiple `Breach Scarab of Instability` will basically always get you a Vruun spawn too
+	- [.com]Using multiple <code class="price brackets">Breach Scarab of Instability</code> will get you a Vruun spawn more often than not and <code class="price brackets">Breach Scarab of the Marashal</code> will force a Vruun spawn
 - [.ggg]Defeat a Stygian Spire while affected by a Shrine
-	- [.com]`Abyss Scarab of Edifice` can force a Stygian Spire to spawn and you can pair this with any forced Shrines from Atlas or Scarabs
+	- [.com]<code class="price brackets">Abyss Scarab of Edifice</code> can force a Stygian Spire to spawn and you can pair this with any forced Shrines from Atlas or Scarabs
 - [.ggg]Defeat an Essence Monster that is Possessed
-	- [.com]`Essence Scarab of Calcification` paired with `Torment Scarab of Possession` makes getting this straight forward, if expensively
-	- [.com]`Torment Scarabs` can force extra tormented spirits in general as can the Atlas
+	- [.com]<code class="price brackets">Essence Scarab of Calcification</code> paired with <code class="price brackets">Torment Scarab of Possession</code> makes getting this straight forward, if expensively
+	- [.com]Multiple <code class="price brackets">Torment Scarab</code> can force extra tormented spirits in general as can the Atlas
 - [.ggg]Defeat a Blight Boss while affected by a Tempest
-	- [.com]`Scarab of Radiant Storms` spawns tempests
+	- [.com]<code class="price brackets">Scarab of Radiant Storms</code> spawns tempests
 	- [.com]`Blightspawn` on the Atlas Tree forces a blight lane to be all bosses
 - [.ggg]Defeat a Delirium or Beyond Boss while in the Sacred Grove
 	- [.com]Luck based, stacking beyond and delirium at the same time probably gets you the best hopes
 	- [.com]You can use a Delirium Orb to force delirium for the entire map
-	- [.com]`Delirium Scarab of Neuroses` forces boss spawns, you can spam them in maps with 100% harvest chance and just rush to the harvest grove to see if there's a boss present
+	- [.com]<code class="price brackets">Delirium Scarab of Neuroses</code> forces boss spawns, you can spam them in maps with 100% harvest chance and just rush to the harvest grove to see if there's a boss present
 - [.ggg]Defeat a Unique Map Boss that is Possessed while in a Ritual
 	- [.com]This is literal, you need it to get Possessed while in the ritual itself
 	- [.com]There is a ritual that spawns Tormented Spirits and Scarabs for more in the wild
 	- [.com]`Shore` was removed this league so you can't abuse that this time around
-	- [.com]`Templar Astrolabes` can force Tormented Spirits to surround a map boss which can be worked with
+	- [.com]<code class="price brackets">Templar Astrolabes</code> can force Tormented Spirits to surround a map boss which can be worked with
 	
 Skipping the two Possessed ones is likely the best choice but only the Unique Map Boss one is really bad.
 
@@ -716,13 +742,13 @@ This is very trivial, simply select differing mirage wishes whenever you see the
 [.ggg]Defeat any seven of the following Bosses or Encounters.
 - [.ggg]The Trialmaster
 	- [.com]For the `Chaos Bloodline`, defeat `The Trialmaster` in any map of Area Level 81 or higher through Ultimatums
-	- [.com]Can be forced using an `Ultimatum Scarab of Dueling`
+	- [.com]Can be forced using an <code class="price brackets">Ultimatum Scarab of Dueling</code>
 - [.ggg]The King in the Mists
-	- [.com]For the `Nameless Bloodline`, defeat `The King in the Mists` using `An Audience With The King` in the map device
+	- [.com]For the `Nameless Bloodline`, defeat `The King in the Mists` using <code class="price brackets">An Audience With The King</code> in the map device
 - [.ggg]Oshabi
-	- [.com]For the `Oshabi Bloodline`, defeat `Oshabi, Avatar of the Grove` using a `Sacred Blossom` in the map device
+	- [.com]For the `Oshabi Bloodline`, defeat `Oshabi, Avatar of the Grove` using a <code class="price brackets">Sacred Blossom</code> in the map device
 - [.ggg]Catarina
-	- [.com]For the `Catarina Bloodline`, defeat `Catarina, Master of Undeath` by using a `Syndicate Medallion`
+	- [.com]For the `Catarina Bloodline`, defeat `Catarina, Master of Undeath` by using a <code class="price brackets">Syndicate Medallion</code>
 - [.ggg]Aul
 	- [.com]For the `Aul Bloodline`, defeat `Aul` in Delve at a depth of 130 or deeper
 		- [.com]The deeper you are the higher your chances
@@ -736,18 +762,19 @@ This is very trivial, simply select differing mirage wishes whenever you see the
 - [.ggg]Farrul
 	- [.com]For the `Farrul Bloodline`, defeat `Farrul, First of the Plains` in the Menagerie by using a `Farric Tiger Alpha` to open a portal to his fight
 - [.ggg]Simulacrum
-	- [.com]For the `Delirious Bloodline` by completing a `Simulacrum`
+	- [.com]For the `Delirious Bloodline` by completing a <code class="price brackets">Simulacrum</code>
 		- [.com]This is all 15 waves, this is actually rather hard for the vast majority of builds. You might want a carry.
 - [.ggg]It That Was Tul and It That Was Esh
 	- [.com]For the `Breachlord Bloodline`, defeat `It That Was Tul` and `It That Was Esh` in a breach fortress
-	- [.com]`Hivebrain Gland` forces this encounter to spawn.
+	- [.com]<code class="price brackets">Hivebrain Gland</code> forces this encounter to spawn.
 - [.ggg]Saresh of the Weeping Black
 	- [.com]The new Mirage boss
-	- [.com]Availability has yet to be determined, there are no new fragments so this might be rarer than some of the others
+	- [.com]You can target farm this to an extent [by following this guide by Steelmage](https://www.youtube.com/watch?v=BWtAFzTp9mA). You basically want to look out for `Wish for Rust` which adds `Ridan, of the Afarud` to your Mirage instance. He can also spawn at the Mirage entrance in maps, but you can't influence this outside of 'doing more maps'.
+	- [.price]The Black Barya
 	
 Engage with the recent bloodlines mechanic, nothing special and you can very much choose your own poison. 
 
-You can buy carries for this but most of the bosses aren't too bad. Simulacrum and Lycia are obvious skip choices as they are very specific content with specific build requirements (Lycia less so but it's still Sanctum).
+You can buy carries for this but most of the bosses aren't too bad. Simulacrum and Lycia are obvious skip choices as they are very specific content with specific build requirements (Lycia less so, but it's still Sanctum).
 </div>
 
 # 29 Atlas Astrolabes
@@ -755,27 +782,37 @@ You can buy carries for this but most of the bosses aren't too bad. Simulacrum a
 ## Normal
 <h2 class="req">4 of 11 required</h2>
 [.ggg]Complete Maps in any four of the following types of Regions created by Atlas Astrolabes the specified number of times while the Maps are Rare and at least Tier 14.
-- [.ggg]Templar Astrolabe (0/30)
+- [.ggg]Templar Astrolabe (30x)
 	- [.com]`Originator` content
-- [.ggg]Fruiting Astrolabe (0/30)
+	- [.price]Templar Astrolabe
+- [.ggg]Fruiting Astrolabe (30x)
 	- [.com]`Harvest` content
-- [.ggg]Lightless Astrolabe (0/30)
+	- [.price]Fruiting Astrolabe
+- [.ggg]Lightless Astrolabe (30x)
 	- [.com]`Abyss` content
-- [.ggg]Grasping Astrolabe (0/30)
+	- [.price]Lightless Astrolabe
+- [.ggg]Grasping Astrolabe (30x)
 	- [.com]`Breach` content
-- [.ggg]Nameless Astrolabe (0/30)
+	- [.price]Grasping Astrolabe
+- [.ggg]Nameless Astrolabe (30x)
 	- [.com]`Abyss` content
-- [.ggg]Fungal Astrolabe (0/30)
+	- [.price]Nameless Astrolabe
+- [.ggg]Fungal Astrolabe (30x)
 	- [.com]`Blight` content
-- [.ggg]Chaotic Astrolabe (0/30)
+	- [.price]Fungal Astrolabe
+- [.ggg]Chaotic Astrolabe (30x)
 	- [.com]`Ultimatum` content
-- [.ggg]Enshrouded Astrolabe (0/30)
+	- [.price]Chaotic Astrolabe
+- [.ggg]Enshrouded Astrolabe (30x)
 	- [.com]`Delirium` content
-- [.ggg]Timeless Astrolabe (0/30)
+	- [.price]Enshrouded Astrolabe
+- [.ggg]Timeless Astrolabe (30x)
 	- [.com]`Legion` content
-- [.ggg]Runic Astrolabe (0/30)
+	- [.price]Timeless Astrolabe
+- [.ggg]Runic Astrolabe (30x)
 	- [.com]`Expedition` content
-- [.ggg]Prospecting Astrolabe (0/30)
+	- [.price]Runic Astrolabe
+- [.ggg]Prospecting Astrolabe (30x)
 	- [.com]`Kingsmarch` content
 	- [.com]At least, it would be. This seemingly doesn't actually exist!
 		- [.com]This also means you cannot currently get 40/40 with all components of all challenges done
@@ -785,6 +822,8 @@ Astrolabes drop guaranteed from the Memory Chain finale bosses and everywhere on
 Actual challenge wise, this is simply completing Tier 14 or higher maps which makes it very mild realistically and comes out at 120 maps total.
 
 Astrolabe drop rates are no where close to being accessible for self-farming right now so you should be prepared to currency dump to get this done. Or to play an awful lot.
+
+I would recommend you complete `Tremendous Tempests`, `Atlas Astrolabes` and `Vaulted Valuables` together as they are naturally complimentary.
 </div>
 
 # 30 Tyrannical Tiers
@@ -828,10 +867,10 @@ In most cases, you will get an empty box from doing this task, enjoy!
 ## Normal
 <h2 class="req"> of 2 required</h2>
 [.ggg]Defeat Witnessed Bosses or Activate Eldritch Altars while in Maps that are affected by an Atlas Astrolabe the specified number of times.
-- [.ggg]Defeat Witnessed Map Bosses (0/100)
+- [.ggg]Defeat Witnessed Map Bosses (100x)
 	- [.com]`Destructive Play` might count
 	- [.com]`Elderslayer` rotas should count as two putting this at 50 maps which has good synergy with the GGG challenge
-- [.ggg]Activate Eldritch Altars (0/200)
+- [.ggg]Activate Eldritch Altars (200x)
 
 Astrolabe synergistic farming challenge. Altars you can get a lot of per map so despite the higher number it is probably better than maven witnessing.
 </div>
@@ -842,20 +881,22 @@ Astrolabe synergistic farming challenge. Altars you can get a lot of per map so 
 ### New Content
 <h2 class="req">3 of 5 required</h2>
 [.ggg]Collect any three of the following types of rewards from Memory Vaults the specified number of times.
-- [.ggg]Currency (0/5)
+- [.ggg]Currency (5x)
 	- [.com]Exarch and Eater Quadrant (Bottom Left)
-- [.ggg]Unique (0/5)
+- [.ggg]Unique (5x)
 	- [.com]Shaper or Memory Quadrants (Top Left, Top Right)
-- [.ggg]Gem (0/5)
+- [.ggg]Gem (5x)
 	- [.com]Shaper Quadrant (Top Right)
-- [.ggg]Fragment (0/5)
-	- [.com]Mmaven Quadrant (Bottom Right)
-- [.ggg]Map (0/5)
-	- [.com]Mmaven Quadrant (Bottom Right)
+- [.ggg]Fragment (5x)
+	- [.com]Maven Quadrant (Bottom Right)
+- [.ggg]Map (5x)
+	- [.com]Maven Quadrant (Bottom Right)
 
-This looks like at minimum 25 full sets of astrolabe maps, this might end up rather grind heavy but we'll see as the league starts.
+A minimum of 15 full sets of Astrolabe charges. While `Synthesised Stability` is worse for getting the most returns from both modifiers and vaults, it will still let you get the vaults *faster*.
 
-This is functionally a currency dump. Each quadrant has multiple outcomes which seem to be biased, Uniques will probably be easiest to accomplish.
+This is functionally a lesser currency dump. Each quadrant has its own biases which makes it not too bad to target farm.
+
+I would recommend you complete `Tremendous Tempests`, `Atlas Astrolabes` and `Vaulted Valuables` together as they are naturally complimentary.
 </div>
 
 # 35 Instigative Invitations
@@ -865,49 +906,71 @@ This is functionally a currency dump. Each quadrant has multiple outcomes which 
 [.ggg]Complete each of the following invitations while they have at least four modifiers.
 - [.ggg]Screaming
 	- [.com]The Eater of Worlds
+	- [.price]Screaming Invitation
 - [.ggg]Incandescent
 	- [.com]The Searing Exarch
+	- [.price]Incandescent Invitation
 - [.ggg]The Elderslayers
 	- [.com]Al-Hezmin, the Hunter
+		- [.price]Al-Hezmin Map (Tier 16)
 	- [.com]Baran, the Crusader
+		- [.price]Baran Map (Tier 16)
 	- [.com]Drox, the Warlord
+		- [.price]Drox Map (Tier 16)
 	- [.com]Veritania, the Redeemer
+		- [.price]Veritania Map (Tier 16)
 - [.ggg]The Feared
 	- [.com]The Shaper
+		- [.price]Fragment of the Chimera
+		- [.price]Fragment of the Hydra
+		- [.price]Fragment of the Minotaur
+		- [.price]Fragment of the Phoenix
 	- [.com]The Elder
+		- [.price]Fragment of Purification
+		- [.price]Fragment of Constriction
+		- [.price]Fragment of Enslavement
+		- [.price]Fragment of Eradication
 	- [.com]Cortex
+		- [.price]Cortex
 	- [.com]Sirus
-		- [.com]Set of `Elderslayer Crests`
+		- [.price]Drox's Crest
+		- [.price]Baran's Crest
+		- [.price]Al-Hezmin's Crest
+		- [.price]Veritania's Crest
 	- [.com]Incarnation of Dread
-		- [.com]`Echo of Reverence` boss
+		- [.price]Echo of Reverence
 		- [.com]Itemised memories exist now so this is cheaper if you are willing to put in a few extra maps
 - [.ggg]The Forgotten
-    - [.com]`Rewritten Distant Memory`
-    - [.com]`Augmented Distant Memory`
-    - [.com]`Altered Distant Memory`
-    - [.com]`Twisted Distant Memory`
-	- [.com]Very good gold returns for time investment, decent chance of `Cortex` and a very low chance of jackpot rings
+    - [.price]Rewritten Distant Memory
+    - [.price]Augmented Distant Memory
+    - [.price]Altered Distant Memory
+    - [.price]Twisted Distant Memory
+	- [.com]Decent gold returns for time investment and potential for large quantities of GCP based on mods with a decent chance of `Cortex` and a very low chance of jackpot rings and flask
 - [.ggg]The Formed
-    - [.com]`Lair of the Hydra Map`
-    - [.com]`Maze of the Minotaur Map`
-    - [.com]`Forge of the Phoenix Map`
-    - [.com]`Pit of the Chimera Map`
+	- [.com]All of these now use <code class="price brackets">Shaper Guardian Map</code> instead of unique maps
+    - [.price]Lair of the Hydra Map
+    - [.price]Maze of the Minotaur Map
+    - [.price]Forge of the Phoenix Map
+    - [.price]Pit of the Chimera Map
 		- [.com]Can be rather annoying
 	- [.com]Historically, shaper sets mostly cover the cost of the run and Mavens generated will be pure profit
 - [.ggg]The Remembered
 	- [.com]`The Neglected Flame` in Courtyard of Wasting
+		- [.price]Memory of Loneliness
     - [.com]`The Cardinal of Fear` in Chambers of Impurity
+		- [.price]Memory of Trauma
     - [.com]`The Deceitful God` in Theatre of Lies
+		- [.price]Memory of Reverence
 	- [.com]This is an invitation containing all of the penultimate memory bosses, they are pretty bad to farm but you only need to do it once
 		- [.com]Itemised memories should make this much more viable on trade leagues
 - [.ggg]The Twisted
-	- `The Purifier`
-	- `The Constrictor`
-	- `The Enslaver`
-	- `The Eradicator`
-	- Using a `Blessed Orb` can reroll which of the guardians a map has as of 3.28
-	- Selling the fragments generally easily cover the cost of the maps, you can alternatively run them to fish for a Watcher's Eye to ID or sell
-	- Obviously has the issue of watching the Elder murder original map bosses every time, but you can get through it I'm sure
+	- [.price]The Purifier Map (Tier 16)
+	- [.price]The Constrictor Map (Tier 16)
+	- [.price]The Enslaver Map (Tier 16)
+	- [.price]The Eradicator Map (Tier 16)
+	- [.com]Using a `Blessed Orb` can reroll which of the guardians a map has as of 3.28
+	- [.com]Selling the fragments generally easily cover the cost of the maps, you can alternatively run them to fish for a Watcher's Eye to ID or sell
+	- [.com]Obviously has the issue of watching the Elder murder original map bosses every time, but you can get through it I'm sure
 
 Normal invitation challenge, nothing remarkable and doesn't need a notable build since it's just four mods with no quantity so you can roll until you get a baby invitation.
 
@@ -924,6 +987,8 @@ That said, the new version of The Feared is absolutely rancid, so your mileage m
 - [.ggg]Fortress Map
 - [.ggg]Sanctuary Map
 - [.ggg]Ziggurat Map
+
+These are now all ran using the generic <code class="price brackets">Nightmare Map</code> which start dropping semi-regularly after getting your `Voidstones`
 
 In terms of raw quantity you can obtain:
 - Atlas Map completions for +25% 
@@ -953,6 +1018,8 @@ The `Scarab of Bisection` has been retired and there's now the `Scarab of the Si
 - [.ggg]Without being hit by any Gangrenous Mass explosions
 - [.ggg]Without being hit by Charged Soul Slam
 
+Accessed via using <code class="price brackets">The Black Barya</code> on the map device.
+
 It's a conditional run of the new boss accessed via using `The Black Barya` on the Atlas. The drop seems fairly rare and the fight has a chase unique which means the pricing is unlikely to go lower.
 
 You can target farm this to an extent [by following this guide by Steelmage](https://www.youtube.com/watch?v=BWtAFzTp9mA). You basically want to look out for `Wish for Rust` which adds `Ridan, of the Afarud` to your Mirage instance. He can also spawn at the Mirage entrance in maps, but you can't influence this outside of 'doing more maps'.
@@ -972,11 +1039,11 @@ As is generally the case, the higher your DPS the lower your time to make mistak
 <h2 class="req">75 required</h2>
 [.ggg]Slay the Map Bosses of 75 Maps that are affected by an Atlas Astrolabe while are they Rare and Tier 16 with at least 150% Item Quantity.
 
-<strike>This is just the new core of mapping after getting your Voidstones. You are very likely to get this trivially. Destructive play might or might not count towards this.</strike>
+Astrolabes are scarce compared to what I expected and you will average maybe one per two hundred maps. Considering the requirement is also a pretty juiced map, this might end up rough especially for SSF players.
 
-Astrolabes are disgustingly scarce compared to what I expected and you will average maybe one per two hundred maps. Considering the requirement is also a pretty juiced map, this might end up rough especially for SSF players.
+You might want to consider not using `Synthesised Stability` as it can cause your astrolabe cloud to be cut in half prematurely costing you a bunch of maps.
 
-You should probably not use `Synthesised Stability` as it can cause your astrolabe cloud to be cut in half prematurely costing you a bunch of maps.
+I would recommend you complete `Tremendous Tempests`, `Atlas Astrolabes` and `Vaulted Valuables` together as they are naturally complimentary.
 </div>
 
 # 39 Uber Undertaking
@@ -985,25 +1052,25 @@ You should probably not use `Synthesised Stability` as it can cause your astrola
 <h2 class="req">5 of 10 required</h2>
 [.ggg]Defeat any five of the following Pinnacle Boss Encounters while the area is level 85.
 - [.ggg]Sirus, Awakener of Worlds
-	- [.com]`Awakening Fragments` from `Abomination`
+	- [.com]<code class="price brackets">Awakening Fragment</code> from `Abomination`
 - [.ggg]The Elder
-	- [.com]`Decaying Fragments` from `Fortress`
+	- [.com]<code class="price brackets">Decaying Fragment</code> from `Fortress`
 - [.ggg]The Maven
-	- [.com]`Reality Fragments` from `Abomination`
+	- [.com]<code class="price brackets">Reality Fragment</code> from `Abomination`
 - [.ggg]The Searing Exarch
-	- [.com]`Blazing Fragments` from `Ziggurat`
+	- [.com]<code class="price brackets">Blazing Fragment</code> from `Ziggurat`
 - [.ggg]The Eater of Worlds
-	- [.com]`Devouring Fragments` from `Ziggurat`
+	- [.com]<code class="price brackets">Devouring Fragment</code> from `Ziggurat`
 - [.ggg]High Templar Venarius
-	- [.com]`Synthesising Fragments` from `Fortress`
+	- [.com]<code class="price brackets">Synthesising Fragment</code> from `Fortress` or `Citadel`
 - [.ggg]The Shaper
-	- [.com]`Cosmic Fragments` from `Citadel`
+	- [.com]<code class="price brackets">Cosmic Fragment</code> from `Citadel`
 - [.ggg]Incarnation of Dread
-	- [.com]`Reverent Fragments` from `Sanctuary`
+	- [.com]<code class="price brackets">Reverent Fragment</code> from `Sanctuary`
 - [.ggg]Incarnation of Fear
-	- [.com]`Traumatic Fragments` from `Sanctuary`
+	- [.com]<code class="price brackets">Traumatic Fragment</code> from `Sanctuary`
 - [.ggg]Incarnation of Neglect
-	- [.com]`Lonely Fragments` from `Sanctuary`
+	- [.com]<code class="price brackets">Lonely Fragment</code> from `Sanctuary`
 
 This is four of the seven uber boss variants, if you have a boss killer this should be fine, otherwise you can buy the clears.
 
@@ -1020,25 +1087,33 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 [.ggg]Complete any four of these encounters the specified number of times.
 - [.ggg]Reach Level 100
 	- [.com]Buying Five Way runs
-	- [.com]Coward's Trial
-	- [.com]`Omen of Amelioration` stops you losing all your XP on dying, but only once per area
+	- [.com]<code class="price brackets">Omen of Amelioration</code> stops you losing all your XP on dying, but only once per area
+		- [.com]If you don't die, you can immediately resell it for what you paid +/- a couple chaos
 		- [.com]Something to keep in mind is that this is triggered *regardless of if you can actually lose XP in an area* do not take one into an invitation or uber boss, you will still lose your Omen despite no XP loss being possible
 	- [.com]`Abyss` with a basic tree that grabs all nodes except Depths is decent and fairly safe for consistent XP per map
-	- [.com]`Breach` stacking unstable breaches is likely pretty decent but time will tell
+	- [.com]`Breach` stacking unstable breaches and beyond and any other mechanics is very solid and not as dangerous as you might expect
+		- [.com]Stack Shrines, Breach and Beyond while disabling Hives and Beyond Bosses and use th following scarabs for solid gains
+		- [.com]<code class="price brackets">Breach Scarab of Instability</code> x2
+		- [.com]<code class="price brackets">Scarab of Monstrous Lineage</code> x1
+		- [.com]<code class="price brackets">Domination Scarab</code> x2
+		- [.com]If you don't want to use a second domination scarab, you could opt for Beyond boss spawn chance and use a `Beyond Scarab of Resurgence` to fish for some <code class="price brackets">Volatile Vaal Orb</code> drops
+	- [.com]<code class="price brackets">The Coward's Trial</code> is chill but not great in terms of time or cost returns compared to other options
 	- [.com]Rest in peace breachstones and beachheads
-- [.ggg]Use the Divine Font in the Endgame Labyrinth (0/50)
-	- [.com]Running `Gift to the Goddess` is six uses of the font which would make this eight runs total.
-	- [.com]Getting `Darkshrines` can allow for an additional usage of the font.
-- [.ggg]Complete Tier 16 Rare Maps with Scarabs (0/1,000)
+- [.ggg]Use the Divine Font in the Endgame Labyrinth (50x)
+	- [.com]Running `Gift to the Goddess` is six uses of the font which would make this eight runs total. Do keep in mind the prices are astronomically higher
+		- <code class="price brackets">Offering to the Goddess</code> for at minimum two uses
+		- <code class="price brackets">Gift to the Goddess</code> for at minimum six uses
+	- [.com]Getting `Darkshrines` can allow for an additional usage of the font
+- [.ggg]Complete Tier 16 Rare Maps with Scarabs (1,000x)
 	- [.com]It's 1,000 maps using scarabs. You probably already know if you are going to get this
 	- [.com]T16.5s are still T16s
-- [.ggg]Complete Shaper, Elder, Conqueror or Memory Guardian Maps with at least 100% Item Quantity (0/50)
-	- [.com]Not terribly hard, Maven rotas are always profit and this is simply running around 13 of those from a nil state.
-- [.ggg]Defeat Rare monsters with at least 4 Modifiers while in Tier 16 Maps (0/250)
+- [.ggg]Complete Shaper, Elder, Conqueror or Memory Guardian Maps with at least 100% Item Quantity (50x)
+	- [.com]Not terribly hard, Maven rotas are always profit and this is simply running around 13 of those from a nil state
+- [.ggg]Defeat Rare monsters with at least 4 Modifiers while in Tier 16 Maps (250x)
 	- [.com]Rather easy realistically, Beasts, Essences, Breach and Nemesis can speed this up a lot
-- [.ggg]Defeat Map Bosses in Mirages of Rare Maps that are at least Tier 16 and have at least 80% Item Quantity (0/100)
-	- [.com]You run fully miraged maps to force this.
-	- [.com]You can also target farm this to an extent [by following this guide by Steelmage](https://www.youtube.com/watch?v=BWtAFzTp9mA) for Black Barya farming, even if you don't get `Ridan` you can still get bosses.
+- [.ggg]Defeat Map Bosses in Mirages of Rare Maps that are at least Tier 16 and have at least 80% Item Quantity (100x)
+	- [.com]You can run fully miraged maps to force this
+	- [.com]You can also target farm this to an extent [by following this guide by Steelmage](https://www.youtube.com/watch?v=BWtAFzTp9mA) for Black Barya farming, even if you don't get `Ridan` you can still get bosses
 	
 As is seemingly tradition now, this is actually very easy.
 </div>
@@ -1054,15 +1129,19 @@ As is seemingly tradition now, this is actually very easy.
 You get the full armour set at **36/40** which allows you to skip up to four different challenges.
 
 Obvious contenders in vague order of consideration are as follows:
-- Grueling Game Grinds
+- `Grueling Game Grinds`
 	- GGG is as has been the case for most recent leagues rather tame this time around but if you don't want to run a bunch of invitations or pinnacles this is a solid skip choice
-- Uber Undertaking
+- `Uber Undertaking`
 	- Uber bossing is something a lot of people don't want to engage with, while you can buy carries skipping it is completely viable over currency dumping
-- Nightmare Nemeses
-	- The rebranded T17s still play like T17s. If you play bad builds you will probably struggle with this in spite of them being T16 now. They still get 8 modifiers even with some of the 'annoying' ones having been removed.
-- Anything using Astrolabes
-	- The drop rates are very low, SSF especially you are probably having a bad time
-- Instigative Invitations
+	- Fragments are also somewhat pricey for failures, though there's enough Uber bosses now that you can exclusively do the cheap ones now
+- `Nightmare Nemeses`
+	- The rebranded T17s still play like T17s. If you play bad builds you will probably struggle with this in spite of them being T16 now
+	- They still have eight mods
+	- The modifier and mob pools are still rancid even with some of the 'annoying' mods having been removed
+- `Anything using Astrolabes`
+	- The drop rates are very low, SSF or self-farming preference you are probably having a bad time
+	- The prices have stabilised to not be too much more than scarabs are realistically so as long as you avoid <code class="price brackets">Grasping Astrolabe</code> you should be fine in trade
+- `Instigative Invitations`
 	- `The Feared` is harder than Uber Bosses depending on character because visual clutter and lack of cohesion is GGG's passion
 	
 Generally speaking, everything that isn't connected to the newest endgame additions is pretty easy, Astrolabes and Memory Vaults are the biggest things in question currently for being potentially bad with everything else being just T17s or Ubers.

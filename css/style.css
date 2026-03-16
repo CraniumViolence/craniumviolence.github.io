@@ -342,6 +342,7 @@ tr:hover td {
 	background-color: rgb(0, 60, 60)
 }
 
+.time,
 code {
 	color: #89bad2;
 }
@@ -428,6 +429,9 @@ code.true {
 .li-i a:hover {
 	color: #FF6C6C;
 }
+li.price::marker {
+  color:rgb(230, 230, 210);
+}
 
 .li-i:after {
 	content: "✗";
@@ -437,4 +441,13 @@ code.true {
 
 li.final{
 	margin-top:8px;
+}
+
+
+.price{
+	color: #4ed263;
+}
+.price > span{
+	color: #b489d2;
+	font-size:90%;
 }
