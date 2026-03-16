@@ -44,7 +44,9 @@ var APIEndpoints = map[string]APIEndpoint{
 	"Essence":    {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Essence&league="},
 	"Omen":       {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Omen&league="},
 	"Scarab":     {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Scarab&league="},
-	"Invitation": {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Invitation&league="},
+	"Invitation": {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/api/data/itemoverview?type=Invitation&league="},
+	"Map":        {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/api/data/itemoverview?type=Map&league="},
+	"UniqueMap":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/api/data/itemoverview?type=UniqueMap&league="},
 }
 
 func main() {
