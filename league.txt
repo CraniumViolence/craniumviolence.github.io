@@ -658,7 +658,7 @@ Pretty standard currency sink and item puzzle that they've used before.
 - [.ggg]Defeat a Breach Marshal while Delirious
 	- [.com]You can force breach bosses using the Atlas and you can force Delirium using Scarabs, the Atlas or Delirium Orbs
 	- [.com]An obvious easy option is to simply not touch the delirium mirror at all and when you get a Vruun spawn; backtrack to start it after pre-damaging him
-	- [.com]Using multiple <code class="price brackets">Breach Scarab of Instability</code> will get you a Vruun spawn more often than not and <code class="price brackets">Breach Scarab of the Marashal</code> will force a Vruun spawn
+	- [.com]Using multiple <code class="price brackets">Breach Scarab of Instability</code> will get you a Vruun spawn more often than not and <code class="price brackets">Breach Scarab of the Marshal</code> will force a Vruun spawn
 - [.ggg]Defeat a Stygian Spire while affected by a Shrine
 	- [.com]<code class="price brackets">Abyss Scarab of Edifice</code> can force a Stygian Spire to spawn and you can pair this with any forced Shrines from Atlas or Scarabs
 - [.ggg]Defeat an Essence Monster that is Possessed
