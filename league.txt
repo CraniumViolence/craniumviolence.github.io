@@ -954,6 +954,8 @@ This is simply engaging with the new Mirage mechanic in any capacity after hitti
 Breaking Astral Chains is simply killing the three rare monsters in a circle around a large chain. They can wander off which is awkward but it's just 'kill rares'.
 
 In most cases, you will get an empty box from doing this task, enjoy!
+
+You should give serious consideration to throwing on a cheap astrolabe and juicing to 150% where possible so you can also progress `Tremendous Tempests`, `Atlas Astrolabes` and `Vaulted Valuables` alongside this challenge.
 </div>
 
 # 33 Eldritch Evocation
@@ -1132,12 +1134,15 @@ As is generally the case, the higher your DPS the lower your time to make mistak
 ### New Content
 <h2 class="req">75 required</h2>
 [.ggg]Slay the Map Bosses of 75 Maps that are affected by an Atlas Astrolabe while are they Rare and Tier 16 with at least 150% Item Quantity.
+	- [.com]To quote GGG directly: **"while are they"**.
 
 Astrolabes are scarce compared to what I expected and you will average maybe one per two hundred maps. Considering the requirement is also a pretty juiced map, this might end up rough especially for SSF players.
 
+Using a b{Templar Astrolabe} can add raw quantity to your maps in a chain which can make this an easier threshold to cross.
+
 You might want to consider not using `Synthesised Stability` as it can cause your astrolabe cloud to be cut in half prematurely costing you a bunch of maps.
 
-I would recommend you complete `Tremendous Tempests`, `Atlas Astrolabes` and `Vaulted Valuables` together as they are naturally complimentary.
+I would recommend you complete `Tremendous Tempests`, `Atlas Astrolabes` and `Vaulted Valuables` together as they are naturally complimentary. You can (and should) also progress `Sandswept Survivor` while doing `Tremendous Tempests` by simply blitzing the mirages.
 </div>
 
 # 39 Uber Undertaking
