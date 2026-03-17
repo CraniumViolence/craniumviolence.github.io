@@ -10,7 +10,7 @@ Mechanics related to the current league or new mechanics in general will natural
 
 [.semismol]Reminder that you should never buy supporter packs before you actually play the league and find it's worth supporting!
 
-Coloured and isolated prices are dynamic and updated hourly using data from [poe.ninja](https://poe.ninja/), last updated <span class="time">-</span>
+Coloured and isolated prices are dynamic and updated roughly hourly using data from [poe.ninja](https://poe.ninja/), last updated <span class="time">-</span>
 
 # 1 Beginner's Basics
 <div id="ch-1" markdown="1">
