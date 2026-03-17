@@ -591,7 +591,7 @@ This is a direct copy of last league's. If you don't run Heist they are a very o
 
 This is the new content, the quantities are a bit high for some of them so it's likely this ends up as a currency sink especially as the leage progresses, but it's only 7 of 11 at least.
 
-Skipping Volatile Vaal Orbs is an obvious call.
+With how prices have gone Catalysts, Volatile Vaal Orbs and the actual Coins are all very valid options to skip.
 </div>
 
 # 23 Remarkable Realms
@@ -928,7 +928,7 @@ I would recommend you complete `Tremendous Tempests`, `Atlas Astrolabes` and `Va
 
 This is just 500 maps from a nil state. If you are doing full atlas completion you will have knocked out at least a fifth of this before you have to even think about it.
 
-No quantity or rarity reqs means you can just blast it out with normal rarity maps too. Mindless but easy.
+No quantity or rarity reqs means you can just blast it out with normal rarity maps too. Mindless but easy, elevated to normal simply because it's of a scale that you could finish most other challenges before doing it naturally.
 </div>
 
 # 31 Magnificent Memories
@@ -1208,8 +1208,21 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 - [.ggg]Complete Tier 16 Rare Maps with Scarabs (1,000x)
 	- [.com]It's 1,000 maps using scarabs. You probably already know if you are going to get this
 	- [.com]T16.5s are still T16s
+	- [.com]Shaper, Elder and Conqueror maps 
 - [.ggg]Complete Shaper, Elder, Conqueror or Memory Guardian Maps with at least 100% Item Quantity (50x)
+	- [.com]Implictly completes 5% of the above challenge option
+	- [.com]Memory Guardians are presumably only the final map of each memory chain, I would not recommend targetting those at all
 	- [.com]Not terribly hard, Maven rotas are always profit and this is simply running around 13 of those from a nil state
+		- [.com]p{Shaper Guardian Map}
+			- [.com]All four of the maps use the same base making this very easy to buy in bulk
+		- [.price]Al-Hezmin Map (Tier 16)
+		- [.price]Baran Map (Tier 16)
+		- [.price]Drox Map (Tier 16)
+		- [.price]Veritania Map (Tier 16)
+		- [.price]The Purifier Map (Tier 16)
+		- [.price]The Constrictor Map (Tier 16)
+		- [.price]The Enslaver Map (Tier 16)
+		- [.price]The Eradicator Map (Tier 16)
 - [.ggg]Defeat Rare monsters with at least 4 Modifiers while in Tier 16 Maps (250x)
 	- [.com]Rather easy realistically, Beasts, Essences, Breach and Nemesis can speed this up a lot
 - [.ggg]Defeat Map Bosses in Mirages of Rare Maps that are at least Tier 16 and have at least 80% Item Quantity (100x)
@@ -1225,6 +1238,9 @@ As is seemingly tradition now, this is actually very easy.
 - Level 100 is something you probably already know if you will get or not but you can get the `Omen of Amelioration` to avoid losing XP while working towards it
 - Do invitations instead of selling them
 - Just map in general, if you live in delve or heist you won't get credit towards T14+ clears or engage with the new league content shockingly
+
+#### Tyrannical Tiers
+It's slightly reductive but it really is just 'run maps instead of living in alternative endgames'. You will not progress much if you live in sanctum or heist!
 
 #### Tremendous Tempests
 - Always try go run maps with good rolls on an atlas tree on maps you have applied an Astrolabe to
