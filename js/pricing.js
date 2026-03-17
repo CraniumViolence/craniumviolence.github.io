@@ -28,29 +28,31 @@ $.when.apply($, promises).done(function() {
     console.log("Parsed json files");
 });
 
-function priceFormat(i){
-	if (i > divines) {
-		return `${(i / divines).toFixed(2)} divine`;
-	} else {
-		return `${Math.ceil(i)} chaos`;
-	}
+function priceFormat(i) {
+    if (i > divines) {
+        return `${(i / divines).toFixed(2)} divine`;
+    } else {
+        return `${Math.ceil(i)} chaos`;
+    }
 }
 
 function unixToLocalTime(unixTimestamp) {
-  const date = new Date(unixTimestamp * 1000);
-  return date.toLocaleString();
+    const date = new Date(unixTimestamp * 1000);
+    return date.toLocaleString();
 }
 
 var divines = 99999;
+
 function priceEntries() {
-	// get div price
-	divines = jsonDataMap["../go/Currency.json"]["lines"].find(line => line.id === "divine").primaryValue;
-	lastUpdate = jsonDataMap["../go/Currency.json"]["modified"];
-	$(".time").html(unixToLocalTime(lastUpdate));
+    // get div price
+    divines = jsonDataMap["../go/Currency.json"]["lines"].find(line => line.id === "divine").primaryValue;
+    lastUpdate = jsonDataMap["../go/Currency.json"]["modified"];
+    $(".time").html(unixToLocalTime(lastUpdate));
     $('.price').each(function() {
         var nameString = $(this).text();
-		var useBrackets = $(this).hasClass("brackets");
-		var replaceText = $(this).hasClass("replace");
+        var useBrackets = $(this).hasClass("brackets");
+        var multiplyValue = $(this).hasClass("multiply");
+        var replaceText = $(this).hasClass("replace");
         for (var key in jsonDataMap) {
             if (jsonDataMap.hasOwnProperty(key)) {
                 var data = jsonDataMap[key];
@@ -63,26 +65,32 @@ function priceEntries() {
                             const matchedLine = data["lines"].find(line => line.id === id);
                             if (matchedLine && matchedLine.primaryValue) {
                                 finalValue = matchedLine.primaryValue;
-								if(useBrackets){
-									$(this).append(" <span>(" + priceFormat(finalValue) + ")</span>");
-								} else if (replaceText) {
-									$(this).html(priceFormat(finalValue));
-								} else {
-									$(this).append(": <span>" + priceFormat(finalValue) + "</span>");
-								}
+                                if (useBrackets) {
+                                    $(this).append(" <span>(" + priceFormat(finalValue) + ")</span>");
+                                } else if (multiplyValue) {
+                                    const multi = +$(this).attr("data-factor");
+                                    $(this).append(" <span class=\"factor\">x" + multi + "</span> <span>(" + priceFormat(finalValue * multi) + ")</span>");
+                                } else if (replaceText) {
+                                    $(this).html(priceFormat(finalValue));
+                                } else {
+                                    $(this).append(": <span>" + priceFormat(finalValue) + "</span>");
+                                }
                             }
                         }
                     } else if (Array.isArray(data["lines"])) {
                         const matchedLine = data["lines"].find(line => line.name === nameString);
                         if (matchedLine && matchedLine.chaosValue) {
                             finalValue = matchedLine.chaosValue;
-							if(useBrackets){
-								$(this).append(" <span>(" + priceFormat(finalValue) + ")</span>");
-							} else if (replaceText) {
-								$(this).html(priceFormat(finalValue));
-							} else {
-								$(this).append(": <span>" + priceFormat(finalValue) + "</span>");
-							}
+                            if (useBrackets) {
+                                $(this).append(" <span>(" + priceFormat(finalValue) + ")</span>");
+                            } else if (multiplyValue) {
+                                const multi = +$(this).attr("data-factor");
+                                $(this).append(" <span class=\"factor\">x" + multi + "</span> <span>(" + priceFormat(finalValue * multi) + ")</span>");
+                            } else if (replaceText) {
+                                $(this).html(priceFormat(finalValue));
+                            } else {
+                                $(this).append(": <span>" + priceFormat(finalValue) + "</span>");
+                            }
                         }
                     }
                 }
