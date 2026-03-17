@@ -339,7 +339,7 @@ This is just literally normal mapping. `Destructive Play` will help as will maps
 <h2 class="req">5 of 11 required</h2>
 [.ggg]Complete any five of the following encounters while the area level is 81 or higher if possible the specified number of times.
 - [.ggg]Abyssal Depths (5x)
-	- [.com]There's a new b{Abyss Scarab of Descending} that forces Depths spawns but it might not be cheap
+	- [.com]There's a new b{Abyss Scarab of Descending} that forces Depths spawns
 - [.ggg]Logbooks with at least 10 Remnants active (5x)
 	- [.com]You can simply buy these and then it's as simple as playing them normally
 	- [.com]These are just the modifiers that activate as you blow things up
@@ -428,11 +428,37 @@ Normal progression, this is just getting all of your ascendancy points and doing
 <h2 class="req">3 of 4 required</h2>
 [.ggg]Turn in Divination Cards which specifically grant each of the following reward types the specified number of times.
 - [.ggg]Currency item (20x)
+	- [.price]Acclimatisation
+	- [.price]The Gemcutter
+	- [.price]The Heroic Shot
+	- [.price]The Finishing Touch
+	- [.com]p{Emperor's Luck}
+		- [.com]It could even be 5 mirrors!
+	- [.com]p{Ever-Changing}
+	- [.com]p{Rain of Chaos}
+		- [.com]1:1 input to output value
+	- [.com]p{Chaotic Disposition}
+		- [.com]1:1 input to output value
 - [.ggg]Gem (10x)
+	- [.price]The Doppelganger
+	- [.price]Bound by Flame
+	- [.price]Gemcutter's Promise
+	- [.price]The Rite of Elements
 - [.ggg]Two-Implicit Unique item (3x)
+	- [.price]Echoes of Love
+	- [.price]The Enthusiasts
+	- [.price]The Fox in the Brambles
+	- [.price]The Hive of Knowledge
+	- [.price]Unchained
 - [.ggg]Six-Linked Item (2x)
+	- [.price]Immortal Resolve
+	- [.price]The Dark Mage
+	- [.price]The Porcupine
+	- [.price]Vanity
 
-Faustus makes this easy enough. I'll add some basic card recommendations later. It's three of four so you can skip one.
+Faustus makes this easy enough. It's three of four so you can skip whichever one you have the least progress towards. 
+
+Currency wise, `Rain of Chaos` and `Chaotic Disposition` can actually run at a profit from people getting rid of them due to their low value.
 </div>
 
 # 20 Peddler's Produce II
@@ -486,13 +512,18 @@ Faustus makes this easy enough. I'll add some basic card recommendations later. 
 	- [.com]Run Abyss in T14s or higher and get an Abyssal Depths
 	- [.com]`Kurgal, the Blackblooded` the lich found in Delve does not count towards this challenge
 - [.ggg]Omnitect
-	- [.com]You can simply buy a `Chronicle of Atzoatl` with the `Temple Apex` unlocked at level 80 or higher for this
+	- [.com]You can simply buy a `Chronicle of Atzoatl` with the `Temple Apex` set to `Open` at level 80 or higher for this
+		- [.com]If the Apex isn't open you will not be able to reach the boss, there is a chance you can use an explosives room to do so but it's not worth the micromanagement unless you are self-farming
 - [.ggg]Vox Twins
-	- [.com]Heist content
+	- [.com]Heist content, specifically needs you to buy a `Contract: The Twins` and run it in the Rogue Harbour
 - [.ggg]K'tash, Ghorr or Beidat
 	- [.com]Beyond bosses, fairly easy to have happen by just using a beyond tree
+	- [.com]b{Beyond Scarab of Resurgence} makes this happen most maps, especially if paired with unstable breaches or a similarly dense mechanic
 - [.ggg]Medved, Vorana or Uhtred
 	- [.com]Expedition Logbook bosses, you can just buy Logbooks which force these
+	- [.com]Search for <code class="mini">~expedition boss</code> on the trade site or the in game market search and you will find the implicit for these
+		- [.com]Be sure to also use `Area Level` set to `80` under `Map Filters` to avoid a boss too low level to count!
+		- [.com]If you are buying an `Olroth`, get an area level of `81` for progress on `Seized Strength`
 - [.ggg]The Black Knight, Admiral Valerius or Sasan
 	- [.com]`The Black Knight` can appear in any map that has ore spawn on it in place of an ore node, simply spam maps with them at a high level
 	- [.com]`Admiral Valerius` is a random encounter that can happen to any deployed shipment in Kingsmarch
@@ -508,13 +539,13 @@ This is a direct copy of last league's. If you don't run Heist they are a very o
 <h2 class="req">7 of 11 required</h2>
 [.ggg]Use any seven of the following Mirage Currency items or Crafts the specified number of times.
 - [.ggg]Coin of Knowledge (5x)
-	- [.ggg]Rarely found in mirages affected by a Navira wish (Blue Water Jug)
+	- [.com]Rarely found in mirages affected by a Navira wish (Blue Water Jug)
 	- [.price]Coin of Knowledge
 - [.ggg]Coin of Power (5x)
-	- [.ggg]Rarely found in mirages affected by a Ruzhan wish (Red Sword)
+	- [.com]Rarely found in mirages affected by a Ruzhan wish (Red Sword)
 	- [.price]Coin of Power
 - [.ggg]Coin of Skill (5x)
-	- [.ggg]Rarely found in mirages affected by a Kelari wish (White Dagger)
+	- [.com]Rarely found in mirages affected by a Kelari wish (White Dagger)
 	- [.price]Coin of Skill
 - [.ggg]Coin of Restoration (5x)
 	- [.com]Generic mirage drop
@@ -550,7 +581,7 @@ This is a direct copy of last league's. If you don't run Heist they are a very o
 	- [.com]Drops from doing `Essence` in Mirages
 	- [.price]Essence of Desolation
 - [.ggg]Honoured, Sacred or Miraged Incubator (10x)
-	- [.com]Drops from doing `Legion` in Mirages	
+	- [.com]Drops from doing `Legion` in Mirages
 	- [.price]Honoured Incubator
 	- [.price]Sacred Incubator
 	- [.price]Miraged Incubator
@@ -640,23 +671,49 @@ On the bright side, they didn't make anyone do Hall of Grandmasters.
 - [.ggg]Anarchy (30x)
 	- [.com]Good synergy with Titanic Scarabs if you can run them
 - [.ggg]Domination (30x)
+	- [.com]Pairs with basically anything quite well, nothing in particular is synergistic challenge wise
 - [.ggg]Essence (30x)
 - [.ggg]Strongbox (30x)
 - [.ggg]Torment (30x)
 - [.ggg]Influence (30x)
 - [.ggg]Abyss (30x)
+	- [.com]Using b{Abyss Scarab of Descending} `Abyssal Depths` lets you fish for `Darkness Enthroned` with good percentages and the various `Gaze` jewels which can be quite valuable
 - [.ggg]Beyond (30x)
+	- [.com]Pairs with basically anything quite well for extra reward and density
+	- [.com]Enabling Beyond in general allows you to obtain b{Volatile Vaal Orb} in any Mirage area rarely
 - [.ggg]Blight (30x)
+	- [.com]Blighted Maps and Blight Ravaged Maps generally sell well
 - [.ggg]Breach (30x)
+	- [.com]If you block Hives and run b{Breach Scarab of Instability} x2 this is very good farm for both XP and general profit from Wombgifts and Breach Rings
 - [.ggg]Delirium (30x)
+	- [.com]It's delirium, it juices most things and enables b{Refracting Fog} in any Mirage area rarely
 - [.ggg]Expedition (30x)
 - [.ggg]Harvest (30x)
 - [.ggg]Kalguuran (30x)
+	- [.com]Maximising ore spawns can let you fish for `Svalinn` a very valuable shield
 - [.ggg]Legion (30x)
+	- [.com]You probably already know if you have a build suitable for this
+	- [.com]Legions in Mirages can spawn `Afarud` armies which can drop several new incubators for Mirage items
+		- [.price]Honoured Incubator
+		- [.price]Sacred Incubator
+		- [.price]Miraged Incubator
 - [.ggg]Ritual (30x)
+	- [.com]Generically very good with a large pool of potential rewards but which require more evaluation than most other loot systems
+	- [.com]b{An Audience With The King} and `Corpses` are generically good drops, there's also the new b{Ritual Scarab of Corpses} which is dirt cheap which implies it is also not very good
 - [.ggg]Ultimatum (30x)
+	- [.com]You probably already know if you have a build suitable for this
+	- [.com]Ultimatums in Mirages can drop new catalysts
+		- [.price]Sinistral Catalyst
+		- [.price]Dextral Catalyst
 - [.ggg]Misc (30x)
+	- [.com]b{Scarab of Monstrous Lineage} goes with basically any strategy
 - [.ggg]Horned (30x)
+	- [.com]b{Horned Scarab of Awakening} lets you print b{The Maven's Writ} and the various Maven Chisels
+		- [.price]Maven's Chisel of Avarice
+		- [.price]Maven's Chisel of Divination
+		- [.price]Maven's Chisel of Procurement
+		- [.price]Maven's Chisel of Proliferation
+		- [.price]Maven's Chisel of Scarabs
 
 Assuming maximum slots, you can gain 5 progress towards this per map ran. This ends up around 48 maps baseline if you are not wasting any and you can reasonably be expected to get it passively if you run multiple mechanics across the league.
 </div>
@@ -779,7 +836,7 @@ This is very trivial, simply select differing mirage wishes whenever you see the
 [.ggg]Defeat any seven of the following Bosses or Encounters.
 - [.ggg]The Trialmaster
 	- [.com]For the `Chaos Bloodline`, defeat `The Trialmaster` in any map of Area Level 81 or higher through Ultimatums
-	- [.com]Can be forced using an b{Ultimatum Scarab of Dueling}
+	- [.com]Can be forced using an b{Ultimatum Scarab of Dueling}, you can do this on a scoured map
 - [.ggg]The King in the Mists
 	- [.com]For the `Nameless Bloodline`, defeat `The King in the Mists` using b{An Audience With The King} in the map device
 - [.ggg]Oshabi
@@ -1164,6 +1221,12 @@ As is seemingly tradition now, this is actually very easy.
 - Do invitations instead of selling them
 - Just map in general, if you live in delve or heist you won't get credit towards T14+ clears or engage with the new league content shockingly
 
+#### Tremendous Tempests
+- Always try go run maps with good rolls on an atlas tree on maps you have applied an Astrolabe to
+- Realistically, it's not very 'long term grind' at 75 required but you can definitely passively work on it
+
+There's not a lot of actual largescale grinds this time around, GGG is even pretty easy
+
 # Challenges to Skip
 You get the full armour set at **36/40** which allows you to skip up to four different challenges.
 
@@ -1177,11 +1240,15 @@ Obvious contenders in vague order of consideration are as follows:
 	- The rebranded T17s still play like T17s. If you play bad builds you will probably struggle with this in spite of them being T16 now
 	- They still have eight mods
 	- The modifier and mob pools are still rancid even with some of the 'annoying' mods having been removed
+- `Instigative Invitations`
+	- `The Feared` is harder than Uber Bosses depending on character because visual clutter and lack of cohesion is GGG's passion
+	- Carries obviously trivialise this and it's not really too expensive to try since you still get all the loot from every boss in the chain
 - `Anything using Astrolabes`
 	- The drop rates are very low, SSF or self-farming preference you are probably having a bad time
 	- The prices have stabilised to not be too much more than scarabs are realistically so as long as you avoid b{Grasping Astrolabe} you should be fine in trade
-- `Instigative Invitations`
-	- `The Feared` is harder than Uber Bosses depending on character because visual clutter and lack of cohesion is GGG's passion
+- `Remarkable Realms`
+	- p{Doryani's Machinarium} is a completely useless map that only has value due to this challenge
+	- Because it's delve locked there's not a lot floating around and for self-finding you need to do a fair few `Ahuatotli` on average for a drop as it's only around 1/6th chance
 	
 Generally speaking, everything that isn't connected to the newest endgame additions is pretty easy, Astrolabes and Memory Vaults are the biggest things in question currently for being potentially bad with everything else being just T17s or Ubers.
 

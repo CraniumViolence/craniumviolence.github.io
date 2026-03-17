@@ -47,6 +47,7 @@ var APIEndpoints = map[string]APIEndpoint{
 	"Invitation": {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/api/data/itemoverview?type=Invitation&league="},
 	"Map":        {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/api/data/itemoverview?type=Map&league="},
 	"UniqueMap":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/api/data/itemoverview?type=UniqueMap&league="},
+	"DivinationCard":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/api/data/itemoverview?type=DivinationCard&league="},
 }
 
 func main() {

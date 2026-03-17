@@ -10,6 +10,7 @@ var files = [
     "../go/Invitation.json",
     "../go/Map.json",
     "../go/UniqueMap.json",
+    "../go/DivinationCard.json",
 ];
 
 // Initialize an object to store the data
@@ -89,7 +90,12 @@ function priceEntries() {
                             } else if (replaceText) {
                                 $(this).html(priceFormat(finalValue));
                             } else {
-                                $(this).append(": <span>" + priceFormat(finalValue) + "</span>");
+								if (key == "../go/DivinationCard.json"){
+									finalValue = finalValue * (matchedLine.stackSize ?? 1);									
+									$(this).append(": <span>" + priceFormat(finalValue) + " total ("+ (matchedLine.stackSize ?? 1) +" stack)</span>");
+								} else {
+									$(this).append(": <span>" + priceFormat(finalValue) + "</span>");
+								}
                             }
                         }
                     }
