@@ -915,7 +915,7 @@ Astrolabes drop guaranteed from the Memory Chain finale bosses and everywhere on
 
 Actual challenge wise, this is simply completing Tier 14 or higher maps which makes it very mild realistically and comes out at 120 maps total.
 
-Astrolabe drop rates are no where close to being accessible for self-farming right now so you should be prepared to currency dump to get this done. Or to play an awful lot.
+3.28.0c made it so you can swap any league astrolabe for another one (any except Templar Astrolabe) by using m{Primal Crystallised Lifeforce}{x400}, this makes farming these a lot more reasonable - even self-found - but your best source is still going to be trying to rush memories.
 
 I would recommend you complete `Tremendous Tempests`, `Atlas Astrolabes` and `Vaulted Valuables` together as they are naturally complimentary.
 </div>
@@ -1110,17 +1110,18 @@ The `Scarab of Bisection` has been retired and there's now the `Scarab of the Si
 <h2 class="req">3 of 4 required</h2>
 [.ggg]Defeat Saresh, The Weeping Black in any three of the specified ways.
 - [.ggg]Without being affected by Astral Chains
+	- [.com]There are various pillars that circle the main arena, these fire astral projectiles that will cause the `Astral Chains` debuff should they hit you
 - [.ggg]Without being affected by Festering Souls
 - [.ggg]Without being hit by any Gangrenous Mass explosions
 - [.ggg]Without being hit by Charged Soul Slam
 
 Accessed via using b{The Black Barya} on the map device.
 
-It's a conditional run of the new boss accessed via using `The Black Barya` on the Atlas. The drop seems fairly rare and the fight has a chase unique which means the pricing is unlikely to go lower.
+It's a conditional run of the new boss accessed via using b{The Black Barya} on the Atlas. The drop seems fairly rare and the fight has a chase unique which means the pricing is unlikely to go lower.
 
-You can target farm this to an extent [by following this guide by Steelmage](https://www.youtube.com/watch?v=BWtAFzTp9mA). You basically want to look out for `Wish for Rust` which adds `Ridan, of the Afarud` to your Mirage instance. He can also spawn at the Mirage entrance in maps, but you can't influence this outside of 'doing more maps'.
+The more deterministic method of farming Baryas was nerfed, now you simply want to look out for `Wish for Rust` which adds `Ridan, of the Afarud` to your Mirage instance - spawning him at the Astral Chains. He can also spawn at the Mirage entrance in maps, but you can't influence this outside of 'doing more maps'.
 
-I'm going to be honest, I've done the boss a bunch of times and I have no idea what any of these conditions are despite meeting them. I'm guessing they are:
+I'm going to be honest, I've done the boss a bunch of times and I have no idea what some of these conditions are despite meeting them. I'm guessing they are:
 - The ground puddle for Festering Soul
 - The protruting tentacles that explode
 - The large attack at around 33% health
@@ -1264,12 +1265,15 @@ Obvious contenders in vague order of consideration are as follows:
 - `Instigative Invitations`
 	- `The Feared` is harder than Uber Bosses depending on character because visual clutter and lack of cohesion is GGG's passion
 	- Carries obviously trivialise this and it's not really too expensive to try since you still get all the loot from every boss in the chain
-- `Anything using Astrolabes`
-	- The drop rates are very low, SSF or self-farming preference you are probably having a bad time
-	- The prices have stabilised to not be too much more than scarabs are realistically so as long as you avoid b{Grasping Astrolabe} you should be fine in trade
 - `Remarkable Realms`
 	- p{Doryani's Machinarium} is a completely useless map that only has value due to this challenge
 	- Because it's delve locked there's not a lot floating around and for self-finding you need to do a fair few `Ahuatotli` on average for a drop as it's only around 1/6th chance
+- `Anything using Astrolabes`
+	- The drop rates are very low, SSF or self-farming preference you are probably having a bad time
+		- Farming Memory Chains is your best bet here, which is just Boss Rushing
+		- Notably, astrolabes cannot drop while using an astrolabe, limiting availability while using them further
+	- The prices have stabilised to not be too much more than scarabs are realistically, for the b{Grasping Astrolabe} you might want to consider rerolling using m{Primal Crystallised Lifeforce}{x400} depending on how prices are
+	- 3.28.0c actually made these fairly reasonable because you can Harvest reroll them to somewhat deterministically target the various areas even if you only get astrolabes for content you don't want to run
 	
 Generally speaking, everything that isn't connected to the newest endgame additions is pretty easy, Astrolabes and Memory Vaults are the biggest things in question currently for being potentially bad with everything else being just T17s or Ubers.
 
