@@ -4,9 +4,11 @@
 # Mirage League Challenges
 This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include detailed descriptions of all core mechanics or systems.
 
-Difficulties are subjective and are oriented around thoughts on doing them in trade. SSF is always going to be notably harder.
+Difficulties are subjective and are oriented around thoughts on doing them in a trade league. SSF is always going to be notably harder.
 
 Mechanics related to the current league or new mechanics in general will naturally be covered more in depth.
+
+[Credits and contact information is at the bottom of the page](#creditsandcontactinformation).
 
 [.semismol]Reminder that you should never buy supporter packs before you actually play the league and find it's worth supporting!
 
@@ -918,11 +920,11 @@ You can buy carries for this but most of the bosses aren't too bad. Simulacrum a
 	- [.com]At least, it would be. This seemingly doesn't actually exist!
 		- [.com]This also means you cannot currently get 40/40 with all components of all challenges done
 
-Astrolabes drop guaranteed from the Memory Chain finale bosses and everywhere on the Atlas after completing Zana's three memory chains from bosses exceptionally rarely.
+Astrolabes drop guaranteed from the Memory Chain finale bosses and everywhere on the Atlas after completing Zana's three memory chains from bosses exceptionally rarely (with the Voidstone socketed).
 
-Actual challenge wise, this is simply completing Tier 14 or higher maps which makes it very mild realistically and comes out at 120 maps total.
+Actual challenge wise - discounting obtaining astrolabes - this is simply completing Tier 14 or higher maps which makes it very mild realistically and comes out at 120 maps total.
 
-3.28.0c made it so you can swap any league astrolabe for another one (any except Templar Astrolabe) by using m{Primal Crystallised Lifeforce}{x400}, this makes farming these a lot more reasonable - even self-found - but your best source is still going to be trying to rush memories.
+3.28.0c made it so you can swap any league astrolabe for another one (any except Templar Astrolabe) by using m{Primal Crystallised Lifeforce}{x400}, this makes farming these a lot more reasonable and even self-found shouldn't be too bad but your best source is still going to be trying to rush memories in that case.
 
 I would recommend you complete `Tremendous Tempests`, `Atlas Astrolabes` and `Vaulted Valuables` together as they are naturally complimentary.
 </div>
@@ -1282,6 +1284,7 @@ Obvious contenders in vague order of consideration are as follows:
 	- p{Doryani's Machinarium} is a completely useless map that only has value due to this challenge
 	- Because it's delve locked there's not a lot floating around and for self-finding you need to do a fair few `Ahuatotli` on average for a drop as it's only around 1/6th chance
 - `Anything using Astrolabes`
+	- `Tremendous Tempests`, `Atlas Astrolabes` and `Vaulted Valuables`
 	- The drop rates are very low, SSF or self-farming preference you are probably having a bad time
 		- Farming Memory Chains is your best bet here, which is just Boss Rushing
 		- Notably, astrolabes cannot drop while using an astrolabe, limiting availability while using them further
@@ -1291,6 +1294,8 @@ Obvious contenders in vague order of consideration are as follows:
 	- Neither are particularly hard nor even particularly gruelling as grinds but it's quite possible you end up with one of the two needing a lot more grind than you want at the end for finishing up 36/40
 	
 Generally speaking, everything that isn't connected to the newest endgame additions is pretty easy, Astrolabes and Memory Vaults are the biggest things in question currently for being potentially bad with everything else being just T17s or Ubers.
+
+For a uselessly subjective point, the last challenges I finished were `Grueling Game Grinds`, `Sandswept Survivor`, `Tremendous Tempests` and `Atlas Astrolabes`.
 
 # Unlocks
 This league is another full armour set with 36 completed challenges required to unlock all four pieces. There's various tiers to the pieces that allows you to toggle the amount of blueman group you're feeling.
