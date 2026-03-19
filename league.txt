@@ -10,7 +10,7 @@ Mechanics related to the current league or new mechanics in general will natural
 
 [.semismol]Reminder that you should never buy supporter packs before you actually play the league and find it's worth supporting!
 
-Coloured and isolated prices are dynamic and updated roughly hourly using data from [poe.ninja](https://poe.ninja/), last updated <span class="time">-</span>
+[.note]Coloured and isolated prices are dynamic and updated roughly hourly using data from [poe.ninja](https://poe.ninja/), last updated <span class="time">-</span>.
 
 # 1 Beginner's Basics
 <div id="ch-1" markdown="1">
@@ -76,13 +76,17 @@ Completely normal compulsory progression.
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following Quests.
 - [.ggg]The Way Forward
-	- [.com]`Act 2` passive point quest, forget to go back to Act 1 to turn it in for 3 hours
+	- [.com]`Act 2` passive point quest
+	- [.com]Kill `Captain Arteri`, obtain the <code class="quest">Thaumetic Emblem</code> and click on the slot for it nearby
+	- [.com]Forget to go back to the Act 1 town to turn in the quest for 3 hours
 - [.ggg]Through Sacred Ground
-	- [.com]`Act 2` passive point quest, obtain the `Golden Hand`job
+	- [.com]`Act 2` passive point quest
+	- [.com]Obtain the <code class="quest">Golden Hand</code>job
 - [.ggg]Victario's Secrets
-	- [.com]`Act 3` passive point quest, collect busts
+	- [.com]`Act 3` passive point quest,  busts
+	- [.com]Collect three <code class="quest">Platinum Busts</code>
 - [.ggg]An Indomitable Spirit
-	- [.com]`Act 4` passive point quest, save Deshret's spirit
+	- [.com]`Act 4` passive point quest, save `Deshret's Spirit`
 </div>
 
 # 6 Desecrated Djinn
@@ -292,7 +296,9 @@ You will likely find yourself biased towards some of these, they can all appear 
 
 Do rare maps. I believe in you!
 
-You might unironically end up needing to buy lower tier maps depending on how you progressed to do this if you didn't run everything rare from Tier 1.
+You might unironically end up needing to buy lower tier maps depending on how you progressed to do this if you didn't run everything rare from Tier 1. 
+
+You can also have skipped tiers by accident just running your highest constantly or if you are in a guild or group player, what a weird game.
 </div>
 
 # 14 Crafting Craze
@@ -990,6 +996,8 @@ Astrolabe synergistic farming challenge. Altars you can get a lot of per map so 
 
 A minimum of 15 full sets of Astrolabe charges. While `Synthesised Stability` is worse for getting the most returns from both modifiers and vaults, it will still let you get the vaults *faster*.
 
+You can obviously also purposefully sabotage your own blobs, bisecting one will retain the section with the most connections between maps, you can aim for chunks you can always cut in half to get the vaults in as few as three to four maps.
+
 This is functionally a lesser currency dump. Each quadrant has its own biases which makes it not too bad to target farm.
 
 I would recommend you complete `Tremendous Tempests`, `Atlas Astrolabes` and `Vaulted Valuables` together as they are naturally complimentary.
@@ -1241,15 +1249,16 @@ As is seemingly tradition now, this is actually very easy.
 - Just map in general, if you live in delve or heist you won't get credit towards T14+ clears or engage with the new league content shockingly
 
 #### Tyrannical Tiers
-It's slightly reductive but it really is just 'run maps instead of living in alternative endgames'. You will not progress much if you live in sanctum or heist!
+- It's slightly reductive but it really is just 'run maps instead of living in alternative endgames'. You will not progress much if you live in sanctum or heist!
 
 #### Tremendous Tempests
 - Always try go run maps with good rolls on an atlas tree on maps you have applied an Astrolabe to
 - Realistically, it's not very 'long term grind' at 75 required but you can definitely passively work on it
 
-There's not a lot of actual largescale grinds this time around, GGG is even pretty easy
+#### Sandswept Survivor
+- It's 150 maps which isn't a huge amount in the grand scheme of things, but if you don't engage in gameplay that completes it naturally you might find yourself needing to blitz a lot of maps in a row mindlessly
 
-# Challenges to Skip
+There's not a lot of actual largescale grinds this time around, GGG is even pretty easy.# Challenges to Skip
 You get the full armour set at **36/40** which allows you to skip up to four different challenges.
 
 Obvious contenders in vague order of consideration are as follows:
@@ -1274,6 +1283,8 @@ Obvious contenders in vague order of consideration are as follows:
 		- Notably, astrolabes cannot drop while using an astrolabe, limiting availability while using them further
 	- The prices have stabilised to not be too much more than scarabs are realistically, for the b{Grasping Astrolabe} you might want to consider rerolling using m{Primal Crystallised Lifeforce}{x400} depending on how prices are
 	- 3.28.0c actually made these fairly reasonable because you can Harvest reroll them to somewhat deterministically target the various areas even if you only get astrolabes for content you don't want to run
+- `Sandswept Survivor` or `Tyrannical Tiers`
+	- Neither are particularly hard nor even particularly gruelling as grinds but it's quite possible you end up with one of the two needing a lot more grind than you want at the end for finishing up 36/40
 	
 Generally speaking, everything that isn't connected to the newest endgame additions is pretty easy, Astrolabes and Memory Vaults are the biggest things in question currently for being potentially bad with everything else being just T17s or Ubers.
 
