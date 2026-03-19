@@ -773,9 +773,10 @@ Pretty standard currency sink and item puzzle that they've used before.
 	- [.com]b{Delirium Scarab of Neuroses} forces boss spawns, you can spam them in maps with 100% harvest chance and just rush to the harvest grove to see if there's a boss present
 - [.ggg]Defeat a Unique Map Boss that is Possessed while in a Ritual
 	- [.com]This is literal, you need it to get Possessed while in the ritual itself
-	- [.com]There is a ritual that spawns Tormented Spirits and Scarabs for more in the wild
+	- [.com]There is a ritual that spawns Tormented Spirits (Haunted) and Scarabs for more in the wild
 	- [.com]`Shore` was removed this league so you can't abuse that this time around
 	- [.com]b{Templar Astrolabes} can force Tormented Spirits to surround a map boss which can be worked with
+	- [.com]Using a `Blood-Filled Vessel` with unique map bosses in it can make this easier if you get a `Haunted Ritual`
 	
 Skipping the two Possessed ones is likely the best choice but only the Unique Map Boss one is really bad.
 
@@ -1302,6 +1303,8 @@ You can view [a full preview video is available on the official Path of Exile Yo
 [PoeDB](https://poedb.tw/us/) for easily accessible information on pretty much everything about the game, the most vital resource for PoE in general.
 
 [PoeWiki](https://www.poewiki.net/wiki/) for some general information.
+
+[akurojin](https://github.com/akurojin) for information on the blood-filled vessels working for Cross Contamination.
 
 #### Contact Information
 You can get in touch through [GitHub](https://github.com/CraniumViolence/craniumviolence.github.io) if any information here is incorrect or absent or you simply have better strategies or information you feel should be added (or otherwise feel the need to get in touch).
