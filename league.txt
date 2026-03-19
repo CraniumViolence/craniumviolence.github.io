@@ -1146,11 +1146,13 @@ As is generally the case, the higher your DPS the lower your time to make mistak
 [.ggg]Slay the Map Bosses of 75 Maps that are affected by an Atlas Astrolabe while are they Rare and Tier 16 with at least 150% Item Quantity.
 	- [.com]To quote GGG directly: **"while are they"**.
 
-Astrolabes are scarce compared to what I expected and you will average maybe one per two hundred maps. Considering the requirement is also a pretty juiced map, this might end up rough especially for SSF players.
+Astrolabes are scarce compared to what I expected and you will average maybe one per two hundred maps (without targeting them explicitly through memory chains). 
+
+Considering the requirement is also a pretty juiced map, this might end up rough especially for less experienced SSF players.
 
 Using a b{Templar Astrolabe} can add raw quantity to your maps in a chain which can make this an easier threshold to cross.
 
-You might want to consider not using `Synthesised Stability` as it can cause your astrolabe cloud to be cut in half prematurely costing you a bunch of maps.
+You might want to consider not using `Synthesised Stability` as it can cause your astrolabe cloud to be cut in half prematurely costing you a bunch of maps (but as this is untyped it's not a huge deal).
 
 I would recommend you complete `Tremendous Tempests`, `Atlas Astrolabes` and `Vaulted Valuables` together as they are naturally complimentary. You can (and should) also progress `Sandswept Survivor` while doing `Tremendous Tempests` by simply blitzing the mirages.
 </div>
@@ -1181,7 +1183,7 @@ I would recommend you complete `Tremendous Tempests`, `Atlas Astrolabes` and `Va
 - [.ggg]Incarnation of Neglect
 	- [.com]b{Lonely Fragment} from `Sanctuary`
 
-This is four of the seven uber boss variants, if you have a boss killer this should be fine, otherwise you can buy the clears.
+This is five of the ten uber boss variants, if you have a boss killer this should be fine, otherwise you can buy the clears.
 
 Shaper and Cortex are the most reasonable to self-complete followed by the Incarnation bosses with the others varying wildly by your build.
 
@@ -1245,8 +1247,7 @@ As is seemingly tradition now, this is actually very easy.
 # Easing Long Term Grind
 #### Grueling Game Grinds
 - Divine Font usage isn't too bad, keep an eye on [PoELab](https://poelab.com) and look out for good layouts.
-- Level 100 is something you probably already know if you will get or not but you can get the `Omen of Amelioration` to avoid losing XP while working towards it
-- Do invitations instead of selling them
+- Level 100 is something you probably already know if you will get or not but you can get the b{Omen of Amelioration} to avoid losing XP while working towards it
 - Just map in general, if you live in delve or heist you won't get credit towards T14+ clears or engage with the new league content shockingly
 
 #### Tyrannical Tiers
@@ -1259,7 +1260,9 @@ As is seemingly tradition now, this is actually very easy.
 #### Sandswept Survivor
 - It's 150 maps which isn't a huge amount in the grand scheme of things, but if you don't engage in gameplay that completes it naturally you might find yourself needing to blitz a lot of maps in a row mindlessly
 
-There's not a lot of actual largescale grinds this time around, GGG is even pretty easy.# Challenges to Skip
+There's not a lot of actual largescale grinds this time around, GGG is even pretty easy.
+
+# Challenges to Skip
 You get the full armour set at **36/40** which allows you to skip up to four different challenges.
 
 Obvious contenders in vague order of consideration are as follows:
