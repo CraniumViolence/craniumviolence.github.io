@@ -512,9 +512,9 @@ Currency wise, `Rain of Chaos` and `Chaotic Disposition` can actually run at a p
 	- [.com]Requires use of one of the Harvest offerings which all buff the labyrinth rather a lot with each having additional buffs for certain things
 		- [.com]`Dedication to the Goddess` which buffs `Traps` heavily and enables divine font options for corrupted gems
 			- [.price]Dedication to the Goddess
-		- [.com]`Tribute to the Goddess` which buffs `Monsters` heavily and buffs reward chests
+		- [.com]`Tribute to the Goddess` which buffs `Izaro` heavily and buffs reward chests
 			- [.price]Tribute to the Goddess
-		- [.com]`Gift to the Goddess` which buffs `Izaro` heavily and gives 6 additional divine font uses
+		- [.com]`Gift to the Goddess` which buffs `Monsters` heavily and gives 6 additional divine font uses
 			- [.price]Gift to the Goddess
 - [.ggg]Abyssal Lich
 	- [.com]Run Abyss in T14s or higher and get an Abyssal Depths
