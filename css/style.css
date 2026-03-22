@@ -234,8 +234,16 @@ li img {
 
 .smol {
 	font-size: 50%;
-}
 
+}
+.centeritalic{
+	font-style:italic;
+}
+.centeritalic,
+.center {
+	text-align: center;
+	margin: 0px;
+}
 .smolcenter {
 	font-size: 60%;
 	text-align: center;
