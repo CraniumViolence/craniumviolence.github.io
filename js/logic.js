@@ -125,6 +125,32 @@ function hideCompleted() {
     }
 }
 
+function updateChallengeCount() {
+    let completed = 0;
+    for (let x = 1; x <= 40; x++) {
+        if (localStorage.getItem("data-ch-2603-" + x) === "yes") {
+            completed++;
+        }
+    }
+    const countText = " (" + completed + " / 40)";
+    
+    // Update main content h1
+    $("h1").each(function() {
+        if ($(this).text().includes("League Challenges")) {
+            let originalTitle = $(this).text().split(" (")[0];
+            $(this).text(originalTitle + countText);
+        }
+    });
+
+    // Update TOC link
+    $("#navigation a").each(function() {
+        if ($(this).text().includes("Mirage Challenges")) {
+            let originalTitle = $(this).text().split(" (")[0];
+            $(this).text(originalTitle + countText);
+        }
+    });
+}
+
 function addCheckboxes() {
     let hideState = localStorage.getItem("data-complete-visibility");
     let i = 0;
@@ -151,6 +177,7 @@ function addCheckboxes() {
             i++;
         }
     })
+    updateChallengeCount();
 }
 
 function clearLocalStorage() {
@@ -177,6 +204,7 @@ $(document).on('click', '.complete', function() {
             $(".li-c").hide();
         }
     }
+    updateChallengeCount();
 });
 GetLeague("league");
 getSidebar();
