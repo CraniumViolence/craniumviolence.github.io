@@ -181,6 +181,25 @@ $(document).on('click', '.complete', function() {
 GetLeague("league");
 getSidebar();
 
+function addRewards() {
+    const rewards = [
+        { count: 12, name: "Boots" },
+        { count: 20, name: "Gloves" },
+        { count: 28, name: "Body Armour" },
+        { count: 36, name: "Helmet" }
+    ];
+
+    const $unlocksLi = $("#navigation a[href='#unlocks']").closest("li");
+    
+    if ($unlocksLi.length) {
+        let rewardsHtml = "";
+        rewards.forEach(r => {
+            rewardsHtml += `<li class="li-i" style="margin-left: 20px; font-size: 90%;"><a href="#unlocks"><span style="font-weight: bold; margin-right: 8px; color: #EE983C;">${r.count}</span> ${r.name}</a></li>`;
+        });
+        $unlocksLi.after(rewardsHtml);
+    }
+}
+
 function waitForElements() {
     return new Promise((resolve) => {
         const id = setInterval(() => {
@@ -196,5 +215,6 @@ function waitForElements() {
 waitForElements().then(() => {
     checkHidden();
     addCheckboxes();
+    addRewards();
     priceEntries();
 });
