@@ -1240,12 +1240,13 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 		- b{Gift to the Goddess} for at minimum six uses
 	- [.com]Getting `Darkshrines` can allow for an additional usage of the font
 - [.ggg]Complete Tier 16 Rare Maps with Scarabs (1,000x)
-	- [.com]It's 1,000 maps using scarabs. You probably already know if you are going to get this
+	- [.com]Despite the wording this is 1,000 scarabs, rather than 1,000 maps
+		- [.com]You probably already know if you are going to get this
 	- [.com]T16.5s are still T16s
 	- [.com]Shaper, Elder and Conqueror maps 
 - [.ggg]Complete Shaper, Elder, Conqueror or Memory Guardian Maps with at least 100% Item Quantity (50x)
-	- [.com]Implictly completes 5% of the above challenge option
-	- [.com]Memory Guardians are presumably only the final map of each memory chain, I would not recommend targetting those at all
+	- [.com]Can be paired with completion of the the above challenge option (up to 25% of it)
+	- [.com]Memory Guardians are presumably only the final map of each memory chain, I would not recommend targeting those at all
 	- [.com]Not terribly hard, Maven rotas are always profit and this is simply running around 13 of those from a nil state
 		- [.com]p{Shaper Guardian Map}
 			- [.com]All four of the maps use the same base making this very easy to buy in bulk
@@ -1333,6 +1334,10 @@ You can view [a full preview video is available on the official Path of Exile Yo
 [PoeWiki](https://www.poewiki.net/wiki/) for some general information.
 
 [akurojin](https://github.com/akurojin) for information on the blood-filled vessels working for Cross Contamination.
+
+[maximvl](https://github.com/maximvl/) for the code for adding total counts and individual rewards menu entries
+
+[killergeist7](http://github.com/killergeist7/) for information on GGG not needing 1,000x maps but rather 1,000x scarabs
 
 #### Contact Information
 You can get in touch through [GitHub](https://github.com/CraniumViolence/craniumviolence.github.io) if any information here is incorrect or absent or you simply have better strategies or information you feel should be added (or otherwise feel the need to get in touch).
