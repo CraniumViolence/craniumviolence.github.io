@@ -142,13 +142,21 @@ function updateChallengeCount() {
         }
     });
 
-    // Update TOC link
+    // Update TOC link, update rewards
     $("#navigation a").each(function() {
         if ($(this).text().includes("Mirage Challenges")) {
             let originalTitle = $(this).text().split(" (")[0];
             $(this).text(originalTitle + countText);
         }
     });
+	
+    $("#navigation li[data-count]").each(function() {
+		if($(this).attr("data-count") <= completed && $(this).hasClass("li-i")){
+			$(this).addClass("li-c").removeClass("li-i");
+		} else if ($(this).attr("data-count") > completed && $(this).hasClass("li-c")){
+			$(this).addClass("li-i").removeClass("li-c");
+		}
+	});
 }
 
 function addCheckboxes() {
@@ -222,7 +230,7 @@ function addRewards() {
     if ($unlocksLi.length) {
         let rewardsHtml = "";
         rewards.forEach(r => {
-            rewardsHtml += `<li class="li-i" style="margin-left: 20px; font-size: 90%;"><a href="#unlocks"><span style="font-weight: bold; margin-right: 8px; color: #EE983C;">${r.count}</span> ${r.name}</a></li>`;
+            rewardsHtml += `<li class="li-i" style="margin-left: 20px; font-size: 90%;" data-count="${r.count}"><a href="#unlocks"><span style="font-weight: bold; margin-right: 8px; color: #EE983C;">${r.count}/40</span> ${r.name}</a></li>`;
         });
         $unlocksLi.after(rewardsHtml);
     }
@@ -241,8 +249,8 @@ function waitForElements() {
     });
 }
 waitForElements().then(() => {
+	addRewards();
     checkHidden();
     addCheckboxes();
-    addRewards();
     priceEntries();
 });
