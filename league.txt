@@ -1166,7 +1166,7 @@ As is generally the case, the higher your DPS the lower your time to make mistak
 ### New Content
 <h2 class="req">75 required</h2>
 [.ggg]Slay the Map Bosses of 75 Maps that are affected by an Atlas Astrolabe while are they Rare and Tier 16 with at least 150% Item Quantity.
-	- [.com]To quote GGG directly: **"while are they"**.
+- [.com]To quote GGG directly: **"while are they"**.
 
 Astrolabes are scarce compared to what I expected and you will average maybe one per two hundred maps (without targeting them explicitly through memory chains). 
 
