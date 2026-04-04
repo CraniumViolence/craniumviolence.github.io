@@ -663,11 +663,14 @@ With how prices have gone Catalysts, Volatile Vaal Orbs and the actual Coins are
 - [.ggg]Doryani's Machinarium
 	- [.com]r{Doryani's Machinarium}
 	- [.com]You probably want to try and find a group to split the cost for this
-	- [.com]Unless Kirac can sell it, it's exclusively from `Delve` from the `Ahuatotli` boss with a minimum Depth of 50.	
+	- [.com]Primary source is in `Delve` from the `Ahuatotli` boss with a minimum Depth of 50.
+	- [.com]Can also be sourced from `Betrayal` if you have `Rin` in `Fortification`
 
 This is all the maps and there's no more scouting reports which means this one is a bit of a stinker compared to the last few leagues. Maybe Kirac can sell Doryani's Machinarium but I wouldn't hold my breath.
 
 Of note is that Unique Maps need you to be able to see them on the Atlas to open them even if you have the map item, [the full atlas can be found on PoEDB](https://poedb.tw/us/Atlas_of_Worlds) to help with locating the maps. If you can't see them you can still join other people hosting them and get full credit.
+
+Having `Rin` in `Fortification` and running `Betrayal` is your best bet to find the rarer Unique Maps yourself and using gold to reroll Kirac's map inventory can get you some of the more common ones.
 
 On the bright side, they didn't make anyone do Hall of Grandmasters.
 </div>
