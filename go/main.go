@@ -39,22 +39,23 @@ var APIEndpoints = map[string]APIEndpoint{
 	"Currency":   {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Currency&league="},
 	"Astrolabe":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Astrolabe&league="},
 	"Fragment":   {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Fragment&league="},
-	"Incubator":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/api/data/itemoverview?type=Incubator&league="},
+	"Incubator":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=Incubator&league="},
 	"DjinnCoin":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=DjinnCoin&league="},
 	"Essence":    {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Essence&league="},
 	"Omen":       {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Omen&league="},
 	"Scarab":     {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Scarab&league="},
-	"Invitation": {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/api/data/itemoverview?type=Invitation&league="},
-	"Map":        {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/api/data/itemoverview?type=Map&league="},
-	"UniqueMap":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/api/data/itemoverview?type=UniqueMap&league="},
-	"DivinationCard":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/api/data/itemoverview?type=DivinationCard&league="},
+	"Invitation": {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=Invitation&league="},
+	"Map":        {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=Map&league="},
+	
+	"UniqueMap":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=UniqueMap&league="},
+	"DivinationCard":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=DivinationCard&league="},
 }
 
 func main() {
 	ZapLogger.Info("Main running")
 	for endpointName, endPointDetails := range APIEndpoints {
 		output := doJSONRequest(league, endPointDetails.EndpointURL)
-		ZapLogger.Info("got json response", zap.Int("jsonLength", len(output)))
+		ZapLogger.Info("got json response", zap.Int("jsonLength", len(output)), zap.String("endpoint", endpointName))
 		// write returned json, removing first { and adding a modified date as a unix timestamp for ease
 		os.WriteFile(endpointName+".json", append([]byte(fmt.Sprintf("{\"modified\":%d,", time.Now().Unix())), output[1:]...), 0644)
 	}
