@@ -11,23 +11,21 @@ Mechanics related to the current league or new mechanics in general will natural
 
 You can find [credits and contact information at the bottom of the page](#creditsandcontactinformation).
 
-[.centeritalic]You can [skip me blogging by clicking here](#extrainformation).
+[.centeritalic]If you want to see my thoughts on mirage, <a href="#" onclick="$('.lthoughts').fadeToggle(600);return false;">you can click here</a>. 
 
-#### Thoughts on the League
-The general state of the game is pretty good, loot feels solid, exalts being common finally has them useful in all situations you would want them in which is wonderful.
+<h4 class="lthoughts">Thoughts on the League</h4>
 
-The new Atlas is slightly obtuse but is generally an improvement in my opinion. The new Voidstones feel great and much more impactful, maps being generic is amazing for running any map in bulk. It's also the first time the Atlas has felt like you are actually exploring a place, which is presumably what was always imagined and never quite implemented. Astrolabes feel bad to actually interact with on most levels and are a huge miss for me; even with regular currency injections from Vaults and the power of the modifiers, I'd just rather have been able to use map device crafts.
+[.lthoughts]The general state of the game is pretty good, loot feels solid, exalts being common finally has them useful in all situations you would want them in which is wonderful.
 
-Mirage itself was good as it was 'more juice and more of the things you want' which is completely positive and the polar opposite of how `Breach in Keepers` felt to me. `Coins` were too rare and I didn't hit anything useful with them (but I also did not trade for them to gamble en masse). `Screams of the Desiccated` was common and easy to access but I didn't hit anything useful in over a hundred of them - I'd almost always rather have this type of item be rarer and always at least good than having what amount to 'dust for rog' and nothing else all league.
+[.lthoughts]The new Atlas is slightly obtuse but is generally an improvement in my opinion. The new Voidstones feel great and much more impactful, maps being generic is amazing for running any map in bulk. It's also the first time the Atlas has felt like you are actually exploring a place, which is presumably what was always imagined and never quite implemented. Astrolabes feel bad to actually interact with on most levels and are a huge miss for me; even with regular currency injections from Vaults and the power of the modifiers, I'd just rather have been able to use map device crafts.
 
-I'd love to see `Golden Volatiles` go core, if only as a rare monster on death effect that is completely random. Monsters bursting into treats is fun.
+[.lthoughts]Mirage itself was good as it was 'more juice and more of the things you want' which is completely positive and the polar opposite of how `Breach in Keepers` felt to me. `Coins` were too rare and I didn't hit anything useful with them (but I also did not trade for them to gamble en masse). `Screams of the Desiccated` was common and easy to access but I didn't hit anything useful in over a hundred of them - I'd almost always rather have this type of item be rarer and always at least good than having what amount to 'dust for rog' and nothing else all league.
 
-I'd also adore an Atlas tree option for `Abysses` to instantly pop like they do in mirages, it is a much nicer experience than chasing them down.
+[.lthoughts]I'd love to see `Golden Volatiles` go core, if only as a rare monster on death effect that is completely random. Monsters bursting into treats is fun.
 
-`Volatile Vaal Orbs` should added to `Vaal Side Areas` to give them a reason to exist and the other currencies can just be baked in to their mechanics without real issue - maybe just remove rancour and make it use `Sacred`, that is literally meant to be for the fancy crafts after all. `Mirages` themselves could also easily get a `Wildwood` or `Sentinel` implementation for adding the `Coins` and `Black Barya` into the game. I liked Miraged maps but I can't see them implementing it in a way that doesn't lock most people out of them completely, maybe as a delirium orb style currency that creates a mirage of 20% increments with the current mechanic targeting logic until you get a full map worth?
+[.lthoughts]I'd also adore an Atlas tree option for `Abysses` to instantly pop like they do in mirages, it is a much nicer experience than chasing them down.
 
-[.semismol]I got land-mined for the majority of my currency while preparing to swap to a new build while spam clicking downwards. So I quit the league. Never try to race people to buy things in bulk! GGG should probably have a *lock* option on currency stacks and make it so the *'you are being scammed, moron'* confirm prompt has a *timer before confirming* when the currency type changes, no one has ever decided that they suddenly want to spend Divines on an invitation or map without being willing to wait a couple seconds.
-
+[.lthoughts]`Volatile Vaal Orbs` should added to `Vaal Side Areas` to give them a reason to exist and the other currencies can just be baked in to their mechanics without real issue - maybe just remove rancour and make it use `Sacred`, that is literally meant to be for the fancy crafts after all. `Mirages` themselves could also easily get a `Wildwood` or `Sentinel` implementation for adding the `Coins` and `Black Barya` into the game. I liked Miraged maps but I can't see them implementing it in a way that doesn't lock most people out of them completely, maybe as a delirium orb style currency that creates a mirage of 20% increments with the current mechanic targeting logic until you get a full map worth?
 
 #### Extra Information
 [.note]Coloured and isolated prices are dynamic and updated roughly hourly using data from [poe.ninja](https://poe.ninja/), last updated <span class="time">-</span>.
