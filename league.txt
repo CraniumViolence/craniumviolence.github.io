@@ -5,7 +5,7 @@
 #### Introduction
 This guide makes the assumption that you have a baseline understanding of Path of Exile and does not include detailed descriptions of all core mechanics or systems.
 
-Difficulties are subjective and are oriented around thoughts on doing them in a trade league. SSF is always going to be notably harder.
+Difficulties are subjective and are oriented around thoughts on doing them in a trade league, SSF is always going to be notably harder. If you are trying to complete challenges and this is your first league following a build guide is probably wise.
 
 Mechanics related to the current league or new mechanics in general will naturally be covered more in depth.
 
