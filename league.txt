@@ -18,6 +18,15 @@ When the challenges go live a basic pass on the challenges will be written while
 
 Currently this is just a stub site to serve as a placeholder and indicate I intend to have a guide for the league.
 
+# Unlocks
+This league finally has some spice to it and isn't just a full set of armour! This time around there's a Weapon Effect, Pet, Back Attachment and Portal.
+- At 12 challenge completion you can unlock the Oceanic Weapon Effect.
+- At 24 challenge completion you can unlock the Fangtooh Moray Pet.
+- At 32 challenge completion you can unlock the Captain's Wheel Back Attachment.
+- At 36 challenge completion you can unlock the Oceanic Portal Effect.
+
+You can view [a full preview video is available on the official Path of Exile YouTube channel](https://www.youtube.com/watch?v=5_05mNyIg-c) for the rewards.
+
 # Credits and Contact Information
 #### Credits
 [PoeDB](https://poedb.tw/us/) for easily accessible information on pretty much everything about the game, the most vital resource for PoE in general.
