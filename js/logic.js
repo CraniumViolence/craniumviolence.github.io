@@ -113,7 +113,7 @@ function hideCompleted() {
     } else if (hideState == "visible") {
         // hide all
         for (let x = 1; x <= 40; x++) {
-            let challenge = localStorage.getItem("data-ch-2603-" + x);
+            let challenge = localStorage.getItem("data-ch-2407-" + x);
             if (challenge === "yes") {
                 // closest h1 because I'm dumb and lazy
                 $('div[data-challenge="' + x + '"]').closest("h1").hide();
@@ -128,7 +128,7 @@ function hideCompleted() {
 function updateChallengeCount() {
     let completed = 0;
     for (let x = 1; x <= 40; x++) {
-        if (localStorage.getItem("data-ch-2603-" + x) === "yes") {
+        if (localStorage.getItem("data-ch-2407-" + x) === "yes") {
             completed++;
         }
     }
@@ -168,10 +168,10 @@ function addCheckboxes() {
             i = 1;
         }
         if (i != 0 && i <= 40) {
-            let challenge = localStorage.getItem("data-ch-2603-" + i);
+            let challenge = localStorage.getItem("data-ch-2407-" + i);
             if (challenge === "no" || challenge === null) {
                 $("#navigation li:nth-child(" + (i + 1) + ")").addClass("li-i");
-                localStorage.setItem("data-ch-2603-" + i, "no");
+                localStorage.setItem("data-ch-2407-" + i, "no");
                 $(this).append('<div class="complete" data-challenge="' + i + '" data-complete="no">&#x2717;</div>');
             } else if (challenge === "yes") {
                 $("#navigation li:nth-child(" + (i + 1) + ")").addClass("li-c");
@@ -194,16 +194,16 @@ function clearLocalStorage() {
 }
 $(document).on('click', '.complete', function() {
     let i = $(this).attr("data-challenge");
-    let challenge = localStorage.getItem("data-ch-2603-" + i);
+    let challenge = localStorage.getItem("data-ch-2407-" + i);
     let hideState = localStorage.getItem("data-complete-visibility");
     if (challenge === "yes" || challenge === null) {
-        localStorage.setItem("data-ch-2603-" + i, "no");
+        localStorage.setItem("data-ch-2407-" + i, "no");
         $(this).html('&#x2717;').attr("data-complete", "no");
         $("#navigation li:nth-child(" + (+i + 1) + ")").addClass("li-i").removeClass("li-c");
         $("#ch-" + i).show();
         $(".li-c").show();
     } else if (challenge === "no") {
-        localStorage.setItem("data-ch-2603-" + i, "yes");
+        localStorage.setItem("data-ch-2407-" + i, "yes");
         $("#navigation li:nth-child(" + (+i + 1) + ")").addClass("li-c").removeClass("li-i");
         $(this).html('&#x2713;').attr("data-complete", "yes");
         $("#ch-" + i).hide();
@@ -219,10 +219,10 @@ getSidebar();
 
 function addRewards() {
     const rewards = [
-        { count: 12, name: "Boots" },
-        { count: 20, name: "Gloves" },
-        { count: 28, name: "Body Armour" },
-        { count: 36, name: "Helmet" }
+        { count: 12, name: "Weapon Effect" },
+        { count: 24, name: "Pet" },
+        { count: 32, name: "Back Attachment" },
+        { count: 36, name: "Portal" }
     ];
 
     const $unlocksLi = $("#navigation a[href='#unlocks']").closest("li");

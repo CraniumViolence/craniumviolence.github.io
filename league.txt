@@ -13,10 +13,503 @@ Mechanics related to the current league or new mechanics in general will natural
 
 [.semismol]Reminder that you should never buy supporter packs before you actually play the league and find it's worth supporting!
 
+# 1 Beginner's Basics
+<div id="ch-1" markdown="1">
+<h2 class="req">All required</h2>
+[.ggg]Complete each of the following tasks.
+- [.ggg]Defeat Hillock
+- [.ggg]Defeat Brutus
+- [.ggg]Defeat Merveil
+</div>
+
+# 2 Deep Dive
+<div id="ch-2" markdown="2">
+<h2 class="req">All required</h2>
+[.ggg]Complete each of the following Curse of the Allflame encounters.
+- [.ggg]Visit The Sovereign
+- [.ggg]Place an Allflame Lantern
+- [.ggg]Chart an Area
+</div>
+
+# 3 Peddler's Produce I
+<div id="ch-3" markdown="3">
+<h2 class="req">All required</h2>
+[.ggg]Complete vendor recipes to receive each of the following items. A vendor recipe is when you trade a specific combination of items to a vendor, not when you buy items from their purchase screen.
+- [.ggg]Armourer's Scrap
+- [.ggg]Blacksmith's Whetstone
+- [.ggg]Glassblower's Bauble
+- [.ggg]Gemcutter's Prism
+</div>
+
+# 4 Act Adversaries I
+<div id="ch-4" markdown="4">
+<h2 class="req">All required</h2>
+[.ggg]Defeat each of the following Act Bosses.
+- [.ggg]Act 1: Merveil, the Twisted
+- [.ggg]Act 2: Vaal Oversoul
+- [.ggg]Act 3: Dominus, Ascendant
+- [.ggg]Act 4: Malachai, The Nightmare
+- [.ggg]Act 5: Kitava, the Insatiable
+</div>
+
+# 5 Possessive Pantheons
+<div id="ch-5" markdown="5">
+<h2 class="req">All required</h2>
+[.ggg]Complete each of the following Quests.
+- [.ggg]The Father of War
+- [.ggg]The Cloven One
+- [.ggg]The Puppet Mistress
+- [.ggg]The Master of a Million Faces
+- [.ggg]Queen of Despair
+- [.ggg]Reflection of Terror
+- [.ggg]Queen of the Sands
+- [.ggg]The Ruler of Highgate
+</div>
+
+# 6 Underwater Undertaking
+<div id="ch-6" markdown="6">
+<h2 class="req">All required</h2>
+[.ggg]Complete each of the following Curse of the Allflame encounters.
+- [.ggg]Chart Areas (4x)
+- [.ggg]Complete a Voyage
+- [.ggg]Use Dead Man's Sulphur to Craft an item
+</div>
+
+# 7 Act Adversaries II
+<div id="ch-7" markdown="7">
+<h2 class="req">All required</h2>
+[.ggg]Defeat each of the following Act Bosses.
+- [.ggg]Act 6: Tsoagoth, The Brine King
+- [.ggg]Act 7: Arakaali, Spinner of Shadows
+- [.ggg]Act 8: Lunaris, Eternal Moon and Solaris, Eternal Sun
+- [.ggg]Act 9: The Depraved Trinity
+- [.ggg]Act 10: Kitava, the Insatiable
+</div>
+
+# 8 Atlas Accomplishment
+<div id="ch-8" markdown="8">
+<h2 class="req">100 required</h2>
+[.ggg]Complete All Non Unique Maps on the Atlas.
+</div>
+
+# 9 Ingrained Increases
+<div id="ch-9" markdown="9">
+<h2 class="req">3 of 6 required</h2>
+[.ggg]Complete any three of the following League Mechanic encounters the specified number of times.
+- [.ggg]Defeat Monsters with Essence (30x)
+- [.ggg]Open Strongboxes (30x)
+- [.ggg]Activate Shrines (30x)
+- [.ggg]Defeat Possessed Monsters (30x)
+- [.ggg]Defeat Rogue Exiles (30x)
+- [.ggg]Defeat Rare Beyond Monsters (30x)
+</div>
+
+# 10 Legendary Leagues
+<div id="ch-10" markdown="10">
+<h2 class="req">5 of 12 required</h2>
+[.ggg]Complete any five of the following League Mechanic encounters the specified number of times.
+- [.ggg]Complete Abysses (30x)
+- [.ggg]Complete Expeditions (30x)
+- [.ggg]Harvest Plots (100x)
+- [.ggg]Complete Legion Encounters (30x)
+- [.ggg]Open Smuggler's Caches (30x)
+- [.ggg]Pass through Mirrors of Delirium (30x)
+- [.ggg]Complete Ultimatum Waves (200x)
+- [.ggg]Complete Blights (30x)
+- [.ggg]Complete Rituals (100x)
+- [.ggg]Complete Ore Deposit Encounters (30x)
+- [.ggg]Complete Unstable Breaches or Hives (30x)
+- [.ggg]Defeat Mercenaries (30x)
+</div>
+
+# 11 Trustworthy Teachers
+<div id="ch-11" markdown="11">
+<h2 class="req">2 of 4 required</h2>
+[.ggg]Complete any two of the following Master missions in Maps that are Tier 16 with at least 80% Item Quantity the specified number of times.
+- [.ggg]Niko Missions (10x)
+- [.ggg]Einhar Missions (10x)
+- [.ggg]Jun Missions (10x)
+- [.ggg]Alva Missions (10x)
+</div>
+
+# 12 Nautical Navigation
+<div id="ch-12" markdown="12">
+<h2 class="req">All required</h2>
+[.ggg]Complete each of the following Curse of the Allflame encounters.
+- [.ggg]Complete Voyages (10x)
+- [.ggg]Defeat Rare Monsters in Voyages (200x)
+- [.ggg]Use Dead Man's Sulphur to craft equipment (50,000x)
+</div>
+
+# 13 Savage Sellswords
+<div id="ch-13" markdown="13">
+<h2 class="req">3 of 4 required</h2>
+[.ggg]Complete any 3 of the following Mercenaries of Trarthus Encounters.
+- [.ggg]Defeat Rare or Unique Monsters in level 68 or higher areas while you have an Allied Mercenary (100x)
+- [.ggg]Claim items with Infamous Modifiers (15x)
+- [.ggg]Complete Maps with Mercenary Scarabs or Warrants applied (15x)
+- [.ggg]Defeat Infamous Mercenaries in level 68 or higher areas (30x)
+</div>
+
+# 14 Chromatic Crafting
+<div id="ch-14" markdown="14">
+<h2 class="req">All required</h2>
+[.ggg]Complete each of the following tasks.
+- [.ggg]Use Chromatic Orbs (10x)
+- [.ggg]Have a total of 15 Coloured Sockets on your Equipment
+- [.ggg]Have a socketed skill gem reach 60% quality or higher
+</div>
+
+# 15 Vanquished Villains
+<div id="ch-15" markdown="15">
+[.ggg]Socket 4 Voidstones into your Atlas.
+</div>
+
+# 16 Taxing Tasks
+<div id="ch-16" markdown="16">
+<h2 class="req">5 of 11 required</h2>
+[.ggg]Complete any five of the following encounters while the area level is 81 or higher if possible the specified number of times.
+- [.ggg]Abyssal Depths (5x)
+- [.ggg]Logbooks with at least 10 Remnants active (5x)
+- [.ggg]Tier 4 Harvest Seeds (5x)
+- [.ggg]Domains of Timeless Conflict with at least 25 rewards (3x)
+- [.ggg]Blueprints with 4 revealed wings (5x)
+- [.ggg]Simulacrum Waves (60x)
+- [.ggg]Fully Completed Ultimatums (10x)
+- [.ggg]Blighted or Blight Ravaged Maps (5x)
+- [.ggg]All Rituals in Maps with at least one Blood-filled Vessel applied (10x)
+- [.ggg]Claim rewards from Rare Maps successfully completed by your Atlas Runners (30x)
+- [.ggg]Complete Hive Fortresses or Defeat Breach Marshals (5x)
+</div>
+
+# 17 Comprehensive Charting
+<div id="ch-17" markdown="17">
+<h2 class="req">9 of 14 required</h2>
+[.ggg]Complete any nine of the following types of Charts.
+- [.ggg]Abyssal Plain
+- [.ggg]Anchorfield
+- [.ggg]Brine King's Domain
+- [.ggg]Clam-infested Shelf
+- [.ggg]Diving Shoals
+- [.ggg]Eldritch Depths
+- [.ggg]Hazardous Depths
+- [.ggg]Infested Bathyspheres
+- [.ggg]Lost Ruins
+- [.ggg]Pelagic Abyss
+- [.ggg]Sea Pillars
+- [.ggg]Seafloor Ridges
+- [.ggg]Sunken Totems
+- [.ggg]Undersea Groves
+</div>
+
+# 18 Achieve Ascension
+<div id="ch-18" markdown="18">
+<h2 class="req">All required</h2>
+[.ggg]Complete each of the following Ascendancy tasks.
+- [.ggg]Use the Ascendancy Device in the Labyrinth
+- [.ggg]Use the Ascendancy Device in the Cruel Labyrinth
+- [.ggg]Use the Ascendancy Device in the Merciless Labyrinth
+- [.ggg]Use the Ascendancy Device in the Eternal Labyrinth
+- [.ggg]Gain a Bloodline Class
+</div>
+
+# 19 Devious Divination
+<div id="ch-19" markdown="19">
+<h2 class="req">3 of 4 required</h2>
+[.ggg]Complete any three of the following Divination Card tasks.
+- [.ggg]Open Stacked Decks (40x)
+- [.ggg]Hand in Divination Card sets (30x)
+- [.ggg]Complete Red Tier Maps with at least one Divination Scarab applied (10x)
+- [.ggg]Scry a Map
+</div>
+
+# 20 Peddler's Produce II
+<div id="ch-20" markdown="20">
+<h2 class="req">All required</h2>
+[.ggg]Complete vendor recipes to receive each of the following items the specified number of times. A vendor recipe is when you trade a specific combination of items to a vendor, not when you buy items from their purchase screen.
+- [.ggg]Unique Item (5x)
+- [.ggg]Scarab (5x)
+- [.ggg]Tier 16 Map (5x)
+</div>
+
+# 21 Challenging Curators
+<div id="ch-21" markdown="21">
+<h2 class="req">6 of 8 required</h2>
+[.ggg]Defeat any six of the following Bosses while they are at least level 80.
+- [.ggg]Uber Atziri
+- [.ggg]Izaro
+- [.ggg]Abyssal Lich
+- [.ggg]Omnitect
+- [.ggg]Vox Twins
+- [.ggg]K'Tash, Ghorr or Beidat
+- [.ggg]Medved, Vorana or Uhtred
+- [.ggg]The Black Knight, Admiral Valerius or Sasan
+</div>
+
+# 22 Ethereal Enhancements
+<div id="ch-22" markdown="22">
+<h2 class="req">5 of 9 required</h2>
+[.ggg]Use any five of the following type of Cursed Ducats.
+- [.ggg]Brinehook's Ducat
+- [.ggg]Cyaxan's Ducat
+- [.ggg]Katakohi's Ducat
+- [.ggg]Kishara's Ducat
+- [.ggg]Merrick's Ducat
+- [.ggg]Rotmother's Ducat
+- [.ggg]Telesia's Ducat
+- [.ggg]The Genteel's Ducat
+- [.ggg]Tzamoto's Ducat
+</div>
+
+# 23 Remarkable Realms
+<div id="ch-23" markdown="23">
+<h2 class="req">15 of 18 required</h2>
+[.ggg]Complete any 15 of the following Unique Maps.
+- [.ggg]Vaults of Atziri
+- [.ggg]Maelström of Chaos
+- [.ggg]The Coward's Trial
+- [.ggg]Acton's Nightmare
+- [.ggg]Poorjoy's Asylum
+- [.ggg]Mao Kun
+- [.ggg]Oba's Cursed Trove
+- [.ggg]Olmec's Sanctum
+- [.ggg]Death and Taxes
+- [.ggg]Whakawairua Tuahu
+- [.ggg]The Vinktar Square
+- [.ggg]Caer Blaidd, Wolfpack's Den
+- [.ggg]The Putrid Cloister
+- [.ggg]Hallowed Ground
+- [.ggg]The Twilight Temple
+- [.ggg]Pillars of Arun
+- [.ggg]Doryani's Machinarium
+- [.ggg]Hall of the Grandmasters
+</div>
+
+# 24 Stacked Scarabs
+<div id="ch-24" markdown="24">
+<h2 class="req">750 required</h2>
+[.ggg]Complete Maps with 750 Scarabs. Each Scarab applied to Maps counts towards this Challenge.
+</div>
+
+# 25 Corrupted Crystals
+<div id="ch-25" markdown="25">
+<h2 class="req">3 of 4 required</h2>
+[.ggg]Complete any 3 of the following Gem tasks.
+- [.ggg]Level Gems to level 20 (10x)
+- [.ggg]Have at least 20 Corrupted Gems socketed into your Equipment
+- [.ggg]Corrupt a gem to become either level 21 or 23% quality
+- [.ggg]Level a Pact Skill Gem to level 20
+</div>
+
+# 26 Cross Contamination
+<div id="ch-26" markdown="26">
+<h2 class="req">4 of 6 required</h2>
+[.ggg]Complete any four of the following past league content encounters.
+- [.ggg]Defeat a Mercenary while you are Delirious
+- [.ggg]Defeat a Possessed Rogue Exile while you have an allied Mercenary
+- [.ggg]Complete a Map that is Originator Influenced and affected by an Astrolabe
+- [.ggg]Defeat an Abyssal Consort while affected by a Shrine
+- [.ggg]Defeat a Breach Marshal that is empowered by Wildwood Wisps
+- [.ggg]Defeat a Legion General while affected by a Tempest
+</div>
+
+# 27 Superior Sovereign
+<div id="ch-27" markdown="27">
+<h2 class="req">5 required</h2>
+[.ggg]Fully upgrade The Sovereign.
+</div>
+
+# 28 Bountiful Bloodlines
+<div id="ch-28" markdown="28">
+<h2 class="req">7 of 12 required</h2>
+[.ggg]Defeat any seven of the following Bosses or Encounters.
+- [.ggg]The Trialmaster
+- [.ggg]The King in the Mists
+- [.ggg]Oshabi
+- [.ggg]Catarina
+- [.ggg]Aul
+- [.ggg]Olroth
+- [.ggg]Lycia
+- [.ggg]Farrul
+- [.ggg]Simulacrum
+- [.ggg]It That Was Tul and It That Was Esh
+- [.ggg]Velka
+- [.ggg]Zorath
+</div>
+
+# 29 Astounding Astrolabes
+<div id="ch-29" markdown="29">
+<h2 class="req">6 of 10 required</h2>
+[.ggg]Complete any six of the following types of Astrolabed Rare Maps while they are Tier 16 and have 5 Scarabs applied the specified number of times.
+- [.ggg]Templar Astrolabe (5x)
+- [.ggg]Fruiting Astrolabe (5x)
+- [.ggg]Lightless Astrolabe (5x)
+- [.ggg]Grasping Astrolabe (5x)
+- [.ggg]Nameless Astrolabe (5x)
+- [.ggg]Fungal Astrolabe (5x)
+- [.ggg]Chaotic Astrolabe (5x)
+- [.ggg]Deceptive Astrolabe (5x)
+- [.ggg]Timeless Astrolabe (5x)
+- [.ggg]Runic Astrolabe (5x)
+</div>
+
+# 30 Modified Maps
+<div id="ch-30" markdown="30">
+<h2 class="req">3000 required</h2>
+[.ggg]Reach a total of 3000 Explicit Modifers completing Maps.
+</div>
+
+# 31 Excruciating Echoes
+<div id="ch-31" markdown="31">
+<h2 class="req">2 of 4 required</h2>
+[.ggg]Complete any two the following types of Maps the specified number of times while they are Tier 16, Rare and have at least 150% Item Quantity.
+- [.ggg]Originator Influenced Maps (30x)
+- [.ggg]Courtyard of Wasting (5x)
+- [.ggg]Chambers of Impunity (5x)
+- [.ggg]Theatre of Lies (5x)
+</div>
+
+# 32 Fathomless Fears
+<div id="ch-32" markdown="32">
+<h2 class="req">9 of 16 required</h2>
+[.ggg]Complete Voyages with any nine of the following Border Modifiers.
+- [.ggg]Area Contains Altars to the Goddess
+- [.ggg]Area contains Captainsbane
+- [.ggg]Area contains Filthscrabble
+- [.ggg]Area contains Gold Lanterns
+- [.ggg]Area contains additional Monster Packs
+- [.ggg]Area contains additional Treasure Anchors
+- [.ggg]Area contains an additional Pirate's Locker
+- [.ggg]Basic Currency items will instead drop as Stacked Decks
+- [.ggg]Charts have a chance to not be consumed when beginning a Voyage
+- [.ggg]Equipment dropped by Monsters in Area is converted to Gold
+- [.ggg]Increased Area Explicit Modifier Magnitudes
+- [.ggg]Monsters in Area are at least Magic
+- [.ggg]Placing Lanterns in Area does not reduce Lantern count
+- [.ggg]Rare Monsters in Area drop Dead Man's Sulphur
+- [.ggg]Rare Monsters in Area drop an additional Scarab
+- [.ggg]Rare Monsters in Area drop an additional currency
+</div>
+
+# 33 Intrigued Interlopers
+<div id="ch-33" markdown="33">
+<h2 class="req">2 of 3 required</h2>
+[.ggg]Complete any two the following types of Eldritch Encounters in Tier 16 Maps that are Rare the specified number of times.
+- [.ggg]Defeat Map Bosses after having activated at least 4 Eater of Worlds Altars which have modifiers that affect the Map Boss with Eldritch Gaze allocated (10x)
+- [.ggg]Defeat Map Bosses after having activated at least 4 Searing Exarch Altars which have modifiers that affect the Map Boss with Wrath of the Cosmos allocated (10x)
+- [.ggg]Complete Maps with at least 150% Item Quantity while they are being witnessed by the Maven while having Destructive Play allocated (25x)
+</div>
+
+# 34 Potent Possibilities
+<div id="ch-34" markdown="34">
+<h2 class="req">10 of 20 required</h2>
+[.ggg]Use any ten of the following Currency items the specified number of times.
+- [.ggg]Influenced Exalted Orb
+- [.ggg]Veiled Exalted or Chaos Orb
+- [.ggg]Orb of Remembrance, Unravelling or Intention
+- [.ggg]Eldritch Exalted, Annulment or Chaos orb
+- [.ggg]Exceptional Eldritch Ichor or Ember
+- [.ggg]Tainted Currency (10x)
+- [.ggg]Awakener's Orb
+- [.ggg]Orb of Dominance
+- [.ggg]Mirror of Kalandra
+- [.ggg]Sacred Orb
+- [.ggg]Fracturing Orb
+- [.ggg]Hinekora's Lock
+- [.ggg]Tempering or Tailoring Orb
+- [.ggg]Reflecting Mist
+- [.ggg]Runegraft or Tattoo (5x)
+- [.ggg]Enshrouding Crystal (5x)
+- [.ggg]Catalyst (40x)
+- [.ggg]Corrupted Essence (4x)
+- [.ggg]Blight Oil (10x)
+- [.ggg]Sacred Crystallised Lifeforce or Crystallised Rancour
+</div>
+
+# 35 Succinct Summons
+<div id="ch-35" markdown="35">
+<h2 class="req">30 required</h2>
+[.ggg]Complete 30 Invitations while they have at least 5 Explicit Modifiers.
+</div>
+
+# 36 Atlas Assertions
+<div id="ch-36" markdown="36">
+<h2 class="req">6 of 11 required</h2>
+[.ggg]Complete any six of the following random Atlas Encounters.
+- [.ggg]Forgotten Shrine
+- [.ggg]Gambling District
+- [.ggg]Lake Islet
+- [.ggg]Overgrown Grove
+- [.ggg]Planned Heist
+- [.ggg]River's End
+- [.ggg]Syndicate Hideout
+- [.ggg]The Court of Chaos
+- [.ggg]The Manor Foyer
+- [.ggg]Uncharted Expedition
+- [.ggg]Untainted Paradise
+</div>
+
+# 37 Brinerot's Bloody Bounty
+<div id="ch-37" markdown="37">
+<h2 class="req">3 of 4 required</h2>
+[.ggg]Defeat Velka, The Tide Witch in any three of the specified ways.
+- [.ggg]Without being hit by Brine Storm Call
+- [.ggg]Without being hit by any Anchors
+- [.ggg]Without being hit by Lightning Whip
+- [.ggg]Without being hit by Crashing Brine
+</div>
+
+# 38 Horrific Halls
+<div id="ch-38" markdown="38">
+<h2 class="req">2 of 5 required</h2>
+[.ggg]Complete any two of the following Nightmare Maps while they have at least 150% Item Quantity, 5 Scarabs and Delirium Orbs applied and are Corrupted.
+- [.ggg]Abomination
+- [.ggg]Citadel
+- [.ggg]Fortress
+- [.ggg]Sanctuary
+- [.ggg]Ziggurat
+</div>
+
+# 39 Apex Assailants
+<div id="ch-39" markdown="39">
+<h2 class="req">5 of 10 required</h2>
+[.ggg]Defeat any five of the following Pinnacle Boss Encounters while the area is level 85.
+- [.ggg]Sirus, Awakener of Worlds
+- [.ggg]The Elder
+- [.ggg]The Maven
+- [.ggg]The Searing Exarch
+- [.ggg]The Eater of Worlds
+- [.ggg]High Templar Venarius
+- [.ggg]The Shaper
+- [.ggg]Incarnation of Dread
+- [.ggg]Incarnation of Fear
+- [.ggg]Incarnation of Neglect
+</div>
+
+# 40 Gallant Grinding Goals
+<div id="ch-40" markdown="40">
+<h2 class="req">4 of 6 required</h2>
+[.ggg]Complete any four of these encounters the specified number of times.
+- [.ggg]Reach Level 100
+- [.ggg]Cleanse Darkshrines in the Endgame Labyrinth (150x)
+- [.ggg]Defeat Pinnacle bosses while the area is level 85 (30x)
+- [.ggg]Complete Tier 16 Maps that are Rare and Corrupted with 8 Modifiers (50x)
+- [.ggg]Complete Nightmare Maps (40x)
+- [.ggg]Defeat Rare Monsters in Voyages that are area level 83 (400x)
+</div>
+
 # The league hasn't started yet, actually
 When the challenges go live a basic pass on the challenges will be written while waiting for league start.
 
 Currently this is just a stub site to serve as a placeholder and indicate I intend to have a guide for the league.
+
+# Easing Long Term Grind
+Nothing here currently!
+
+# Challenges to Skip
+You get the full set of challenge rewards at **36/40** completion, which allows you to skip up to four different challenges.
+
+But I haven't wrote anything else for this part!
 
 # Unlocks
 This league finally has some spice to it and isn't just a full set of armour! This time around there's a Weapon Effect, Pet, Back Attachment and Portal.
