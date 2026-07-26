@@ -528,9 +528,9 @@ If you don't run Heist they are a very obvious skip and Kingsmarch is very relia
 <h2 class="req">5 of 9 required</h2>
 [.ggg]Use any five of the following type of Cursed Ducats.
 - [.ggg]Brinehook's Ducat
-	- [price]Brinehook's Ducat
+	- [.price]Brinehook's Ducat
 - [.ggg]Cyaxan's Ducat
-	- [price]Cyaxan's Ducat
+	- [.price]Cyaxan's Ducat
 - [.ggg]Katakohi's Ducat
 	- [.price]Katakohi's Ducat
 - [.ggg]Kishara's Ducat
