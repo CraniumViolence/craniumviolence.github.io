@@ -445,7 +445,7 @@ No item level requirement but realistically you can't easily get low level ones 
 	- [.com]It That Was Tul and It That Was Esh
 		- [.com]For the `Breachlord Bloodline`, defeat `It That Was Tul` and `It That Was Esh` in a breach fortress
 		- [.com]b{Hivebrain Gland} forces this encounter to spawn.
-	- [com]Velka, the Tide Witch
+	- [.com]Velka, the Tide Witch
 		- [.com]For the `Velka Bloodline`
 		- [.com]Actually, I have no idea how you access this currently. Presumably from doing Voyages!
 
@@ -460,7 +460,7 @@ Normal progression, this is just getting all of your ascendancy points and doing
 	- [.com]Stacked Decks can commonly be found in Blighted Maps, Heist, Legion and by using `Diviner's Delirium Orbs` on maps
 	- [.com]Can be pretty regularly found on Mercenaries as pocket lint items
 - [.ggg]Hand in Divination Card sets (30x)
-		- [.com][poe.ninja](https://poe.ninja/economy/mercenaries/divination-cards) allows you to sort by stack size by simply pressing the Stack Size button
+	- [.com][poe.ninja](https://poe.ninja/economy/mercenaries/divination-cards) allows you to sort by stack size by simply pressing the Stack Size button
 	- [.com]Searching on Faustus for <code class="mini">card "0/[1-2][0-9]"</code> will give you results for every card type with a stack size of 10 or higher
 	- [.com]Searching a Divination Card stash for <code class="mini">"/[1-2][0-9]"</code> will produce any 10 stack or higher cards you already own some of
 - [.ggg]Complete Red Tier Maps with at least one Divination Scarab applied (10x)
