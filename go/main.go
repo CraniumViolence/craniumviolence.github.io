@@ -11,7 +11,7 @@ import (
 )
 
 var (
-	league    = "Mirage"
+	league    = "Allflame"
 	ZapLogger *zap.Logger
 )
 
@@ -36,6 +36,8 @@ type APIEndpoint struct {
 
 var APIEndpoints = map[string]APIEndpoint{
 	// General
+	"Ducats":   {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Ducat&league="},
+	"EnshroudingCrystal":   {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=EnshroudingCrystal&league="},
 	"Currency":   {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Currency&league="},
 	"Astrolabe":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Astrolabe&league="},
 	"Fragment":   {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Fragment&league="},

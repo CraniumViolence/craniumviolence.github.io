@@ -11,6 +11,8 @@ var files = [
     "../go/Map.json",
     "../go/UniqueMap.json",
     "../go/DivinationCard.json",
+    "../go/Ducats.json",
+    "../go/EnshroudingCrystal.json",
 ];
 
 // Initialize an object to store the data

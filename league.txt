@@ -5,11 +5,16 @@
 #### Introduction
 This page covers all of the challenges for the **Curse of the Allflame** league. 
 
+The guide is under construction. Difficulties are not provided currently as I have yet to think about it.
+
 While the guide makes the assumption that you have a baseline understanding of Path of Exile, it will still give fairly detailed information on even the simpler challenges.
 
 Difficulties are subjective and are oriented around thoughts on doing them in a trade league, SSF is always going to be notably harder. If you are trying to complete challenges and this is your first league following a build guide is probably wise.
 
 Mechanics related to the current league or new mechanics in general will naturally be covered more in depth.
+
+#### Extra Information
+[.note]Coloured and isolated prices are dynamic and updated roughly hourly using data from [poe.ninja](https://poe.ninja/), last updated <span class="time">-</span>.
 
 [.semismol]Reminder that you should never buy supporter packs before you actually play the league and find it's worth supporting!
 
@@ -20,6 +25,8 @@ Mechanics related to the current league or new mechanics in general will natural
 - [.ggg]Defeat Hillock
 - [.ggg]Defeat Brutus
 - [.ggg]Defeat Merveil
+
+This is just finishing Act 1.
 </div>
 
 # 2 Deep Dive
@@ -29,6 +36,12 @@ Mechanics related to the current league or new mechanics in general will natural
 - [.ggg]Visit The Sovereign
 - [.ggg]Place an Allflame Lantern
 - [.ggg]Chart an Area
+
+The Sovereign can be accessed from the Mud Flats in Act 1 and then from Waypoints or by typing <code class="quest">/boat</code>.
+
+Charting an area is done by talking to Valerie and using the appropriate option and will involve also placing Allflame Lanterns.
+
+Very free.
 </div>
 
 # 3 Peddler's Produce I
@@ -36,9 +49,13 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">All required</h2>
 [.ggg]Complete vendor recipes to receive each of the following items. A vendor recipe is when you trade a specific combination of items to a vendor, not when you buy items from their purchase screen.
 - [.ggg]Armourer's Scrap
+	- [.com]Vendor either a 20% quality Armour Piece or multiple pieces which add up to quality totalling 40%
 - [.ggg]Blacksmith's Whetstone
+	- [.com]Vendor either a 20% quality Weapon or multiple weapons which add up to quality totalling 40%
 - [.ggg]Glassblower's Bauble
+	- [.com]Vendor either a 20% quality Flask or multiple flasks which add up to quality totalling 40%
 - [.ggg]Gemcutter's Prism
+	- [.com]Vendor either a 20% quality Gem or multiple gems which add up to quality totalling 40%
 </div>
 
 # 4 Act Adversaries I
@@ -50,6 +67,8 @@ Mechanics related to the current league or new mechanics in general will natural
 - [.ggg]Act 3: Dominus, Ascendant
 - [.ggg]Act 4: Malachai, The Nightmare
 - [.ggg]Act 5: Kitava, the Insatiable
+
+Completely normal compulsory progression.
 </div>
 
 # 5 Possessive Pantheons
@@ -57,13 +76,23 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following Quests.
 - [.ggg]The Father of War
+	- [.com]Defeat `Tukohama` in `Act 6`
 - [.ggg]The Cloven One
+	- [.com]Defeat `Abberath` in `Act 6`
 - [.ggg]The Puppet Mistress
+	- [.com]Defeat `Ryslatha` in `Act 6`
 - [.ggg]The Master of a Million Faces
+	- [.com]Defeat `Ralakesh` in `Act 7`
 - [.ggg]Queen of Despair
+	- [.com]Defeat `Gruthkul` in `Act 7`
 - [.ggg]Reflection of Terror
+	- [.com]Defeat `Yugul` in `Act 8`
 - [.ggg]Queen of the Sands
+	- [.com]Defeat `Shakari` in `Act 9`
 - [.ggg]The Ruler of Highgate
+	- [.com]Defeat `Garukhan ` in `Act 9`
+	
+These are simply a mixture of compulsory boss quests and those for passive points that also give Pantheon unlocks, you will get these naturally progressing campaign in most cases.
 </div>
 
 # 6 Underwater Undertaking
@@ -71,8 +100,17 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following Curse of the Allflame encounters.
 - [.ggg]Chart Areas (4x)
+	- [.com]Go to the Sovereign (<code>/boat</code>) and talk to Valerie to run charts
+	- [.com]Charts are gained by simply completing the new league mini-events in each area
+	- [.com]You can ctrl-click Valerie to open this menu directly
 - [.ggg]Complete a Voyage
+	- [.com]Voyages can be plotted from Valerie after completing some Charts
+	- [.com]The first Voyage has a limited grid of 2x2 while further ones have 3x3
+		- [.com]As an extension of the above, you need either 4 charts or 9 charts for a Voyage
 - [.ggg]Use Dead Man's Sulphur to Craft an item
+	- [.com]Head below deck in the Sovereign and simply do some crafting by inserting an item and currency
+	
+You get pretty heavily directed to complete all of these by the natural progression of unlocking the league mechanic so you are very likely to complete these before even seeing this guide.
 </div>
 
 # 7 Act Adversaries II
@@ -83,6 +121,8 @@ Mechanics related to the current league or new mechanics in general will natural
 - [.ggg]Act 7: Arakaali, Spinner of Shadows
 - [.ggg]Act 8: Lunaris, Eternal Moon and Solaris, Eternal Sun
 - [.ggg]Act 9: The Depraved Trinity
+
+Completely normal compulsory progression.
 - [.ggg]Act 10: Kitava, the Insatiable
 </div>
 
@@ -90,6 +130,8 @@ Mechanics related to the current league or new mechanics in general will natural
 <div id="ch-8" markdown="8">
 <h2 class="req">100 required</h2>
 [.ggg]Complete All Non Unique Maps on the Atlas.
+
+The Atlas is the endgame, you will want to do this if you are engaging with the game enough to want challenge rewards regardless.
 </div>
 
 # 9 Ingrained Increases
@@ -97,11 +139,35 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">3 of 6 required</h2>
 [.ggg]Complete any three of the following League Mechanic encounters the specified number of times.
 - [.ggg]Defeat Monsters with Essence (30x)
+	- [.com]Atlas points can guarantee at least **1** monster each map
+	- [.com]b{Essence Scarab} adds **2** monsters up to a max of **10** while using five
+	- [.com]b{Essence Scarab of Calcification} converts **all rare monsters** in a map to be imprisoned
 - [.ggg]Open Strongboxes (30x)
+	- [.com]Atlas points can guarantee at least **1** strongbox each map
+	- [.com]b{Ambush Scarab} will add **4** to a map up to a max of **12** while using three
 - [.ggg]Activate Shrines (30x)
+	- [.com]Atlas points can guarantee at least **1** shrine a map
+	- [.com]b{Domination Scarab} adds **2** shrines to a map up to a max of **8** while using four
+	- [.com]b{Domination Scarab of Apparitions} adds **2** Apparition Shrines to a map
+	- [.com]b{Domination Scarab of Evolution} adds **1** Evolving Shrine up to a maximum of **2** while using two
 - [.ggg]Defeat Possessed Monsters (30x)
+	- [.com]The league `Cursed Treasure` spawns monsters that are possessed and gives you a buff after using it, you are likely to have cleared this by chance if you engage with those
+	- [.com]Atlas points can add at least **1** Tormented Spirit
+		- [.com]Pairing this with `Rogue Exiles` is sensible as `Exiled Will` causes Rogue Exiles to be possessed
+	- [.com]b{Torment Scarab of Possession} grants a fixed 25% chance for each rare in an area to be possessed up to a maximum of 75%
+	- [.com]b{Torment Scarab} adds **3** additional Tormented Sprits to an area
+	- [.com]Do not take `Speaker of the Dead` if you want to complete this
+	- [.com]This is an obvious skip because it's awkward compared to the rest
 - [.ggg]Defeat Rogue Exiles (30x)
+	- [.com]Atlas points can add **1** Rogue Exile and can cause them to appear in pairs or spawn extras with a map boss
+	- [.com]b{Anarchy Scarab} adds **4** Rogue Exiles up to a maximum of **20** while using five
+	- [.com]b{Anarchy Scarab of Partnership} is a 50% chance for Rogue Exiles to appear in pairs
 - [.ggg]Defeat Rare Beyond Monsters (30x)
+	- [.com]A b{Beyond Scarab} and the Atlas can all enable Beyond monsters spawning
+	- [.com]Atlas points can lower requirements for spawning monsters and `Endless Tide` makes it so you cannot spawn bosses (bosses stop further beyond monster spawns by default)
+	- [.com]b{Beyond Scarab of Haemophilia} and b{Beyond Scarab of the Invasion} both make spawning Beyond monsters easier
+	
+Nothing terribly complex, interact with some past league mechanics in a moderate amount.
 </div>
 
 # 10 Legendary Leagues
@@ -109,17 +175,59 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">5 of 12 required</h2>
 [.ggg]Complete any five of the following League Mechanic encounters the specified number of times.
 - [.ggg]Complete Abysses (30x)
+	- [.com]Abyss was reworked and it's simpler than it was, go near the big glowing green nodes and kill things until they turn into a chest or grey to indicate they have no reward
+	- [.com]b{Abyss Scarab} adds **1** and has a limit of **5**
+	- [.com]`Underground Kingdom` on the Atlas Passive Tree adds increased chance for Abysses based on pack size and it otherwise has fixed percentage chance nodes.
+	- [.com]You can use a b{Lightless Astrolabe} to get additional Abysses and related mods
 - [.ggg]Complete Expeditions (30x)
+	- [.com]Requires reading to avoid bricking encounters, truly not for the faint of heart
+	- [.com]b{Expedition Scarab} adds an expedition to a map or you can force it with various atlas points
+	- [.com]You can use a b{Runic Astrolabe} to get expedition related mods but they will not make this faster
 - [.ggg]Harvest Plots (100x)
+	- [.com]You will get multiple plots per harvest making this about equal to everything else
+	- [.com]b{Harvest Scarab} adds an expedition to a map or you can force it with various atlas points
+	- [.com]You can use a b{Fruiting Astrolabe} to get Harvest related mods but they will not make this faster
 - [.ggg]Complete Legion Encounters (30x)
+	- [.com]As many per map as you push onto it
+	- [.com]The Atlas Passive Tree forces one minimum
+	- [.com]You can force up to five using a set of five b{Legion Scarab}
+	- [.com]You can use a b{Timeless Astrolabe} to get additional Legion encounters and related mods
 - [.ggg]Open Smuggler's Caches (30x)
+	- [.com]Very unobtrusive, simply click the caches as you see them while doing anything else
+	- [.com]The Atlas Passive Tree allows you to force a minimum of one cache with potential for up to eight
 - [.ggg]Pass through Mirrors of Delirium (30x)
+	- [.com]One a map maximum
+	- [.com]b{Delirium Scarab} adds a mirror to a map
+	- [.com]One a map, you can immediately end it because it's just passing through
+	- [.com]You can use a b{Deceptive Astrolabe} to get Delirium related mods but they will not make this faster
 - [.ggg]Complete Ultimatum Waves (200x)
+	- [.com]One a map maximum
+	- [.com]b{Ultimatum Scarab} adds an Ultimatum to a map
+	- [.com]You can get 10 to 13 waves per Ultimatum, this seems balanced around full clearing but you can chip away at it with short runs too
+	- [.com]You can use a b{Chaotic Astrolabe} to get Ultimatum related mods but they will not make this faster
 - [.ggg]Complete Blights (30x)
+	- [.com]One a map maximum
+	- [.com]b{Blight Scarab} adds a blight to a map
+	- [.com]Can be forced with the Atlas Passive Tree or a b{Blight Scarab}
+	- [.com]You can use a b{Fungal Astrolabe} to get Blight related mods but they will not make this faster
 - [.ggg]Complete Rituals (100x)
+	- [.com]3 or 4 per map
+	- [.com]b{Ritual Scarab} adds rituals to a map
+	- [.com]You can use a b{Nameless Astrolabe} to get Ritual related mods but they will not make this faster
 - [.ggg]Complete Ore Deposit Encounters (30x)
+	- [.com]As many per map as you push onto it
+	- [.com]b{Kalguuran Scarab} adds two to a map	
+	- [.com]The Atlas Passive Tree can force ore in maps
+	- [.com]You can use up to two b{Kalguuran Scarab} to get four extra deposits on a map
 - [.ggg]Complete Unstable Breaches or Hives (30x)
+	- [.com]b{Breach Scarab of Instability} adds two to a map and is limited to two
+	- [.com]As many per map as you push onto it, one to five deterministically
+	- [.com]Using a full Breach tree with two b{Breach Scarab of Instability} is recommended and can get a lot per map
+	- [.com]Hives are slower but give more Hiveblood
 - [.ggg]Defeat Mercenaries (30x)
+	- [.com]The return of the Mercenary mechanic, Luminaries will get this one as a freebie!
+	- [.com]b{Trarthan Scarab} adds a Mercenary to an area
+	- [.com]b{Trarthan Scarab of Surprising Alliances} can have Wild Mercenaries accompany Rogue Exiles but **I have not verified if this counts for completion**.
 </div>
 
 # 11 Trustworthy Teachers
@@ -127,9 +235,20 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">2 of 4 required</h2>
 [.ggg]Complete any two of the following Master missions in Maps that are Tier 16 with at least 80% Item Quantity the specified number of times.
 - [.ggg]Niko Missions (10x)
+	- [.com]Tagging all Sulphite nodes in a map
+	- [.com]Forced per map with a b{Sulphite Scarab}=
 - [.ggg]Einhar Missions (10x)
+	- [.com]Capturing all Beasts in a map
+	- [.com]Forced per map with a b{Bestiary Scarab}
 - [.ggg]Jun Missions (10x)
+	- [.com]Completing all Syndicate Encounters in a map
+	- [.com]Forced per map with a b{Betrayal Scarab}
 - [.ggg]Alva Missions (10x)
+	- [.com]Completing all Incursions in a map
+	- [.com]Forced per map with a b{Incursion Scarab}
+	- [.com]You can simply immediately leave each incursion if you don't want to actually think about this
+
+Red Maps with decent quantity but also lowered from the usual 30x per. Niko is an obvious pick as he can make maps easier while the rest make it harder.
 </div>
 
 # 12 Nautical Navigation
@@ -137,8 +256,16 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following Curse of the Allflame encounters.
 - [.ggg]Complete Voyages (10x)
+	- [.com]Complete charts and then use them to go on Voyages
+	- [.com]You must complete 9 charts per Voyage after the tutorial one
 - [.ggg]Defeat Rare Monsters in Voyages (200x)
+	- [.com]Voyages are pretty rare dense so it shouldn't be more than around 10 with the worst possible luck
+	- [.com]Look at borders and the voyage item modifiers to complete this easier
+	- [.com]Awkwardly, it seems the only place to see your voyage items is on `Valerie`
 - [.ggg]Use Dead Man's Sulphur to craft equipment (50,000x)
+	- [.com]Semi-deterministic Annuls are expensive in sulphur costs if you want to blast this
+	
+The new league mechanic, nothing particularly hard about it and is mostly just a set of three things you'll complete by happenstance unless you spend the league in Heist or Delve ignoring it.
 </div>
 
 # 13 Savage Sellswords
@@ -146,9 +273,18 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">3 of 4 required</h2>
 [.ggg]Complete any 3 of the following Mercenaries of Trarthus Encounters.
 - [.ggg]Defeat Rare or Unique Monsters in level 68 or higher areas while you have an Allied Mercenary (100x)
+	- [.com]b{Trarthan Scarab} adds a Mercenary to an area
+	- [.com]It's purely area level, so you can just blast Tier 1 map and uses scarabs if you want to do this easily
+	- [.com]You should naturally pair this with the below too
 - [.ggg]Claim items with Infamous Modifiers (15x)
+	- [.com]b{Trarthan Scarab of Infamy} forces an infamous mercenary if you have a mercenary spawn, pair with atlas or b{Trarthan Scarab} to guarantee it
 - [.ggg]Complete Maps with Mercenary Scarabs or Warrants applied (15x)
+	- [.com]Combos with the above two tasks
 - [.ggg]Defeat Infamous Mercenaries in level 68 or higher areas (30x)
+	- [.com]Combos with the claiming of items as you have to do that to claim them anyway
+	- [.com]It does mean you can stop reading after the first 15 if you are disinclined to skimming items
+
+Nothing too complicated	and isn't locked down to T16s or even maps being rare.
 </div>
 
 # 14 Chromatic Crafting
@@ -156,13 +292,41 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following tasks.
 - [.ggg]Use Chromatic Orbs (10x)
+	- [.com]b{Chromatic Orb} usage, very complicated
 - [.ggg]Have a total of 15 Coloured Sockets on your Equipment
+	- [.com]This is colouring around 60% of your standard 24 sockets across gear pieces (you can bring this to 26 with unset rings).
+	- [.com]A b{Chromatic Orb} forces at least one coloured slot and the `Crafting Bench` can force more.
 - [.ggg]Have a socketed skill gem reach 60% quality or higher
+	- [.com]You gani +10% for matching a gem colour to a socket colour
+	- [.com]`Crest of Desire` adds 5-8 levels and 30-50% quality to any inserted Skill Gem
+	- [.com]`Replica Voideye` adds 30% quality
+	- [.com]Ashes of the Stars is +20-30% quality for all gems and +1 to level of all skill gems
 </div>
 
 # 15 Vanquished Villains
 <div id="ch-15" markdown="15">
 [.ggg]Socket 4 Voidstones into your Atlas.
+	- [.com]Complete Eater of Worlds and Searching Exarch
+		- [.com]Bottom left corner
+	- [.com]Complete Zana's Questline
+		- [.com]Top left corner, but does forces visibility as you progress it elsewhere
+	- [.com]Complete `The Shaper` and `The Elder`
+		- [.com]Separately or in an Uber Elder both count
+		- [.com]The Shaper
+			- [.price]Fragment of the Chimera
+			- [.price]Fragment of the Hydra
+			- [.price]Fragment of the Minotaur
+			- [.price]Fragment of the Phoenix
+		- [.com]The Elder
+			- [.price]Fragment of Purification
+			- [.price]Fragment of Constriction
+			- [.price]Fragment of Enslavement
+			- [.price]Fragment of Eradication
+	- [.com]Complete The Maven
+		- [.com]Uses b{The Maven's Writ}
+		- [.com]Bottom right corner
+
+Standard endgame progression. You can buy carries for all of these.
 </div>
 
 # 16 Taxing Tasks
@@ -170,16 +334,52 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">5 of 11 required</h2>
 [.ggg]Complete any five of the following encounters while the area level is 81 or higher if possible the specified number of times.
 - [.ggg]Abyssal Depths (5x)
+	- [.com]The b{Abyss Scarab of Descending} that forces Depths spawns
 - [.ggg]Logbooks with at least 10 Remnants active (5x)
+	- [.com]You can simply buy these and then it's as simple as playing them normally
+	- [.com]These are just the modifiers that activate as you blow things up
 - [.ggg]Tier 4 Harvest Seeds (5x)
+	- [.com]Crop Rotation can get you Tier 4s relatively even if it's not completely consistent
+	- [.com]The b{Harvest Scarab of Cornucopia} exists and allows you to force at least one Tier 4 monster to spawn
 - [.ggg]Domains of Timeless Conflict with at least 25 rewards (3x)
+	- [.com]Ironically, this is harder to see now they changed it to feel 'less like an arcade game'.
+	- [.com]Can be done in a four or five-way fairly easily as long as your build is decent at clearing, simply get the emblems
+	- [.com]Buying in to a five-way rota will obviously complete this for you while also levelling you but is a lot more than simply buying the emblems if your character can handle it
+	- [.com]This might sound hard if you are unfamiliar with the content, but it is legitimately not even a single full row of rewards and it does not take a notable build to reach this amount
 - [.ggg]Blueprints with 4 revealed wings (5x)
+	- [.com]Requires engaging with Heist as all the blueprint will require that you have levelled up your Rogues to be taken
+	- [.com][Very simple to search for on the trade website](https://www.pathofexile.com/trade/search/Mercenaries/lVlbq2psV), simply look for area level of 81 and set the heist section to include four revealed wings
+		- [.com]The in game async trading search should presumably also cover this.
+
 - [.ggg]Simulacrum Waves (60x)
+	- [.com]Simply waves, doesn't need you to complete them
+	- [.com]I would avoid attrition grinding if you can't do at least 10 waves and do something else instead as you will ultimately just be wasting money otherwise
 - [.ggg]Fully Completed Ultimatums (10x)
+	- [.com]This is a full set of 10 or more waves depending on your atlas tree, not too bad but a lot of builds will struggle with T14 and full ten waves
 - [.ggg]Blighted or Blight Ravaged Maps (5x)
+	- [.com]`Clear Oil`, `Sepia Oil` and `Amber Oil` can `Slow Monsters`, `Increase Tower Damage` and `Make Towers Cheaper` respectively
+		- [.com]`Blighted` maps allow for up to three of any one type of oil while `Blight Ravaged` allow for up to three of three types of oil
+		- [.com]You can mix and match oils, you don't need to use only one type
+	- [.com]Ring anoint for Meteor Burning Ground and Chilling Towers Freeze Enemies
+		- [.com]`Silver Oil` and `Opalescent Oil` for `Your Chilling Towers freeze enemies for 0.2 seconds while they are affected by chilling beams`
+		- [.com]`Violet Oil` and `Indigo  Oil` for `Your Meteor Towers create Burning Ground for 3 seconds on Hit`
+		- [.com]You can also go with `Azure Oil` and `Sepia Oil` to get `Your Empowering Towers have 25% increased Effect` as a cheaper alternative to the freezing anoint (not recommended if you want to try Blight Ravaged without exceptionally high DPS)
+	- [.com]Leave Seismic, Empowering and Chilling Towers at Level 3, use them in choke points and to stop things reaching the pump in general
+	- [.com]Minions should go to Scout Towers, Fire should go to Meteor Towers
+	- [.com]Build multiple damage types in each lane to cover immunities and try to build towers around actual lane chokepoints
+	- [.com]Avoid immune to stun, chance to avoid elemental ailments and cannot be slowed below base speed as modifiers
+	- [.com]Blight Ravaged is a lot harder but can still be managed with just those two ring anoints if you don't get a really, really bad layout
 - [.ggg]All Rituals in Maps with at least one Blood-filled Vessel applied (10x)
+	- [.com]Use them on completed rituals to fill them up
+	- [.com]Use filled ones as a map fragment when opening a portal to add the monsters to rituals
+	- [.com]This is a fairly big undertaking compared to some of the others, you cannot fill vessels from rituals that used vessels making this a lot more than 20 in most cases
 - [.ggg]Claim rewards from Rare Maps successfully completed by your Atlas Runners (30x)
+	- [.com]Basic kingsmarch interaction, map runners are purely a gold sink you want highest level possible for
+	- [.com]It is rare maps only so you can transmute and regal maps for highest clear chances and even annul them if you're feeling crazy
 - [.ggg]Complete Hive Fortresses or Defeat Breach Marshals (5x)
+	- [.com]Stack unstable breaches, disable hives and run the b{Breach Scarab of the Marashal} (very optional) and you can do this in two to three maps
+
+A copy of the last two leagues with no additions.
 </div>
 
 # 17 Comprehensive Charting
@@ -200,6 +400,10 @@ Mechanics related to the current league or new mechanics in general will natural
 - [.ggg]Seafloor Ridges
 - [.ggg]Sunken Totems
 - [.ggg]Undersea Groves
+
+You can find these at the top of a Chart in Orange Text after they have been identified, seems to be impossible to search for the the trade site currently which might make t his a bit awful. Searching for 
+
+No item level requirement but realistically you can't easily get low level ones as it stands with the above line in mind.
 </div>
 
 # 18 Achieve Ascension
@@ -211,6 +415,38 @@ Mechanics related to the current league or new mechanics in general will natural
 - [.ggg]Use the Ascendancy Device in the Merciless Labyrinth
 - [.ggg]Use the Ascendancy Device in the Eternal Labyrinth
 - [.ggg]Gain a Bloodline Class
+	- [.com]The Trialmaster
+		- [.com]For the `Chaos Bloodline`, defeat `The Trialmaster` in any map of Area Level 81 or higher through Ultimatums
+		- [.com]Can be forced using an b{Ultimatum Scarab of Dueling}, you can do this on a scoured map
+	- [.com]The King in the Mists
+		- [.com]For the `Nameless Bloodline`, defeat `The King in the Mists` using b{An Audience With The King} in the map device
+	- [.com]Oshabi
+		- [.com]For the `Oshabi Bloodline`, defeat `Oshabi, Avatar of the Grove` using a b{Sacred Blossom} in the map device
+	- [.com]Catarina
+		- [.com]For the `Catarina Bloodline`, defeat `Catarina, Master of Undeath` by using a b{Syndicate Medallion}
+	- [.com]Aul
+		- [.com]For the `Aul Bloodline`, defeat `Aul` in Delve at a depth of 130 or deeper
+			- [.com]The deeper you are the higher your chances
+			- [.com]You can presumably buy a taxi for this
+	- [.com]Olroth
+		- [.com]For the `Olroth Bloodline`, defeat `Olroth, Origin of the Fall` in an `Expedition Logbook` with `Knights of the Sun` at Area Level 81 or higher 
+			- [.com]Logbooks can force bosses, you should get one of those if you aren't farming expedition and want this.
+	- [.com]Lycia
+		- [.com]For the `Lycia Bloodline`, defeat `Lycia, Herald of the Scourge` in the `Forbidden Sanctum`
+			- [.com]This is just completing a `Forbidden Tome`, doesn't seem to immediately have an area level requirement.
+	- [.com]Farrul
+		- [.com]For the `Farrul Bloodline`, defeat `Farrul, First of the Plains` in the Menagerie by using a `Farric Tiger Alpha` to open a portal to his fight
+	- [.com]Simulacrum
+		- [.com]For the `Delirious Bloodline` by completing a b{Simulacrum}
+			- [.com]This is all 15 waves, this is actually rather hard for the vast majority of builds. You might want a carry.
+	- [.com]It That Was Tul and It That Was Esh
+		- [.com]For the `Breachlord Bloodline`, defeat `It That Was Tul` and `It That Was Esh` in a breach fortress
+		- [.com]b{Hivebrain Gland} forces this encounter to spawn.
+	- [com]Velka, the Tide Witch
+		- [.com]For the `Velka Bloodline`
+		- [.com]Actually, I have no idea how you access this currently. Presumably from doing Voyages!
+
+Normal progression, this is just getting all of your ascendancy points and doing a boss with a Bloodline attached.
 </div>
 
 # 19 Devious Divination
@@ -218,9 +454,19 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">3 of 4 required</h2>
 [.ggg]Complete any three of the following Divination Card tasks.
 - [.ggg]Open Stacked Decks (40x)
+	- [.com]Stacked Decks can commonly be found in Blighted Maps, Heist, Legion and by using `Diviner's Delirium Orbs` on maps
+	- [.com]Can be pretty regularly found on Mercenaries as pocket lint items
 - [.ggg]Hand in Divination Card sets (30x)
+		- [.com][poe.ninja](https://poe.ninja/economy/mercenaries/divination-cards) allows you to sort by stack size by simply pressing the Stack Size button
+	- [.com]Searching on Faustus for <code class="mini">card "0/[1-2][0-9]"</code> will give you results for every card type with a stack size of 10 or higher
+	- [.com]Searching a Divination Card stash for <code class="mini">"/[1-2][0-9]"</code> will produce any 10 stack or higher cards you already own some of
 - [.ggg]Complete Red Tier Maps with at least one Divination Scarab applied (10x)
+	- [.com]As it says 'at least one', you don't get benefits from more
+	- [.price]Divination Scarab of The Cloister
+	- [.price]Divination Scarab of Pilfering
+	- [.price]Divination Scarab of Plenty
 - [.ggg]Scry a Map
+	- [.com]Uses the new b{Scrying Orb} currency which is dropped by completing maps with `Altered Prophecy` enabled on the Atlas Tree
 </div>
 
 # 20 Peddler's Produce II
@@ -228,8 +474,12 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">All required</h2>
 [.ggg]Complete vendor recipes to receive each of the following items the specified number of times. A vendor recipe is when you trade a specific combination of items to a vendor, not when you buy items from their purchase screen.
 - [.ggg]Unique Item (5x)
+	- [.com]You can vendor three of any non-corrupted Unique Item in order to get a fresh copy back with new rolls
+	- [.com]There is a [PoeWiki listing for all of these](https://www.poewiki.net/wiki/Vendor_recipe_system#Unique_items) which includes other options
 - [.ggg]Scarab (5x)
+	- [.com]You can vendor three of any scarab to get a replacement random scarab back
 - [.ggg]Tier 16 Map (5x)
+	- [.com]You can vendor three Tier 15 maps to get a Tier 16 map back
 </div>
 
 # 21 Challenging Curators
@@ -237,13 +487,37 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">6 of 8 required</h2>
 [.ggg]Defeat any six of the following Bosses while they are at least level 80.
 - [.ggg]Uber Atziri
+	- [.com]Running a set of `Mortal Fragments` will always meet the level requirement
 - [.ggg]Izaro
+	- [.com]Requires use of one of the Harvest offerings which all buff the labyrinth rather a lot with each having additional buffs for certain things
+		- [.com]`Dedication to the Goddess` which buffs `Traps` heavily and enables divine font options for corrupted gems
+			- [.price]Dedication to the Goddess
+		- [.com]`Tribute to the Goddess` which buffs `Izaro` heavily and buffs reward chests
+			- [.price]Tribute to the Goddess
+		- [.com]`Gift to the Goddess` which buffs `Monsters` heavily and gives 6 additional divine font uses
+			- [.price]Gift to the Goddess
 - [.ggg]Abyssal Lich
+	- [.com]Run Abyss in T14s or higher and get an Abyssal Depths
+	- [.com]`Kurgal, the Blackblooded` the lich found in Delve does not count towards this challenge
 - [.ggg]Omnitect
+	- [.com]You can simply buy a `Chronicle of Atzoatl` with the `Temple Apex` set to `Open` at level 80 or higher for this
+		- [.com]If the Apex isn't open you will not be able to reach the boss, there is a chance you can use an explosives room to do so but it's not worth the micromanagement unless you are self-farming
 - [.ggg]Vox Twins
+	- [.com]Heist content, specifically needs you to buy a `Contract: The Twins` and run it in the Rogue Harbour
 - [.ggg]K'Tash, Ghorr or Beidat
+	- [.com]Beyond bosses, fairly easy to have happen by just using a beyond tree
+	- [.com]b{Beyond Scarab of Resurgence} makes this happen most maps, especially if paired with dense mechanics
 - [.ggg]Medved, Vorana or Uhtred
+	- [.com]Expedition Logbook bosses, you can just buy Logbooks which force these
+	- [.com]Search for <code class="mini">~expedition boss</code> on the trade site or the in game market search and you will find the implicit for these
+		- [.com]Be sure to also use `Area Level` set to `80` under `Map Filters` to avoid a boss too low level to count!
+		- [.com]If you are buying an `Olroth`, get an area level of `81` for progress on `Seized Strength`
 - [.ggg]The Black Knight, Admiral Valerius or Sasan
+	- [.com]`The Black Knight` can rarely appear in any map that has ore spawn on it in place of an ore node, simply spam maps with them at a high level
+	- [.com]`Admiral Valerius` is a random encounter that can happen to any deployed shipment in Kingsmarch rarely
+	- [.com]`Sasan` is a random encounter that can happen to any deployed mappers in Kingsmarch rarely
+
+If you don't run Heist they are a very obvious skip and Kingsmarch is very reliant on luck making that a good second option for skipping.
 </div>
 
 # 22 Ethereal Enhancements
@@ -251,14 +525,25 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">5 of 9 required</h2>
 [.ggg]Use any five of the following type of Cursed Ducats.
 - [.ggg]Brinehook's Ducat
+	- [price]Brinehook's Ducat
 - [.ggg]Cyaxan's Ducat
+	- [price]Cyaxan's Ducat
 - [.ggg]Katakohi's Ducat
+	- [.price]Katakohi's Ducat
 - [.ggg]Kishara's Ducat
+	- [.price]Kishara's Ducat
 - [.ggg]Merrick's Ducat
+	- [.price]Merrick's Ducat
 - [.ggg]Rotmother's Ducat
+	- [.price]Rotmother's Ducat
 - [.ggg]Telesia's Ducat
+	- [.price]Telesia's Ducat
 - [.ggg]The Genteel's Ducat
+	- [.price]The Genteel's Ducat
 - [.ggg]Tzamoto's Ducat
+	- [.price]Tzamoto's Ducat
+
+You can use Ducats below decks on the Sovereign (<code class="quest">/boat</code>)
 </div>
 
 # 23 Remarkable Realms
@@ -266,29 +551,55 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">15 of 18 required</h2>
 [.ggg]Complete any 15 of the following Unique Maps.
 - [.ggg]Vaults of Atziri
+	- [.com]r{Vaults of Atziri}
 - [.ggg]Maelström of Chaos
+	- [.com]r{Maelström of Chaos}
 - [.ggg]The Coward's Trial
+	- [.com]r{The Coward's Trial}
 - [.ggg]Acton's Nightmare
+	- [.com]r{Acton's Nightmare}
 - [.ggg]Poorjoy's Asylum
+	- [.com]r{Poorjoy's Asylum}
 - [.ggg]Mao Kun
+	- [.com]r{Mao Kun}
 - [.ggg]Oba's Cursed Trove
+	- [.com]r{Oba's Cursed Trove}
 - [.ggg]Olmec's Sanctum
+	- [.com]r{Olmec's Sanctum}
 - [.ggg]Death and Taxes
+	- [.com]r{Death and Taxes}
 - [.ggg]Whakawairua Tuahu
+	- [.com]r{Whakawairua Tuahu}
 - [.ggg]The Vinktar Square
+	- [.com]r{The Vinktar Square}
+	- [.com]Vendor `Agnerod North`, `Agnerod East`, `Agnerod South` and `Agnerod West` to get this map back
+	- [.com]The staffs normally run a couple chaos, it is likely cheaper than the map
 - [.ggg]Caer Blaidd, Wolfpack's Den
+	- [.com]r{Caer Blaidd, Wolfpack's Den}
 - [.ggg]The Putrid Cloister
+	- [.com]r{The Putrid Cloister}
 - [.ggg]Hallowed Ground
+	- [.com]r{Hallowed Ground}
 - [.ggg]The Twilight Temple
+	- [.com]r{The Twilight Temple}
 - [.ggg]Pillars of Arun
+	- [.com]r{Pillars of Arun}
 - [.ggg]Doryani's Machinarium
+	- [.com]r{Doryani's Machinarium}
+- [.ggg]Doryani's Machinarium
+	- [.com]r{Doryani's Machinarium}
 - [.ggg]Hall of the Grandmasters
+	- [.com]r{Hall of the Grandmasters}
+
+The usual challenge with some of the flavour diluted by allowing you to skip some. The Hall of Grandmasters and Doryani's Machinarium are obvious skip fodder with a third being dealer's choice (Whakawairua Tuahu or Mao Kun, perhaps).
 </div>
 
 # 24 Stacked Scarabs
 <div id="ch-24" markdown="24">
 <h2 class="req">750 required</h2>
 [.ggg]Complete Maps with 750 Scarabs. Each Scarab applied to Maps counts towards this Challenge.
+
+It even explains what I'd add a note about this time! No map tier requirement, no item quantity requirements. Simply blast with scarabs.
 </div>
 
 # 25 Corrupted Crystals
@@ -296,9 +607,17 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">3 of 4 required</h2>
 [.ggg]Complete any 3 of the following Gem tasks.
 - [.ggg]Level Gems to level 20 (10x)
+	- [.com]Fairly long term but you will probably be using more than 10 gems on a build and get them to level 20 if you don't buy replacements
+	- [.com]With the lack of socketing restrictions, your offhands should always be full of gems too
 - [.ggg]Have at least 20 Corrupted Gems socketed into your Equipment
+	- [.com]Just buy cheap corrupted gems and stick them in every socket you can
 - [.ggg]Corrupt a gem to become either level 21 or 23% quality
+	- [.com]Slam Vaal Orbs on Lv20 and/or 20% quality gems
+	- [.com]Use the Lapidary Lens for better odds (Alva Temples)
 - [.ggg]Level a Pact Skill Gem to level 20
+	- [.com]The new caster skill gems, probably a skip if you want to save some change
+
+Nothing crazy, the Pact Skill Gem one is a bit silly and feels forced but it's nice to have it there and take it as allowing a skip.
 </div>
 
 # 26 Cross Contamination
@@ -306,17 +625,43 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">4 of 6 required</h2>
 [.ggg]Complete any four of the following past league content encounters.
 - [.ggg]Defeat a Mercenary while you are Delirious
+	- [.com]Force a Mercenary with a b{Trarthan Scarab}
+	- [.com]**Unending Nightmare** will stop Fog ever dissipating
+    - [.com]Any **Players are Delirious** map has permanent fog (1x Delirium Orb)
 - [.ggg]Defeat a Possessed Rogue Exile while you have an allied Mercenary
+	- [.com]`Exiled Will` causes Rogue Exiles to be possessed and an b{Anarchy Scarab} forces them in a map
 - [.ggg]Complete a Map that is Originator Influenced and affected by an Astrolabe
+	- [.com]Use an astrolabe and run an originator map, nothing complicated
 - [.ggg]Defeat an Abyssal Consort while affected by a Shrine
+	- [.com]Needs the use of the new b{Abyss Scarab of the Consort} (or The Gull in an Abyssal Depths)
+	- [.com]Find the boss, burst it down a bit if you feel you need to and then tag a shrine and kill it
 - [.ggg]Defeat a Breach Marshal that is empowered by Wildwood Wisps
+	- [.com]You can use a b{Scarab of Wisps} for this alongside stacking breach mechanics
 - [.ggg]Defeat a Legion General while affected by a Tempest
+	- [.com]`Scarab of Radiant Storms` spawns tempests
+	- [.com]b{Legion Scarab of Command} forces generals in a Legion (which can be forced with the normal b{Legion Scarab})
+
+The Breach Marshal and Legion Generals seem like obvious skips for this one as they are a lot more fiddly than the others.
 </div>
 
 # 27 Superior Sovereign
 <div id="ch-27" markdown="27">
 <h2 class="req">5 required</h2>
 [.ggg]Fully upgrade The Sovereign.
+	- [.com]Requires items from Charts and Voyages
+		- [.com]`Deadcaller Bellows`
+			- [.com]+1 maximum Allflame Lanterns
+			- [.com]Drops from special Charts
+		- [.com]Sulphur Purifier
+			- [.com]20% increased Dead Man's Sulphur collected
+			- [.com]Drops on The Sovereign after completing a Voyage
+		- [.com]Spectral Infuser
+		- [.com]Alchemical Exchange
+			- [.com]20% increased Quantity of Items found in Charts and Voyages
+			- [.com]Drops from special Charts
+		- [.com]Forbidden Scripture
+
+Not a lot of information on these floating around, I obtained the first two just progressing with minimal interaction with the league mechanic.
 </div>
 
 # 28 Bountiful Bloodlines
@@ -324,39 +669,93 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">7 of 12 required</h2>
 [.ggg]Defeat any seven of the following Bosses or Encounters.
 - [.ggg]The Trialmaster
+	- [.com]For the `Chaos Bloodline`, defeat `The Trialmaster` in any map of Area Level 81 or higher through Ultimatums
+	- [.com]Can be forced using an b{Ultimatum Scarab of Dueling}, you can do this on a scoured map
 - [.ggg]The King in the Mists
+	- [.com]For the `Nameless Bloodline`, defeat `The King in the Mists` using b{An Audience With The King} in the map device
 - [.ggg]Oshabi
+	- [.com]For the `Oshabi Bloodline`, defeat `Oshabi, Avatar of the Grove` using a b{Sacred Blossom} in the map device
 - [.ggg]Catarina
+	- [.com]For the `Catarina Bloodline`, defeat `Catarina, Master of Undeath` by using a b{Syndicate Medallion}
 - [.ggg]Aul
+	- [.com]For the `Aul Bloodline`, defeat `Aul` in Delve at a depth of 130 or deeper
+		- [.com]The deeper you are the higher your chances
+		- [.com]You can presumably buy a taxi for this
 - [.ggg]Olroth
+	- [.com]For the `Olroth Bloodline`, defeat `Olroth, Origin of the Fall` in an `Expedition Logbook` with `Knights of the Sun` at Area Level 81 or higher 
+		- [.com]Logbooks can force bosses, you should get one of those if you aren't farming expedition and want this.
 - [.ggg]Lycia
+	- [.com]For the `Lycia Bloodline`, defeat `Lycia, Herald of the Scourge` in the `Forbidden Sanctum`
+		- [.com]This is just completing a `Forbidden Tome`, doesn't seem to immediately have an area level requirement.
 - [.ggg]Farrul
+	- [.com]For the `Farrul Bloodline`, defeat `Farrul, First of the Plains` in the Menagerie by using a `Farric Tiger Alpha` to open a portal to his fight
 - [.ggg]Simulacrum
+	- [.com]For the `Delirious Bloodline` by completing a b{Simulacrum}
+		- [.com]This is all 15 waves, this is actually rather hard for the vast majority of builds. You might want a carry.
 - [.ggg]It That Was Tul and It That Was Esh
+	- [.com]For the `Breachlord Bloodline`, defeat `It That Was Tul` and `It That Was Esh` in a breach fortress
+	- [.com]b{Hivebrain Gland} forces this encounter to spawn.
 - [.ggg]Velka
+	- [.com]For the `Velka Bloodline`
+	- [.com]Actually, I have no idea how you access this currently. Presumably from doing Voyages!
 - [.ggg]Zorath
+	- [.com]Uses a set of new fragments from Abyssal Liches or Catarina
+	- [.price]Zorath's Eye of Malevolence
+	- [.price]Zorath's Eye of Authority
+	- [.price]Zorath's Eye of Inevitable
+	- [.price]Zorath's Eye of Endless
+
+These are the bloodlines bosses - even if the Abyssal bloodline isn't live yet.
 </div>
 
 # 29 Astounding Astrolabes
 <div id="ch-29" markdown="29">
 <h2 class="req">6 of 10 required</h2>
 [.ggg]Complete any six of the following types of Astrolabed Rare Maps while they are Tier 16 and have 5 Scarabs applied the specified number of times.
-- [.ggg]Templar Astrolabe (5x)
-- [.ggg]Fruiting Astrolabe (5x)
-- [.ggg]Lightless Astrolabe (5x)
-- [.ggg]Grasping Astrolabe (5x)
-- [.ggg]Nameless Astrolabe (5x)
-- [.ggg]Fungal Astrolabe (5x)
-- [.ggg]Chaotic Astrolabe (5x)
-- [.ggg]Deceptive Astrolabe (5x)
-- [.ggg]Timeless Astrolabe (5x)
-- [.ggg]Runic Astrolabe (5x)
+- [.ggg]Templar Astrolabe (30x)
+	- [.com]`Originator` content
+	- [.price]Templar Astrolabe
+- [.ggg]Fruiting Astrolabe (30x)
+	- [.com]`Harvest` content
+	- [.price]Fruiting Astrolabe
+- [.ggg]Lightless Astrolabe (30x)
+	- [.com]`Abyss` content
+	- [.price]Lightless Astrolabe
+- [.ggg]Grasping Astrolabe (30x)
+	- [.com]`Breach` content
+	- [.price]Grasping Astrolabe
+- [.ggg]Nameless Astrolabe (30x)
+	- [.com]`Abyss` content
+	- [.price]Nameless Astrolabe
+- [.ggg]Fungal Astrolabe (30x)
+	- [.com]`Blight` content
+	- [.price]Fungal Astrolabe
+- [.ggg]Chaotic Astrolabe (30x)
+	- [.com]`Ultimatum` content
+	- [.price]Chaotic Astrolabe
+- [.ggg]Deceptive Astrolabe (30x)
+	- [.com]`Delirium` content
+	- [.price]Deceptive Astrolabe
+- [.ggg]Timeless Astrolabe (30x)
+	- [.com]`Legion` content
+	- [.price]Timeless Astrolabe
+- [.ggg]Runic Astrolabe (30x)
+	- [.com]`Expedition` content
+	- [.price]Runic Astrolabe
+
+Astrolabes drop guaranteed from the Memory Chain finale bosses and everywhere on the Atlas after completing Zana's three memory chains from bosses exceptionally rarely (with the Voidstone socketed).
+
+Actual challenge wise - discounting obtaining astrolabes - this is simply a harder, grindier version of last league's challenge with higher tier requirements and the need for Scarabs (and needs you to complete a Nightmare Map and the Maven's 10-Way encounter).
+
+Comes out at 180 maps total. As it doesn't say which Scarabs or Quantity, you can use b{Scarab of the Sinistral} and b{Scarab of the Dextral} to run these scoured and use up two of the slots.
 </div>
 
 # 30 Modified Maps
 <div id="ch-30" markdown="30">
 <h2 class="req">3000 required</h2>
 [.ggg]Reach a total of 3000 Explicit Modifers completing Maps.
+
+Somewhere between 375 and 600 maps depending on what you do. You will almost certainly carve out a good chunk of this before even starting challenges.
 </div>
 
 # 31 Excruciating Echoes
@@ -365,8 +764,16 @@ Mechanics related to the current league or new mechanics in general will natural
 [.ggg]Complete any two the following types of Maps the specified number of times while they are Tier 16, Rare and have at least 150% Item Quantity.
 - [.ggg]Originator Influenced Maps (30x)
 - [.ggg]Courtyard of Wasting (5x)
+	- [.com]`Courtyard of Wasting` is the `Incarnation of Neglect`'s penultimate encounter
+	- [.price]Memory of Loneliness
 - [.ggg]Chambers of Impunity (5x)
+	- [.com]`Chambers of Impurity` is the `Incarnation of Fear`'s 's penultimate encounter
+	- [.price]Memory of Trauma
 - [.ggg]Theatre of Lies (5x)
+	- [.com]`Theatre of Lies` is the `Incarnation of Dread`'s penultimate encounter
+	- [.price]Memory of Reverence
+
+This is the newer memories content, you will need less maps total if you complete two memory chains and they are normally fairly cheap throughout the league.
 </div>
 
 # 32 Fathomless Fears
@@ -389,6 +796,8 @@ Mechanics related to the current league or new mechanics in general will natural
 - [.ggg]Rare Monsters in Area drop Dead Man's Sulphur
 - [.ggg]Rare Monsters in Area drop an additional Scarab
 - [.ggg]Rare Monsters in Area drop an additional currency
+
+Read your borders as you run voyages. You can't buy these, you can't filter for these, you have to read. Perhaps the first challenge approaching actual impossibility with such a requirement.
 </div>
 
 # 33 Intrigued Interlopers
@@ -398,6 +807,8 @@ Mechanics related to the current league or new mechanics in general will natural
 - [.ggg]Defeat Map Bosses after having activated at least 4 Eater of Worlds Altars which have modifiers that affect the Map Boss with Eldritch Gaze allocated (10x)
 - [.ggg]Defeat Map Bosses after having activated at least 4 Searing Exarch Altars which have modifiers that affect the Map Boss with Wrath of the Cosmos allocated (10x)
 - [.ggg]Complete Maps with at least 150% Item Quantity while they are being witnessed by the Maven while having Destructive Play allocated (25x)
+
+Allocate the atlas nodes and do the requirements. Quantity can be boosted with Map Fragments and the Atlas Tree but 150% will probably need Originator Maps.
 </div>
 
 # 34 Potent Possibilities
@@ -405,31 +816,151 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">10 of 20 required</h2>
 [.ggg]Use any ten of the following Currency items the specified number of times.
 - [.ggg]Influenced Exalted Orb
+	- [.price]Hunter's Exalted Orb
+	- [.price]Shaper's Exalted Orb
+	- [.price]Warlord's Exalted Orb
+	- [.price]Crusader's Exalted Orb
+	- [.price]Elder's Exalted Orb
+	- [.price]Redeemer's Exalted Orb
 - [.ggg]Veiled Exalted or Chaos Orb
+	- [.price]Veiled Exalted Orb
+	- [.price]Veiled Chaos Orb
 - [.ggg]Orb of Remembrance, Unravelling or Intention
+	- [.price]Orb of Remembrance
+	- [.price]Orb of Unravelling
+	- [.price]Orb of Intention
 - [.ggg]Eldritch Exalted, Annulment or Chaos orb
+	- [.price]Eldritch Exalted Orb
+	- [.price]Eldritch Orb of Annulment
+	- [.price]Eldritch Chaos Orb
 - [.ggg]Exceptional Eldritch Ichor or Ember
+	- [.price]Exceptional Eldritch Ichor
+	- [.price]Exceptional Eldritch Ember
 - [.ggg]Tainted Currency (10x)
+	- [.price]Tainted Armourer's Scrap
+	- [.price]Tainted Blacksmith's Whetstone
+	- [.price]Tainted Catalyst
+	- [.price]Tainted Chaos Orb
+	- [.price]Tainted Chromatic Orb
+	- [.price]Tainted Divine Teardrop
+	- [.price]Tainted Exalted Orb
+	- [.price]Tainted Jeweller's Orb
+	- [.price]Tainted Mythic Orb
+	- [.price]Tainted Orb of Fusing
 - [.ggg]Awakener's Orb
+	- [.price]Awakener's Orb
 - [.ggg]Orb of Dominance
+	- [.price]Orb of Dominance
 - [.ggg]Mirror of Kalandra
+	- [.price]Mirror of Kalandra
 - [.ggg]Sacred Orb
+	- [.price]Sacred Orb
 - [.ggg]Fracturing Orb
+	- [.price]Fracturing Orb
 - [.ggg]Hinekora's Lock
+	- [.price]Hinekora's Lock
 - [.ggg]Tempering or Tailoring Orb
+	- [.price]Tempering Orb
+	- [.price]Tailoring Orb
 - [.ggg]Reflecting Mist
+	- [.price]Reflecting Mist
 - [.ggg]Runegraft or Tattoo (5x)
+	- [.com]There's a lot of these, check the [poe.ninja](https://poe.ninja/poe1/economy) sections or simply Faustus for your best options
 - [.ggg]Enshrouding Crystal (5x)
+	- [.price]Imperial Enshrouding Crystal
+	- [.price]Karui Enshrouding Crystal
+	- [.price]Maraketh Enshrouding Crystal
+	- [.price]Templar Enshrouding Crystal
+	- [.price]Vaal Enshrouding Crystal
 - [.ggg]Catalyst (40x)
+	- [.com]There's a lot of these, check the [poe.ninja](https://poe.ninja/poe1/economy) sections or simply Faustus for your best options
 - [.ggg]Corrupted Essence (4x)
+	- [.price]Essence of Delirium
+	- [.price]Essence of Horror
+	- [.price]Essence of Hysteria
+	- [.price]Essence of Insanity
 - [.ggg]Blight Oil (10x)
+	- [.com]There's a lot of these, check the [poe.ninja](https://poe.ninja/poe1/economy) sections or simply Faustus for your best options (it's going to be Clear, Amber or Sepia, surprisingly)
 - [.ggg]Sacred Crystallised Lifeforce or Crystallised Rancour
+	- [.price]Sacred Crystallised Lifeforce
+	- [.price]Crystallised Rancour
+
+Currency dump challenge, fairly lenient for one of these with only twn needed. You should probably skip the Mirror of Kalandra, probably.
 </div>
 
 # 35 Succinct Summons
 <div id="ch-35" markdown="35">
 <h2 class="req">30 required</h2>
 [.ggg]Complete 30 Invitations while they have at least 5 Explicit Modifiers.
+
+Doesn't have a quantity restriction so you can simply reroll invitations until you get ones you can run. Information on the invitations themselves is below.
+- [.com]Screaming
+	- [.com]The Eater of Worlds
+	- [.price]Screaming Invitation
+- [.com]Incandescent
+	- [.com]The Searing Exarch
+	- [.price]Incandescent Invitation
+- [.com]The Elderslayers
+	- [.com]Al-Hezmin, the Hunter
+		- [.price]Al-Hezmin Map (Tier 16)
+	- [.com]Baran, the Crusader
+		- [.price]Baran Map (Tier 16)
+	- [.com]Drox, the Warlord
+		- [.price]Drox Map (Tier 16)
+	- [.com]Veritania, the Redeemer
+		- [.price]Veritania Map (Tier 16)
+- [.com]The Feared
+	- [.com]The Shaper
+		- [.price]Fragment of the Chimera
+		- [.price]Fragment of the Hydra
+		- [.price]Fragment of the Minotaur
+		- [.price]Fragment of the Phoenix
+	- [.com]The Elder
+		- [.price]Fragment of Purification
+		- [.price]Fragment of Constriction
+		- [.price]Fragment of Enslavement
+		- [.price]Fragment of Eradication
+	- [.com]Cortex
+		- [.price]Cortex
+	- [.com]Sirus
+		- [.price]Drox's Crest
+		- [.price]Baran's Crest
+		- [.price]Al-Hezmin's Crest
+		- [.price]Veritania's Crest
+	- [.com]Incarnation of Dread
+		- [.price]Echo of Reverence
+		- [.com]Itemised memories exist now so this is cheaper if you are willing to put in a few extra maps
+- [.com]The Forgotten
+    - [.price]Rewritten Distant Memory
+    - [.price]Augmented Distant Memory
+    - [.price]Altered Distant Memory
+    - [.price]Twisted Distant Memory
+	- [.com]Decent gold returns for time investment and potential for large quantities of GCP based on mods with a decent chance of `Cortex` and a very low chance of jackpot rings and flask
+- [.com]The Formed
+	- [.com]All of these now use b{Shaper Guardian Map} instead of unique maps
+    - [.price]Lair of the Hydra Map
+    - [.price]Maze of the Minotaur Map
+    - [.price]Forge of the Phoenix Map
+    - [.price]Pit of the Chimera Map
+		- [.com]Can be rather annoying
+	- [.com]Historically, shaper sets mostly cover the cost of the run and Mavens generated will be pure profit
+- [.com]The Remembered
+	- [.com]`The Neglected Flame` in Courtyard of Wasting
+		- [.price]Memory of Loneliness
+    - [.com]`The Cardinal of Fear` in Chambers of Impurity
+		- [.price]Memory of Trauma
+    - [.com]`The Deceitful God` in Theatre of Lies
+		- [.price]Memory of Reverence
+	- [.com]This is an invitation containing all of the penultimate memory bosses, they are pretty bad to farm but you only need to do it once
+		- [.com]Itemised memories should make this much more viable on trade leagues
+- [.com]The Twisted
+	- [.price]The Purifier Map (Tier 16)
+	- [.price]The Constrictor Map (Tier 16)
+	- [.price]The Enslaver Map (Tier 16)
+	- [.price]The Eradicator Map (Tier 16)
+	- [.com]Using a `Blessed Orb` can reroll which of the guardians a map has as of 3.28
+	- [.com]Selling the fragments generally easily cover the cost of the maps, you can alternatively run them to fish for a Watcher's Eye to ID or sell
+	- [.com]Obviously has the issue of watching the Elder murder original map bosses every time, but you can get through it I'm sure
 </div>
 
 # 36 Atlas Assertions
@@ -447,6 +978,8 @@ Mechanics related to the current league or new mechanics in general will natural
 - [.ggg]The Manor Foyer
 - [.ggg]Uncharted Expedition
 - [.ggg]Untainted Paradise
+
+You need voidstones in the atlas to unlock these and they are otherwise pure random chance. As it is just complete you might be able to buy them but it might have to be on your own atlas to 'complete' them.
 </div>
 
 # 37 Brinerot's Bloody Bounty
@@ -457,6 +990,10 @@ Mechanics related to the current league or new mechanics in general will natural
 - [.ggg]Without being hit by any Anchors
 - [.ggg]Without being hit by Lightning Whip
 - [.ggg]Without being hit by Crashing Brine
+
+The new boss with conditionals. As is often the case, DPS is king here as the less time they have to do anything the less chance there is of making a mistake and failing a conditional.
+
+I haven't fought the boss so I have no idea what these moves are, sorry!
 </div>
 
 # 38 Horrific Halls
@@ -468,6 +1005,10 @@ Mechanics related to the current league or new mechanics in general will natural
 - [.ggg]Fortress
 - [.ggg]Sanctuary
 - [.ggg]Ziggurat
+
+Full delirious, high quantity nightmare maps means this is an actually challenging challenge and is far and beyond the hardest thing they've included in a while. 
+
+Obvious skip for people without god builds but you can obviously buy carries or completion.
 </div>
 
 # 39 Apex Assailants
@@ -475,15 +1016,31 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">5 of 10 required</h2>
 [.ggg]Defeat any five of the following Pinnacle Boss Encounters while the area is level 85.
 - [.ggg]Sirus, Awakener of Worlds
+	- [.com]b{Awakening Fragment} from `Abomination`
 - [.ggg]The Elder
+	- [.com]b{Decaying Fragment} from `Fortress`
 - [.ggg]The Maven
+	- [.com]b{Reality Fragment} from `Abomination`
 - [.ggg]The Searing Exarch
+	- [.com]b{Blazing Fragment} from `Ziggurat`
 - [.ggg]The Eater of Worlds
+	- [.com]b{Devouring Fragment} from `Ziggurat`
 - [.ggg]High Templar Venarius
+	- [.com]b{Synthesising Fragment} from `Fortress` or `Citadel`
 - [.ggg]The Shaper
+	- [.com]b{Cosmic Fragment} from `Citadel`
 - [.ggg]Incarnation of Dread
+	- [.com]b{Reverent Fragment} from `Sanctuary`
 - [.ggg]Incarnation of Fear
+	- [.com]b{Traumatic Fragment} from `Sanctuary`
 - [.ggg]Incarnation of Neglect
+	- [.com]b{Lonely Fragment} from `Sanctuary`
+
+This is five of the ten uber boss variants, if you have a boss killer this should be fine, otherwise you can buy the clears.
+
+Shaper and Cortex are the most reasonable to self-complete followed by the Incarnation bosses with the others varying wildly by your build.
+
+All of the fights have lingering damage over time that lasts the entire fight which makes high DPS crucial if you want to have leeway in your execution. The longer the fight the worse the arena and the more likely you are to fail.
 </div>
 
 # 40 Gallant Grinding Goals
@@ -491,25 +1048,50 @@ Mechanics related to the current league or new mechanics in general will natural
 <h2 class="req">4 of 6 required</h2>
 [.ggg]Complete any four of these encounters the specified number of times.
 - [.ggg]Reach Level 100
+	- [.com]Buying Five Way runs
+		- [.com]Prices vary and quality of runs varies, expect somewhere in the region of 15 to 30 div from 98 to 100
+		- [.com]You will have to engage with discords, `/trade 820` or `/global 820` for these
+	- [.com]b{Omen of Amelioration} stops you losing all your XP on dying, but only once per area
+		- [.com]If you don't die, you can immediately resell it for what you paid +/- a couple chaos
+		- [.com]Something to keep in mind is that this is triggered *regardless of if you can actually lose XP in an area* **do not take one into an invitation or uber boss**, you will still lose your Omen despite no XP loss being possible
+	- [.com]`Abyss` with a basic tree that grabs all nodes except Depths is decent and fairly safe for consistent XP per map
+	- [.com]`Breach` stacking unstable breaches and beyond and any other mechanics is less good 
+		- [.com]Stack Shrines, Breach and Beyond while disabling Hives and Beyond Bosses and use the following scarabs for solid gains
+		- [.com]b{Breach Scarab of Instability} x2
+		- [.com]b{Scarab of Monstrous Lineage} x1
+		- [.com]b{Domination Scarab} x2
+		- [.com]If you don't want to use a second domination scarab, you could opt for Beyond boss spawn chance and use a b{Beyond Scarab of Resurgence} to fish for some b{Volatile Vaal Orb} drops
+	- [.com]b{The Coward's Trial} is chill but not great in terms of time or cost returns compared to other options
 - [.ggg]Cleanse Darkshrines in the Endgame Labyrinth (150x)
+	- [.com]This is running the Uber Lab and getting darkshrines
+	- [.com]You can comfortable average around two to three a labyrinth on a good day and you can take this to be 75
+	- [.com]Easier the more exposure you have to labs as you will be able to very quickly recognise paths
 - [.ggg]Defeat Pinnacle bosses while the area is level 85 (30x)
+	- [.com]An extension of the Uber Bosses challenge, you should realistically already know if you can do thirty of an Uber boss
+	- [.com]With a proper bosser, this is probably the fastest thing here
 - [.ggg]Complete Tier 16 Maps that are Rare and Corrupted with 8 Modifiers (50x)
+	- [.com]Nothing insane, just corrupted 8-mod mapping.
 - [.ggg]Complete Nightmare Maps (40x)
+	- [.com]Simple completion, you can run them with b{Scarab of the Sinistral} and b{Scarab of the Dextral} scarabs to make this easy
 - [.ggg]Defeat Rare Monsters in Voyages that are area level 83 (400x)
+	- [.com]Just engaging with the league content, nothing crazy.
 </div>
 
-# The league hasn't started yet, actually
-When the challenges go live a basic pass on the challenges will be written while waiting for league start.
-
-Currently this is just a stub site to serve as a placeholder and indicate I intend to have a guide for the league.
-
 # Easing Long Term Grind
-Nothing here currently!
+Nothing much here currently!
 
 # Challenges to Skip
 You get the full set of challenge rewards at **36/40** completion, which allows you to skip up to four different challenges.
 
-But I haven't wrote anything else for this part!
+The biggest, most obvious skips are:
+- Horrific Halls
+	- Very juiced, 100% delirious nightmare maps are simply not feasible on a lot of builds
+- Apex Assailants
+	- Uber Bossing is Uber Bossing. Obvious skip if you don't do that in a league or don't want to buy them.
+- Brinerot's Bloody Bounty
+	- This is here tentatively until I actually know what it involves, conditionals are either very awful or very free with little inbetween I find.
+- Grinding Gallant Goals
+	- Grindy but not terribly notable or hard beyond that
 
 # Unlocks
 This league finally has some spice to it and isn't just a full set of armour! This time around there's a Weapon Effect, Pet, Back Attachment and Portal.
