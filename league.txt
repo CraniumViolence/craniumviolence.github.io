@@ -236,7 +236,7 @@ Nothing terribly complex, interact with some past league mechanics in a moderate
 [.ggg]Complete any two of the following Master missions in Maps that are Tier 16 with at least 80% Item Quantity the specified number of times.
 - [.ggg]Niko Missions (10x)
 	- [.com]Tagging all Sulphite nodes in a map
-	- [.com]Forced per map with a b{Sulphite Scarab}=
+	- [.com]Forced per map with a b{Sulphite Scarab}
 - [.ggg]Einhar Missions (10x)
 	- [.com]Capturing all Beasts in a map
 	- [.com]Forced per map with a b{Bestiary Scarab}
@@ -297,7 +297,7 @@ Nothing too complicated	and isn't locked down to T16s or even maps being rare.
 	- [.com]This is colouring around 60% of your standard 24 sockets across gear pieces (you can bring this to 26 with unset rings).
 	- [.com]A b{Chromatic Orb} forces at least one coloured slot and the `Crafting Bench` can force more.
 - [.ggg]Have a socketed skill gem reach 60% quality or higher
-	- [.com]You gani +10% for matching a gem colour to a socket colour
+	- [.com]You gain +10% for matching a gem colour to a socket colour
 	- [.com]`Crest of Desire` adds 5-8 levels and 30-50% quality to any inserted Skill Gem
 	- [.com]`Replica Voideye` adds 30% quality
 	- [.com]Ashes of the Stars is +20-30% quality for all gems and +1 to level of all skill gems
@@ -306,25 +306,25 @@ Nothing too complicated	and isn't locked down to T16s or even maps being rare.
 # 15 Vanquished Villains
 <div id="ch-15" markdown="15">
 [.ggg]Socket 4 Voidstones into your Atlas.
-	- [.com]Complete Eater of Worlds and Searching Exarch
-		- [.com]Bottom left corner
-	- [.com]Complete Zana's Questline
-		- [.com]Top left corner, but does forces visibility as you progress it elsewhere
-	- [.com]Complete `The Shaper` and `The Elder`
-		- [.com]Separately or in an Uber Elder both count
-		- [.com]The Shaper
-			- [.price]Fragment of the Chimera
-			- [.price]Fragment of the Hydra
-			- [.price]Fragment of the Minotaur
-			- [.price]Fragment of the Phoenix
-		- [.com]The Elder
-			- [.price]Fragment of Purification
-			- [.price]Fragment of Constriction
-			- [.price]Fragment of Enslavement
-			- [.price]Fragment of Eradication
-	- [.com]Complete The Maven
-		- [.com]Uses b{The Maven's Writ}
-		- [.com]Bottom right corner
+- [.com]Complete Eater of Worlds and Searching Exarch
+	- [.com]Bottom left corner
+- [.com]Complete Zana's Questline
+	- [.com]Top left corner, but does forces visibility as you progress it elsewhere
+- [.com]Complete `The Shaper` and `The Elder`
+	- [.com]Separately or in an Uber Elder both count
+	- [.com]The Shaper
+		- [.price]Fragment of the Chimera
+		- [.price]Fragment of the Hydra
+		- [.price]Fragment of the Minotaur
+		- [.price]Fragment of the Phoenix
+	- [.com]The Elder
+		- [.price]Fragment of Purification
+		- [.price]Fragment of Constriction
+		- [.price]Fragment of Enslavement
+		- [.price]Fragment of Eradication
+- [.com]Complete The Maven
+	- [.com]Uses b{The Maven's Writ}
+	- [.com]Bottom right corner
 
 Standard endgame progression. You can buy carries for all of these.
 </div>
@@ -401,7 +401,9 @@ A copy of the last two leagues with no additions.
 - [.ggg]Sunken Totems
 - [.ggg]Undersea Groves
 
-You can find these at the top of a Chart in Orange Text after they have been identified, seems to be impossible to search for the the trade site currently which might make t his a bit awful. Searching for 
+You can find these at the very top of a Chart in <span style="color:#DB982A;">Orange Text</span> after they have been identified.
+
+The seem to be impossible to search for with the trade site currently, which might make t his a bit awful. 
 
 No item level requirement but realistically you can't easily get low level ones as it stands with the above line in mind.
 </div>
@@ -414,6 +416,7 @@ No item level requirement but realistically you can't easily get low level ones 
 - [.ggg]Use the Ascendancy Device in the Cruel Labyrinth
 - [.ggg]Use the Ascendancy Device in the Merciless Labyrinth
 - [.ggg]Use the Ascendancy Device in the Eternal Labyrinth
+	- [.price]Offering to the Goddess
 - [.ggg]Gain a Bloodline Class
 	- [.com]The Trialmaster
 		- [.com]For the `Chaos Bloodline`, defeat `The Trialmaster` in any map of Area Level 81 or higher through Ultimatums
@@ -589,7 +592,7 @@ You can use Ducats below decks on the Sovereign (<code class="quest">/boat</code
 - [.ggg]Doryani's Machinarium
 	- [.com]r{Doryani's Machinarium}
 - [.ggg]Hall of the Grandmasters
-	- [.com]r{Hall of the Grandmasters}
+	- [.com]r{Hall of Grandmasters}
 
 The usual challenge with some of the flavour diluted by allowing you to skip some. The Hall of Grandmasters and Doryani's Machinarium are obvious skip fodder with a third being dealer's choice (Whakawairua Tuahu or Mao Kun, perhaps).
 </div>
@@ -609,6 +612,7 @@ It even explains what I'd add a note about this time! No map tier requirement, n
 - [.ggg]Level Gems to level 20 (10x)
 	- [.com]Fairly long term but you will probably be using more than 10 gems on a build and get them to level 20 if you don't buy replacements
 	- [.com]With the lack of socketing restrictions, your offhands should always be full of gems too
+	- [.com]You can naturally buy level 19 gems and level them, the trade site even lets you sort by experience by clicking it.
 - [.ggg]Have at least 20 Corrupted Gems socketed into your Equipment
 	- [.com]Just buy cheap corrupted gems and stick them in every socket you can
 - [.ggg]Corrupt a gem to become either level 21 or 23% quality
@@ -648,18 +652,18 @@ The Breach Marshal and Legion Generals seem like obvious skips for this one as t
 <div id="ch-27" markdown="27">
 <h2 class="req">5 required</h2>
 [.ggg]Fully upgrade The Sovereign.
-	- [.com]Requires items from Charts and Voyages
-		- [.com]`Deadcaller Bellows`
-			- [.com]+1 maximum Allflame Lanterns
-			- [.com]Drops from special Charts
-		- [.com]Sulphur Purifier
-			- [.com]20% increased Dead Man's Sulphur collected
-			- [.com]Drops on The Sovereign after completing a Voyage
-		- [.com]Spectral Infuser
-		- [.com]Alchemical Exchange
-			- [.com]20% increased Quantity of Items found in Charts and Voyages
-			- [.com]Drops from special Charts
-		- [.com]Forbidden Scripture
+- [.com]Requires items from Charts and Voyages
+	- [.com]<code class="quest">Deadcaller Bellows</code>
+		- [.com]+1 maximum Allflame Lanterns
+		- [.com]Drops from special Charts
+	- [.com]<code class="quest">Sulphur Purifier</code>
+		- [.com]20% increased Dead Man's Sulphur collected
+		- [.com]Drops on The Sovereign after completing a Voyage
+	- [.com]<code class="quest">Spectral Infuser</code>
+	- [.com]<code class="quest">Alchemical Exchange</code>
+		- [.com]20% increased Quantity of Items found in Charts and Voyages
+		- [.com]Drops from special Charts
+	- [.com]<code class="quest">Forbidden Scripture</code>
 
 Not a lot of information on these floating around, I obtained the first two just progressing with minimal interaction with the league mechanic.
 </div>
@@ -1084,14 +1088,18 @@ Nothing much here currently!
 You get the full set of challenge rewards at **36/40** completion, which allows you to skip up to four different challenges.
 
 The biggest, most obvious skips are:
-- Horrific Halls
+- `Horrific Halls`
 	- Very juiced, 100% delirious nightmare maps are simply not feasible on a lot of builds
-- Apex Assailants
+- `Apex Assailants`
 	- Uber Bossing is Uber Bossing. Obvious skip if you don't do that in a league or don't want to buy them.
-- Brinerot's Bloody Bounty
+- `Brinerot's Bloody Bounty`
 	- This is here tentatively until I actually know what it involves, conditionals are either very awful or very free with little inbetween I find.
-- Grinding Gallant Goals
+- `Grinding Gallant Goals`
 	- Grindy but not terribly notable or hard beyond that
+- `Astounding Astrolabes`
+	- As above, so below
+
+Generally speaking this league continues the trend of being fairly easy with a curve ball for those wanting 40/40 in the form of Horrific Halls.
 
 # Unlocks
 This league finally has some spice to it and isn't just a full set of armour! This time around there's a Weapon Effect, Pet, Back Attachment and Portal.
