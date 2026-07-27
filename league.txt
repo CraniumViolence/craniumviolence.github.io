@@ -310,6 +310,7 @@ Nothing too complicated	and isn't locked down to T16s or even maps being rare.
 	- [.com]Bottom left corner
 - [.com]Complete Zana's Questline
 	- [.com]Top left corner, but does forces visibility as you progress it elsewhere
+	- [.com]This allows you to get the voidstone, but if it is not connected you do not receive benefits or credit for this challenge
 - [.com]Complete `The Shaper` and `The Elder`
 	- [.com]Separately or in an Uber Elder both count
 	- [.com]The Shaper
@@ -420,7 +421,7 @@ No item level requirement but realistically you can't easily get low level ones 
 - [.ggg]Gain a Bloodline Class
 	- [.com]The Trialmaster
 		- [.com]For the `Chaos Bloodline`, defeat `The Trialmaster` in any map of Area Level 81 or higher through Ultimatums
-		- [.com]Can be forced using an b{Ultimatum Scarab of Dueling}, you can do this on a scoured map
+		- [.com]Can be forced using an b{Ultimatum Scarab of Dueling}, you can do this on a scoured map of Tier 8 or higher
 	- [.com]The King in the Mists
 		- [.com]For the `Nameless Bloodline`, defeat `The King in the Mists` using b{An Audience With The King} in the map device
 	- [.com]Oshabi
@@ -674,7 +675,7 @@ Not a lot of information on these floating around, I obtained the first two just
 [.ggg]Defeat any seven of the following Bosses or Encounters.
 - [.ggg]The Trialmaster
 	- [.com]For the `Chaos Bloodline`, defeat `The Trialmaster` in any map of Area Level 81 or higher through Ultimatums
-	- [.com]Can be forced using an b{Ultimatum Scarab of Dueling}, you can do this on a scoured map
+	- [.com]Can be forced using an b{Ultimatum Scarab of Dueling}, you can do this on a scoured map of Tier 8 or higher
 - [.ggg]The King in the Mists
 	- [.com]For the `Nameless Bloodline`, defeat `The King in the Mists` using b{An Audience With The King} in the map device
 - [.ggg]Oshabi
