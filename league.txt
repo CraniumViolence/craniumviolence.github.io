@@ -370,8 +370,7 @@ Standard endgame progression. You can buy carries for all of these.
 	- [.com]This might sound hard if you are unfamiliar with the content, but it is legitimately not even a single full row of rewards and it does not take a notable build to reach this amount
 - [.ggg]Blueprints with 4 revealed wings (5x)
 	- [.com]Requires engaging with Heist as all the blueprint will require that you have levelled up your Rogues to be taken
-	- [.com][Very simple to search for on the trade website](https://www.pathofexile.com/trade/search/Mercenaries/lVlbq2psV), simply look for area level of 81 and set the heist section to include four revealed wings
-		- [.com]The in game async trading search should presumably also cover this.
+	- [.com][Very simple to search for on the trade website](https://www.pathofexile.com/trade/search/Allflame/wvgE7baBsb), simply look for area level of 81 and set the heist section to include four revealed wings
 - [.ggg]Simulacrum Waves (60x)
 	- [.com]Simply waves, doesn't need you to complete them
 	- [.com]I would avoid attrition grinding if you can't do at least 10 waves and do something else instead as you will ultimately just be wasting money otherwise
@@ -426,11 +425,11 @@ Simulacrum and fully completed ultimatums are more build dependant and so you li
 - [.ggg]Sunken Totems
 - [.ggg]Undersea Groves
 
-You can find these at the very top of a Chart after they have been identified. Names in <span style="color:#DB982A;">Orange Text</span> are rarer.
+You can find these at the very top of a Chart. Names in <span style="color:#DB982A;">Orange Text</span> are rarer.
 
 You can use the regex <code class="mini">"!undersea groves|abyssal plain|seafloor ridges"</code> to find only the <span style="color:#DB982A;">Orange Text</span> items.
 
-The seem to be impossible to search for with the trade site currently, which might make t his a bit awful. 
+Searching for these is the same as searching for an item, type the type of chart into the search and select its associated item entry (i.e. Type "Clam-Infested Shelf" and you will see charts for it).
 
 No item level requirement but realistically you can't easily get low level ones as it stands with the above line in mind.
 </div>
@@ -697,19 +696,23 @@ There's no map tier or quantity requirements so you can do these in any map that
 - [.com]Requires items from Charts and Voyages
 	- [.com]<code class="quest">Deadcaller Bellows</code>
 		- [.com]+1 maximum Allflame Lanterns
-		- [.com]Drops from special Charts
 	- [.com]<code class="quest">Sulphur Purifier</code>
 		- [.com]20% increased Dead Man's Sulphur collected
-		- [.com]Drops on The Sovereign after completing a Voyage
 	- [.com]<code class="quest">Spectral Infuser</code>
 	- [.com]<code class="quest">Alchemical Exchange</code>
 		- [.com]20% increased Quantity of Items found in Charts and Voyages
-		- [.com]Drops from special Charts
 	- [.com]<code class="quest">Forbidden Scripture</code>
 
-Not a lot of information on these floating around, I obtained the first two just progressing with minimal interaction with the league mechanic.
-
-Run your charts with <span style="color:#DB982A;">Orange Area Names</span> to seemingly increase your odds.
+In order, these are unlocked by:
+- Running Charts
+- Completing a Voyage
+- Killing the unique mob Captainsbane
+	- Found in charts randomly
+	- Can be forced using a voyage border modifier
+- Running an <span style="color:#DB982A;">Infested Bathysphere</span> Chart
+- Defeating the League Boss
+	- Running a <span style="color:#DB982A;">Kishara's Rest</span> Chart starts the process for this
+	- Seems to have a minimum Area Level of 83 for being dropped
 </div>
 
 # 28 Bountiful Bloodlines
