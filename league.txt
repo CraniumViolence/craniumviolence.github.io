@@ -699,6 +699,7 @@ There's no map tier or quantity requirements so you can do these in any map that
 	- [.com]<code class="quest">Sulphur Purifier</code>
 		- [.com]20% increased Dead Man's Sulphur collected
 	- [.com]<code class="quest">Spectral Infuser</code>
+		- [.com]Essences are Higher Tiers and Strongboxes are at least Rare in Charts and Voyages
 	- [.com]<code class="quest">Alchemical Exchange</code>
 		- [.com]20% increased Quantity of Items found in Charts and Voyages
 	- [.com]<code class="quest">Forbidden Scripture</code>
