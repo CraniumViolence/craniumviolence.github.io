@@ -703,6 +703,8 @@ There's no map tier or quantity requirements so you can do these in any map that
 	- [.com]<code class="quest">Alchemical Exchange</code>
 		- [.com]20% increased Quantity of Items found in Charts and Voyages
 	- [.com]<code class="quest">Forbidden Scripture</code>
+		- [.com]Gain Adrenaline on Placing your Final Lantern
+		- [.com]20% increased Rarity of ITems Found in Charts and Voyages
 
 In order, these are unlocked by:
 - Running Charts
@@ -714,6 +716,9 @@ In order, these are unlocked by:
 - Defeating the League Boss
 	- Running a <span style="color:#DB982A;">Kishara's Rest</span> Chart starts the process for this
 	- Seems to have a minimum Area Level of 83 for being dropped
+	- After completing the chart you need to run a voyage using the Voyage Chart that results
+
+There's a good chance some of these aren't actually working, the rarity for the strongboxes and essences is certainly not currently.
 </div>
 
 # 28 Bountiful Bloodlines
@@ -1056,18 +1061,22 @@ Tenatively marked as hard, until it's more clear how much grind this will end up
 </div>
 
 # 37 Brinerot's Bloody Bounty
-## Unknown
+## Hard
 <div id="ch-37" markdown="37">
 <h2 class="req">3 of 4 required</h2>
 [.ggg]Defeat Velka, The Tide Witch in any three of the specified ways.
 - [.ggg]Without being hit by Brine Storm Call
+	- [.com]Velka spawns a line of storm calls that pursue you
 - [.ggg]Without being hit by any Anchors
 - [.ggg]Without being hit by Lightning Whip
 - [.ggg]Without being hit by Crashing Brine
+	- [.com]Likely the overhead barrage of water 
 
 The new boss with conditionals. As is often the case, DPS is king here as the less time they have to do anything the less chance there is of making a mistake and failing a conditional.
 
-I haven't fought the boss so I have no idea what these moves are, sorry!
+It's entirely possible you can queue up multiple of the charts in one run, they are running too much to test that though.
+
+This is pretty awful to obtain as you need to get a chart and then run the chart and then voyage, advised to skip if you don't have an instant phaser.
 </div>
 
 # 38 Horrific Halls
