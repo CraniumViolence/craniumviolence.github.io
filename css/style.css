@@ -482,3 +482,16 @@ li.final {
 .lthoughts{
 	display:none;
 }
+
+.normal{
+	color:#C8C8C8;
+}
+.magic{
+	color:#8787FE;
+}
+.rare{
+	color:#FEFE76;
+}
+.unique{
+	color:#AF5F1C;
+}

@@ -57,13 +57,13 @@ Very free.
 <h2 class="req">All required</h2>
 [.ggg]Complete vendor recipes to receive each of the following items. A vendor recipe is when you trade a specific combination of items to a vendor, not when you buy items from their purchase screen.
 - [.ggg]Armourer's Scrap
-	- [.com]Vendor either a 20% quality Armour Piece or multiple pieces which add up to quality totalling 40%
+	- [.com]Vendor either a 20% quality <span class="normal">Normal Rarity</span> Armour Piece or multiple pieces which add up to quality totalling 40%
 - [.ggg]Blacksmith's Whetstone
-	- [.com]Vendor either a 20% quality Weapon or multiple weapons which add up to quality totalling 40%
+	- [.com]Vendor either a 20% quality <span class="normal">Normal Rarity</span> Weapon or multiple weapons which add up to quality totalling 40%
 - [.ggg]Glassblower's Bauble
-	- [.com]Vendor either a 20% quality Flask or multiple flasks which add up to quality totalling 40%
+	- [.com]Vendor either a 20% quality <span class="normal">Normal Rarity</span> Flask or multiple flasks which add up to quality totalling 40%
 - [.ggg]Gemcutter's Prism
-	- [.com]Vendor either a 20% quality Gem or multiple gems which add up to quality totalling 40%
+	- [.com]Vendor either a 20% quality <span class="normal">Uncorrupted</span> Gem or multiple gems which add up to quality totalling 40%
 </div>
 
 # 4 Act Adversaries I
@@ -515,6 +515,8 @@ Not very hard at all Stacked Decks themselves can come from scarabs and Scrying 
 	- [.com]You can vendor three of any scarab to get a replacement random scarab back
 - [.ggg]Tier 16 Map (5x)
 	- [.com]You can vendor three Tier 15 maps to get a Tier 16 map back
+	
+Be sure to note that these are not single vendor results, you need to do all three of them five times each.
 </div>
 
 # 21 Challenging Curators
@@ -1044,18 +1046,36 @@ Doesn't have a quantity restriction so you can simply reroll invitations until y
 <h2 class="req">6 of 11 required</h2>
 [.ggg]Complete any six of the following random Atlas Encounters.
 - [.ggg]Forgotten Shrine
+	- [.com]Top Right
 - [.ggg]Gambling District
+	- [.com]Bottom-Left
+	- [.com]Contains unique strongboxes
 - [.ggg]Lake Islet
+	- [.com]Top-Right
+	- [.com]Contains a Reflecting Mist that can give reflected jewellery or a b{Reflecting Mist}
 - [.ggg]Overgrown Grove
+	- [.com]Harvests, can give b{Crystallised Rancour}
+	- [.com]Top-Right
 - [.ggg]Planned Heist
+	- [.com]Bottom-Left
 - [.ggg]River's End
+	- [.com]Top-Left
 - [.ggg]Syndicate Hideout
+	- [.com]Top-Left
 - [.ggg]The Court of Chaos
+	- [.com]Bottom-Right
 - [.ggg]The Manor Foyer
+	- [.com]Bottom-Left
+	- [.com]Contains Cadiro who will give you multiple offers
+	- [.com]Can be re-entered until you take an offer or skip all offered items, only counts as cleared when you actually do this
 - [.ggg]Uncharted Expedition
+	- [.com]Bottom-Right
 - [.ggg]Untainted Paradise
+	- [.com]Top-Left
 
 You need voidstones in the atlas to unlock these and they are otherwise pure random chance. As it is just complete you might be able to buy them but it might have to be on your own atlas to 'complete' them.
+
+These were called `Atlas Anomalies` in the reveal, so you might see information related to them using the term `Atlas Anomaly` too.
 
 Tenatively marked as hard, until it's more clear how much grind this will end up despite being only six of them.
 </div>
