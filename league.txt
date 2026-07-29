@@ -63,7 +63,7 @@ Very free.
 - [.ggg]Glassblower's Bauble
 	- [.com]Vendor either a 20% quality <span class="normal">Normal Rarity</span> Flask or multiple flasks which add up to quality totalling 40%
 - [.ggg]Gemcutter's Prism
-	- [.com]Vendor either a 20% quality <span class="normal">Uncorrupted</span> Gem or multiple gems which add up to quality totalling 40%
+	- [.com]Vendor either a 20% quality Gem or multiple gems which add up to quality totalling 40%
 </div>
 
 # 4 Act Adversaries I
