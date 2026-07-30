@@ -318,8 +318,22 @@ Nothing too complicated	and isn't locked down to T16s or even maps being rare.
 - [.ggg]Have a socketed skill gem reach 60% quality or higher
 	- [.com]You gain +10% for matching a gem colour to a socket colour
 	- [.com]`Crest of Desire` adds 5-8 levels and 30-50% quality to any inserted Skill Gem
+		- [.com]This massively ballooned in price recently, do not pay 5 divine to get the item for the challenge
 	- [.com]`Replica Voideye` adds 30% quality
-	- [.com]Ashes of the Stars is +20-30% quality for all gems and +1 to level of all skill gems
+		- [.com]Match socket colour and a 20% quality anything instantly clears this
+	- [.com]`Ashes of the Stars` is +20-30% quality for all gems and +1 to level of all skill gems
+		- [.com]You can pair a mediocre roll with a anything else that has `+7-10% of Socketed Gems` and a 23% quality gem to get this moderately cheaper
+			- [.com]Corrupted implicits
+			- [.com]Influence modifiers 
+			- [.com]Crafting bench and haku drops
+	- [.com]`Foulborn United in Dream` can roll up to 30% quality for All Minion Skill Gems
+	- [.com]`Foulborn Prism Guardian` can roll up to 30% quality for Socketed Gems
+	- [.com]`Foulborn Skin of the Lords` can roll up to 30% quality for Socketed Gems
+	- [.com]`Eyes of the Greatwolf` can get +22~30%  quality of all skill gems
+	
+Crest of Desire shooting up means you might want to investigate some of the more esoteric options if `Replica Voideye` follows suit pricing wise.
+
+Ashes should only go down for bad rolls and it's doable on a 20% one with some work so I don't think this should end up too bad unless you leave it for the week before 3.30.
 </div>
 
 # 15 Vanquished Villains
