@@ -24,8 +24,8 @@ The actual league mechanic is very badly executed in general and I have no idea 
 [.semismol]Reminder that you should never buy supporter packs before you actually play the league and find it's worth supporting!
 
 # 1 Beginner's Basics
-## Very Easy
 <div id="ch-1" markdown="1">
+## Very Easy
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following tasks.
 - [.ggg]Defeat Hillock
@@ -36,8 +36,8 @@ This is just finishing Act 1.
 </div>
 
 # 2 Deep Dive
-## Very Easy
 <div id="ch-2" markdown="2">
+## Very Easy
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following Curse of the Allflame encounters.
 - [.ggg]Visit The Sovereign
@@ -52,8 +52,8 @@ Very free.
 </div>
 
 # 3 Peddler's Produce I
-## Very Easy
 <div id="ch-3" markdown="3">
+## Very Easy
 <h2 class="req">All required</h2>
 [.ggg]Complete vendor recipes to receive each of the following items. A vendor recipe is when you trade a specific combination of items to a vendor, not when you buy items from their purchase screen.
 - [.ggg]Armourer's Scrap
@@ -67,8 +67,8 @@ Very free.
 </div>
 
 # 4 Act Adversaries I
-## Very Easy
 <div id="ch-4" markdown="4">
+## Very Easy
 <h2 class="req">All required</h2>
 [.ggg]Defeat each of the following Act Bosses.
 - [.ggg]Act 1: Merveil, the Twisted
@@ -81,8 +81,8 @@ Completely normal compulsory progression.
 </div>
 
 # 5 Possessive Pantheons
-## Very Easy
 <div id="ch-5" markdown="5">
+## Very Easy
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following Quests.
 - [.ggg]The Father of War
@@ -106,8 +106,8 @@ These are simply a mixture of compulsory boss quests and those for passive point
 </div>
 
 # 6 Underwater Undertaking
-## Very Easy
 <div id="ch-6" markdown="6">
+## Very Easy
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following Curse of the Allflame encounters.
 - [.ggg]Chart Areas (4x)
@@ -125,8 +125,8 @@ You get pretty heavily directed to complete all of these by the natural progress
 </div>
 
 # 7 Act Adversaries II
-## Very Easy
 <div id="ch-7" markdown="7">
+## Very Easy
 <h2 class="req">All required</h2>
 [.ggg]Defeat each of the following Act Bosses.
 - [.ggg]Act 6: Tsoagoth, The Brine King
@@ -139,8 +139,8 @@ Completely normal compulsory progression.
 </div>
 
 # 8 Atlas Accomplishment
-## Very Easy
 <div id="ch-8" markdown="8">
+## Very Easy
 <h2 class="req">100 required</h2>
 [.ggg]Complete All Non Unique Maps on the Atlas.
 
@@ -148,8 +148,8 @@ The Atlas is the endgame, you will want to do this if you are engaging with the 
 </div>
 
 # 9 Ingrained Increases
-## Very Easy
 <div id="ch-9" markdown="9">
+## Very Easy
 <h2 class="req">3 of 6 required</h2>
 [.ggg]Complete any three of the following League Mechanic encounters the specified number of times.
 - [.ggg]Defeat Monsters with Essence (30x)
@@ -185,8 +185,8 @@ Nothing terribly complex, interact with some past league mechanics in a moderate
 </div>
 
 # 10 Legendary Leagues
-## Very Easy
 <div id="ch-10" markdown="10">
+## Very Easy
 <h2 class="req">5 of 12 required</h2>
 [.ggg]Complete any five of the following League Mechanic encounters the specified number of times.
 - [.ggg]Complete Abysses (30x)
@@ -246,8 +246,8 @@ Nothing terribly complex, interact with some past league mechanics in a moderate
 </div>
 
 # 11 Trustworthy Teachers
-## Average
 <div id="ch-11" markdown="11">
+## Average
 <h2 class="req">2 of 4 required</h2>
 [.ggg]Complete any two of the following Master missions in Maps that are Tier 16 with at least 80% Item Quantity the specified number of times.
 - [.ggg]Niko Missions (10x)
@@ -268,8 +268,8 @@ Red Maps with decent quantity but also lowered from the usual 30x per. Niko is a
 </div>
 
 # 12 Nautical Navigation
-## Very Easy
 <div id="ch-12" markdown="12">
+## Very Easy
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following Curse of the Allflame encounters.
 - [.ggg]Complete Voyages (10x)
@@ -286,8 +286,8 @@ The new league mechanic, nothing particularly hard about it and is mostly just a
 </div>
 
 # 13 Savage Sellswords
-## Easy
 <div id="ch-13" markdown="13">
+## Easy
 <h2 class="req">3 of 4 required</h2>
 [.ggg]Complete any 3 of the following Mercenaries of Trarthus Encounters.
 - [.ggg]Defeat Rare or Unique Monsters in level 68 or higher areas while you have an Allied Mercenary (100x)
@@ -306,8 +306,8 @@ Nothing too complicated	and isn't locked down to T16s or even maps being rare.
 </div>
 
 # 14 Chromatic Crafting
-## Very Easy
 <div id="ch-14" markdown="14">
+## Very Easy
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following tasks.
 - [.ggg]Use Chromatic Orbs (10x)
@@ -323,8 +323,8 @@ Nothing too complicated	and isn't locked down to T16s or even maps being rare.
 </div>
 
 # 15 Vanquished Villains
-## Average
 <div id="ch-15" markdown="15">
+## Average
 [.ggg]Socket 4 Voidstones into your Atlas.
 - [.com]Complete Eater of Worlds and Searching Exarch
 	- [.com]Bottom left corner
@@ -351,8 +351,8 @@ Standard endgame progression. You can buy carries for all of these.
 </div>
 
 # 16 Taxing Tasks
-## Average
 <div id="ch-16" markdown="16">
+## Average
 <h2 class="req">5 of 11 required</h2>
 [.ggg]Complete any five of the following encounters while the area level is 81 or higher if possible the specified number of times.
 - [.ggg]Abyssal Depths (5x)
@@ -405,9 +405,9 @@ Simulacrum and fully completed ultimatums are more build dependant and so you li
 </div>
 
 # 17 Comprehensive Charting
+<div id="ch-17" markdown="17">
 ## Easy
 ### Buyable
-<div id="ch-17" markdown="17">
 <h2 class="req">9 of 14 required</h2>
 [.ggg]Complete any nine of the following types of Charts.
 - [.ggg]Abyssal Plain
@@ -435,8 +435,8 @@ No item level requirement but realistically you can't easily get low level ones 
 </div>
 
 # 18 Achieve Ascension
-## Easy
 <div id="ch-18" markdown="18">
+## Easy
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following Ascendancy tasks.
 - [.ggg]Use the Ascendancy Device in the Labyrinth
@@ -480,8 +480,8 @@ Normal progression, this is just getting all of your ascendancy points and doing
 </div>
 
 # 19 Devious Divination
-## Easy
 <div id="ch-19" markdown="19">
+## Easy
 <h2 class="req">3 of 4 required</h2>
 [.ggg]Complete any three of the following Divination Card tasks.
 - [.ggg]Open Stacked Decks (40x)
@@ -504,8 +504,8 @@ Not very hard at all Stacked Decks themselves can come from scarabs and Scrying 
 </div>
 
 # 20 Peddler's Produce II
-## Very Easy
 <div id="ch-20" markdown="20">
+## Very Easy
 <h2 class="req">All required</h2>
 [.ggg]Complete vendor recipes to receive each of the following items the specified number of times. A vendor recipe is when you trade a specific combination of items to a vendor, not when you buy items from their purchase screen.
 - [.ggg]Unique Item (5x)
@@ -520,8 +520,8 @@ Be sure to note that these are not single vendor results, you need to do all thr
 </div>
 
 # 21 Challenging Curators
-## Average
 <div id="ch-21" markdown="21">
+## Average
 <h2 class="req">6 of 8 required</h2>
 [.ggg]Defeat any six of the following Bosses while they are at least level 80.
 - [.ggg]Uber Atziri
@@ -558,8 +558,8 @@ If you don't run Heist they are a very obvious skip and Kingsmarch is very relia
 </div>
 
 # 22 Ethereal Enhancements
-## Very Easy
 <div id="ch-22" markdown="22">
+## Very Easy
 <h2 class="req">5 of 9 required</h2>
 [.ggg]Use any five of the following type of Cursed Ducats.
 - [.ggg]Brinehook's Ducat
@@ -585,8 +585,8 @@ You can use Ducats below decks on the Sovereign (<code class="quest">/boat</code
 </div>
 
 # 23 Remarkable Realms
-## Average
 <div id="ch-23" markdown="23">
+## Average
 <h2 class="req">15 of 18 required</h2>
 [.ggg]Complete any 15 of the following Unique Maps.
 - [.ggg]Vaults of Atziri
@@ -634,8 +634,8 @@ The usual challenge with some of the flavour diluted by allowing you to skip som
 </div>
 
 # 24 Stacked Scarabs
-## Average
 <div id="ch-24" markdown="24">
+## Average
 <h2 class="req">750 required</h2>
 [.ggg]Complete Maps with 750 Scarabs. Each Scarab applied to Maps counts towards this Challenge.
 
@@ -643,8 +643,8 @@ It even explains what I'd add a note about usually this time! No map tier requir
 </div>
 
 # 25 Corrupted Crystals
-## Easy
 <div id="ch-25" markdown="25">
+## Easy
 <h2 class="req">3 of 4 required</h2>
 [.ggg]Complete any 3 of the following Gem tasks.
 - [.ggg]Level Gems to level 20 (10x)
@@ -663,9 +663,9 @@ Nothing crazy, the Pact Skill Gem one is a bit silly and feels forced but it's n
 </div>
 
 # 26 Cross Contamination
+<div id="ch-26" markdown="26">
 ## Average
 ### Buyable
-<div id="ch-26" markdown="26">
 <h2 class="req">4 of 6 required</h2>
 [.ggg]Complete any four of the following past league content encounters.
 - [.ggg]Defeat a Mercenary while you are Delirious
@@ -691,8 +691,8 @@ There's no map tier or quantity requirements so you can do these in any map that
 </div>
 
 # 27 Superior Sovereign
-## Unknown
 <div id="ch-27" markdown="27">
+## Easy
 <h2 class="req">5 required</h2>
 [.ggg]Fully upgrade The Sovereign.
 - [.com]Requires items from Charts and Voyages
@@ -724,9 +724,9 @@ There's a good chance some of these aren't actually working, the rarity for the 
 </div>
 
 # 28 Bountiful Bloodlines
+<div id="ch-28" markdown="28">
 ## Average
 ### Buyable
-<div id="ch-28" markdown="28">
 <h2 class="req">7 of 12 required</h2>
 [.ggg]Defeat any seven of the following Bosses or Encounters.
 - [.ggg]The Trialmaster
@@ -770,8 +770,8 @@ These are the bloodlines bosses - even if the Abyssal bloodline isn't live yet.
 </div>
 
 # 29 Astounding Astrolabes
-## Average
 <div id="ch-29" markdown="29">
+## Average
 <h2 class="req">6 of 10 required</h2>
 [.ggg]Complete any six of the following types of Astrolabed Rare Maps while they are Tier 16 and have 5 Scarabs applied the specified number of times.
 - [.ggg]Templar Astrolabe (30x)
@@ -813,8 +813,8 @@ Comes out at 180 maps total. Comes out as Average over Hard simply because it do
 </div>
 
 # 30 Modified Maps
-## Average
 <div id="ch-30" markdown="30">
+## Average
 <h2 class="req">3000 required</h2>
 [.ggg]Reach a total of 3000 Explicit Modifers completing Maps.
 
@@ -822,8 +822,8 @@ Somewhere between 375 and 600 maps depending on what you do. You will almost cer
 </div>
 
 # 31 Excruciating Echoes
-## Average
 <div id="ch-31" markdown="31">
+## Average
 <h2 class="req">2 of 4 required</h2>
 [.ggg]Complete any two the following types of Maps the specified number of times while they are Tier 16, Rare and have at least 150% Item Quantity.
 - [.ggg]Originator Influenced Maps (30x)
@@ -843,8 +843,8 @@ If you really want to avoid juicing maps, you can make it 10 juiced maps by runn
 </div>
 
 # 32 Fathomless Fears
-## Average
 <div id="ch-32" markdown="32">
+## Average
 <h2 class="req">9 of 16 required</h2>
 [.ggg]Complete Voyages with any nine of the following Border Modifiers.
 - [.ggg]Area Contains Altars to the Goddess
@@ -870,8 +870,8 @@ You can reroll these by either finishing a Voyage or using a decently high amoun
 </div>
 
 # 33 Intrigued Interlopers
-## Average
 <div id="ch-33" markdown="33">
+## Average
 <h2 class="req">2 of 3 required</h2>
 [.ggg]Complete any two the following types of Eldritch Encounters in Tier 16 Maps that are Rare the specified number of times.
 - [.ggg]Defeat Map Bosses after having activated at least 4 Eater of Worlds Altars which have modifiers that affect the Map Boss with Eldritch Gaze allocated (10x)
@@ -884,9 +884,9 @@ The amounts are very small which makes it very reasonable to accomplish if you s
 </div>
 
 # 34 Potent Possibilities
+<div id="ch-34" markdown="34">
 ## Average
 ### Currency Dump
-<div id="ch-34" markdown="34">
 <h2 class="req">10 of 20 required</h2>
 [.ggg]Use any ten of the following Currency items the specified number of times.
 - [.ggg]Influenced Exalted Orb
@@ -965,8 +965,8 @@ Any without an actual specified number of times equates to 'one time'.
 </div>
 
 # 35 Succinct Summons
-## Average
 <div id="ch-35" markdown="35">
+## Average
 <h2 class="req">30 required</h2>
 [.ggg]Complete 30 Invitations while they have at least 5 Explicit Modifiers.
 
@@ -1041,8 +1041,8 @@ Doesn't have a quantity restriction so you can simply reroll invitations until y
 </div>
 
 # 36 Atlas Assertions
-## Hard
 <div id="ch-36" markdown="36">
+## Hard
 <h2 class="req">6 of 11 required</h2>
 [.ggg]Complete any six of the following random Atlas Encounters.
 - [.ggg]Forgotten Shrine
@@ -1081,8 +1081,8 @@ Tenatively marked as hard, until it's more clear how much grind this will end up
 </div>
 
 # 37 Brinerot's Bloody Bounty
-## Hard
 <div id="ch-37" markdown="37">
+## Hard
 <h2 class="req">3 of 4 required</h2>
 [.ggg]Defeat Velka, The Tide Witch in any three of the specified ways.
 - [.ggg]Without being hit by Brine Storm Call
@@ -1100,9 +1100,9 @@ This is pretty awful to obtain as you need to get a chart and then run the chart
 </div>
 
 # 38 Horrific Halls
+<div id="ch-38" markdown="38">
 ## Very Hard
 ### Buyable
-<div id="ch-38" markdown="38">
 <h2 class="req">2 of 5 required</h2>
 [.ggg]Complete any two of the following Nightmare Maps while they have at least 150% Item Quantity, 5 Scarabs and Delirium Orbs applied and are Corrupted.
 - [.ggg]Abomination
@@ -1117,9 +1117,9 @@ Obvious skip for people without god builds but you can obviously buy carries or 
 </div>
 
 # 39 Apex Assailants
+<div id="ch-39" markdown="39">
 ## Hard
 ### Buyable
-<div id="ch-39" markdown="39">
 <h2 class="req">5 of 10 required</h2>
 [.ggg]Defeat any five of the following Pinnacle Boss Encounters while the area is level 85.
 - [.ggg]Sirus, Awakener of Worlds
@@ -1151,9 +1151,9 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 </div>
 
 # 40 Gallant Grinding Goals
+<div id="ch-40" markdown="40">
 ## Average
 ## Grind heavy
-<div id="ch-40" markdown="40">
 <h2 class="req">4 of 6 required</h2>
 [.ggg]Complete any four of these encounters the specified number of times.
 - [.ggg]Reach Level 100
