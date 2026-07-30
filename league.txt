@@ -996,21 +996,26 @@ The amounts are very small which makes it very reasonable to accomplish if you s
 	- [.price]Reflecting Mist
 - [.ggghlcheap]Runegraft or Tattoo (5x)
 	- [.com]There's a lot of these, check the [poe.ninja](https://poe.ninja/poe1/economy) sections or simply Faustus for your best options
+	- [.com]Almost certainly one of the <span class="bestvalue">best options</span> in trade despite no price information being here!
 - [.ggghlcheap]Enshrouding Crystal (5x)
 	- [.price]Imperial Enshrouding Crystal
 	- [.price]Karui Enshrouding Crystal
 	- [.price]Maraketh Enshrouding Crystal
 	- [.price]Templar Enshrouding Crystal
 	- [.price]Vaal Enshrouding Crystal
+	- [.com]There's the potential to sell the results of these but the chances of people actually buying them is probably slim
 - [.ggghlcheap]Catalyst (40x)
 	- [.com]There's a lot of these, check the [poe.ninja](https://poe.ninja/poe1/economy) sections or simply Faustus for your best options
+	- [.com]Good chance you will get this if you just quality up unique items you might need for your build
 - [.ggghlcheap]Corrupted Essence (4x)
 	- [.price]Essence of Delirium
 	- [.price]Essence of Horror
 	- [.price]Essence of Hysteria
 	- [.price]Essence of Insanity
+	- [.com]Solid option if you are able to use any of them to craft items for yourself (or for profit)
 - [.ggghlcheap]Blight Oil (10x)
 	- [.com]There's a lot of these, check the [poe.ninja](https://poe.ninja/poe1/economy) sections or simply Faustus for your best options (it's going to be Clear, Amber or Sepia, surprisingly)
+	- [.com]Almost certainly one of the <span class="bestvalue">best options</span> in trade despite no price information being here!
 - [.ggghlcheap]Sacred Crystallised Lifeforce or Crystallised Rancour
 	- [.price]Sacred Crystallised Lifeforce
 	- [.price]Crystallised Rancour

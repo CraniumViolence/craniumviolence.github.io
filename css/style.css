@@ -498,10 +498,8 @@ li.final {
 	color:#AF5F1C;
 }
 
-.bestvalue span{
+li > span.bestvalue,
+.bestvalue > span {
 	color:rgba(255,0,255);
-	font-weight:bold;
-	padding-left:2px;
-	padding-right:2px;
-	border-radius:4px;
+	text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.75),0px 0px 8px rgba(255,255,255,0.33);
 }
