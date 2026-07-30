@@ -526,9 +526,11 @@ Not very hard at all Stacked Decks themselves can come from scarabs and Scrying 
 	- [.com]You can vendor three of any non-corrupted Unique Item in order to get a fresh copy back with new rolls
 	- [.com]There is a [PoeWiki listing for all of these](https://www.poewiki.net/wiki/Vendor_recipe_system#Unique_items) which includes other options
 - [.ggg]Scarab (5x)
-	- [.com]You can vendor three of any scarab to get a replacement random scarab back
+	- [.com]You can vendor three of any scarab to get a replacement random scarab back (15 total)
+	- [.com][poe.re](https://poe.re/#/scarab) allows you to generate a regex search for cheap ones, be sure to hit the reset buttons before generate if you've tried it before!
 - [.ggg]Tier 16 Map (5x)
 	- [.com]You can vendor three Tier 15 maps to get a Tier 16 map back
+	- [.com]Kirac and Trade obviously sell T15s if you didn't bank 15 to finish this
 	
 Be sure to note that these are not single vendor results, you need to do all three of them five times each.
 </div>
@@ -605,44 +607,76 @@ You can use Ducats below decks on the Sovereign (<code class="quest">/boat</code
 [.ggg]Complete any 15 of the following Unique Maps.
 - [.ggg]Vaults of Atziri
 	- [.com]r{Vaults of Atziri}
+	- [.com]Open the Vaal Vessel in the second chamber to clear this
 - [.ggg]Maelström of Chaos
 	- [.com]r{Maelström of Chaos}
+	- [.com]Standard map that is basically the Ledge, a side chamber along the path has the Boss in it
 - [.ggg]The Coward's Trial
 	- [.com]r{The Coward's Trial}
+	- [.com]Clear waves and kill the unique boss at the end
 - [.ggg]Acton's Nightmare
 	- [.com]r{Acton's Nightmare}
+	- [.com]Standard map but with infinitely respawning mobs, northmost point usually has the map boss, killing them stops the other mobs reviving
 - [.ggg]Poorjoy's Asylum
 	- [.com]r{Poorjoy's Asylum}
+	- [.com]Standard map, northmost point usually has the map boss
 - [.ggg]Mao Kun
 	- [.com]r{Mao Kun}
+	- [.com]Run along one edge of the map trying to minimise how much map is revealed
+	- [.com]At the far side of the map you should see a cross (X) icon, this indicates where a ghostly Fairgraves will phase in if you stand near it
+	- [.com]Go back through the map section you revealed, killing mobs and opening the `Booty Chests` as they spawn and damaging an immortal Fairgraves from them
+	- [.com]Do the same for the unrevealed sections and then kill a final Fairgraves that spawns along with a ring of mobs to finish the map
 - [.ggg]Oba's Cursed Trove
 	- [.com]r{Oba's Cursed Trove}
+	- [.com]Full clear each of the floors and then
 - [.ggg]Olmec's Sanctum
 	- [.com]r{Olmec's Sanctum}
+	- [.com]Head into each of the four passages, kill the unique mobs at the end and then kill the unique in the main entrance hall
 - [.ggg]Death and Taxes
 	- [.com]r{Death and Taxes}
+	- [.com]Guide the boss to each of the obvious nodes along the path in sequence and kill it at the last (first) one 
 - [.ggg]Whakawairua Tuahu
 	- [.com]r{Whakawairua Tuahu}
+	- [.com]This summons an annoying teleporting, proximity shielded mob. Damage over time effects and things like brands can make it trivial
 - [.ggg]The Vinktar Square
 	- [.com]r{The Vinktar Square}
 	- [.com]Vendor `Agnerod North`, `Agnerod East`, `Agnerod South` and `Agnerod West` to get this map back
 	- [.com]The staffs normally run a couple chaos, it is likely cheaper than the map
+	- [.com]For completion, go to each corner of the map and then the center to kill uniques at each point
+		- [.com]Do it in this order, the center has a door that doesn't open until you do the corner uniques!
 - [.ggg]Caer Blaidd, Wolfpack's Den
 	- [.com]r{Caer Blaidd, Wolfpack's Den}
+	- [.com]Standard linear map but with three bosses, kill two of them individually and then those alonside a third to complete it
 - [.ggg]The Putrid Cloister
 	- [.com]r{The Putrid Cloister}
+	- [.com]This map drops the b{Stacked Deck} item regularly
+	- [.com]The boss is defeated multiple times, each time dropping random Divination Cards
+	- [.com]Standard map outside of the Divination Card related loot gimmick
 - [.ggg]Hallowed Ground
 	- [.com]r{Hallowed Ground}
+	- [.com]You open a gate using a switch to an invulnerable Brutus
+	- [.com]Four side paths have bosses in them, defeat all of these to buff the Brutus with the final making him vulnerable to damage
+	- [.com]Kill the boss for completion
 - [.ggg]The Twilight Temple
 	- [.com]r{The Twilight Temple}
+	- [.com]Run down one side of the map killing three mini-encounters with waves and unique mobs
+	- [.com]At the far side of the Temple there are two switches, step on the one for the side you cleared to reveal a portal
+	- [.com]Kill the bosses through this portal for completion
 - [.ggg]Pillars of Arun
 	- [.com]r{Pillars of Arun}
+	- [.com]Bring a movement skill that can clear gaps like Leap Slam, Frost Blink or Flame Dash
+	- [.com]Jump between pillars and defeat the boss at the end
 - [.ggg]Doryani's Machinarium
 	- [.com]r{Doryani's Machinarium}
-- [.ggg]Doryani's Machinarium
-	- [.com]r{Doryani's Machinarium}
+	- [.com]A gimmick map that produces a pair of unique boots called `Doryani's Delusion` that drop with a corrupted implicit
+	- [.com]Do the same gimmick as in Act 6's The Beacon area and push various devices to the end of paths
+	- [.com]Each path lets you choose an affinity, this changes which Purity aura it grants and which elemental damage types the boots deal
+	- [.com]Do all the escort missions and defeat the Vaal Oversoul and get your probably worthless boots for completion
 - [.ggg]Hall of the Grandmasters
 	- [.com]r{Hall of Grandmasters}
+	- [.com]Get lucky and avoid having to deal with immortal characters
+	- [.com]Mines and Totems generally have the easiest time here
+	- [.com]You can buy completion but with it being 15/18 there's not a lot of point
 
 The usual challenge with some of the flavour diluted by allowing you to skip some. The Hall of Grandmasters and Doryani's Machinarium are obvious skip fodder with a third being dealer's choice (Whakawairua Tuahu or Mao Kun, perhaps).
 </div>
@@ -667,6 +701,7 @@ It even explains what I'd add a note about usually this time! No map tier requir
 	- [.com]You can naturally buy level 19 gems and level them, the trade site even lets you sort by experience by clicking it.
 - [.ggg]Have at least 20 Corrupted Gems socketed into your Equipment
 	- [.com]Just buy cheap corrupted gems and stick them in every socket you can
+	- [.com]You can also simply buy gems from Lilly and corrupt them
 - [.ggg]Corrupt a gem to become either level 21 or 23% quality
 	- [.com]Slam Vaal Orbs on Lv20 and/or 20% quality gems
 	- [.com]Use the Lapidary Lens for better odds (Alva Temples)
@@ -858,15 +893,20 @@ If you really want to avoid juicing maps, you can make it 10 juiced maps by runn
 
 # 32 Fathomless Fears
 <div id="ch-32" markdown="32">
-## Average
+## Easy
 <h2 class="req">9 of 16 required</h2>
 [.ggg]Complete Voyages with any nine of the following Border Modifiers.
 - [.ggg]Area Contains Altars to the Goddess
+	- [.com]Altars drop Labyrinth Offerings, both endgame and uber variants
 - [.ggg]Area contains Captainsbane
+	- [.com]A unique crab mob, needed for one of the quest item upgrades
 - [.ggg]Area contains Filthscrabble
+	- [.com]A unique octopuse boss
 - [.ggg]Area contains Gold Lanterns
+	- [.com]Barely perceptible lanterns float in the water giving increased rarity if collected
 - [.ggg]Area contains additional Monster Packs
 - [.ggg]Area contains additional Treasure Anchors
+	- [.com]Adds a bunch of the loot piles into the area
 - [.ggg]Area contains an additional Pirate's Locker
 - [.ggg]Basic Currency items will instead drop as Stacked Decks
 - [.ggg]Charts have a chance to not be consumed when beginning a Voyage
@@ -880,7 +920,9 @@ If you really want to avoid juicing maps, you can make it 10 juiced maps by runn
 
 Read your borders as you run voyages. You can't buy these, you can't filter for these, you have to read. Perhaps the first challenge approaching actual impossibility with such a requirement.
 
-You can reroll these by either finishing a Voyage or using a decently high amount of Dead Man's Sulphur.
+You can reroll these by either finishing a Voyage or using a decently high amount of Dead Man's Sulphur. 
+
+Despite the joke, pretty trivial and honestly quite likely to have been finished before the 10 voyages requirement on another challenge.
 </div>
 
 # 33 Intrigued Interlopers
@@ -900,31 +942,31 @@ The amounts are very small which makes it very reasonable to accomplish if you s
 # 34 Potent Possibilities
 <div id="ch-34" markdown="34">
 ## Average
-### Currency Dump
+### Currency Sink
 <h2 class="req">10 of 20 required</h2>
 [.ggg]Use any ten of the following Currency items the specified number of times.
-- [.ggg]Influenced Exalted Orb
+- [.ggghlcheap]Influenced Exalted Orb
 	- [.price]Hunter's Exalted Orb
 	- [.price]Shaper's Exalted Orb
 	- [.price]Warlord's Exalted Orb
 	- [.price]Crusader's Exalted Orb
 	- [.price]Elder's Exalted Orb
 	- [.price]Redeemer's Exalted Orb
-- [.ggg]Veiled Exalted or Chaos Orb
+- [.ggghlcheap]Veiled Exalted or Chaos Orb
 	- [.price]Veiled Exalted Orb
 	- [.price]Veiled Chaos Orb
-- [.ggg]Orb of Remembrance, Unravelling or Intention
+- [.ggghlcheap]Orb of Remembrance, Unravelling or Intention
 	- [.price]Orb of Remembrance
 	- [.price]Orb of Unravelling
 	- [.price]Orb of Intention
-- [.ggg]Eldritch Exalted, Annulment or Chaos orb
+- [.ggghlcheap]Eldritch Exalted, Annulment or Chaos orb
 	- [.price]Eldritch Exalted Orb
 	- [.price]Eldritch Orb of Annulment
 	- [.price]Eldritch Chaos Orb
-- [.ggg]Exceptional Eldritch Ichor or Ember
+- [.ggghlcheap]Exceptional Eldritch Ichor or Ember
 	- [.price]Exceptional Eldritch Ichor
 	- [.price]Exceptional Eldritch Ember
-- [.ggg]Tainted Currency (10x)
+- [.ggghlcheap]Tainted Currency (10x)
 	- [.price]Tainted Armourer's Scrap
 	- [.price]Tainted Blacksmith's Whetstone
 	- [.price]Tainted Catalyst
@@ -935,41 +977,41 @@ The amounts are very small which makes it very reasonable to accomplish if you s
 	- [.price]Tainted Jeweller's Orb
 	- [.price]Tainted Mythic Orb
 	- [.price]Tainted Orb of Fusing
-- [.ggg]Awakener's Orb
+- [.ggghlcheap]Awakener's Orb
 	- [.price]Awakener's Orb
-- [.ggg]Orb of Dominance
+- [.ggghlcheap]Orb of Dominance
 	- [.price]Orb of Dominance
-- [.ggg]Mirror of Kalandra
+- [.ggghlcheap]Mirror of Kalandra
 	- [.price]Mirror of Kalandra
-- [.ggg]Sacred Orb
+- [.ggghlcheap]Sacred Orb
 	- [.price]Sacred Orb
-- [.ggg]Fracturing Orb
+- [.ggghlcheap]Fracturing Orb
 	- [.price]Fracturing Orb
-- [.ggg]Hinekora's Lock
+- [.ggghlcheap]Hinekora's Lock
 	- [.price]Hinekora's Lock
-- [.ggg]Tempering or Tailoring Orb
+- [.ggghlcheap]Tempering or Tailoring Orb
 	- [.price]Tempering Orb
 	- [.price]Tailoring Orb
-- [.ggg]Reflecting Mist
+- [.ggghlcheap]Reflecting Mist
 	- [.price]Reflecting Mist
-- [.ggg]Runegraft or Tattoo (5x)
+- [.ggghlcheap]Runegraft or Tattoo (5x)
 	- [.com]There's a lot of these, check the [poe.ninja](https://poe.ninja/poe1/economy) sections or simply Faustus for your best options
-- [.ggg]Enshrouding Crystal (5x)
+- [.ggghlcheap]Enshrouding Crystal (5x)
 	- [.price]Imperial Enshrouding Crystal
 	- [.price]Karui Enshrouding Crystal
 	- [.price]Maraketh Enshrouding Crystal
 	- [.price]Templar Enshrouding Crystal
 	- [.price]Vaal Enshrouding Crystal
-- [.ggg]Catalyst (40x)
+- [.ggghlcheap]Catalyst (40x)
 	- [.com]There's a lot of these, check the [poe.ninja](https://poe.ninja/poe1/economy) sections or simply Faustus for your best options
-- [.ggg]Corrupted Essence (4x)
+- [.ggghlcheap]Corrupted Essence (4x)
 	- [.price]Essence of Delirium
 	- [.price]Essence of Horror
 	- [.price]Essence of Hysteria
 	- [.price]Essence of Insanity
-- [.ggg]Blight Oil (10x)
+- [.ggghlcheap]Blight Oil (10x)
 	- [.com]There's a lot of these, check the [poe.ninja](https://poe.ninja/poe1/economy) sections or simply Faustus for your best options (it's going to be Clear, Amber or Sepia, surprisingly)
-- [.ggg]Sacred Crystallised Lifeforce or Crystallised Rancour
+- [.ggghlcheap]Sacred Crystallised Lifeforce or Crystallised Rancour
 	- [.price]Sacred Crystallised Lifeforce
 	- [.price]Crystallised Rancour
 
@@ -985,13 +1027,19 @@ Any without an actual specified number of times equates to 'one time'.
 [.ggg]Complete 30 Invitations while they have at least 5 Explicit Modifiers.
 
 Doesn't have a quantity restriction so you can simply reroll invitations until you get ones you can run. Information on the invitations themselves is below.
-- [.com]Screaming
+- [.com]`Writhing`
+	- [.price]Writhing Invitation
+	- [.com]The Infinite Hunger
+- [.com]`Polaric`
+	- [.price]Polaric Invitation
+	- [.com]The Black Star
+- [.com]`Screaming`
 	- [.com]The Eater of Worlds
 	- [.price]Screaming Invitation
-- [.com]Incandescent
+- [.com]`Incandescent`
 	- [.com]The Searing Exarch
 	- [.price]Incandescent Invitation
-- [.com]The Elderslayers
+- [.com]`The Elderslayers` (Maven)
 	- [.com]Al-Hezmin, the Hunter
 		- [.price]Al-Hezmin Map (Tier 16)
 	- [.com]Baran, the Crusader
@@ -1000,7 +1048,7 @@ Doesn't have a quantity restriction so you can simply reroll invitations until y
 		- [.price]Drox Map (Tier 16)
 	- [.com]Veritania, the Redeemer
 		- [.price]Veritania Map (Tier 16)
-- [.com]The Feared
+- [.com]`The Feared` (Maven)
 	- [.com]The Shaper
 		- [.price]Fragment of the Chimera
 		- [.price]Fragment of the Hydra
@@ -1021,13 +1069,13 @@ Doesn't have a quantity restriction so you can simply reroll invitations until y
 	- [.com]Incarnation of Dread
 		- [.price]Echo of Reverence
 		- [.com]Itemised memories exist now so this is cheaper if you are willing to put in a few extra maps
-- [.com]The Forgotten
+- [.com]`The Forgotten` (Maven)
     - [.price]Rewritten Distant Memory
     - [.price]Augmented Distant Memory
     - [.price]Altered Distant Memory
     - [.price]Twisted Distant Memory
 	- [.com]Decent gold returns for time investment and potential for large quantities of GCP based on mods with a decent chance of `Cortex` and a very low chance of jackpot rings and flask
-- [.com]The Formed
+- [.com]`The Formed` (Maven)
 	- [.com]All of these now use b{Shaper Guardian Map} instead of unique maps
     - [.price]Lair of the Hydra Map
     - [.price]Maze of the Minotaur Map
@@ -1035,7 +1083,7 @@ Doesn't have a quantity restriction so you can simply reroll invitations until y
     - [.price]Pit of the Chimera Map
 		- [.com]Can be rather annoying
 	- [.com]Historically, shaper sets mostly cover the cost of the run and Mavens generated will be pure profit
-- [.com]The Remembered
+- [.com]`The Remembered` (Maven)
 	- [.com]`The Neglected Flame` in Courtyard of Wasting
 		- [.price]Memory of Loneliness
     - [.com]`The Cardinal of Fear` in Chambers of Impurity
@@ -1044,7 +1092,7 @@ Doesn't have a quantity restriction so you can simply reroll invitations until y
 		- [.price]Memory of Reverence
 	- [.com]This is an invitation containing all of the penultimate memory bosses, they are pretty bad to farm
 		- [.com]Itemised memories make this much more viable on trade leagues but it's still bad
-- [.com]The Twisted
+- [.com]`The Twisted` (Maven)
 	- [.price]The Purifier Map (Tier 16)
 	- [.price]The Constrictor Map (Tier 16)
 	- [.price]The Enslaver Map (Tier 16)
@@ -1052,6 +1100,8 @@ Doesn't have a quantity restriction so you can simply reroll invitations until y
 	- [.com]Using a `Blessed Orb` can reroll which of the guardians a map has
 	- [.com]Selling the fragments generally easily cover the cost of the maps, you can alternatively run them to fish for a Watcher's Eye to ID or sell
 	- [.com]Obviously has the issue of watching the Elder murder original map bosses every time, but you can get through it I'm sure
+	
+Nothing too bad as long as you have a competent build, you can naturally get carries or buy clears but a character capable of the more basic invitations is fine.
 </div>
 
 # 36 Atlas Assertions

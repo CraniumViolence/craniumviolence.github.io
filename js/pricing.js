@@ -35,7 +35,7 @@ function priceFormat(i) {
     if (i > divines) {
         return `${(i / divines).toFixed(2)} divine`;
     } else {
-        return `${Math.ceil(i)} chaos`;
+        return `${i.toFixed(1)} chaos`;
     }
 }
 
@@ -105,4 +105,46 @@ function priceEntries() {
             };
         };
     });
+
+    // For each .ggghlcheap element
+    $('.ggghlcheap').each(function() {
+        var minValue = Infinity;
+        var bestLi = null;
+        var $container = $(this);
+
+        // Iterate over all <li> inside this .ggghlcheap
+        $container.find('li').each(function() {
+            var $li = $(this);
+            // Find the first <span> inside the <li>
+            var $span = $li.find('span').first();
+            if ($span.length === 0) return; // Skip if no span found
+
+            var text = $span.text().trim();
+            // Parse the text, expecting format like "10.4 chaos" or "10.4 divine"
+            var parts = text.split(' ');
+            if (parts.length !== 2) return; // Unexpected format
+
+            var value = parseFloat(parts[0]);
+            var suffix = parts[1].toLowerCase();
+
+            if (isNaN(value)) return; // Invalid number, skip
+
+            // If suffix is 'divine', multiply by 500
+            if (suffix === 'divine') {
+                value *= 500;
+            }
+
+            // Track the minimum value within this container
+            if (value < minValue) {
+                minValue = value;
+                bestLi = $li;
+            }
+        });
+
+        // Add 'best-value' class to the cheapest <li> in this container
+        if (bestLi) {
+            bestLi.addClass('bestvalue');
+        }
+    });
+	
 }

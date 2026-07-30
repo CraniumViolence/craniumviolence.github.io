@@ -251,13 +251,15 @@ li img {
 }
 
 .ggg,
-.gggpad {
+.gggpad,
+.ggghlcheap {
 	color: #E7B477;
 }
 
 .compad,
 .pad,
-.gggpad {
+.gggpad,
+.ggghlcheap {
 	margin-bottom: 8px;
 }
 
@@ -494,4 +496,12 @@ li.final {
 }
 .unique{
 	color:#AF5F1C;
+}
+
+.bestvalue span{
+	color:rgba(255,0,255);
+	font-weight:bold;
+	padding-left:2px;
+	padding-right:2px;
+	border-radius:4px;
 }
