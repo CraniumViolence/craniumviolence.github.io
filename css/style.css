@@ -397,7 +397,24 @@ h4 {
 	font-size: 125%;
 }
 
-h4+ul {
+h4.lthoughts{
+	font-size:140%;
+	margin:16px 0px;
+}
+
+h4+ul,
+h4+h5 {
+	margin: 0px;
+}
+
+h5 {
+	margin-bottom: 6px;
+	margin-top: 18px;
+	font-size: 115%;
+	color:rgb(200, 200, 170)
+}
+
+h5+ul{
 	margin: 0px;
 }
 

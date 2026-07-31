@@ -13,15 +13,50 @@ Mechanics related to the current league or new mechanics in general will natural
 
 The guide is actively edited alongside the league progressing and people leaving feedback.
 
-#### The League
-The Abyss rework is a fascinating combination of 'loot drought' and 'over abundance'. Running the actual Abysses themselves gives you basically nothing and then GGG also left the b{Abyss Scarab of Descending} in place, which murders prices on everything in there.
+[.centeritalic]If you want to see my thoughts on Curse of the Allflame, <a href="#" onclick="$('.lthoughts').fadeToggle(600);return false;">you can click here</a>. 
 
-The actual league mechanic is very badly executed in general and I have no idea why the charts aren't just done while mapping. The initial buffs seem to have rounded it out a bit and it doesn't feel as bad doing charts to get your voyages but it's still a bunch of chores.
+<h4 class="lthoughts">Thoughts on the League</h4>
+
+<h5 class="lthoughts">General State</h5>
+
+[.lthoughts]The general state of the game is worse than last league. Raw drops feel bad and they seem to have an unhealthy attraction to sticking everything into boxes like some kind of demented Amazon warehouse. We need more Wish warehouses, GGG, loot belongs on the floor not in boxes!
+
+[.lthoughts]Breach especially feels awful now. It still gives some amount of loot and is still useful but it feels absolutely anaemic even with a full tree and scarab set monster density wise.
+
+<h5 class="lthoughts">Abyss</h5>
+
+[.lthoughts]The Abyss rework is a fascinating combination of 'loot drought' and 'over abundance'. Running the actual Abysses themselves gives you basically nothing and then GGG also left the b{Abyss Scarab of Descending} in place, which murders prices on everything in there.
+
+[.lthoughts]The changes in the last patches made only a very minor difference, sadly. Abysses themselves still suck though Abyssal Depths are slightly better at least.
+
+<h5 class="lthoughts">Legion</h5>
+
+[.lthoughts]Legion changes were nothing. They just removed incubators and changed the X-way layout a bit. Enshrouded things are cool but they are hardly a 'rework'.
+
+<h5 class="lthoughts">Allflame League Mechanics</h5>
+
+[.lthoughts]The actual league mechanic is very badly executed in general.
+
+[.lthoughts]The maps component is 'click a box so you can kill things to click a box. They literally invented 'worse strongboxes'.
+
+[.lthoughts]The charts should just done while mapping, either Mirage style in an instance of Harvest style in a side zone. There's slim benefit to them being itemised and it makes the flow worse.
+
+[.lthoughts]The initial buffs seem to have rounded it out a bit (the Gems chests existing are a nerf, frankly) but it's a lot of complexity for the sake of complexity in the same way betrayal is. Mapping grids and reading borders you can't see is just tedium.
+
+<h5 class="lthoughts">The Servers</h5>
+
+[.lthoughts]Being trapped in Europe I usually have a dire start to the league but they were mostly good this time.
+
+[.lthoughts]As of typing, there's been multiple full instance crashes with up to a minute of rollback each time. It hasn't felt great.
 
 #### Extra Information
+[.note]Things marked as <span id="#buyable">Buyable</span> are things you can feasibly buy on service providing hubs or find on `/trade 820` or `/global 820`, no specific service offering hubs are being shilled here you can google them easily enough.
+
 [.note]Coloured and isolated prices are dynamic and updated <strike>roughly hourly</strike> whenever GitHub lets it happen using data from [poe.ninja](https://poe.ninja/), last updated <span class="time">-</span>.
 
-[.semismol]Reminder that you should never buy supporter packs before you actually play the league and find it's worth supporting!
+[.semismol]Reminder that you should never buy supporter packs before you actually play the league and find it's worth supporting.
+
+[.semismol]GGG made $200,000,000 raw profit in 2025, *they are not a small indie company*.
 
 # 1 Beginner's Basics
 <div id="ch-1" markdown="1">
@@ -929,15 +964,26 @@ Despite the joke, pretty trivial and honestly quite likely to have been finished
 # 33 Intrigued Interlopers
 <div id="ch-33" markdown="33">
 ## Average
+### Buyable
 <h2 class="req">2 of 3 required</h2>
 [.ggg]Complete any two the following types of Eldritch Encounters in Tier 16 Maps that are Rare the specified number of times.
 - [.ggg]Defeat Map Bosses after having activated at least 4 Eater of Worlds Altars which have modifiers that affect the Map Boss with Eldritch Gaze allocated (10x)
 - [.ggg]Defeat Map Bosses after having activated at least 4 Searing Exarch Altars which have modifiers that affect the Map Boss with Wrath of the Cosmos allocated (10x)
+	- [.com]You want to run maps with good natural density for both Eater and Exarch altar ones such as: `Bazaar`
+	- [.com]Probably avoid maps with good density but awful bosses like `Desert Spring` or `Burial Chambers`
 - [.ggg]Complete Maps with at least 150% Item Quantity while they are being witnessed by the Maven while having Destructive Play allocated (25x)
 
-Allocate the atlas nodes and do the requirements. Quantity can be boosted with Map Fragments and the Atlas Tree but 150% will probably need Originator Maps.
+Allocate the atlas nodes and do the requirements. They are naturally all mutually exclusive as you can only choose on influence type when starting a map.
 
-The amounts are very small which makes it very reasonable to accomplish if you simply get a good set of modifiers. You can target bosses you find easy for the Eater and Exarch altars.
+For the originator section quantity can be boosted with Map Fragments and the Atlas Tree but 150% will probably need Originator Maps.
+
+The altar ones are almost touching the 'hard' end of the 'average' rating, depending on altar combos and your build they can get rather unreasonable.
+
+You do not need to run anything but rare maps, so you can technically transmute and regal these for the bosses but then your altar amount will suffer as you want pack size combined with natural density. 
+
+You can also try to target bosses you find easy for the altars but you'll still need a lot of maps and considering the altar quantity, the boss will end up tanky regardless of your map choice.
+
+The amounts needed are small which makes it reasonable to accomplish if you simply get a good set of modifiers. You have to do bosses as it's two of three, which makes this a bit tedious.
 </div>
 
 # 34 Potent Possibilities
@@ -1142,10 +1188,13 @@ Nothing too bad as long as you have a competent build, you can naturally get car
 	- [.com]Can be re-entered until you take an offer or skip all offered items, only counts as cleared when you actually do this
 - [.ggg]Uncharted Expedition
 	- [.com]Bottom-Right
+	- [.com]Functionally a logbook with some new remnants with the clear condition of killing all spawned mobs
+		- [.com]With that in mind, take care not to brick it by not reading mods
+		- [.com]If you don't care about rewards you can always just purposefully waste all detonators on nothing to clear it easier
 - [.ggg]Untainted Paradise
 	- [.com]Top-Left
 	
-You need voidstones in the atlas to unlock these and they are otherwise pure random chance. As it is just complete you might be able to buy them but it might have to be on your own atlas to 'complete' them.
+You need voidstones in the atlas to unlock these and they are otherwise pure random chance. As it is just complete you might be able to buy them but it might have to be on your own atlas to 'complete' them, I haven't tested since I avoid service buying.
 
 These were called `Atlas Anomalies` in the reveal, so you might see information related to them using the term `Atlas Anomaly` too.
 
@@ -1173,7 +1222,9 @@ Naturally, you should pair these with any other grindy ones and go with boss rus
 	- [.com]`Arcade`
 	- [.com]`Grotto`
 
-These are pretty rare, so it's fairly grindy and will need you to run maps in all four regions despite being only six of them for the challenge.
+These are pretty rare, so it's fairly grindy and **you will need you to run maps in all four regions** to get this, despite being only six of them for the challenge.
+
+In general these are a bit rubbish, not sure why these aren't just side areas in maps. Would have been a slightly more flavourful alternative to Vaal side areas.
 </div>
 
 # 37 Brinerot's Bloody Bounty
