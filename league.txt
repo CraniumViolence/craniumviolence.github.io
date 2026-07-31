@@ -47,7 +47,7 @@ The guide is actively edited alongside the league progressing and people leaving
 
 [.lthoughts]Being trapped in Europe I usually have a dire start to the league but they were mostly good this time.
 
-[.lthoughts]As of typing, there's been multiple full instance crashes with up to a minute of rollback each time. It hasn't felt great.
+[.lthoughts]As of typing, there's been multiple full instance crashes with up to a minute of rollback each time. It hasn't felt great!
 
 #### Extra Information
 [.note]Things marked as <span id="#buyable">Buyable</span> are things you can feasibly buy on service providing hubs or find on `/trade 820` or `/global 820`, no specific service offering hubs are being shilled here you can google them easily enough.
@@ -408,7 +408,10 @@ Standard endgame progression. You can buy carries for all of these.
 	- [.com]The b{Abyss Scarab of Descending} that forces Depths spawns
 - [.ggg]Logbooks with at least 10 Remnants active (5x)
 	- [.com]You can simply buy these and then it's as simple as playing them normally
+		- [.com]Remnants are the things that buff monsters and give reward changes, you need 10 total active by the final explosion
+		- [.com]Hovering the icon in the middle right of your screen will give you a count of how many you tagged as `Remnants tagged by placed Explosives: X/X`
 	- [.com]These are just the modifiers that activate as you blow things up
+	- [.com]The `Uncharted Expedition` Atlas Anomaly counts towards this if you have 10 Remnants Active
 - [.ggg]Tier 4 Harvest Seeds (5x)
 	- [.com]Crop Rotation can get you Tier 4s relatively even if it's not completely consistent
 	- [.com]The b{Harvest Scarab of Cornucopia} exists and allows you to force at least one Tier 4 monster to spawn
@@ -598,7 +601,7 @@ Be sure to note that these are not single vendor results, you need to do all thr
 	- [.com]b{Beyond Scarab of Resurgence} makes this happen most maps, especially if paired with dense mechanics
 - [.ggg]Medved, Vorana or Uhtred
 	- [.com]Expedition Logbook bosses, you can just buy Logbooks which force these
-	- [.com]Search for <code class="mini">~expedition boss</code> on the trade site or the in game market search and you will find the implicit for these
+	- [.com]Search for <code class="mini">~Medved</code>, <code class="mini">~Vorana</code> or <code class="mini">~Uhtred</code> on the trade site or the in game market search and you will find the implicit for these
 		- [.com]Be sure to also use `Area Level` set to `80` under `Map Filters` to avoid a boss too low level to count!
 - [.ggg]The Black Knight, Admiral Valerius or Sasan
 	- [.com]`The Black Knight` can rarely appear in any map that has ore spawn on it in place of an ore node, simply spam maps with them at a high level
@@ -758,11 +761,13 @@ Nothing crazy, the Pact Skill Gem one is a bit silly and feels forced but it's n
     - [.com]Any **Players are Delirious** map has permanent fog (1x Delirium Orb)
 - [.ggg]Defeat a Possessed Rogue Exile while you have an allied Mercenary
 	- [.com]`Exiled Will` causes Rogue Exiles to be possessed and an b{Anarchy Scarab} forces them in a map
+	- [.com]b{Trarthan Scarab} adds a Mercenary to a map
 - [.ggg]Complete a Map that is Originator Influenced and affected by an Astrolabe
 	- [.com]Use an astrolabe and run an originator map, nothing complicated
 	- [.com]b{Templar Astrolabe} will count as both parts of the requirement inherently
 - [.ggg]Defeat an Abyssal Consort while affected by a Shrine
-	- [.com]Needs the use of the new b{Abyss Scarab of the Consort} (or The Gull in an Abyssal Depths)
+	- [.com]Needs the use of the new b{Abyss Scarab of the Consort} 
+		-[.com]Might wortk with `The Gull` in an Abyssal Depths as the Abyssal Consort can spawn as a mini-boss there
 	- [.com]Find the boss, burst it down a bit if you feel you need to and then tag a shrine and kill it
 - [.ggg]Defeat a Breach Marshal that is empowered by Wildwood Wisps
 	- [.com]You can use a b{Scarab of Wisps} for this alongside stacking breach mechanics
@@ -847,9 +852,13 @@ There's a good chance some of these aren't actually working, the rarity for the 
 - [.ggg]Zorath
 	- [.com]Uses a set of new fragments from Abyssal Liches or Catarina
 	- [.price]Zorath's Eye of Malevolence
+		- [.com]From `Ulaman, Sovereign of the Well` in `Abyssal Depths`
 	- [.price]Zorath's Eye of Authority
+		- [.com]From `Amanamu, Liege of the Lightless` in `Abyssal Depths`
 	- [.price]Zorath's Eye of Inevitable
+		- [.com]From `Kurgal, the Blackblooded` in `Delve` from Depth 90
 	- [.price]Zorath's Eye of Endless
+		- [.com]From `Catarina, Master of Undeath` accessed using a b{Syndicate Medallion}
 
 These are the bloodlines bosses - even if the Abyssal bloodline isn't live yet.
 </div>
@@ -859,42 +868,44 @@ These are the bloodlines bosses - even if the Abyssal bloodline isn't live yet.
 ## Average
 <h2 class="req">6 of 10 required</h2>
 [.ggg]Complete any six of the following types of Astrolabed Rare Maps while they are Tier 16 and have 5 Scarabs applied the specified number of times.
-- [.ggg]Templar Astrolabe (30x)
+- [.ggg]Templar Astrolabe (5x)
 	- [.com]`Originator` content
 	- [.price]Templar Astrolabe
-- [.ggg]Fruiting Astrolabe (30x)
+- [.ggg]Fruiting Astrolabe (5x)
 	- [.com]`Harvest` content
 	- [.price]Fruiting Astrolabe
-- [.ggg]Lightless Astrolabe (30x)
+- [.ggg]Lightless Astrolabe (5x)
 	- [.com]`Abyss` content
 	- [.price]Lightless Astrolabe
-- [.ggg]Grasping Astrolabe (30x)
+- [.ggg]Grasping Astrolabe (5x)
 	- [.com]`Breach` content
 	- [.price]Grasping Astrolabe
-- [.ggg]Nameless Astrolabe (30x)
+- [.ggg]Nameless Astrolabe (5x)
 	- [.com]`Abyss` content
 	- [.price]Nameless Astrolabe
-- [.ggg]Fungal Astrolabe (30x)
+- [.ggg]Fungal Astrolabe (5x)
 	- [.com]`Blight` content
 	- [.price]Fungal Astrolabe
-- [.ggg]Chaotic Astrolabe (30x)
+- [.ggg]Chaotic Astrolabe (5x)
 	- [.com]`Ultimatum` content
 	- [.price]Chaotic Astrolabe
-- [.ggg]Deceptive Astrolabe (30x)
+- [.ggg]Deceptive Astrolabe (5x)
 	- [.com]`Delirium` content
 	- [.price]Deceptive Astrolabe
-- [.ggg]Timeless Astrolabe (30x)
+- [.ggg]Timeless Astrolabe (5x)
 	- [.com]`Legion` content
 	- [.price]Timeless Astrolabe
-- [.ggg]Runic Astrolabe (30x)
+- [.ggg]Runic Astrolabe (5x)
 	- [.com]`Expedition` content
 	- [.price]Runic Astrolabe
 
 Astrolabes drop guaranteed from the Memory Chain finale bosses and everywhere on the Atlas after completing Zana's three memory chains from bosses exceptionally rarely (with the Voidstone socketed).
 
-Actual challenge wise - discounting obtaining astrolabes - this is simply a harder, grindier version of last league's challenge with higher tier requirements and the need for Scarabs (and needs you to complete a Nightmare Map and the Maven's 10-Way encounter).
+Actual challenge wise - discounting obtaining astrolabes - this is simply running six different types of astrolabes on tier 16 maps using scarabs.
 
-Comes out at 180 maps total. Comes out as Average over Hard simply because it doesn't say which Scarabs to use or have required Item Quantity. You can use b{Scarab of the Sinistral} and b{Scarab of the Dextral} to run these scoured and use up two of the slots.
+I originally read this as identical to last league but it's only actually 5 maps per Astrolabe - which means it's a lot easier than I wrote originally - oops!
+
+Comes out at 30 maps total. You can use b{Scarab of the Sinistral} and b{Scarab of the Dextral} to run these scoured and use up two of the slots.
 </div>
 
 # 30 Modified Maps
