@@ -51,6 +51,8 @@ var APIEndpoints = map[string]APIEndpoint{
 	
 	"UniqueMap":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=UniqueMap&league="},
 	"DivinationCard":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=DivinationCard&league="},
+	
+	"Beast":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=Beast&league="},
 }
 
 func main() {
