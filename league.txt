@@ -725,6 +725,7 @@ Nothing crazy, the Pact Skill Gem one is a bit silly and feels forced but it's n
 	- [.com]`Exiled Will` causes Rogue Exiles to be possessed and an b{Anarchy Scarab} forces them in a map
 - [.ggg]Complete a Map that is Originator Influenced and affected by an Astrolabe
 	- [.com]Use an astrolabe and run an originator map, nothing complicated
+	- [.com]b{Templar Astrolabe} will count as both parts of the requirement inherently
 - [.ggg]Defeat an Abyssal Consort while affected by a Shrine
 	- [.com]Needs the use of the new b{Abyss Scarab of the Consort} (or The Gull in an Abyssal Depths)
 	- [.com]Find the boss, burst it down a bit if you feel you need to and then tag a shrine and kill it
@@ -1111,11 +1112,12 @@ Nothing too bad as long as you have a competent build, you can naturally get car
 
 # 36 Atlas Assertions
 <div id="ch-36" markdown="36">
-## Hard
+## Average
+### Luck Based
 <h2 class="req">6 of 11 required</h2>
 [.ggg]Complete any six of the following random Atlas Encounters.
 - [.ggg]Forgotten Shrine
-	- [.com]Top Right
+	- [.com]Top-Right
 - [.ggg]Gambling District
 	- [.com]Bottom-Left
 	- [.com]Contains unique strongboxes
@@ -1133,6 +1135,7 @@ Nothing too bad as long as you have a competent build, you can naturally get car
 	- [.com]Top-Left
 - [.ggg]The Court of Chaos
 	- [.com]Bottom-Right
+	- [.com]Sacrifice a unique item in exchange for currency
 - [.ggg]The Manor Foyer
 	- [.com]Bottom-Left
 	- [.com]Contains Cadiro who will give you multiple offers
@@ -1141,12 +1144,36 @@ Nothing too bad as long as you have a competent build, you can naturally get car
 	- [.com]Bottom-Right
 - [.ggg]Untainted Paradise
 	- [.com]Top-Left
-
+	
 You need voidstones in the atlas to unlock these and they are otherwise pure random chance. As it is just complete you might be able to buy them but it might have to be on your own atlas to 'complete' them.
 
 These were called `Atlas Anomalies` in the reveal, so you might see information related to them using the term `Atlas Anomaly` too.
 
-Tenatively marked as hard, until it's more clear how much grind this will end up despite being only six of them.
+Naturally, you should pair these with any other grindy ones and go with boss rushing if you end up purely needing this challenge. This pairs with `Modified Maps`, the 8-Mod T16 portion of `Gallant Grinding Goals` and the b{Templar Astrolabe} portion of `Astounding Astrolabes` while boss rushing pretty well.
+
+-[.com]Top-Left
+	- [.com]River's End, Syndicate Hideout, Untainted Paradise
+	- [.com]`Atoll`
+	- [.com]`Park`
+	- [.com]`Plaza`
+-[.com]Top-Right
+	- [.com]Forgotten Shrine, Lake Islet, Overgrown Grove
+	- [.com]`Arid Lake`
+	- [.com]`Foundry`
+-[.com]Bottom-Left
+	- [.com]Gambling District, Planned Heist, The Manor Foyer
+	- [.com]`Mesa`
+	- [.com]`Cemetery`
+	- [.com]`Fields`
+	- [.com]`Toxic Sewer`
+	- [.com]`Cold River`
+-[.com]Bottom-Right
+	- [.com]The Court of Chaos, Uncharted Expedition
+	- [.com]`Dunes`
+	- [.com]`Arcade`
+	- [.com]`Grotto`
+
+These are pretty rare, so it's fairly grindy and will need you to run maps in all four regions despite being only six of them for the challenge.
 </div>
 
 # 37 Brinerot's Bloody Bounty
@@ -1223,7 +1250,7 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 # 40 Gallant Grinding Goals
 <div id="ch-40" markdown="40">
 ## Average
-## Grind heavy
+### Grind heavy
 <h2 class="req">4 of 6 required</h2>
 [.ggg]Complete any four of these encounters the specified number of times.
 - [.ggg]Reach Level 100
