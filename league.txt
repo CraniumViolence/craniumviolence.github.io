@@ -1207,7 +1207,8 @@ This is pretty awful to obtain as you need to get a chart and then run the chart
 - [.ggg]Sanctuary
 - [.ggg]Ziggurat
 - [.com]All of these use b{Nightmare Map} to be ran
-- [.com]You can also get these using b{Primal Cystcaller} in a Bestiary craft
+- [.com]You can also get these using Bestiary crafting with b{Primal Cystcaller}
+
 Full delirious, high quantity nightmare maps means this is an actually challenging challenge and is far and beyond the hardest thing they've included in a while. 
 
 Obvious skip for people without god builds but you can obviously buy carries or completion.
@@ -1281,7 +1282,7 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 	- [.com]Simple completion, you can run them with b{Scarab of the Sinistral} and b{Scarab of the Dextral} scarabs to make this easy
 	- [.com]Boss Rushing can make this profitable even if you don't want to clear the maps
 	- [.com]All of these use b{Nightmare Map} to be ran
-	- [.com]You can also get these using b{Primal Cystcaller} in a Bestiary craft
+	- [.com]You can also get these using Bestiary crafting with b{Primal Cystcaller}
 - [.ggg]Defeat Rare Monsters in Voyages that are area level 83 (400x)
 	- [.com]Just engaging with the league content, nothing crazy.
 	
