@@ -596,6 +596,7 @@ Be sure to note that these are not single vendor results, you need to do all thr
 		- [.com]If the Apex isn't open you will not be able to reach the boss, there is a chance you can use an explosives room to do so but it's not worth the micromanagement unless you are self-farming
 - [.ggg]Vox Twins
 	- [.com]Heist content, specifically needs you to buy a `Contract: The Twins` and run it in the Rogue Harbour
+	- [.com]**You do not need to have done any heist to do this.** You can simply buy a contract and run it.
 - [.ggg]K'Tash, Ghorr or Beidat
 	- [.com]Beyond bosses, fairly easy to have happen by just using a beyond tree
 	- [.com]b{Beyond Scarab of Resurgence} makes this happen most maps, especially if paired with dense mechanics
@@ -892,6 +893,7 @@ These are the bloodlines bosses - even if the Abyssal bloodline isn't live yet.
 - [.ggg]Deceptive Astrolabe (5x)
 	- [.com]`Delirium` content
 	- [.price]Deceptive Astrolabe
+	- [.com]The additional rewards from b{Delirium Scarab of Neuroses} count towards the the reach 5 layers condition
 - [.ggg]Timeless Astrolabe (5x)
 	- [.com]`Legion` content
 	- [.price]Timeless Astrolabe
@@ -902,6 +904,8 @@ These are the bloodlines bosses - even if the Abyssal bloodline isn't live yet.
 Astrolabes drop guaranteed from the Memory Chain finale bosses and everywhere on the Atlas after completing Zana's three memory chains from bosses exceptionally rarely (with the Voidstone socketed).
 
 Actual challenge wise - discounting obtaining astrolabes - this is simply running six different types of astrolabes on tier 16 maps using scarabs.
+
+Notably, this is just clearing maps. **You don't actually have to engage with the astrolabe mechanics at all.** This means for example, you can use a b{Runic Astrolabe} and simply run past the expedition to the map boss.
 
 I originally read this as identical to last league but it's only actually 5 maps per Astrolabe - which means it's a lot easier than I wrote originally - oops!
 
@@ -980,21 +984,23 @@ Despite the joke, pretty trivial and honestly quite likely to have been finished
 [.ggg]Complete any two the following types of Eldritch Encounters in Tier 16 Maps that are Rare the specified number of times.
 - [.ggg]Defeat Map Bosses after having activated at least 4 Eater of Worlds Altars which have modifiers that affect the Map Boss with Eldritch Gaze allocated (10x)
 - [.ggg]Defeat Map Bosses after having activated at least 4 Searing Exarch Altars which have modifiers that affect the Map Boss with Wrath of the Cosmos allocated (10x)
-	- [.com]You want to run maps with good natural density for both Eater and Exarch altar ones such as: `Bazaar`
+	- [.com]Maps you can clear fast and keep track of altars on easy are good picks, `Mesa` - as always - is reliable.
+	- [.com]You can also try to run maps with good natural density for both Eater and Exarch altar spawns such as: `Bazaar` or `Crater`
 	- [.com]Probably avoid maps with good density but awful bosses like `Desert Spring` or `Burial Chambers`
 - [.ggg]Complete Maps with at least 150% Item Quantity while they are being witnessed by the Maven while having Destructive Play allocated (25x)
+	- [.com]It's just maps, but originator maps are the ones that will most consistently hit it without needing modifier effect nodes on the tree
 
 Allocate the atlas nodes and do the requirements. They are naturally all mutually exclusive as you can only choose on influence type when starting a map.
 
-For the originator section quantity can be boosted with Map Fragments and the Atlas Tree but 150% will probably need Originator Maps.
+For the Maven's quantity can naturally be boosted with Map Fragments and the Atlas Tree but 150% will probably want Originator Maps for less modifier effect focused trees.
 
-The altar ones are almost touching the 'hard' end of the 'average' rating, depending on altar combos and your build they can get rather unreasonable.
+The Altar ones are almost touching the 'hard' end of the 'average' rating, depending on altar combos and your build they can get rather unreasonable.
 
-You do not need to run anything but rare maps, so you can technically transmute and regal these for the bosses but then your altar amount will suffer as you want pack size combined with natural density. 
+For Altars, You do not need to run anything but rare maps, so you can technically transmute and regal these for the bosses but then your altar amount will suffer as you want pack size combined with natural density. 
 
 You can also try to target bosses you find easy for the altars but you'll still need a lot of maps and considering the altar quantity, the boss will end up tanky regardless of your map choice.
 
-The amounts needed are small which makes it reasonable to accomplish if you simply get a good set of modifiers. You have to do bosses as it's two of three, which makes this a bit tedious.
+The amounts needed are small but the altars can end up a lot of maps per each set of four (it is **four altars** *not* modifiers). You have to do bosses as it's two of three, which makes this a bit tedious.
 </div>
 
 # 34 Potent Possibilities
@@ -1177,7 +1183,6 @@ Nothing too bad as long as you have a competent build, you can naturally get car
 	- [.com]Top-Right
 - [.ggg]Gambling District
 	- [.com]Bottom-Left
-	- [.com]Contains unique strongboxes
 - [.ggg]Lake Islet
 	- [.com]Top-Right
 	- [.com]Contains a Reflecting Mist that can give reflected jewellery or a b{Reflecting Mist}
@@ -1186,6 +1191,7 @@ Nothing too bad as long as you have a competent build, you can naturally get car
 	- [.com]Top-Right
 - [.ggg]Planned Heist
 	- [.com]Bottom-Left
+	- [.com]It's a Heist. If you fail it, it doesn't count for completion.
 - [.ggg]River's End
 	- [.com]Top-Left
 - [.ggg]Syndicate Hideout
@@ -1370,8 +1376,6 @@ The biggest, most obvious skips are:
 	- This is here tentatively until I actually know what it involves, conditionals are either very awful or very free with little inbetween I find.
 - `Grinding Gallant Goals`
 	- Grindy but not terribly notable or hard beyond that
-- `Astounding Astrolabes`
-	- As above, so below
 
 Generally speaking this league continues the trend of being fairly easy with a curve ball for those wanting 40/40 in the form of Horrific Halls.
 
