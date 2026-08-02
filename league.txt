@@ -21,13 +21,21 @@ The guide is actively edited alongside the league progressing and people leaving
 
 [.lthoughts]The general state of the game is worse than last league. Raw drops feel bad and they seem to have an unhealthy attraction to sticking everything into boxes like some kind of demented Amazon warehouse. We need more Wish warehouses, GGG, loot belongs on the floor not in boxes!
 
-[.lthoughts]Breach especially feels awful now. It still gives some amount of loot and is still useful but it feels absolutely anaemic even with a full tree and scarab set monster density wise.
+[.lthoughts]Spell changes were fine, they were very minor and were not really an overhaul of the meta in any way.
+
+[.lthoughts]All of the QoL landed well and the sockets changes were perfectly executed but these changes are - as much as I appreciate the changes - minor in the grand scheme of things and do not make me stick around any longer or buy supporter packs.
+
+[.lthoughts]Breach feels fairly awful now. It still gives some amount of loot and is still useful but it feels absolutely anaemic even with a full tree and scarab set monster density wise. I understand their servers couldn't handle the old version but if that was the case it should have been tested and never shipped.
+
+[.lthoughts]In general I really feel GGG needs to speed up loot dropping, no one likes Alva loot spirals and - to be blunt - no one *actually sees them* except maybe internal GGG testers without loot filters and people who are completely new the game. Just dump everything like a strongbox it both feels better for the player and is better gameplay wise.
 
 <h5 class="lthoughts">Abyss</h5>
 
 [.lthoughts]The Abyss rework is a fascinating combination of 'loot drought' and 'over abundance'. Running the actual Abysses themselves gives you basically nothing and then GGG also left the b{Abyss Scarab of Descending} in place, which murders prices on everything in there.
 
 [.lthoughts]The changes in the last patches made only a very minor difference, sadly. Abysses themselves still suck though Abyssal Depths are slightly better at least.
+
+[.lthoughts]The four fragments for the boss being spread between Abyss, Betrayal and Delve is absolutely dreadful. Yes; I understand why they did it but lore is not actually more important than gameplay flow.
 
 <h5 class="lthoughts">Legion</h5>
 
@@ -43,11 +51,11 @@ The guide is actively edited alongside the league progressing and people leaving
 
 [.lthoughts]The initial buffs seem to have rounded it out a bit (the Gems chests existing are a nerf, frankly) but it's a lot of complexity for the sake of complexity in the same way betrayal is. Mapping grids and reading borders you can't see is just tedium.
 
+[.lthoughts]The crafting is good, I hope it ends up on Abyss next league so it has something going for it.
+
 <h5 class="lthoughts">The Servers</h5>
 
-[.lthoughts]Being trapped in Europe I usually have a dire start to the league but they were mostly good this time.
-
-[.lthoughts]As of typing, there's been multiple full instance crashes with up to a minute of rollback each time. It hasn't felt great!
+[.lthoughts]Being trapped in Europe I usually have a dire start to the league but they were mostly good this time. There's were a couple of full instance crashes that nuked instances across all of the EU which didn't feel great but those seemed to be the exception this time.
 
 #### Extra Information
 [.note]Things marked as <span id="#buyable">Buyable</span> are things you can feasibly buy on service providing hubs or find on `/trade 820` or `/global 820`, no specific service offering hubs are being shilled here you can google them easily enough.
@@ -540,6 +548,7 @@ Normal progression, this is just getting all of your ascendancy points and doing
 	- [.com]Stacked Decks can commonly be found in Blighted Maps, Heist, Legion and by using `Diviner's Delirium Orbs` on maps
 	- [.com]Can be found on Mercenaries as pocket lint items semi-commonly
 	- [.com]b{Divination Scarab of The Cloister} explicitly has chance to drop Stacked Decks.
+	- [.com]The Allflame League Mechanic is absolutely packed with Stacked Decks in place of interesting content, you can easily fulfil this while doing `Charts` or `Voyages`.
 - [.ggg]Hand in Divination Card sets (30x)
 	- [.com][poe.ninja](https://poe.ninja/economy/mercenaries/divination-cards) allows you to sort by stack size by simply pressing the Stack Size button
 	- [.com]Searching on Faustus for <code class="mini">card "0/[1-2][0-9]"</code> will give you results for every card type with a stack size of 10 or higher
@@ -727,6 +736,10 @@ The usual challenge with some of the flavour diluted by allowing you to skip som
 [.ggg]Complete Maps with 750 Scarabs. Each Scarab applied to Maps counts towards this Challenge.
 
 It even explains what I'd add a note about usually this time! No map tier requirement, no item quantity requirements. Simply blast with scarabs.
+
+This combines well with `Gallant Grinding Goals` b{Nightmare Map} component.
+- [.com]Use b{Scarab of the Sinistral} and b{Scarab of the Dextral} to run the maps scoured 
+- [.com]Use any cheap, unintrusive scarab (e.g. Expedition, Niko, Legion etc.) into the three extra slots while boss rushing.
 </div>
 
 # 25 Corrupted Crystals
@@ -915,10 +928,11 @@ Comes out at 30 maps total. You can use b{Scarab of the Sinistral} and b{Scarab 
 # 30 Modified Maps
 <div id="ch-30" markdown="30">
 ## Average
+### Grind Heavy
 <h2 class="req">3000 required</h2>
 [.ggg]Reach a total of 3000 Explicit Modifers completing Maps.
 
-Somewhere between 375 and 600 maps depending on what you do. You will almost certainly carve out a good chunk of this before even starting challenges.
+Somewhere between 375 and 600 maps depending on what you do. You will almost certainly carve out a good chunk of this before even starting challenges but it is grind heavy.
 </div>
 
 # 31 Excruciating Echoes
@@ -985,10 +999,14 @@ Despite the joke, pretty trivial and honestly quite likely to have been finished
 - [.ggg]Defeat Map Bosses after having activated at least 4 Eater of Worlds Altars which have modifiers that affect the Map Boss with Eldritch Gaze allocated (10x)
 - [.ggg]Defeat Map Bosses after having activated at least 4 Searing Exarch Altars which have modifiers that affect the Map Boss with Wrath of the Cosmos allocated (10x)
 	- [.com]Maps you can clear fast and keep track of altars on easy are good picks, `Mesa` - as always - is reliable.
+		- [.com]I personally ran `Mesa` with 4x b{Domination Scarab} and various misc other ones while blocking basically everything to avoid mobs being eaten
+		- [.com]I tried various other maps but Mesa is just too good for speed clearing efficiently
 	- [.com]You can also try to run maps with good natural density for both Eater and Exarch altar spawns such as: `Bazaar` or `Crater`
 	- [.com]Probably avoid maps with good density but awful bosses like `Desert Spring` or `Burial Chambers`
 - [.ggg]Complete Maps with at least 150% Item Quantity while they are being witnessed by the Maven while having Destructive Play allocated (25x)
 	- [.com]It's just maps, but originator maps are the ones that will most consistently hit it without needing modifier effect nodes on the tree
+	- [.com]It's actually bosses, so you can get multiple per map. Probably not intended but who knows if GGG will fix it.
+		-[.com]This means you can run a map like `Silo`, `Basilica` or `Desert Spring` on repeat to finish this.
 
 Allocate the atlas nodes and do the requirements. They are naturally all mutually exclusive as you can only choose on influence type when starting a map.
 
@@ -1188,6 +1206,8 @@ Nothing too bad as long as you have a competent build, you can naturally get car
 	- [.com]Contains a Reflecting Mist that can give reflected jewellery or a b{Reflecting Mist}
 - [.ggg]Overgrown Grove
 	- [.com]Harvests, can give b{Crystallised Rancour}
+		- [.com]The Rancour isn't a fixed drop or spawn
+		- [.com]The baseline harvest seems to be around a moderate to good T16 harvest
 	- [.com]Top-Right
 - [.ggg]Planned Heist
 	- [.com]Bottom-Left
@@ -1210,6 +1230,9 @@ Nothing too bad as long as you have a competent build, you can naturally get car
 		- [.com]If you don't care about rewards you can always just purposefully waste all detonators on nothing to clear it easier
 - [.ggg]Untainted Paradise
 	- [.com]Top-Left
+	- [.com]An actively worse version of the same old experience oriented map
+	- [.com]It has Einhar Beasts which are not special recipes, have too much HP, take too long to be captured and are generally far more dangerous than you'd want them to be in this map
+	- [.com]Around 8~10% of a level at level 95+
 	
 You need voidstones in the atlas to unlock these and they are otherwise pure random chance. As it is just complete you might be able to buy them but it might have to be on your own atlas to 'complete' them, I haven't tested since I avoid service buying.
 
@@ -1251,16 +1274,25 @@ In general these are a bit rubbish, not sure why these aren't just side areas in
 [.ggg]Defeat Velka, The Tide Witch in any three of the specified ways.
 - [.ggg]Without being hit by Brine Storm Call
 	- [.com]Velka spawns a line of storm calls that pursue you
+	- [.com]<code class="quest">Face the power of the Brinerot!</code>
+	- [.com]<code class="quest">There's more to this than you know!</code>
+	- [.com]<code class="quest">Wanna see Brinehook's little trick?!</code>
 - [.ggg]Without being hit by any Anchors
 - [.ggg]Without being hit by Lightning Whip
+	- [.com]Velka uses a whip of lightning
+	- [.com]<code class="quest">Face my power!</code>
+	- [.com]<code class="quest">Brinehook damn you!</code>
+	- [.com]<code class="quest">Lightning lash!</code>
 - [.ggg]Without being hit by Crashing Brine
-	- [.com]Likely the overhead barrage of water 
+	- [.com]Likely the overhead barrage of water but I'm unsure
 
 The new boss with conditionals. As is often the case, DPS is king here as the less time they have to do anything the less chance there is of making a mistake and failing a conditional.
 
-It's entirely possible you can queue up multiple of the charts in one run, they are running too much to test that though.
+It's entirely possible you can queue up multiple of the charts in one run, I did not test this at all and skipped the challenge.
 
-This is pretty awful to obtain as you need to get a chart and then run the chart and then voyage, advised to skip if you don't have an instant phaser.
+Bluntly, I don't have much information for this. I didn't do them, I didn't care to do them and explicitly chose to skip them to get my portal and have since quit the league.
+
+They did seem to be pretty straight forward but the fight follows the very unfortunate pattern of recent bosses where their audio shout outs are no longer actual telegraphs and the attacks for conditionals can happen without the cue before them.
 </div>
 
 # 38 Horrific Halls
@@ -1278,6 +1310,8 @@ This is pretty awful to obtain as you need to get a chart and then run the chart
 - [.com]You can also get these using Bestiary crafting with b{Primal Cystcaller}
 
 Full delirious, high quantity nightmare maps means this is an actually challenging challenge and is far and beyond the hardest thing they've included in a while. 
+
+You should probably use a b{Scarab of Stability} as one of your options and avoid anything that could make bosses harder. You can just run through everything to the boss if you are confident you can survive a longer than average fight with them.
 
 Obvious skip for people without god builds but you can obviously buy carries or completion.
 </div>
@@ -1329,7 +1363,8 @@ All of the fights have lingering damage over time that lasts the entire fight wh
 	- [.com]b{Omen of Amelioration} stops you losing all your XP on dying, but only once per area
 		- [.com]If you don't die, you can immediately resell it for what you paid +/- a couple chaos
 		- [.com]Something to keep in mind is that this is triggered *regardless of if you can actually lose XP in an area* **do not take one into an invitation or uber boss**, you will still lose your Omen despite no XP loss being possible
-	- [.com]`Abyss` with a basic tree that grabs all nodes except Depths is decent and fairly safe for consistent XP per map
+	- [.com]`Abyss` with a basic tree that grabs all nodes except Depths is decent for consistent XP per map
+		- [.com]This spawns a lot of rares so your mileage may vary
 	- [.com]`Breach` stacking unstable breaches and beyond and any other mechanics is less good 
 		- [.com]Stack Shrines, Breach and Beyond while disabling Hives and Beyond Bosses and use the following scarabs for solid gains
 		- [.com]b{Breach Scarab of Instability} x2
@@ -1360,24 +1395,39 @@ As is the recent trend this is honestly pretty moderate as far as large scale gr
 # Easing Long Term Grind
 The biggest thing this league realistically seems to just be 'do not neglect doing your charts and voyages'.
 
-The league mechanic is overall pretty poor incorporated into the core game in terms of flow, so it is very easy to just use the mechanic it adds to your map and keep going without ever going to the boat.
+The league mechanic is overall pretty poorly incorporated into the core game in terms of flow, so it is very easy to just use the mechanic it adds to your map and keep going without ever going to the boat.
 
 Naturally this means when you want to actually start planning a voyage, you have to do nine charts of chores to unlock your nine voyage components and it quickly snowballs into a lot of monotony and tedium.
+
+Other than that, the earlier you engage with `Intrigued Interlopers` the better and the prices of `Potent Possibilities` will only go up as the league goes on.
 
 # Challenges to Skip
 You get the full set of challenge rewards at **36/40** completion, which allows you to skip up to four different challenges.
 
 The biggest, most obvious skips are:
 - `Horrific Halls`
-	- Very juiced, 100% delirious nightmare maps are simply not feasible on a lot of builds
+	- Juiced, 100% delirious nightmare maps are simply not feasible on a lot of builds
+- `Modified Maps`
+	- The actual grindiest challenge this time around
 - `Apex Assailants`
 	- Uber Bossing is Uber Bossing. Obvious skip if you don't do that in a league or don't want to buy them.
 - `Brinerot's Bloody Bounty`
-	- This is here tentatively until I actually know what it involves, conditionals are either very awful or very free with little inbetween I find.
+	- It's a bit rubbish to interact with, there's no way to chain them or rush them down beyond doing a lot of charts pre-emptively which doesn't feel great to engage with
+	- I also just don't really care for the league mechanic much, it is boringly easy but overly lucrative which is a terrible combination for the rest of the game
+- `Intrigued Interlopers`
+	- The Altars can be nasty and are time consuming to actually even have proc if you leave them too long
 - `Grinding Gallant Goals`
 	- Grindy but not terribly notable or hard beyond that
 
 Generally speaking this league continues the trend of being fairly easy with a curve ball for those wanting 40/40 in the form of Horrific Halls.
+
+In spite of `Grinding Gallant Goals` being here, it is a genuine contender if you do not want to engage with some other ones such as `Modified Maps` or `Stacked Scarabs` as the components amount:
+- Rare Monsters in Voyages being basically free
+- 8-Mod maps being baically free
+- Nightmare Map completion not having conditions and being Boss Rushing
+- One of actual effort being either Darkshrines, Uber Killing or paying for 5-ways (if you are doing level 100 manually, you don't care about skipping other grindy challenges most likely)
+
+Personally as I only cared for 36/40 for the portal, I opted to skip `Stacked Scarabs`, `Modified Maps`, `Excruciating Echoes` and `Brinerot's Bloody Bounty`.
 
 # Unlocks
 This league finally has some spice to it and isn't just a full set of armour! This time around there's a Weapon Effect, Pet, Back Attachment and Portal.
