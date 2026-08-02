@@ -520,3 +520,65 @@ li > span.bestvalue,
 	color:rgba(255,0,255);
 	text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.75),0px 0px 8px rgba(255,255,255,0.33);
 }
+
+.s-box{
+background-color: #0E0F10;
+color: rgb(218, 169, 169);
+border-left: 3px solid rgb(115, 39, 39);
+margin: 2px auto;
+display: block;
+padding: 5px 12px;
+max-width:570px;
+text-shadow:none;
+}
+
+.s-enchant{
+font-style:italic;
+padding:2px 1px;
+margin: -1px 0 -1px -9px;
+background-color: #8b579c;
+}
+
+.s-pseudo{
+font-style:italic;
+padding:2px 1px;
+margin: -1px 0 -1px -9px;
+background-color: #232420;
+}
+
+.s-value-wide,.s-value, .s-min, .s-max{
+float:right;
+padding:2px 1px;
+margin: -1px 0 -1px 4px;
+background-color:#1E2124;
+color:#E2E2E2;
+text-align:center;
+}
+
+.s-value, .s-min, .s-max{
+	width:64px;
+}
+
+.s-value-wide{
+	width:133px;
+	padding-left:12px;
+}
+
+
+.s-value-wide::after {
+content: "\25BC";
+display: inline-block;
+font-size:8px;
+float:right;
+margin-top:5px;
+margin-right:12px;
+color:#999;
+transform:scale(2,1);
+}
+
+.s-min{
+	color:#999;
+}
+.s-max{
+	color:#999;
+}
