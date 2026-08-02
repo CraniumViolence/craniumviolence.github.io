@@ -45,7 +45,7 @@ The guide is actively edited alongside the league progressing and people leaving
 
 [.lthoughts]The actual league mechanic is very badly executed in general.
 
-[.lthoughts]The maps component is 'click a box so you can kill things to click a box. They literally invented 'worse strongboxes'.
+[.lthoughts]The maps component is 'click a box, kill the things in it, click a box'. They literally invented 'worse strongboxes'.
 
 [.lthoughts]The charts should just done while mapping, either Mirage style in an instance of Harvest style in a side zone. There's slim benefit to them being itemised and it makes the flow worse.
 
