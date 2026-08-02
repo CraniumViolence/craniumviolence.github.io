@@ -1421,13 +1421,13 @@ The biggest, most obvious skips are:
 
 Generally speaking this league continues the trend of being fairly easy with a curve ball for those wanting 40/40 in the form of Horrific Halls.
 
-In spite of `Grinding Gallant Goals` being here, it is a genuine contender if you do not want to engage with some other ones such as `Modified Maps` or `Stacked Scarabs` as the components amount:
+In spite of `Grinding Gallant Goals` being here, it is a genuine contender if you do not want to engage with some other ones such as `Modified Maps` or `Stacked Scarabs` as the components amount to:
 - Rare Monsters in Voyages being basically free
-- 8-Mod maps being baically free
-- Nightmare Map completion not having conditions and being Boss Rushing
+- 8-Mod maps being basically free if you run them
+- Nightmare Map completion not having conditions and amounting to just basic Boss Rushing
 - One of actual effort being either Darkshrines, Uber Killing or paying for 5-ways (if you are doing level 100 manually, you don't care about skipping other grindy challenges most likely)
 
-Personally as I only cared for 36/40 for the portal, I opted to skip `Stacked Scarabs`, `Modified Maps`, `Excruciating Echoes` and `Brinerot's Bloody Bounty`.
+Personally as I only cared for 36/40 for the portal, I opted to skip `Stacked Scarabs`, `Modified Maps`, `Excruciating Echoes` and `Brinerot's Bloody Bounty`, ironically GGG was less grindy than the first two and I just hate engaging with Memories and didn't like the league mechanic enough to buy charts to do a boss multiple times.
 
 # Unlocks
 This league finally has some spice to it and isn't just a full set of armour! This time around there's a Weapon Effect, Pet, Back Attachment and Portal.
