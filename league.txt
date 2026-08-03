@@ -1294,7 +1294,7 @@ The new boss with conditionals. As is often the case, DPS is king here as the le
 
 It's entirely possible you can queue up multiple of the charts in one run, I did not test this at all and skipped the challenge.
 
-Bluntly, I don't have much information for this. I didn't do them, I didn't care to do them and explicitly chose to skip them to get my portal and have since quit the league.
+Bluntly, I don't have much information for this. I didn't do them, I didn't care to do them and explicitly chose to skip them to get my portal and have since stopped actively playing the league. I would appreciate [more information on github](https://github.com/CraniumViolence/craniumviolence.github.io/issues) if anyone wishes to provide it.
 
 They did seem to be pretty straight forward but the fight follows the very unfortunate pattern of recent bosses where their audio shout outs are no longer actual telegraphs and the attacks for conditionals can happen without the cue before them.
 </div>
@@ -1429,7 +1429,9 @@ The league mechanic is overall pretty poorly incorporated into the core game in 
 
 Naturally this means when you want to actually start planning a voyage, you have to do nine charts of chores to unlock your nine voyage components and it quickly snowballs into a lot of monotony and tedium.
 
-Other than that, the earlier you engage with `Intrigued Interlopers` the better and the prices of `Potent Possibilities` will only go up as the league goes on.
+Other than that, the earlier you engage with `Intrigued Interlopers` the better as the chances of actually getting four altars that offer you options for the Map Boss is low and needs you to basically full clear maps every attempt while juicing them up enough to get the altars at all.
+
+It is also true that the prices of `Potent Possibilities` will only go up as the league goes on.
 
 # Challenges to Skip
 You get the full set of challenge rewards at **36/40** completion, which allows you to skip up to four different challenges.
@@ -1445,7 +1447,7 @@ The biggest, most obvious skips are:
 	- It's a bit rubbish to interact with, there's no way to chain them or rush them down beyond doing a lot of charts pre-emptively which doesn't feel great to engage with
 	- I also just don't really care for the league mechanic much, it is boringly easy but overly lucrative which is a terrible combination for the rest of the game
 - `Intrigued Interlopers`
-	- The Altars can be nasty and are time consuming to actually even have proc if you leave them too long
+	- The Altars can be nasty leading to potential failure and the chances of actually getting the four altars at all is fairly low, the Maven portion is basically free comparatively
 - `Grinding Gallant Goals`
 	- Grindy but not terribly notable or hard beyond that
 
@@ -1457,7 +1459,7 @@ In spite of `Grinding Gallant Goals` being here, it is a genuine contender if yo
 - Nightmare Map completion not having conditions and amounting to just basic Boss Rushing
 - One of actual effort being either Darkshrines, Uber Killing or paying for 5-ways (if you are doing level 100 manually, you don't care about skipping other grindy challenges most likely)
 
-Personally as I only cared for 36/40 for the portal, I opted to skip `Stacked Scarabs`, `Modified Maps`, `Excruciating Echoes` and `Brinerot's Bloody Bounty`, ironically GGG was less grindy than the first two and I just hate engaging with Memories and didn't like the league mechanic enough to buy charts to do a boss multiple times.
+Personally as I only cared for 36/40 for the portal, I opted to skip `Stacked Scarabs`, `Modified Maps`, `Excruciating Echoes` and `Brinerot's Bloody Bounty`, ironically GGG was less grindy than the first two. As I hate engaging with Memories and didn't like the league mechanic that much (easy and profitable with little layout variance is boring) so I opted to skip buying charts to do a boss multiple times.
 
 # Unlocks
 This league finally has some spice to it and isn't just a full set of armour! This time around there's a Weapon Effect, Pet, Back Attachment and Portal.
