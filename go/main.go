@@ -44,11 +44,13 @@ var APIEndpoints = map[string]APIEndpoint{
 	"Incubator":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=Incubator&league="},
 	"DjinnCoin":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=DjinnCoin&league="},
 	"Essence":    {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Essence&league="},
+	"Tattoo":    {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Tattoo&league="},
+	"Runegraft":    {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Runegraft&league="},
 	"Omen":       {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Omen&league="},
+	"Oil":       {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Oil&league="},
 	"Scarab":     {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Scarab&league="},
 	"Invitation": {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=Invitation&league="},
 	"Map":        {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=Map&league="},
-	
 	"UniqueMap":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=UniqueMap&league="},
 	"DivinationCard":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=DivinationCard&league="},
 	

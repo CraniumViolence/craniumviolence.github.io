@@ -62,6 +62,8 @@ The guide is actively edited alongside the league progressing and people leaving
 
 [.note]Coloured and isolated prices are dynamic and updated <strike>roughly hourly</strike> whenever GitHub lets it happen using data from [poe.ninja](https://poe.ninja/), last updated <span class="time">-</span>.
 
+[.note]Prices that are a more vivid purple are the cheapest option within that challenge section.
+
 [.semismol]Reminder that you should never buy supporter packs before you actually play the league and find it's worth supporting.
 
 [.semismol]GGG made $200,000,000 raw profit in 2025, *they are not a small indie company*.
@@ -345,6 +347,12 @@ The new league mechanic, nothing particularly hard about it and is mostly just a
 	- [.com]Combos with the claiming of items as you have to do that to claim them anyway
 	- [.com]It does mean you can stop reading after the first 15 if you are disinclined to skimming items
 
+
+You can also simply buy a `Mercenary Warrant` for all parts of this over using scarabs or fishing for spawns, they **do not respect area level** so if you buy a level 83 mercenary they will still be level 83 in lower level areas.
+- Search for `Mercenary Warrant` generically for normal mercenaries
+- You can type for `~Mercenary Warrant (Infamous` in the `Search items...` box to find all options for infamous mercenaries
+- You do not need to use other scarabs to force these Warrant spawns, which means you need to pay for neither a b{Trarthan Scarab} nor a b{Trarthan Scarab of Infamy}.
+
 Nothing too complicated	and isn't locked down to T16s or even maps being rare.
 </div>
 
@@ -373,8 +381,8 @@ Nothing too complicated	and isn't locked down to T16s or even maps being rare.
 	- [.com]`Foulborn Prism Guardian` can roll up to 30% quality for Socketed Gems
 	- [.com]`Foulborn Skin of the Lords` can roll up to 30% quality for Socketed Gems
 	- [.com]`Eyes of the Greatwolf` can get +22~30%  quality of all skill gems
-	
-Crest of Desire shooting up means you might want to investigate some of the more esoteric options if `Replica Voideye` follows suit pricing wise.
+
+Depending on when you do this, it's possible `Replica Voideye` and `Crest of Desire` have ended up expensive which means you might want to investigate some of the more esoteric options.
 
 Ashes should only go down for bad rolls and it's doable on a 20% one with some work so I don't think this should end up too bad unless you leave it for the week before 3.30.
 </div>
@@ -1077,8 +1085,12 @@ The amounts needed are small but the altars can end up a lot of maps per each se
 - [.ggghlcheap]Reflecting Mist
 	- [.price]Reflecting Mist
 - [.ggghlcheap]Runegraft or Tattoo (5x)
-	- [.com]There's a lot of these, check the [poe.ninja](https://poe.ninja/poe1/economy) sections or simply Faustus for your best options
-	- [.com]Almost certainly one of the <span class="bestvalue">best options</span> in trade despite no price information being here!
+	- [.price]Tattoo of the Tawhoa Naturalist
+	- [.price]Tattoo of the Tukohama Warrior
+	- [.price]Tattoo of the Tasalio Bladedancer
+	- [.price]Tattoo of the Kitava Rebel
+	- [.price]Tattoo of the Tawhoa Warrior
+	- [.com]There's a lot more of these, check the [poe.ninja](https://poe.ninja/poe1/economy) sections or simply Faustus for your best options
 - [.ggghlcheap]Enshrouding Crystal (5x)
 	- [.price]Imperial Enshrouding Crystal
 	- [.price]Karui Enshrouding Crystal
@@ -1087,7 +1099,17 @@ The amounts needed are small but the altars can end up a lot of maps per each se
 	- [.price]Vaal Enshrouding Crystal
 	- [.com]There's the potential to sell the results of these but the chances of people actually buying them is probably slim
 - [.ggghlcheap]Catalyst (40x)
-	- [.com]There's a lot of these, check the [poe.ninja](https://poe.ninja/poe1/economy) sections or simply Faustus for your best options
+	- [.price]Prismatic Catalyst
+	- [.price]Fertile Catalyst
+	- [.price]Tainted Catalyst
+	- [.price]Unstable Catalyst
+	- [.price]Tempering Catalyst
+	- [.price]Intrinsic Catalyst
+	- [.price]Turbulent Catalyst
+	- [.price]Accelerating Catalyst
+	- [.price]Abrasive Catalyst
+	- [.price]Noxious Catalyst
+	- [.price]Imbued Catalyst
 	- [.com]Good chance you will get this if you just quality up unique items you might need for your build
 - [.ggghlcheap]Corrupted Essence (4x)
 	- [.price]Essence of Delirium
@@ -1096,15 +1118,17 @@ The amounts needed are small but the altars can end up a lot of maps per each se
 	- [.price]Essence of Insanity
 	- [.com]Solid option if you are able to use any of them to craft items for yourself (or for profit)
 - [.ggghlcheap]Blight Oil (10x)
-	- [.com]There's a lot of these, check the [poe.ninja](https://poe.ninja/poe1/economy) sections or simply Faustus for your best options (it's going to be Clear, Amber or Sepia, surprisingly)
-	- [.com]Almost certainly one of the <span class="bestvalue">best options</span> in trade despite no price information being here!
+	- [.price]Amber Oil
+	- [.price]Sepia Oil
+	- [.price]Clear Oil
+	- [.com]There's a lot more of these, check the [poe.ninja](https://poe.ninja/poe1/economy) sections or simply Faustus for your best options
 - [.ggghlcheap]Sacred Crystallised Lifeforce or Crystallised Rancour
 	- [.price]Sacred Crystallised Lifeforce
 	- [.price]Crystallised Rancour
 
 Currency dump challenge, fairly lenient for one of these with only ten needed. You should probably skip the Mirror of Kalandra, most likely.
 
-Any without an actual specified number of times equates to 'one time'.
+Any without an actual specified number of times equates to 'one time', be sure to keep the quantity in mind, 40 Catalysts
 </div>
 
 # 35 Succinct Summons
@@ -1294,7 +1318,7 @@ The new boss with conditionals. As is often the case, DPS is king here as the le
 
 It's entirely possible you can queue up multiple of the charts in one run, I did not test this at all and skipped the challenge.
 
-Bluntly, I don't have much information for this. I didn't do them, I didn't care to do them and explicitly chose to skip them to get my portal and have since stopped actively playing the league. I would appreciate [more information on github](https://github.com/CraniumViolence/craniumviolence.github.io/issues) if anyone wishes to provide it.
+Bluntly, I don't have much information for this. I didn't do them, I didn't care to do them and explicitly chose to skip them to get my portal and have since stopped actively playing the league. Naturally, I would greatly appreciate [more information on github](https://github.com/CraniumViolence/craniumviolence.github.io/issues) if anyone wishes to provide it.
 
 They did seem to be pretty straight forward but the fight follows the very unfortunate pattern of recent bosses where their audio shout outs are no longer actual telegraphs and the attacks for conditionals can happen without the cue before them.
 </div>
@@ -1304,7 +1328,7 @@ They did seem to be pretty straight forward but the fight follows the very unfor
 ## Very Hard
 ### Buyable
 <h2 class="req">2 of 5 required</h2>
-[.ggg]Complete any two of the following Nightmare Maps while they have at least 150% Item Quantity, 5 Scarabs and Delirium Orbs applied and are Corrupted.
+[.ggg]Complete any two of the following Nightmare Maps while they have at least 150% Item Quantity, 5 Scarabs and 5 Delirium Orbs applied and are Corrupted.
 - [.ggg]Abomination
 - [.ggg]Citadel
 - [.ggg]Fortress

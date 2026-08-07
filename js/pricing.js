@@ -6,6 +6,7 @@ var files = [
     "../go/DjinnCoin.json",
     "../go/Essence.json",
     "../go/Omen.json",
+    "../go/Oil.json",
     "../go/Scarab.json",
     "../go/Invitation.json",
     "../go/Map.json",
@@ -14,20 +15,16 @@ var files = [
     "../go/Ducats.json",
     "../go/EnshroudingCrystal.json",
     "../go/Beast.json",
+	"../go/Tattoo.json",
+	"../go/Runegraft.json",
 ];
-
-// Initialize an object to store the data
 var jsonDataMap = {};
-
-// Create an array of AJAX promises
 var promises = files.map(function(filename) {
     return $.getJSON('../go/' + filename).done(function(data) {
-        // Store data in the map with filename as key
         jsonDataMap[filename] = data;
     });
 });
 
-// When all files are loaded
 $.when.apply($, promises).done(function() {
     console.log("Parsed json files");
 });
@@ -106,46 +103,31 @@ function priceEntries() {
             };
         };
     });
-
-    // For each .ggghlcheap element
+	// price all cheap sections
     $('.ggghlcheap').each(function() {
         var minValue = Infinity;
         var bestLi = null;
         var $container = $(this);
-
-        // Iterate over all <li> inside this .ggghlcheap
         $container.find('li').each(function() {
             var $li = $(this);
-            // Find the first <span> inside the <li>
             var $span = $li.find('span').first();
-            if ($span.length === 0) return; // Skip if no span found
-
+            if ($span.length === 0) return;
             var text = $span.text().trim();
-            // Parse the text, expecting format like "10.4 chaos" or "10.4 divine"
             var parts = text.split(' ');
-            if (parts.length !== 2) return; // Unexpected format
-
+            if (parts.length !== 2) return;
             var value = parseFloat(parts[0]);
             var suffix = parts[1].toLowerCase();
-
-            if (isNaN(value)) return; // Invalid number, skip
-
-            // If suffix is 'divine', multiply by 500
+            if (isNaN(value)) return;
             if (suffix === 'divine') {
                 value *= 500;
             }
-
-            // Track the minimum value within this container
             if (value < minValue) {
                 minValue = value;
                 bestLi = $li;
             }
         });
-
-        // Add 'best-value' class to the cheapest <li> in this container
         if (bestLi) {
             bestLi.addClass('bestvalue');
         }
     });
-	
 }
