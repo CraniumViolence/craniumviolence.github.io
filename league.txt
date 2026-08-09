@@ -794,10 +794,24 @@ Nothing crazy, the Pact Skill Gem one is a bit silly and feels forced but it's n
 - [.ggg]Defeat a Breach Marshal that is empowered by Wildwood Wisps
 	- [.com]You can use a b{Scarab of Wisps} for this alongside stacking breach mechanics
 - [.ggg]Defeat a Legion General while affected by a Tempest
-	- [.com]`Scarab of Radiant Storms` spawns tempests
-	- [.com]b{Legion Scarab of Command} forces generals in a Legion (which can be forced with the normal b{Legion Scarab})
+	- [.com]b{Scarab of Radiant Storms} spawns tempests
+		- [.com]Tempest is a past league mechanic, a vortex of energy will appear that explodes after a couple seconds giving a buff
+	- [.com]You can make generals more likely with the legion cluster on the atlas tree between the Eater of Worlds nodes
+	- [.com]b{Legion Scarab} forces additional legion encounters and paired with the above makes at least one having generals likely, but you cannot currently force a spawn
+	- [.com]The `Temple of Atzoatl` can contain fixed spawns of both Tempests and Generals but I haven't verified this is valid for the challenge
+		- [.com]Any level of `Topotante, Architect of Storms` adds tempests `Tempest Generator`, `Hurricane Engine` and `Storm of Corruption` all add tempests with each tier adding duration and types
+		- [.com]`Opiloti, Architect of Strife` at Level 3 for the `Hall of Legends` adds a Timeless Monolith with two generals guaranteed
 
 The Breach Marshal and Legion Generals seem like obvious skips for this one as they are a lot more fiddly than the others.
+
+As mentioned, I haven't tested it but if you want to buy a Temple for the Legion Generals, be sure to choose the `Open Room` option while searching or you might end up with it inaccessible.
+
+[.center]<code class="quest center">Stat Filters</code>
+<div class="s-box"><span class="s-pseudo">pseudo</span> Hall of Legends
+<span class="s-value-v-wide">Open Room</span>
+</div>
+
+You can also simply use this [example search for any combo of Hall and Tempests](https://www.pathofexile.com/trade/search/Allflame/RJ9n5qzqi7) but that's basically cheating.
 
 There's no map tier or quantity requirements so you can do these in any map that you can cause them to appear on.
 </div>

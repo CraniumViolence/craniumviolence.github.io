@@ -546,7 +546,7 @@ margin: -1px 0 -1px -9px;
 background-color: #232420;
 }
 
-.s-value-wide,.s-value, .s-min, .s-max{
+.s-value-v-wide,.s-value-wide,.s-value, .s-min, .s-max{
 float:right;
 padding:2px 1px;
 margin: -1px 0 -1px 4px;
@@ -564,7 +564,17 @@ text-align:center;
 	padding-left:12px;
 }
 
+.s-value-v-wide{
+	width:200px;
+	padding-left:12px;	
+}
 
+.s-value-wide{
+	width:133px;
+	padding-left:12px;
+}
+
+.s-value-v-wide::after,
 .s-value-wide::after {
 content: "\25BC";
 display: inline-block;
