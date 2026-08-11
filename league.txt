@@ -541,8 +541,10 @@ No item level requirement but realistically you can't easily get low level ones 
 		- [.com]For the `Breachlord Bloodline`, defeat `It That Was Tul` and `It That Was Esh` in a breach fortress
 		- [.com]b{Hivebrain Gland} forces this encounter to spawn.
 	- [.com]Velka, the Tide Witch
-		- [.com]For the `Velka Bloodline`
-		- [.com]Actually, I have no idea how you access this currently. Presumably from doing Voyages!
+		- [.com]Running a <span style="color:#DB982A;">Kishara's Rest</span> Chart starts the process for this
+		- [.com]You can buy a chart by searching <code class="mini">~Kishara's</code> in the `Search Items...` box on trade
+			- [.com]The price has gone down a lot as the league continues so it shouldn't be too expensive unless you wait a very long time
+		- [.com]Getting it manually is simply running a lot of T16 maps and clicking all the Allflame chest encounters
 
 Normal progression, this is just getting all of your ascendancy points and doing a boss with a Bloodline attached.
 </div>
@@ -843,7 +845,7 @@ In order, these are unlocked by:
 - Running an <span style="color:#DB982A;">Infested Bathysphere</span> Chart
 - Defeating the League Boss
 	- Running a <span style="color:#DB982A;">Kishara's Rest</span> Chart starts the process for this
-	- Seems to have a minimum Area Level of 83 for being dropped
+	- Has a minimum Area Level of 83 for being dropped
 	- After completing the chart you need to run a voyage using the Voyage Chart that results
 
 There's a good chance some of these aren't actually working, the rarity for the strongboxes and essences is certainly not currently.
@@ -884,19 +886,25 @@ There's a good chance some of these aren't actually working, the rarity for the 
 	- [.com]b{Hivebrain Gland} forces this encounter to spawn.
 - [.ggg]Velka
 	- [.com]For the `Velka Bloodline`
-	- [.com]Actually, I have no idea how you access this currently. Presumably from doing Voyages!
+	- [.com]Running a <span style="color:#DB982A;">Kishara's Rest</span> Chart starts the process for this
+	- [.com]You can buy a chart by searching <code class="mini">~Kishara's</code> in the `Search Items...` box on trade
+		- [.com]The price has gone down a lot as the league continues so it shouldn't be too expensive unless you wait a very long time
+	- [.com]Getting it manually is simply running a lot of T16 maps and clicking all the Allflame chest encounters
 - [.ggg]Zorath
 	- [.com]Uses a set of new fragments from Abyssal Liches or Catarina
-	- [.price]Zorath's Eye of Malevolence
+	- [.com]b{Zorath's Eye of Malevolence}
 		- [.com]From `Ulaman, Sovereign of the Well` in `Abyssal Depths`
-	- [.price]Zorath's Eye of Authority
+	- [.com]b{Zorath's Eye of Authority}
 		- [.com]From `Amanamu, Liege of the Lightless` in `Abyssal Depths`
-	- [.price]Zorath's Eye of Inevitable
+	- [.com]b{Zorath's Eye of the Inevitable}
 		- [.com]From `Kurgal, the Blackblooded` in `Delve` from Depth 90
-	- [.price]Zorath's Eye of Endless
+		- [.com]Prices reflect accessibility and the fact it's a one time encounter when you do find it
+	- [.price]b{Zorath's Eye of the Endless}
 		- [.com]From `Catarina, Master of Undeath` accessed using a b{Syndicate Medallion}
+	- [.com]It's a Tor Gul from PoE2 copy pasted
+		- [.com]But it's ok, they made him *green*!
 
-These are the bloodlines bosses - even if the Abyssal bloodline isn't live yet.
+These are the bloodlines bosses - difficulty varies a lot by the individual encounter so choose your poison based on encounters.
 </div>
 
 # 29 Astounding Astrolabes

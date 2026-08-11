@@ -236,6 +236,18 @@ function addRewards() {
     }
 }
 
+// mobile handling
+const mediaQuery = window.matchMedia('only screen and (hover: none) and (pointer: coarse)');
+function handleMediaChange(e) {
+  if (e.matches) {
+    $('#navigation a').off('click.switchSidebar').on('click.switchSidebar', function() {
+      switchSidebar();
+    });
+  } else {
+    $('#navigation a').off('click.switchSidebar');
+  }
+};
+
 function waitForElements() {
     return new Promise((resolve) => {
         const id = setInterval(() => {
@@ -248,9 +260,12 @@ function waitForElements() {
         }, 100);
     });
 }
+
 waitForElements().then(() => {
 	addRewards();
     checkHidden();
     addCheckboxes();
     priceEntries();
+	handleMediaChange(mediaQuery);
+	mediaQuery.addListener(handleMediaChange);
 });

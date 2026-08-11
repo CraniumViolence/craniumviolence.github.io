@@ -19,6 +19,18 @@
 	--sidebar-left: -336px;
 }
 
+@media only screen and (hover: none) and (pointer: coarse){
+	:root {
+		--toggle-left: 94vw;
+		--sidebar-left: 0px;
+	}
+
+	[data-sidebar="visible"] {
+		--toggle-left: 4px;
+		--sidebar-left: -100vw;
+	}
+}
+
 * {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	box-sizing: border-box;
@@ -160,7 +172,6 @@ li img {
 #footer img {
 	margin-bottom: -3px;
 }
-
 #navigation {
 	background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../img/back.gif');
 	background-repeat: repeat;
@@ -190,7 +201,7 @@ li img {
 	padding-bottom: 20px;
 	color: #ffff00;
 	text-shadow: 2px 2px 4px rgb(0, 0, 0, 1);
-	z-index: 9999;
+	z-index: 50;
 }
 
 #toggle:hover {
@@ -202,7 +213,7 @@ li img {
 	right: 5px;
 	top: 5px;
 	cursor: pointer;
-	z-index: 9999;
+	z-index: 50;
 	font-size: 75%;
 }
 
@@ -592,3 +603,32 @@ transform:scale(2,1);
 .s-max{
 	color:#999;
 }
+
+/* phones exist ? */
+@media only screen and (hover: none) and (pointer: coarse){
+	body{
+		font-size:3vw;
+	}
+	p, ul, li,code{
+		font-size:4vw;
+	}
+	
+	h2{
+		font-size:3.5vw;		
+	}
+	.req {
+		font-size:2.5vw;
+	}
+	
+	#navigation {
+		width: 100vw;
+		font-size:3.5vw;
+		z-index:100;
+	}
+	#toggle {
+		font-size:5vw;
+		z-index:101;
+	}
+}
+
+
