@@ -1026,18 +1026,18 @@ Despite the joke, pretty trivial and honestly quite likely to have been finished
 ### Buyable
 <h2 class="req">2 of 3 required</h2>
 [.ggg]Complete any two the following types of Eldritch Encounters in Tier 16 Maps that are Rare the specified number of times.
-- [.ggg]Defeat Map Bosses after having activated at least 4 Eater of Worlds Altars which have modifiers that affect the Map Boss with Eldritch Gaze allocated (10x)
-- [.ggg]Defeat Map Bosses after having activated at least 4 Searing Exarch Altars which have modifiers that affect the Map Boss with Wrath of the Cosmos allocated (10x)
+- [.ggg]Complete Maps after having activated at least 4 Eater of Worlds Altars which have modifiers that affect the Map Boss with Eldritch Gaze allocated (10x)
+- [.ggg]Complete Maps after having activated at least 4 Searing Exarch Altars which have modifiers that affect the Map Boss with Wrath of the Cosmos allocated (10x)
 	- [.com]Maps you can clear fast and keep track of altars on easy are good picks, `Mesa` - as always - is reliable.
 		- [.com]I personally ran `Mesa` with 4x b{Domination Scarab} and various misc other ones while blocking basically everything to avoid mobs being eaten
 		- [.com]I tried various other maps but Mesa is just too good for speed clearing efficiently
 	- [.com]You can also try to run maps with good natural density for both Eater and Exarch altar spawns such as: `Bazaar` or `Crater`
 	- [.com]Probably avoid maps with good density but awful bosses like `Desert Spring` or `Burial Chambers`
-- [.ggg]Complete Maps with at least 150% Item Quantity while they are being witnessed by the Maven while having Destructive Play allocated (25x)
-	- [.com]It's just maps, but originator maps are the ones that will most consistently hit it without needing modifier effect nodes on the tree
-	- [.com]It's actually bosses, so you can get multiple per map. Probably not intended but who knows if GGG will fix it.
-		- [.com]This means you can run a map like `Silo`, `Basilica` or `Desert Spring` on repeat to finish this.
-
+- [.ggg]Defeat Map Bosses with at least 150% Item Quantity while they are being witnessed by the Maven while having Destructive Play allocated (25x)
+	- [.com]It's just beating bosses in maps, but originator maps are the ones that will most consistently hit it without needing modifier effect nodes on the tree
+	- [.com]This means you can run a map like `Silo`, `Basilica` or `Desert Spring` on repeat to finish this if you prefer that over full maven cycles with multiple maps.
+	- [.com]Originally read as 'complete maps' but was updated to read as map bosses later.
+	
 Allocate the atlas nodes and do the requirements. They are naturally all mutually exclusive as you can only choose on influence type when starting a map.
 
 For the Maven's quantity can naturally be boosted with Map Fragments and the Atlas Tree but 150% will probably want Originator Maps for less modifier effect focused trees.
