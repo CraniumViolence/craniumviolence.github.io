@@ -429,7 +429,7 @@ Standard endgame progression. You can buy carries for all of these.
 	- [.com]These are just the modifiers that activate as you blow things up
 	- [.com]The `Uncharted Expedition` Atlas Anomaly counts towards this if you have 10 Remnants Active
 - [.ggg]Tier 4 Harvest Seeds (5x)
-	- [.com]Crop Rotation can get you Tier 4s relatively even if it's not completely consistent
+	- [.com]Crop Rotation can get you Tier 4s relatively often even if it's not completely consistent
 	- [.com]The b{Harvest Scarab of Cornucopia} exists and allows you to force at least one Tier 4 monster to spawn
 - [.ggg]Domains of Timeless Conflict with at least 25 rewards (3x)
 	- [.com]Ironically, this is harder to see now they changed it to feel 'less like an arcade game'.
