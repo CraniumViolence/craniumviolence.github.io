@@ -232,9 +232,15 @@ li img {
 	font-size: 80%;
 }
 
-
+.semismoller:hover,
 .semismol:hover {
 	transition: all 0.2s linear;
+}
+
+.semismoller {
+	transition: all 0.2s linear;
+	font-size: 50%;
+	opacity: 0.5;
 }
 
 .semismol {
