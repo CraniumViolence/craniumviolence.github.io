@@ -38,16 +38,23 @@ The `actual Coven league mechanic` itself looks to be a de facto bossing league 
 
 Depending on the level of buffs bosses get the league might be one where you actually need something slightly less squishy than a dirt cheap miner but I would expect 12 septillion DPS will still outpace anything the mechanic adds short of it being 'immune to damage' conditionals.
 
-There's a big focus on pushing what would previously have been cross contamination style interactions to the forefront, I would expect at least one challenge completely focused around all of the new interactions they are adding between leagues.
+There is (or was, seemingly, nothing much has been mentioned around synergies and they're not adding much new from the item filter info) a big focus on pushing what would previously have been cross contamination style interactions to the forefront, I would expect at least one challenge completely focused around all of the new interactions they are adding between leagues.
 
-Sceptical on the changes as it stands and the patch notes didn't encourage me much. Hopefully it feels better than the patch notes read to me and the challenge rewards are good enough to justify playing.
+Highly sceptical overall and unless whatever the below is from the preview site is actually real and is decently powerful, I'm overall feeling quite disappointed in the direction of the endgame rework from the patch notes and atlas tree reveal. League is feeling pretty visionary as is and is gazing in a direction I do not like at all.
 
+<p style="margin-bottom:2px;"><img src="./img/copium.png" style="border:2px solid #E7B477;margin:auto;display:block;"/></p>
+<div class="center smol">This is hidden under the black on the left side of <a href="https://www.pathofexile.com/covens">Atlas Tree Overhaul on the Covens sub-site</a>.</div>
+
+Hopefully it feels better than the patch notes and previews read and the challenge rewards are good enough to justify playing (though even that only goes so far).
+
+<!--
 <div class="center">
-<div class="atlas" data-dots="180,50,#FFFFFF,90,50,#FFFFFF"></div>
+<div class="atlas" data-dots="180,50,#FF0000,90,50,#00FF00,45,80,#0000FF"></div>
 </div>
+-->
 
 # Unlocks
-Unlocks haven't been confirmed as of <span class="unixtime">1794318340</span> but considering a back attachment, flask effect, level up effect and weapon effect were exilecon twitch drops; those seem less likely.
+Unlocks haven't been confirmed as of <span class="unixtime">1794492000</span> but considering a back attachment, flask effect, level up effect and weapon effect were exilecon twitch drops; those seem less likely.
 
 Perhaps we'll get an armour set with added effects as a little treat.
 
