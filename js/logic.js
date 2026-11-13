@@ -272,7 +272,7 @@ function handleUnixTimestamps(){
 }
 
 waitForElements().then(() => {
-	//addRewards();
+	addRewards();
     checkHidden();
     addCheckboxes();
     priceEntries();

@@ -10,13 +10,13 @@
 }
 
 :root {
-	--toggle-left: 340px;
+	--toggle-left: 374px;
 	--sidebar-left: 0px;
 }
 
 [data-sidebar="visible"] {
 	--toggle-left: 4px;
-	--sidebar-left: -336px;
+	--sidebar-left: -370px;
 }
 
 @media only screen and (hover: none) and (pointer: coarse){
@@ -185,7 +185,7 @@ li img {
 	max-height: 100vh;
 	overflow-y: scroll;
 	padding-right: 10px;
-	width: 336px;
+	width: 370px;
 	transition: all 0.2s linear;
 	padding-bottom: 25px;
 	z-index: 1;
