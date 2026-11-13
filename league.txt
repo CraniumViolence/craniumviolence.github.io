@@ -13,6 +13,8 @@ Mechanics related to the current league or new mechanics in general will natural
 
 The guide is actively edited alongside the league progressing and people leaving feedback.
 
+[.semismoller]It's feeling more like the **Copium of Umbra** league for me though.
+
 #### Extra Information
 [.note]Things marked as <span id="#buyable">Buyable</span> are things you can feasibly buy on service providing hubs or find on `/trade 820` or `/global 820`, no specific service offering hubs are being shilled here you can google them easily enough.
 
@@ -20,7 +22,11 @@ The guide is actively edited alongside the league progressing and people leaving
 
 [.note]Prices that are a more vivid purple are the cheapest option within that challenge section.
 -->
+
 [.semismoller]Reminder that you should never buy supporter packs before you actually play the league and find it's worth supporting. GGG made $200,000,000 raw profit in 2025, *they are not a small indie company*.
+
+
+[.semismol]Yes, I do use this page to impotently vent purely because I can do so, how kind of you to notice!
 
 # Basic Observations
 A lot of changes are very likely to end up negative in terms of time efficiency for challenges.
@@ -47,6 +53,8 @@ Highly sceptical overall and unless whatever the below is from the preview site 
 
 Hopefully it feels better than the patch notes and previews read and the challenge rewards are good enough to justify playing (though even that only goes so far).
 
+The rewards are kinda awful actually. <strike>Just like the league is sounding. But it's ok, Reddit is hyped for 5.X shrines which is less than we got off two scarabs!</strike>
+
 <!--
 <div class="center">
 <div class="atlas" data-dots="180,50,#FF0000,90,50,#00FF00,45,80,#0000FF"></div>
@@ -54,9 +62,16 @@ Hopefully it feels better than the patch notes and previews read and the challen
 -->
 
 # Unlocks
-Unlocks haven't been confirmed as of <span class="unixtime">1794492000</span> but considering a back attachment, flask effect, level up effect and weapon effect were exilecon twitch drops; those seem less likely.
 
-Perhaps we'll get an armour set with added effects as a little treat.
+The Challenge Rewards can be seen [on the Path of Exile Forum](https://www.pathofexile.com/forum/view-thread/4014108).
+
+Unlocks for the Armour Set are at 12, 24, 32 and 34 challenges.
+
+The Back Attachment is unlocked at 36 challenges.
+
+<strike>Perhaps we'll get an armour set with added effects as a little treat.</strike> 
+
+The armour is very ugly but the back attachment is interesting. It definitely feels like these were probably originally for Allflame and then people complained on reddit about always getting ugly armour.
 
 # Credits and Contact Information
 #### Credits

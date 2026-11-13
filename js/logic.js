@@ -219,11 +219,12 @@ getSidebar();
 
 function addRewards() {
     const rewards = [
-        { count: 12, name: "Weapon Effect" },
-        { count: 24, name: "Pet" },
-        { count: 32, name: "Back Attachment" },
-        { count: 36, name: "Portal" }
-    ];
+        { count: 12, name: "Armour Piece 1" },
+        { count: 24, name: "Armour Piece 2" },
+        { count: 32, name: "Armour Piece 3" },
+        { count: 34, name: "Armour Piece 4" },
+        { count: 36, name: "Back Attachment" },
+];
 
     const $unlocksLi = $("#navigation a[href='#unlocks']").closest("li");
     
