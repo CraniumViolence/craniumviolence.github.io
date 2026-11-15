@@ -17,6 +17,7 @@ var files = [
     "../go/Beast.json",
 	"../go/Tattoo.json",
 	"../go/Runegraft.json",
+	"../go/Thread.json",
 ];
 var jsonDataMap = {};
 var promises = files.map(function(filename) {

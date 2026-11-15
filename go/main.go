@@ -11,7 +11,7 @@ import (
 )
 
 var (
-	league    = "Allflame"
+	league    = "Covens"
 	ZapLogger *zap.Logger
 )
 
@@ -36,7 +36,7 @@ type APIEndpoint struct {
 
 var APIEndpoints = map[string]APIEndpoint{
 	// General
-	"Ducats":   {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Ducat&league="},
+	//"Ducats":   {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Ducat&league="},
 	"EnshroudingCrystal":   {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=EnshroudingCrystal&league="},
 	"Currency":   {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Currency&league="},
 	"Astrolabe":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Astrolabe&league="},
@@ -48,11 +48,12 @@ var APIEndpoints = map[string]APIEndpoint{
 	"Runegraft":    {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Runegraft&league="},
 	"Omen":       {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Omen&league="},
 	"Oil":       {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Oil&league="},
-	"Scarab":     {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Scarab&league="},
+	"Thread":     {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=Thread&league="},
 	"Invitation": {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=Invitation&league="},
 	"Map":        {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=Map&league="},
 	"UniqueMap":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=UniqueMap&league="},
-	"DivinationCard":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=DivinationCard&league="},
+	"DivinationCard":    {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/exchange/current/overview?type=DivinationCard&league="},
+	//"DivinationCard":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=DivinationCard&league="},
 	
 	"Beast":  {EndpointType: EndpointTypeCurrency, EndpointURL: "https://poe.ninja/poe1/api/economy/stash/current/item/overview?type=Beast&league="},
 }
