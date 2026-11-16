@@ -527,6 +527,8 @@ Chaotic Disposition is an excellent stupid option that can often end up profitab
 	- [.com]Vendor any Normal Rarity Influenced Weapon, Chain Belt and a Whetstone
 		- [.com]Only the weapon needs to be influenced, adds Increased Spell Damage to weapon types which can have the mod
 - [.ggg]Exalted Orb
+	- [.com]Vendor a full set of rare [influenced items](https://www.poewiki.net/wiki/Influenced_item) that all have the same influence, such as Shaper.
+		- [.com]A fully identified set gives 1 Exalted Orb. A fully unidentified set gives 2. See [PoE Wiki](https://www.poewiki.net/wiki/Vendor_recipe_system#Influenced_full_rare_item_sets).
 	- [.com]Vendor three identified rare items with same name 
 		- [.com]Bit tedious in SSF otherwise you can search by literal names on the trade site
 
