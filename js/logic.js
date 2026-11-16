@@ -219,10 +219,10 @@ getSidebar();
 
 function addRewards() {
     const rewards = [
-        { count: 12, name: "Armour Piece 1" },
-        { count: 24, name: "Armour Piece 2" },
-        { count: 32, name: "Armour Piece 3" },
-        { count: 34, name: "Armour Piece 4" },
+        { count: 12, name: "Boots" },
+        { count: 24, name: "Gloves" },
+        { count: 32, name: "Body Armour" },
+        { count: 34, name: "Helmet" },
         { count: 36, name: "Back Attachment" },
 ];
 

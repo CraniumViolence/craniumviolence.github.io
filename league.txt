@@ -25,7 +25,7 @@ The guide is actively edited alongside the league progressing and people leaving
 
 <span style="color:rgb(255, 240, 240);">The game was in perhaps the best state it ever had been during mercenaries, how on earth is this where we ended up?</span>
 
-
+**Anyway, any updates from now will have to be pull requests. [Please feel free to submit things](https://github.com/CraniumViolence/craniumviolence.github.io/edit/main/league.txt). Log in, press the fork button, make the edits you want to in the editor, hit commit and then go through propose changes.**
 
 #### Extra Information
 [.note]Things marked as <span id="#buyable">Buyable</span> are things you can feasibly buy on service providing hubs or find on `/trade 820` or `/global 820`, no specific service offering hubs are being shilled here you can google them easily enough.
@@ -1106,6 +1106,73 @@ The rewards are kinda awful actually. <strike>Just like the league is sounding. 
 <div class="atlas" data-dots="180,50,#FF0000,90,50,#00FF00,45,80,#0000FF"></div>
 </div>
 -->
+
+# PoE1Bad
+
+#### Scarabs and Threads and Astrolabes
+
+People clapped and hollered their approval of this like they were on Jerry springer experiencing schadenfreude at the expense of someone discovering they are the father of an unwanted baby. 
+
+But now we have *threads* which are absolutely abhorrent as a system. Everything about them is actively bad and removes every aspect of scarabs that I liked. No agency and no granularity is a terrible combination. I do not want to play gacha on being able to play the content in the way I previously could, they need to fuck right off with this absolute mess of a system.
+
+Astrolabes don't have a reason to exist now, no idea why they made them baseline while also removing vault farming. It's not an approved farming strategy I guess.
+
+Instead of strats we now play blackjack, they deal the cards from the deck and you get whatever you are given and you will like it or use your six defensive layers. Absolutely disgraceful showing.
+
+Scarabs needed the 3 to 1 recipe removed, the chaff turned into something even slightly interesting and the ones that overperformed dialled back and made less rare so they would not be 300c when other things are 0.2c. It's just the most extreme option for the sake of it and it made everything worse and just removed strategies as an idea.
+
+#### Heist
+
+Farming blueprints in maps was a wonderful supplementary mechanic. You could invest in Huck and get power from something you would otherwise block. Now you just never see them at all in any circumstances and it's functionally gone. Apparently the loot in heist is too so at least they too can be funnelled into running the few approved strategies with supplementary thread sprinkles of varying colours.
+
+#### Beyond, Delirium
+
+You can't force Delirium Mirrors or Beyond any more outside of rolling maps. But hey beyond is now opt in... what do you *mean* you could already do that by simply not taking the nodes to 100% or running maps with it..?
+
+
+#### Map Rolling
+
+Why is this a thing again. We could finally just make a regex and use async to buy maps we wanted off dozens of sellers farming them with the scarabs. Now we need to farm up temples? Who thought that was an equivalent exchange to the scarab?
+
+#### Bestiary
+
+Who thought the wildwood interactions were good ideas? I know they are thematically linked but that doesn't mean you connect the gameplay. And the datamined values are *2000 of all types*? Which absolute clown approved those numbers or the mod in general?
+
+#### Harvest
+
+Strongboxes but also Wildwood now! They're dialling it down according to the what we're working on post but it should never have existed as a default and is de facto the exact type of thing that should be opt in.
+
+We lost one of the most interesting to optimise mechanics in the game with multiple ways to play it and constant moment to moment microdecisions that could lead to big pay offs (especially if you were doing Crop Rotation) and instead we now have... Strongboxes. You pray you get the right type, you roll them with currency and then you open them and kill mobs for your loot.
+
+Please stop making leagues into strongboxes, the fact GGG are planning to bring back Allflame from their post about it will mean we get even more strongbox leagues in place of interesting ones. At least that one is making circles to path to them, harvest just gets 'bosses that break horribly in every map'.
+
+#### Mirage
+
+They are now Zana maps. A map in your map, every time. They're honestly exhausting instead of interesting, portals need to just work like they do in a real map so you can actually leave with every single one being oversized now. They genuinely need to work like Mirage League ones did instead and mirage maps should be brought back.
+
+Not that you can plan your juice any more. Threads being awful and all.
+
+#### Atlas Tree
+
+It's a mix up for the sake of a mix up. It does not feel better designed, the nerfs mean it is actively less enabling and I vehemently dislike the forced routing through mechanics instead of them being paths you could take that were less point efficient but which gave you common desired mechanics without massively impacting your pathing. The Circle doesn't accomplish this.
+
+As an Aside, the guide can technically show the new atlas and where points are, like this is the new Eater ring!
+
+<div class="center">
+<div class="atlas" data-dots="192,88,#00FF50"></div>
+</div>
+
+I didn't go in wanting to dislike anything, it's just actually quite bad. Even the imagery, why isn't there the void of space behind the slowly spinning map device visual that makes up the boring circle now? Really obvious miss.
+
+The Atlas Tree being stale wasn't call for it and scarabs being taken out back. You have mechanics for the passive tree, you can use them
+
+Tattoo equivalents could have replaced map quantity with things like 'Abyssal Monster Pack Size' or anything on the Phrecia idols.
+
+Jewel slots that only got unique things like timeless jewels, thread of hope etc. could be mid tier unique drops added to all the non-uber variants of bosses or similar. There's a huge variance of things you could do in this design space but we got 'same thing, but nerfed and worse to path on'.
+
+#### Thanks for comign to my ted talk
+
+Everything they changed makes me feel less joy and the things that make me happy were things they didn't change too much. Give me back Mirage or Mercenaries and forget about this absolute disaster of a rework you've manifested.
 
 # Unlocks
 

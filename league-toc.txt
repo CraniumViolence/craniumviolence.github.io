@@ -40,5 +40,6 @@
 - [39 Ultimate Undertaking](#39ultimateundertaking)
 - [.pad][40 Grand Goal Grind](#40grandgoalgrind)
 - [Basic Observations](#basicobservations)
+- [PoE1Bad](#poe1bad)
 - [Unlocks](#unlocks)
 - [.final][Credits and Contact Info](#creditsandcontactinformation)
