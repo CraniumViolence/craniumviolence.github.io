@@ -25,7 +25,7 @@ The guide is actively edited alongside the league progressing and people leaving
 
 <span style="color:rgb(255, 240, 240);">The game was in perhaps the best state it ever had been during mercenaries, how on earth is this where we ended up?</span>
 
-**Anyway, any updates from now will have to be pull requests. [Please feel free to submit things](https://github.com/CraniumViolence/craniumviolence.github.io/edit/main/league.txt). Log in, press the fork button, make the edits you want to in the editor, hit commit and then go through propose changes.**
+Anyway, unless they somehow turn everything around, real updates from now will have to be pull requests. Please [feel free to submit things here](https://github.com/CraniumViolence/craniumviolence.github.io/edit/main/league.txt) to make the page better. Log in, press the fork button, make the edits you want to in the editor, hit commit and then go through propose changes.
 
 #### Extra Information
 [.note]Things marked as <span id="#buyable">Buyable</span> are things you can feasibly buy on service providing hubs or find on `/trade 820` or `/global 820`, no specific service offering hubs are being shilled here you can google them easily enough.
@@ -1123,6 +1123,8 @@ Instead of strats we now play blackjack, they deal the cards from the deck and y
 
 Scarabs needed the 3 to 1 recipe removed, the chaff turned into something even slightly interesting and the ones that overperformed dialled back and made less rare so they would not be 300c when other things are 0.2c. It's just the most extreme option for the sake of it and it made everything worse and just removed strategies as an idea.
 
+Threads are functionally the direct equivalent to playing with Twist of Fate with a set of scarabs that get randomised just with them respecting a pool limit and with difficulty scaling like you're pushing delve too hard. That this is the default and only vector of adding things beyond the anaemic tree is bleak.
+
 #### Heist
 
 Farming blueprints in maps was a wonderful supplementary mechanic. You could invest in Huck and get power from something you would otherwise block. Now you just never see them at all in any circumstances and it's functionally gone. Apparently the loot in heist is too so at least they too can be funnelled into running the few approved strategies with supplementary thread sprinkles of varying colours.
@@ -1172,7 +1174,7 @@ Tattoo equivalents could have replaced map quantity with things like 'Abyssal Mo
 
 Jewel slots that only got unique things like timeless jewels, thread of hope etc. could be mid tier unique drops added to all the non-uber variants of bosses or similar. There's a huge variance of things you could do in this design space but we got 'same thing, but nerfed and worse to path on'.
 
-#### Thanks for comign to my ted talk
+#### Thanks for coming to my ted talk
 
 Everything they changed makes me feel less joy and the things that make me happy were things they didn't change too much. Give me back Mirage or Mercenaries and forget about this absolute disaster of a rework you've manifested.
 
