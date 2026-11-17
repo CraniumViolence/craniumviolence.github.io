@@ -325,6 +325,101 @@ function handleUnixTimestamps(){
 	});
 }
 
+const difficulties = [
+    ["veryeasy", "Very Easy"],
+    ["easy", "Easy"],
+    ["average", "Average"],
+    ["hard", "Hard"],
+    ["veryhard", "Very Hard"],
+    ["difficultynotyetrated", "lacking a Difficulty Rating"],
+];
+
+const metaTags = [
+    ["newcontent", "New Content"],
+    ["grindheavy", "Grind Heavy"],
+    ["buyable", "Buyable"],
+    ["partiallybuyable", "Partially Buyable"],
+    ["luckbased", "Luck Based"],
+    ["missable", "Missable"],
+	["currencysink","a Currency Sink"],
+];
+
+function headingColour(tag, id) {
+    const probe = document.createElement(tag);
+    probe.id = id;
+    probe.style.display = "none";
+    document.getElementById("contents").appendChild(probe);
+    const colour = getComputedStyle(probe).color;
+    probe.remove();
+    return colour;
+}
+
+function colouredLabel(tag, id, name) {
+    const span = document.createElement("span");
+    span.textContent = name;
+    span.style.color = headingColour(tag, id);
+    return span;
+}
+
+function renderDifficultyBreakdown() {
+    const target = document.getElementById("difficulty-breakdown");
+    if (!target) return;
+
+    const metaOrder = metaTags.map(([metaId]) => metaId);
+    const metaNames = Object.fromEntries(metaTags);
+
+    const counts = {};
+    difficulties.forEach(([id]) => counts[id] = { total: 0, combos: {} });
+    document.querySelectorAll("h2").forEach(h2 => {
+        const c = counts[h2.id];
+        if (!c) return;
+        c.total++;
+        const tags = new Set();
+        let el = h2.nextElementSibling;
+        while (el && el.tagName === "H3") {
+            if (metaOrder.includes(el.id)) tags.add(el.id);
+            el = el.nextElementSibling;
+        }
+        if (!tags.size) return;
+        const key = metaOrder.filter(t => tags.has(t)).join("+");
+        c.combos[key] = (c.combos[key] || 0) + 1;
+    });
+
+    const comboRank = key => key.split("+").map(t => metaOrder.indexOf(t));
+    const compareCombos = (a, b) => {
+        const ra = comboRank(a), rb = comboRank(b);
+        if (ra.length !== rb.length) return ra.length - rb.length;
+        for (let i = 0; i < ra.length; i++) if (ra[i] !== rb[i]) return ra[i] - rb[i];
+        return 0;
+    };
+
+    const list = document.createElement("ul");
+    difficulties.forEach(([id, name]) => {
+        const c = counts[id];
+        const li = document.createElement("li");
+        li.append(`${c.total}x `, colouredLabel("h2", id, name),
+            ` ${c.total === 1 ? "Challenge" : "Challenges"}`);
+        const keys = Object.keys(c.combos).sort(compareCombos);
+        if (keys.length) {
+            const sub = document.createElement("ul");
+            keys.forEach(key => {
+                const n = c.combos[key];
+                const tags = key.split("+");
+                const subLi = document.createElement("li");
+                subLi.append(`of which ${n} ${n === 1 ? "is" : "are"} `);
+                tags.forEach((t, i) => {
+                    if (i > 0) subLi.append(i === tags.length - 1 ? " and " : ", ");
+                    subLi.append(colouredLabel("h3", t, metaNames[t]));
+                });
+                sub.appendChild(subLi);
+            });
+            li.appendChild(sub);
+        }
+        list.appendChild(li);
+    });
+    target.replaceChildren(list);
+}
+
 waitForElements().then(() => {
 	addRewards();
     checkHidden();
@@ -334,4 +429,5 @@ waitForElements().then(() => {
 	handleMediaChange(mediaQuery);
 	mediaQuery.addListener(handleMediaChange);
 	renderAtlas();
+	renderDifficultyBreakdown();
 });

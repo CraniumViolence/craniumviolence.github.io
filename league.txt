@@ -35,6 +35,12 @@ Log in, press the fork button, make the edits you want to in the editor, hit com
 
 [.semismoller]Realistically speaking, the site only exists because the common guide widely in use was briefly behind a Patreon on a league start and the idea was anathema to me and the moral impetus has long since ended. 
 
+#### Difficulty Breakdown
+
+The challenges are pretty easy this time around, nothing is overly grindy and nothing is overly hard. The most challenging challenge in general are the Grim Fates being used on Uber Bosses but the numerical requirements are low.
+
+<div id="difficulty-breakdown"></div>
+
 #### Extra Information
 [.note]Things marked as <span id="#buyable">Buyable</span> are things you can feasibly buy on service providing hubs or find on `/trade 820` or `/global 820`, no specific service offering hubs are being shilled here you can google them easily enough.
 
@@ -77,6 +83,19 @@ Create a centered atlas tree element with two nodes highlighted.
 180 degrees rotation, 50% distance in red
 90 degrees rotation, 50% distance in green
 45 degrees rotation, 80% distance in blue
+
+
+Headers with styling:
+## Very Easy
+## Easy
+## Average
+## Hard
+## Very Hard
+### Grind Heavy
+### New Content
+### Buyable
+### Partially Buyable
+### Luck Based
 -->
 
 # 1 Beginner's Basics
@@ -95,6 +114,7 @@ Dirt cheap orbs you should get during campaign.
 # 2 Witch's Wishes
 <div id="ch-2" markdown="2">
 ## Very Easy
+### New Content
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following Covens of Umbra encounters.
 - [.ggg]Kill a Unique Monster empowered by at least 1 Fate
@@ -137,6 +157,8 @@ Simply complete half the campaign.
 # 5 Gifted Gods
 <div id="ch-5" markdown="5">
 ## Very Easy
+### Missable
+### New Content
 <h2 class="req">All required</h2>
 [.ggg]Defeat each of the following Pantheon Gods while they are empowered by at least 1 Fate.
 - [.ggg]Tukohama
@@ -166,6 +188,7 @@ Because the league mechanic stops spawning if you get too high level compared to
 # 6 Equipped Effigy
 <div id="ch-6" markdown="6">
 ## Very Easy
+### New Content
 [.ggg]Have a Viscera item placed in every slot on your Wickerman.
 
 Simply interact with the new league mechanic and get items off bosses.
@@ -193,26 +216,33 @@ Simply complete the second half of the campaign.
 <h2 class="req">5 of 8 required</h2>
 [.ggg]Complete any five of the following League Mechanic encounters the specified number of times.
 - [.ggg]Complete Ore Deposits x30
-	- [.com]Get Strongboxes chance on the Atlas Tree
+	- [.com]Get `Ore Deposits Chance` on the Atlas Tree
 - [.ggg]Open Strongboxes x30
-	- [.com]Get Strongboxes chance on the Atlas Tree
+	- [.com]Get `Surpassing Chance of Strongboxes` on the Atlas Tree
 - [.ggg]Defeat Mercenaries x30
-	- [.com]Get rogue exile chance on the Atlas Tree
+	- [.com]Get `Mercenary Inhabited Chance` on the Atlas Tree
 - [.ggg]Defeat Rogue Exiles x30
-	- [.com]Get rogue exile chance on the Atlas Tree
+	- [.com]Get `Surpassing Chance of Rogue Exiles` on the Atlas Tree
 - [.ggg]Activate Shrines x30
-	- [.com]Get shrine chance on the Atlas Tree
+	- [.com]Get `Surpassing Chance of Shrines` on the Atlas Tree
 - [.ggg]Defeat Monsters with Essences x30
-	- [.com]Get essence chance on the Atlas Tree
+	- [.com]Get `Surpassing Chance of Imprisoned Monsters` on the Atlas Tree
 - [.ggg]Defeat Possessed Monsters x30
 	- [.com]Take `Unrelenting Torment` on the Atlas Tree
 	- [.com]Take `Exiled Will` on the Atlas Tree paired with Exile nodes
 - [.ggg]Have Sacred Flora spread Wisps x30
-	- [.com]This is just doing the new strongboxes I mean harvest. You can get it on the atlas tree.
+	- [.com]This is just doing the new strongboxes I mean harvest
+	- [.com]Take `Surpassing Chance of Sacred Flora` on the atlas tree
 	
 These are the 'sub-content' that you cannot force with threads. This makes each incredibly straight forward as you just use the tree.
 
 Losing scarabs for these makes them bland and uninteresting. Enjoy up to five compulsory respecs I suppose.
+
+Surpassing Chance adds additional spawns if you go over 100%. For example with 200% you get 2 a map, if you get 150% you get 1 and a chance of a second each map.
+
+Normal Chance is a fixed rate that caps at 100%.
+
+Increased Chance takes the base rate of something (usualy around 8%) and increases it.
 </div>
 
 # 9 Atlas Authorities
@@ -251,7 +281,7 @@ Losing scarabs for these makes them bland and uninteresting. Enjoy up to five co
 	- [.com]p{Blight Thread}
 	- [.com]Multiple per map
 
-There's no specific tier requirement for these nor are they even stated to be on maps.
+There's no specific tier requirement for these nor are they even stated to be required to occur on maps.
 
 You can get every one of them by using threads for the mechanics.
 </div>
@@ -259,6 +289,7 @@ You can get every one of them by using threads for the mechanics.
 # 10 Foretold Foes
 <div id="ch-10" markdown="10">
 ## Very Easy
+### New Content
 <h2 class="req">50 required</h2>
 [.ggg]Defeat 50 Fate empowered Unique Map Bosses.
 
@@ -358,6 +389,7 @@ Nothing terribly grind intensive if you just want the baseline five. Area level 
 # 14 Sigil Slayer
 <div id="ch-14" markdown="14">
 ## Easy
+### New Content
 <h2 class="req">400 required</h2>
 [.ggg]Kill Unique Map Bosses in Red Tier Maps with a total number of 400 invoked Fate tiers applied to them.
 
@@ -406,7 +438,9 @@ Moderate grind but naturally self-completing.
 - [.ggg]Mirror of Kalandra
 	- [.com]r{Mirror of Kalandra}
 
-Nothing notable, you can ignore the last 5 entirely which will be the highest cost items.
+Nothing notable, you can ignore the last 5 entirely which will be the highest cost items. 
+
+Not tagging this as a currency sink because it realistically ends up under a divine orb just by virtue of the items involved.
 </div>
 
 # 16 Vital Voidstones
@@ -423,9 +457,13 @@ Just normal atlas progression, you'll have this before you start cleaning up cha
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following Ascendancy tasks.
 - [.ggg]Use the Ascendancy Device in the Labyrinth
+	- [.com]Act 3 Lab
 - [.ggg]Use the Ascendancy Device in the Cruel Labyrinth
+	- [.com]Act 7 Lab
 - [.ggg]Use the Ascendancy Device in the Merciless Labyrinth
+	- [.com]Act 10 Lab
 - [.ggg]Use the Ascendancy Device in the Eternal Labyrinth
+	- [.com]Epilogue / Mapping Lab
 - [.ggg]Gain a Bloodline Class
 	- [.com]The Trialmaster
 		- [.com]For the `Chaos Bloodline`, defeat `The Trialmaster` in any map of Area Level 81 or higher through Ultimatums
@@ -456,7 +494,7 @@ Just normal atlas progression, you'll have this before you start cleaning up cha
 		- [.com]For the `Breachlord Bloodline`, defeat `It That Was Tul` and `It That Was Esh` in a breach fortress
 		- [.com]b{Hivebrain Gland} forces this encounter to spawn.
 	- [.com]Saresh, of the Weeping Black
-		- [.com]John Shrine Belt Man himself on the p{The Black Barya}. I assume his is back anyway, I didn't actually check.
+		- [.com]John Shrine Belt Man himself on the p{The Black Barya}.
 	- [.com]Zorath
 		- [.com]Uses a set of new fragments from Abyssal Liches or Catarina
 		- [.com]b{Zorath's Eye of Malevolence}
@@ -477,6 +515,7 @@ Nothing complicated, just normal ascendancies and unlocking a bloodline.
 # 18 Promised Profits
 <div id="ch-18" markdown="18">
 ## Easy
+### New Content
 <h2 class="req">10 of 15 required</h2>
 [.ggg]Defeat Fate Empowered Bosses to receive any ten of the following types of reward the specified number of times.
 - [.ggg]Unique Item x30
@@ -499,21 +538,29 @@ There's various weighted versions of all of these except the last five for new U
 
 If you see one of them that need multiple copies to be invoked, you are always guaranteed enough in an area to complete the set.
 
+I have not checked interactions with double or triple fates. As the logic means the card is played in triplicate I'd assume each wold count as three but considering triple fates don't even drop things currently, anything is possible.
+
 Fairly grindy but not hugely so once you get going and just mindless completion as there's no area level requirements.
 </div>
 
 # 19 Dubious Divination
 <div id="ch-19" markdown="19">
 ## Very Easy
+### Currency Sink
 <h2 class="req">All required</h2>
 [.ggg]Complete each of the following Divination Card tasks.
 - [.ggg]Open Stacked Decks x100
 	- [.com]m{Stacked Deck}{x100}
 - [.ggg]Turn in Divination Card Sets x50
-	- [.com]m{Chaotic Disposition}{x100}
+	- [.com]m{Chaotic Disposition}{x50}
 
-Tedious. Open Stacked Decks as you find them and enable bad sets that are common in your filter. 
-Chaotic Disposition is an excellent stupid option that can often end up profitable. I'll add real suggestions later when there's enough on the market to work out what's truly a cheap dump option.
+Somewhat tedious. Open Stacked Decks as you find them and enable bad sets that are common in your filter. 
+
+Later league Chaotic Disposition is often an excellent stupid option that can often end up profitable.
+
+I'll (potentially) add real suggestions later when there's enough on the market to work out what's truly a cheap dump option.
+
+Despite the currency sink tag, it's very unlikely to end up truly expensive.
 </div>
 
 # 20 Peddler's Produce II
@@ -563,6 +610,7 @@ Mirages are always full maps now, this is both a very large buff and also incred
 # 22 Vulgar Viscera
 <div id="ch-22" markdown="22">
 ## Easy
+### New Content
 <h2 class="req">8 of 17 required</h2>
 [.ggg]Place any eight of the following Viscera on your Wickerman.
 - [.ggg]Minotaur Head
@@ -680,25 +728,6 @@ Atlas bosses Viscera. You can buy them on trade, farming them will be notably sl
 	- [.com]Get lucky and avoid having to deal with immortal characters
 	- [.com]Mines and Totems generally have the easiest time here
 	- [.com]You can buy completion but with it being 15/18 there's not a lot of point
-	
-- [.ggg]Vaults of Atziri
-- [.ggg]Maelström of Chaos
-- [.ggg]The Coward's Trial
-- [.ggg]Acton's Nightmare
-- [.ggg]Poorjoy's Asylum
-- [.ggg]Mao Kun
-- [.ggg]Oba's Cursed Trove
-- [.ggg]Olmec's Sanctum
-- [.ggg]Death and Taxes
-- [.ggg]Whakawairua Tuahu
-- [.ggg]The Vinktar Square
-- [.ggg]Caer Blaidd, Wolfpack's Den
-- [.ggg]The Putrid Cloister
-- [.ggg]Hallowed Ground
-- [.ggg]The Twilight Temple
-- [.ggg]Pillars of Arun
-- [.ggg]Doryani's Machinarium
-- [.ggg]Hall of the Grandmasters
 
 Normal unique map clearing. `Hall of Grandmasters` and `Doryani's Machinarium` are obvious skips with the 15 out of 18 requirement.
 </div>
@@ -706,10 +735,11 @@ Normal unique map clearing. `Hall of Grandmasters` and `Doryani's Machinarium` a
 # 24 Tangled Threads
 <div id="ch-24" markdown="24">
 ## Easy
+### New Content
 <h2 class="req">1000 required</h2>
 [.ggg]Complete Maps with 1000 Threads. Each Thread applied to Maps counts towards this Challenge.
 
-Moderate grind, max threads would be 42 maps and minimum 125. Pairs well with GGG for 8 of a kind maps.
+Moderate grind, max threads would be 42 maps and minimum 125. Pairs well with GGG for 8 of a kind maps but you are likely unable to do those on any run of the mill build.
 </div>
 
 # 25 Complicit Corruption
@@ -769,7 +799,8 @@ Nothing notable. Volatile Vaals and Double Corrupt are obvious skips. Divination
 
 # 26 Brilliant Branding
 <div id="ch-26" markdown="26">
-## Normal
+## Average
+### New Content
 <h2 class="req">10 of 20 required</h2>
 [.ggg]Defeat Map Bosses with any ten of the following Tier 3 Fates invoked while the Map is Tier 16 with at least 100% Atlas Drops.
 - [.ggg]Crowkeeper
@@ -793,12 +824,12 @@ Nothing notable. Volatile Vaals and Double Corrupt are obvious skips. Divination
 - [.ggg]Stormcaller
 - [.ggg]Tempestuous
 
-These are just the icons you see when selecting fates. Tier 3 ones have icons at the top left that look like three feathers. Single fates so you can presumably get multiple per map too.
+These are just the icons you see when selecting fates. Tier 3 ones have icons at the top left that look like three feathers. Tier 3 variants occur when you play two or three of the same named fate at the same time.
 </div>
 
 # 27 Cross Contamination
 <div id="ch-27" markdown="27">
-## Normal
+## Average
 <h2 class="req">6 of 10 required</h2>
 [.ggg]Complete any six of the following league content encounters.
 - [.ggg]Defeat a Rare Sacred Fauna fertilised by Ritual ground
@@ -882,16 +913,31 @@ Bloodlines bosses. Fair amount of flexibility in what you clear.
 
 # 29 Adjacent Anomalies
 <div id="ch-29" markdown="29">
-## Normal
+## Average
 <h2 class="req">30 required</h2>
 [.ggg]Complete a total of 30 Atlas Anomalies.
 
-Grindy, the new options to get them after shaped regions might be more viable (you can presumably awfully micromanage this and unspec before clearing the final shaped region's map, but the chance is probably just tied to the old logic that was used for vault rewards I imagine to discourage this).
+The tree has a few new options for these.
+- <span style="color:#2050FF">Raw Atlas Anomaly</span> chance at the bottom right
+- <span style="color:#2050FF">Raw Atlas Anomaly</span> chance at the top left
+	- Also comes with a node to swap the logic to be on shaped regions, at best you should probably just respec into it every time you are on the last map in a cloud
+- <span style="color:#FF8050">Betrayal Interrogations can spawn Syndicate Atlas Anomalies</span> at the bottom left
+
+<div class="center">
+<div class="atlas" data-dots="293,90,#2050FF,238,55,#FF8050,121,70,#2050FF"></div>
+</div>
+
+Slightly grindy if you don't do the Syndicate option. 
+
+The option to get them after shaped regions might be more viable than it sounds, I would expect chance to work the same as the old Vaults loot quality did (better quality rewards for each successful objective in a chain).
+- You could awfully micromanage it and respec to it before clearing the final shaped region's map
+- I would avoid this under the assumption that the clears only add the chance for spawns while you have the node taken, but who knows
 </div>
 
 # 30 Overpowering Omens
 <div id="ch-30" markdown="30">
 ## Hard
+### New Content
 <h2 class="req">12 of 17 required</h2>
 [.ggg]Defeat the final Map Bosses of any twelve of the following Rare Maps while they are Tier 16 with at least 100% Atlas Drops and empowered by a tier 3 Fate.
 - [.ggg]Maze of the Minotaur
@@ -915,11 +961,13 @@ Grindy, the new options to get them after shaped regions might be more viable (y
 Juiced endgame maps while using league mechanic. Nothing remarkable and is purely based on mods on the maps and how you are scaling them with Modifier Effect on the tree.
 
 Probably actually closer to normal but let's not make people too excited about it being free.
+
+Tier 3 Fates are neither rare nor super common so actually getting the fate composition to complete these might be more awkward than the rest of the components are.
 </div>
 
 # 31 Atlas Adventure
 <div id="ch-31" markdown="31">
-## Normal
+## Average
 <h2 class="req">25000 required</h2>
 [.ggg]Reach a total of 25,000% Atlas Drops completing Maps.
 
@@ -942,16 +990,21 @@ Fairly grindy. You can use destructive play for Maven on a boss in something lik
 
 # 33 Amazingly Accomplished Atlas
 <div id="ch-33" markdown="33">
-## Normal
+## Average
+### Partially Buyable
 <h2 class="req">150 required</h2>
 [.ggg]Allocate all Atlas Passive Skill Points.
 
-Full atlas completion. Needs all invitations which might be annoying depending on build but is carry friendly.
+Full atlas completion, all invitations, all compulsory pinnacles and 10 unique maps.
+
+The invitations can be annoying depending on build, but it is carry friendly.
 </div>
 
 # 34 Astounding Augury
 <div id="ch-34" markdown="34">
-## Normal
+## Average
+### Buyable
+### New Content
 <h2 class="req">5 of 10 required</h2>
 [.ggg]Defeat any five of the following Pinnacle bosses with their Grim Fates invoked.
 - [.ggg]Sirus, Awakener of Worlds
@@ -967,7 +1020,7 @@ Full atlas completion. Needs all invitations which might be annoying depending o
 
 Fate juiced Pinnacle Bosses. You need to find the Grim Fates in maps which might take a bit but it is only five. 
 
-Carry friendly.
+Carry friendly. I am assuming that these count even if you join the area of someone else doing them but I have not verified it. 
 </div>
 
 # 35 Zana's Zealotry
@@ -981,7 +1034,8 @@ Carry friendly.
 
 # 36 Woven Wonders
 <div id="ch-36" markdown="36">
-## Normal
+## Average
+### New Content
 <h2 class="req">5 of 10 required</h2>
 [.ggg]Complete Tier 14 or higher Rare Maps while they have at least 100% Atlas Drops and 8 Threads of a single type applied from any five of the following types of Threads the specified number of times.
 - [.ggg]Ritual x10
@@ -1000,7 +1054,7 @@ This is just T14 maps that are rolled about equivalent to a decent 8-mod map fro
 
 # 37 Nightmarish Nests
 <div id="ch-37" markdown="37">
-## Normal
+## Average
 <h2 class="req">3 of 5 required</h2>
 [.ggg]Complete any three of the following Nightmare Maps the specified number of times.
 - [.ggg]Abomination x5
@@ -1015,6 +1069,7 @@ Nightmare maps. There's no scarabs to remove prefixes so you have to deal with t
 # 38 Deceptive Darktongue Deals
 <div id="ch-38" markdown="38">
 ## Difficulty Not Yet Rated
+### New Content
 <h2 class="req">3 of 4 required</h2>
 [.ggg]Defeat The Coven Queen in any three of the specified ways.
 - [.ggg]Without being affected by more than 4 stacks of Corpserot
@@ -1028,6 +1083,8 @@ New boss conditional. No idea, I'll add full details later, or someone can make 
 # 39 Ultimate Undertaking
 <div id="ch-39" markdown="39">
 ## Hard
+### Buyable
+### New Content
 <h2 class="req">3 of 10 required</h2>
 [.ggg]Defeat any three of the following Pinnacle Boss Encounters while the area is level 85 and their Grim Fates are invoked.
 - [.ggg]Sirus, Awakener of Worlds
@@ -1043,12 +1100,14 @@ New boss conditional. No idea, I'll add full details later, or someone can make 
 
 Grim Fate juiced Uber Pinnacle Bosses. You need to find the Grim Fates in maps which might take a bit but it is only three. 
 
-It is what it is. 
+It is what it is.
+
+Carry friendly. I am assuming that these count even if you join the area of someone else doing them but I have not verified it. 
 </div>
 
 # 40 Grand Goal Grind
 <div id="ch-40" markdown="40">
-## Normal
+## Average
 <h2 class="req">4 of 6 required</h2>
 [.ggg]Complete any four of these encounters the specified number of times.
 - [.ggg]Reach level 100

@@ -137,9 +137,16 @@ h2[id^="veryhard"] {
 	color: #D81400
 }
 
+h3[id^="missable"] {
+	color: #D80000;
+	font-size: 75%;
+	margin: 2px 0px;
+}
+
 h3[id^="grindheavy"] {
 	color: #00C6D8;
 	font-size: 75%;
+	margin: 2px 0px;
 }
 
 h3[id^="partiallybuyable"],
