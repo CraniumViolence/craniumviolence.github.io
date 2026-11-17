@@ -13,19 +13,27 @@ Mechanics related to the current league or new mechanics in general will natural
 
 The guide is actively edited alongside the league progressing and people leaving feedback.
 
-#### Copium of Umbra
+[.centeritalic]If you want to see my thoughts on the league for some reason, <a href="#" onclick="$('.lthoughts').fadeToggle(600);return false;">you can click here</a>. 
 
-<span style="color:rgb(255, 240, 240);">League's feeling more like the **Copium of Umbra** league for me and the tank is actively running on empty!</span>
+<h4 class="lthoughts">Copium of Umbra</h4>
 
-<span style="color:rgb(255, 240, 240);">The actual Covens league mechanic is OK while the endgame overhaul is utterly, disastrously, terribly poor and completely at odds with how I play(ed) Path of Exile.
+[.lthoughts]<span style="color:rgb(255, 240, 240);">League's feeling more like the **Copium of Umbra** league for me and the tank is actively running on empty!</span>
 
-<span style="color:rgb(255, 240, 240);">I am absolutely appalled that the rework has functionally removed all deterministic grinds and player agency for the atlas while also continuing to ensure all mechanics are circles or strongboxes while also watering down anything they left behind.</span>
+[.lthoughts]<span style="color:rgb(255, 240, 240);">The actual Covens league mechanic is OK while the endgame overhaul is utterly, disastrously, terribly poor and completely at odds with how I play(ed) Path of Exile.
 
-<span style="color:rgb(255, 240, 240);">I have no idea how anyone involved with it decided to ship it outside of pure momentum blinding them and feeling like an 'endgame rework' was needed at any cost despite it making everything worse.</span>
+[.lthoughts]<span style="color:rgb(255, 240, 240);">I am absolutely appalled that the rework has functionally removed all deterministic grinds and player agency for the atlas while also continuing to ensure all mechanics are circles or strongboxes while also watering down anything they left behind.</span>
 
-<span style="color:rgb(255, 240, 240);">The game was in perhaps the best state it ever had been during mercenaries, how on earth is this where we ended up?</span>
+[.lthoughts]<span style="color:rgb(255, 240, 240);">I have no idea how anyone involved with it decided to ship it outside of pure momentum blinding them and feeling like an 'endgame rework' was needed at any cost despite it making everything worse.</span>
 
-Anyway, unless they somehow turn everything around, real updates from now will have to be pull requests. Please [feel free to submit things here](https://github.com/CraniumViolence/craniumviolence.github.io/edit/main/league.txt) to make the page better. Log in, press the fork button, make the edits you want to in the editor, hit commit and then go through propose changes.
+[.lthoughts]<span style="color:rgb(255, 240, 240);">The game was in perhaps the best state it ever had been during mercenaries, how on earth is this where we ended up?</span>
+
+Anyway, I've stopped playing so unless they somehow turn everything around, real updates from now will have to be pull requests. Apologies for it being a bit lacking this time.
+
+Please [feel free to submit things here](https://github.com/CraniumViolence/craniumviolence.github.io/edit/main/league.txt) to make the page better. 
+
+Log in, press the fork button, make the edits you want to in the editor, hit commit and then go through propose changes.
+
+[.semismoller]Realistically speaking, the site only exists because the common guide widely in use was briefly behind a Patreon on a league start and the idea was anathema to me and the moral impetus has long since ended. 
 
 #### Extra Information
 [.note]Things marked as <span id="#buyable">Buyable</span> are things you can feasibly buy on service providing hubs or find on `/trade 820` or `/global 820`, no specific service offering hubs are being shilled here you can google them easily enough.
