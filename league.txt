@@ -1,4 +1,4 @@
-## You can toggle navigation with the `☰` at the top left
+## Toggle navigation with the <code style="color:#AAA;">☰</code> button at the top left
 [.smolcenter]Challenges you haven't marked as completed are red while ones you have are green
 
 # Covens League Challenges

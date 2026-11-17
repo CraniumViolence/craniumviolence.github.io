@@ -21,7 +21,7 @@
 
 @media only screen and (hover: none) and (pointer: coarse){
 	:root {
-		--toggle-left: 94vw;
+		--toggle-left: 89vw;
 		--sidebar-left: 0px;
 	}
 
@@ -183,12 +183,119 @@ li img {
 	height: 100vh;
 	display: var(--sidebar-display);
 	max-height: 100vh;
-	overflow-y: scroll;
+	overflow-y: auto;
 	padding-right: 10px;
 	width: 370px;
 	transition: all 0.2s linear;
 	padding-bottom: 25px;
+	box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.65);
 	z-index: 1;
+}
+
+#navigation::-webkit-scrollbar {
+	width: 8px;
+	margin-right:2px;
+}
+
+#navigation::-webkit-scrollbar-track {
+	background: transparent;
+}
+
+#navigation::-webkit-scrollbar-thumb {
+	background: #111;
+	border-radius: 4px;
+}
+
+@supports not selector(::-webkit-scrollbar) {
+	#navigation {
+		scrollbar-width: thin;
+		scrollbar-color: #111 transparent;
+	}
+}
+
+/* sidebar search */
+#navsearch {
+	position: sticky;
+	top: 0;
+	z-index: 2;
+	margin: 0 -10px 0 0;
+	padding: 8px 10px 8px 12px;
+}
+
+#navsearch-wrap {
+	position: relative;
+}
+
+#navsearch input {
+	width: 100%;
+	padding: 4px 24px 4px 8px;
+	font-size: 12px;
+	color: #ddd;
+	background: #111;
+	border: 1px solid #444;
+	outline: none;
+	text-shadow: none;
+}
+
+#navsearch input::-webkit-search-cancel-button {
+	-webkit-appearance: none;
+	display: none;
+}
+
+#navsearch input:focus {
+	border-color: #EE983C;
+}
+
+#navsearch input::placeholder {
+	color: #777;
+}
+
+#navsearch-clear {
+	display: none;
+	position: absolute;
+	right: 4px;
+	top: 50%;
+	transform: translateY(-50%);
+	width: 18px;
+	height: 18px;
+	padding: 0;
+	border: none;
+	background: transparent;
+	color: #999;
+	font-size: 16px;
+	line-height: 18px;
+	cursor: pointer;
+	text-shadow: none;
+}
+
+#navsearch-clear:hover {
+	color: #EE983C;
+}
+
+#navsearch.has-text #navsearch-clear {
+	display: block;
+}
+
+#navigation li.search-hidden {
+	display: none !important;
+}
+
+#navigation ul {
+	margin-top: 0px;
+}
+
+[data-sidebar="visible"] #navigation {
+	box-shadow: none;
+}
+
+/* the gap after the last challenge lives on the next item, so it survives
+   the last challenge being hidden by search or "Fully Hide Complete" */
+#navigation li.pad:not(:first-child) {
+	margin-bottom: 0;
+}
+
+#navigation li.pad:not(:first-child) + li {
+	margin-top: 8px;
 }
 
 #toggle {
@@ -197,15 +304,32 @@ li img {
 	top: 5px;
 	cursor: pointer;
 	transition: all 0.2s linear;
-	font-size: 30px;
-	padding-bottom: 20px;
-	color: #ffff00;
-	text-shadow: 2px 2px 4px rgb(0, 0, 0, 1);
+	width: 34px;
+	height: 30px;
+	padding: 7px 7px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	background: #1f1f1f;
+	border: 1px solid #666;
+	box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.65);
 	z-index: 50;
 }
 
+#toggle span {
+	display: block;
+	height: 2px;
+	width: 100%;
+	background: #fff;
+}
+
 #toggle:hover {
-	color: #FFE28B
+	border-color: #AAA;
+}
+
+#toggle:focus-visible {
+	outline: 2px solid #EE983C;
+	outline-offset: 1px;
 }
 
 #togglecomplete {
@@ -636,8 +760,16 @@ transform:scale(2,1);
 		z-index:100;
 	}
 	#toggle {
-		font-size:5vw;
+		width: 9vw;
+		height: 8vw;
+		padding: 1.8vw;
 		z-index:101;
+	}
+	#toggle span {
+		height: 0.6vw;
+	}
+	#navsearch input {
+		font-size: 3.5vw;
 	}
 }
 

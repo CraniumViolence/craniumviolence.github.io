@@ -53,6 +53,7 @@ function GetLeague(league) {
         url: league + '-toc.txt',
         success: function(data) {
             document.getElementById("navigation").innerHTML = converter.makeHtml(data);
+            addNavSearch();
         }
     });
     $.ajax({
@@ -80,6 +81,58 @@ function switchSidebar(e) {
         localStorage.setItem("data-sidebar", "visible");
         document.documentElement.setAttribute('data-sidebar', 'visible');
     }
+}
+
+function isSidebarOpen() {
+    return document.documentElement.getAttribute('data-sidebar') === 'hidden';
+}
+
+document.addEventListener('click', function(e) {
+    if (!isSidebarOpen()) return;
+    if (e.target.closest('#navigation, #toggle')) return;
+    e.preventDefault();
+    e.stopPropagation();
+    e.stopImmediatePropagation();
+    switchSidebar();
+}, true);
+
+function addNavSearch() {
+    const nav = document.getElementById("navigation");
+    if (document.getElementById("navsearch")) return;
+    const wrap = document.createElement("div");
+    wrap.id = "navsearch";
+    wrap.innerHTML = '<div id="navsearch-wrap">' +
+        '<input type="search" id="navsearch-input" placeholder="Search..." autocomplete="off" spellcheck="false" aria-label="Search navigation">' +
+        '<button type="button" id="navsearch-clear" aria-label="Clear search" title="Clear">&times;</button>' +
+        '</div>';
+    nav.prepend(wrap);
+    // the 40 challenge entries follow the section header; only these are searched
+    $("#navigation ul").first().children("li").slice(1, 41).addClass("challenge");
+    const input = wrap.querySelector("input");
+    input.addEventListener("input", filterNav);
+    input.addEventListener("keydown", function(e) {
+        if (e.key === "Escape") clearNavSearch();
+    });
+    wrap.querySelector("#navsearch-clear").addEventListener("click", clearNavSearch);
+}
+
+function clearNavSearch() {
+    const input = document.getElementById("navsearch-input");
+    if (!input) return;
+    input.value = "";
+    filterNav();
+    input.focus();
+}
+
+function filterNav() {
+    const input = document.getElementById("navsearch-input");
+    if (!input) return;
+    const term = input.value.trim().toLowerCase();
+    document.getElementById("navsearch").classList.toggle("has-text", input.value.length > 0);
+    $("#navigation li.challenge").each(function() {
+        const hide = term !== "" && !this.textContent.toLowerCase().includes(term);
+        this.classList.toggle("search-hidden", hide);
+    });
 }
 
 function getSidebar() {
@@ -157,6 +210,7 @@ function updateChallengeCount() {
 			$(this).addClass("li-i").removeClass("li-c");
 		}
 	});
+    filterNav();
 }
 
 function addCheckboxes() {
