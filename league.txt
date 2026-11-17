@@ -33,13 +33,15 @@ Please [feel free to submit things here](https://github.com/CraniumViolence/cran
 
 Log in, press the fork button, make the edits you want to in the editor, hit commit and then go through propose changes.
 
-[.semismoller]Realistically speaking, the site only exists because the common guide widely in use was briefly behind a Patreon on a league start and the idea was anathema to me and the moral impetus has long since ended. 
+---
 
 #### Difficulty Breakdown
 
-The challenges are pretty easy this time around, nothing is overly grindy and nothing is overly hard. The most challenging challenge in general are the Grim Fates being used on Uber Bosses but the numerical requirements are low.
+The challenges are pretty easy this time around, nothing is overly grindy and nothing is overly hard. The most challenging challenge in general is for Grim Fates being used on Uber Bosses but the numerical requirements are low.
 
 <div id="difficulty-breakdown"></div>
+
+---
 
 #### Extra Information
 [.note]Things marked as <span id="#buyable">Buyable</span> are things you can feasibly buy on service providing hubs or find on `/trade 820` or `/global 820`, no specific service offering hubs are being shilled here you can google them easily enough.
@@ -1070,6 +1072,7 @@ Nightmare maps. There's no scarabs to remove prefixes so you have to deal with t
 <div id="ch-38" markdown="38">
 ## Difficulty Not Yet Rated
 ### New Content
+### Conditional Boss
 <h2 class="req">3 of 4 required</h2>
 [.ggg]Defeat The Coven Queen in any three of the specified ways.
 - [.ggg]Without being affected by more than 4 stacks of Corpserot

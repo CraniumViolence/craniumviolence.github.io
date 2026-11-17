@@ -331,7 +331,7 @@ const difficulties = [
     ["average", "Average"],
     ["hard", "Hard"],
     ["veryhard", "Very Hard"],
-    ["difficultynotyetrated", "lacking a Difficulty Rating"],
+    ["difficultynotyetrated", "with Difficulty Not Yet Rated"],
 ];
 
 const metaTags = [
@@ -342,6 +342,7 @@ const metaTags = [
     ["luckbased", "Luck Based"],
     ["missable", "Missable"],
 	["currencysink","a Currency Sink"],
+	["conditionalboss","a Conditional Boss Clear"],
 ];
 
 function headingColour(tag, id) {
