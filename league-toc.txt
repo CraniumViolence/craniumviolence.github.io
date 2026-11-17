@@ -1,4 +1,4 @@
-- [.pad][Allflame Challenges](#allflameleaguechallenges)
+- [.pad][Covens Challenges](#covensleaguechallenges)
 - [1 Beginner's Basics](#1beginnersbasics)
 - [2 Witch's Wishes](#2witchswishes)
 - [3 Peddler's Produce I](#3peddlersproducei)
