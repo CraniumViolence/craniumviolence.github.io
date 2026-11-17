@@ -414,6 +414,8 @@ h4 {
 	font-size: 125%;
 }
 
+h4.prthoughts,
+h4.egthoughts,
 h4.lthoughts{
 	font-size:140%;
 	margin:16px 0px;
@@ -515,6 +517,8 @@ li.final {
 	font-size: 90%;
 }
 
+.prthoughts,
+.egthoughts,
 .lthoughts{
 	display:none;
 }
