@@ -38,7 +38,7 @@ Log in, press the fork button, make the edits you want to in the editor, hit com
 #### Extra Information
 [.note]Things marked as <span id="#buyable">Buyable</span> are things you can feasibly buy on service providing hubs or find on `/trade 820` or `/global 820`, no specific service offering hubs are being shilled here you can google them easily enough.
 
-[.note]Coloured and isolated prices are dynamic and updated <strike>roughly hourly</strike> whenever GitHub lets it happen using data from [poe.ninja](https://poe.ninja/), last updated <span class="time">-</span>.
+[.note]Coloured and isolated prices are dynamic and updated roughly hourly using data from [poe.ninja](https://poe.ninja/), last updated <span class="time">-</span>.
 
 [.note]Prices that are a more vivid purple are the cheapest option within that challenge section.
 
