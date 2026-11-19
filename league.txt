@@ -159,32 +159,39 @@ Simply complete half the campaign.
 # 5 Gifted Gods
 <div id="ch-5" markdown="5">
 ## Very Easy
-### Missable
 ### New Content
 <h2 class="req">All required</h2>
-[.ggg]Defeat each of the following Pantheon Gods while they are empowered by at least 1 Fate.
+[.ggg]Defeat each of the following Pantheon Gods or their Map equivalents while they are empowered by at least 1 Fate.
 - [.ggg]Tukohama
 	- [.com]Act 6, The Karui Fortress
+	- [.com]`Tahsin, Warmaker` in `Siege` Maps
 - [.ggg]Abberath
 	- [.com]Act 6, Prisoner's Gate
+	- [.com]`Mephod, the Earth Scorcher` in `Summit` Maps
 - [.ggg]Ryslatha
 	- [.com]Act 6, The Wetlands
+	- [.com]`Gorulis, Will-Thief` in `Infested Valley` Maps
 - [.ggg]Ralakesh
 	- [.com]Act 7, The Ashen Fields
+	- [.com]`Drek, Apex Hunter` in `Fields` Maps
 - [.ggg]Gruthkul
 	- [.com]Act 7, The Dread Thicket
+	- [.com]`Erebix, Light's Bane` in `Cemetery` Maps
 - [.ggg]Yugul
 	- [.com]Act 8, The High Gardens
+	- [.com]`Varhesh, Shimmering Aberration` in `Terrace` Maps
 - [.ggg]Shakari
 	- [.com]Act 9, The Oasis
+	- [.com]`Terror of the Infinite Drifts` in `Desert Spring` Maps
 - [.ggg]Garukhan
 	- [.com]Act 9, The Quarry
+	- [.com]`Stalker of the Endless Dunes` in `Dig` Maps
 
 This is slightly more complex than usual, interact with the league mechanic while doing the non-major pantheon bosses to give them fates. 
 
 I am assuming this is a guaranteed interaction, but you might need to run areas a couple of times worst case.
 
-Because the league mechanic stops spawning if you get too high level compared to zones, it is entirely possible to miss this if you skipped the league mechanic which will need a second run of the campaign.
+<strike>Because the league mechanic stops spawning if you get too high level compared to zones, it is entirely possible to miss this if you skipped the league mechanic which will need a second run of the campaign.</strike> Complaining worked and now this includes the equivalent bosses as map variants!
 </div>
 
 # 6 Equipped Effigy
@@ -543,6 +550,8 @@ If you see one of them that need multiple copies to be invoked, you are always g
 I have not checked interactions with double or triple fates. As the logic means the card is played in triplicate I'd assume each wold count as three but considering triple fates don't even drop things currently, anything is possible.
 
 Fairly grindy but not hugely so once you get going and just mindless completion as there's no area level requirements.
+
+3.30.0c added a large number of single guaranteed item variants of modifiers, I am no longer player so I am not sure they count towards 'Currency' or 'Gems' respectively!
 </div>
 
 # 19 Dubious Divination
