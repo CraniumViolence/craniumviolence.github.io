@@ -1031,6 +1031,22 @@ The invitations can be annoying depending on build, but it is carry friendly.
 
 Fate juiced Pinnacle Bosses. You need to find the Grim Fates in maps which might take a bit but it is only five. 
 
+Supposedly, the Grim Fates you drop are biased based on your current map's quadrant. Completely speculative, not verified, here anyway.
+- Top Left
+	- The Incarnation of Dread
+	- The Incarnation of Fear
+	- The Incarnation of Neglect
+- Top Right
+	- The Shaper
+	- The Elder
+- Bottom Right
+	- The Maven
+	- The Sirus Die Beam
+	- The Cortex Boss (High Templar Venarius)
+- Bottom Left
+	- The Eater of Worlds
+	- The Searing Exarch
+
 Carry friendly. I am assuming that these count even if you join the area of someone else doing them but I have not verified it. 
 </div>
 
