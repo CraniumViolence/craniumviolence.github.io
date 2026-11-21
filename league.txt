@@ -607,15 +607,29 @@ Completely normal vendor recipe stuff.
 <h2 class="req">3 of 6 required</h2>
 [.ggg]Complete any three of the following Mirage Encounters.
 - [.ggg]Choose Wishes x30
+	- [.com]Functionally just 30 maps with mirages
+	- [.com]Force with map mods (only if using chaos orbs or new originator exalt)
+	- [.com]Up chances on the Atlas Tree from the base chance of probably around 8%
 - [.ggg]Choose Wishes with Sigils of Navira x10
+	- [.com]Blue choices
+	- [.com]The icon is a Blue Water Jug
 - [.ggg]Choose Wishes with Sigils of Ruzhan x10
+	- [.com]Red Choices
+	- [.com]The icon is a Red Sword	
 - [.ggg]Choose Wishes with Sigils of Kelari x10
+	- [.com]White Choices
+	- [.com]The icon is a White Dagger
 - [.ggg]Defeat Map Bosses in Miraged Areas x50
+	- [.com]Run a map like City Square whenever you have a miraged map to make this lower than 50 map bosses
+	- [.com]Maven's Destructive play might also count
 - [.ggg]Defeat Saresh, of the Weeping Black
+	- [.com]Find or buy p{The Black Barya} and run it on the atlas at the bottom left
 
 Roll or buy maps to have Mirages. Max out the chance in atlas.
 
-Mirages are always full maps now, this is both a very large buff and also incredibly tedious.
+Mirages are always full maps now, this is both a very large buff and also incredibly tedious. Don't press portal if you don't want to go back to the literal portal, you can't just make a new one to leave!
+
+GGG should really make them work like old Zana maps used to and just be a full new instance but with bad chests and sand effects everywhere.
 </div>
 
 # 22 Vulgar Viscera
@@ -896,7 +910,7 @@ You should take "do threads" as implicitly suggesting you also spec into the thr
 	- [.com]For the `Lycia Bloodline`, defeat `Lycia, Herald of the Scourge` in the `Forbidden Sanctum`
 		- [.com]This is just completing a `Forbidden Tome`, doesn't seem to immediately have an area level requirement.
 - [.ggg]Farrul
-	- [.com]For the `Farrul Bloodline`, defeat `Farrul, First of the Plains` in the Menagerie by using a `Farric Tiger Alpha` to open a portal to his fight
+	- [.com]For the `Farrul Bloodline`, defeat b{Farrul, First of the Plains} in the Menagerie by using a `Farric Tiger Alpha` to open a portal to his fight
 - [.ggg]Simulacrum
 	- [.com]For the `Delirious Bloodline` by completing a b{Simulacrum}
 		- [.com]This is all 15 waves, this is actually rather hard for the vast majority of builds. You might want a carry.
