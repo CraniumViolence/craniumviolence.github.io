@@ -1142,18 +1142,19 @@ New boss conditional. No idea, I'll add full details later, or someone can make 
 
 Grim Fate juiced Uber Pinnacle Bosses. You need to find the Grim Fates in maps which might take a bit but it is only three. 
 
-Supposedly, the Grim Fates you drop are biased based on your current map's quadrant. Completely speculative, not verified, here anyway.
+Supposedly, the Grim Fates you drop are biased based on your current map's quadrant. Completely speculative, semi verified, here anyway.
 - Top Left
 	- The Incarnation of Dread
 	- The Incarnation of Fear
 	- The Incarnation of Neglect
 - Top Right
 	- The Shaper
-	- The Elder
+	- The Elder (normal version only)
+	- Uber Elder
+	- The Cortex Boss (High Templar Venarius)
 - Bottom Right
 	- The Maven
 	- The Sirus Die Beam
-	- The Cortex Boss (High Templar Venarius)
 - Bottom Left
 	- The Eater of Worlds
 	- The Searing Exarch
@@ -1190,6 +1191,7 @@ Carry friendly. I am assuming that these count even if you join the area of some
 	- [.com]Assuming you do all three it's 50 maps
 	- [.com]`Blight`, `Ultimatum` and `Incursion` can be completely ignored on every map if you don't actually care about the mechanic
 - [.ggg]Defeat Level 83 or higher Rare monsters with at least 6 modifiers x100
+	- [Valdo maps with +3 mods](https://www.pathofexile.com/trade/search/Covens/H4sIAAAAAAAACoWOywrCMBREf0VmHaS1puL9B7dupMi1SSEQk9CkooT8u8THyoXbOcycyYiJ0xJBGT4k4x0IUY_LzBerUQTSI2gQjmyVXx04QLwqEXTKX8hOQWAyNun5DYwCQd-DNaNJ61o4b6RstrKXsoPAje2iq_RqHKgrAsrEqlSgiW3UZfiNRP7naJu93PWybXrUgc895xPKUJ52piP97AAAAA)
 	- [.com]Bog standard rare murder that needs an Atlas Tree point and T16.5s or Nightmare Maps
 		- [.com]`Anomie` on the Atlas Tree that adds 1 modifier to rares
 		- [.com]`T16.5` and `Nightmare Maps` have mods that adds 1 modifier to rares
