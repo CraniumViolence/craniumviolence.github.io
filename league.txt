@@ -1120,7 +1120,8 @@ Nightmare maps. There's no scarabs to remove prefixes so you have to deal with t
 - [.ggg]Without being hit by Crowstorm Vortex
 - [.ggg]Without being hit by Blackfire Detonation
 
-New boss conditional. No idea, I'll add full details later, or someone can make a pull request if I don't!
+New boss conditional. [.com]b{Cursed Poppet} fragment required to fight boss.
+I'll add full details later, or someone can make a pull request if I don't!
 </div>
 
 # 39 Ultimate Undertaking
@@ -1149,9 +1150,7 @@ Supposedly, the Grim Fates you drop are biased based on your current map's quadr
 	- The Incarnation of Fear
 	- The Incarnation of Neglect
 - Top Right
-	- The Shaper
-	- The Elder (normal version only)
-	- Uber Elder
+	- The ShaperDeceptive
 	- The Cortex Boss (High Templar Venarius)
 - Bottom Right
 	- The Maven
