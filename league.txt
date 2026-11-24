@@ -1120,7 +1120,8 @@ Nightmare maps. There's no scarabs to remove prefixes so you have to deal with t
 - [.ggg]Without being hit by Crowstorm Vortex
 - [.ggg]Without being hit by Blackfire Detonation
 
-New boss conditional. [.com]b{Cursed Poppet} fragment required to fight boss.
+New boss conditional. A b{Cursed Poppet} is required to enter the boss fight.
+
 I'll add full details later, or someone can make a pull request if I don't!
 </div>
 
