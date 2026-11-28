@@ -765,6 +765,8 @@ Normal unique map clearing. `Hall of Grandmasters` and `Doryani's Machinarium` a
 [.ggg]Complete Maps with 1000 Threads. Each Thread applied to Maps counts towards this Challenge.
 
 Moderate grind, max threads would be 42 maps and minimum 125. Pairs well with GGG for 8 of a kind maps but you are likely unable to do those on any run of the mill build.
+
+These are just map completions, you do not need to interact with or clear the thread's mechanics.
 </div>
 
 # 25 Complicit Corruption
@@ -1092,6 +1094,8 @@ Carry friendly. I am assuming that these count even if you join the area of some
 - [.ggg]Abyss x10
 
 This is just T14 maps that are rolled about equivalent to a decent 8-mod map from previous leagues. Threads can be very rippy and it is suggested as a baseline you ignore Bestiary for this as several of the Thread modifiers are just 'spawns a 12 foot tall monster that desires you deeply and intimately in the most toxic of ways'.
+
+It is very important to note that the challenge is woreded as `Complete ... Maps` which means you can quite literally ignore the mechanic entirely, the requirement is just the map boss.
 </div>
 
 # 37 Nightmarish Nests
@@ -1192,7 +1196,7 @@ Carry friendly. I am assuming that these count even if you join the area of some
 - [.ggg]Complete Rare Tier 16 Maps with at least 8 applied Threads of any League Mechanic. Maps with multiple sets of 8 Threads will count multiple times towards this Challenge. x150
 	- [.com]Pair with the above probably
 	- [.com]Assuming you do all three it's 50 maps
-	- [.com]`Blight`, `Ultimatum` and `Incursion` can be completely ignored on every map if you don't actually care about the mechanic
+	- [.com]It's map completion so things like `Blight`, `Ultimatum` and `Incursion` can be completely ignored on every map if you don't actually care about the mechanic
 - [.ggg]Defeat Level 83 or higher Rare monsters with at least 6 modifiers x100
 	- [Valdo maps with +3 mods](https://www.pathofexile.com/trade/search/Covens/H4sIAAAAAAAACoWOywrCMBREf0VmHaS1puL9B7dupMi1SSEQk9CkooT8u8THyoXbOcycyYiJ0xJBGT4k4x0IUY_LzBerUQTSI2gQjmyVXx04QLwqEXTKX8hOQWAyNun5DYwCQd-DNaNJ61o4b6RstrKXsoPAje2iq_RqHKgrAsrEqlSgiW3UZfiNRP7naJu93PWybXrUgc895xPKUJ52piP97AAAAA)
 	- [.com]Bog standard rare murder that needs an Atlas Tree point and T16.5s or Nightmare Maps
